@@ -2,6 +2,22 @@
 
 Eine Auswertung der Saarländischen Leichtathletik Bestenliste mit Juptyer Notebooks.
 
+## Auswertunngen
+
+- [top10.ipynb](top10.ipynb) - Auswertung der Top 10 Platzierungen
+  - Bestenlistenpunkte pro Verein
+  - Bestenlistenpunkte pro Jahrgang und Geschlecht
+  - Bestenlistenpunkte pro Athlet
+  - Bestenlistenpunkte pro Ort
+  - Durchschnittliches Alter in der Aktiven Klassen
+  - Älteste Athleten in der Bestenliste
+- [general.ipynb](general.ipynb) - Auswertung der gesamten Bestenliste (nur ab 2023 möglich, Rest enthält nur bis Daten bis Platz 10)
+  - Jahresbestleistungen pro Ort
+  - Jahresbestleistungen pro Tag
+  - Jahresbestleistungen pro Verein  
+  - Athleten pro Verein und Anzahl der Jahresbestleistungen 
+  - Älteste Athleten
+
 Datenformat:
 ```csv
 "club","discipline","firstname","lastname","birthyear","result","ageGroup","date","location","place","teamResult","athleteId"
