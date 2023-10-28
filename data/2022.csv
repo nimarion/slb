@@ -322,7 +322,7 @@ LSG Saarlouis,Speerwurf 800 g,Rouven,Näckel,1998,"47,17",M,15.10.2022,Dillingen
 LAC Elm,Speerwurf 800 g,Tom,Spengler,1997,"43,74",M,15.10.2022,Dillingen,8,False,0
 ATSV Saarbrücken,Speerwurf 800 g,Sven,Felder,1991,"41,90",M,16.07.2022,Dillingen,9,False,0
 LG Berus,Speerwurf 800 g,Marcus,Koch,1971,"40,14",M,15.10.2022,Dillingen,10,False,0
-SV GO! Saar 05,10-Kampf,Alexander,Jung,1999,7.606,M,14.05./2022,Lubbock/USA,1,False,0
+SV GO! Saar 05,10-Kampf,Alexander,Jung,1999,7.606,M,14.05.2022,Lubbock/USA,1,False,0
 SV GO! Saar 05,100 m Lauf,Lisa,Maihöfer,1998,"11,94",F,21.05.2022,Rehlingen,1,False,0
 SV GO! Saar 05,100 m Lauf,Svenja,Jakobs,1998,"11,99",F,06.06.2022,Mannheim,2,False,0
 SV GO! Saar 05,100 m Lauf,Abigail,Adjei,1997,"12,03",F,21.05.2022,Rehlingen,3,False,0
@@ -646,17 +646,17 @@ LAF Merchweiler,Speerwurf 600 g,Franziska,Will,2002,"31,18",F,21.05.2022,Rehling
 TuS 1860 Neunkirchen,Speerwurf 600 g,Meike,Schreiner,1998,"28,83",F,03.07.2022,Püttlingen,8,False,0
 TuS 1860 Neunkirchen,Speerwurf 600 g,Isabelle,Schmolzi,1999,"24,84",F,03.07.2022,Püttlingen,9,False,0
 TV Germania 1910 Piesbach,Speerwurf 600 g,Yvonne,Maas,2002,"24,09",F,15.10.2022,Dillingen,10,False,0
-LG Berus,7-Kampf,Sina,Vervin,1997,4.157,F,02.07./2022,Püttlingen,1,False,0
-TV St. Wendel,7-Kampf,Annika,Schopper,1996,3.978,F,05.06./2022,Limburgerhof,2,False,0
-LAZ Saarbrücken,7-Kampf,Lisa,Schuler,2001,3.685,F,02.07./2022,Püttlingen,3,False,0
-TV Elm,7-Kampf,Annika,Fendel,2001,3.663,F,02.07./2022,Püttlingen,4,False,0
-TuS 1860 Neunkirchen,7-Kampf,Isabelle,Schmolzi,1999,3.211,F,02.07./2022,Püttlingen,5,False,0
-TuS 1860 Neunkirchen,7-Kampf,Meike,Schreiner,1998,3.206,F,02.07./2022,Püttlingen,6,False,0
-LAC Saarlouis,7-Kampf,Tamara,Lutz,1993,2.988,F,02.07./2022,Püttlingen,7,False,0
-TuS 1860 Neunkirchen,7-Kampf,Michelle,Euschen,1998,2.561,F,02.07./2022,Püttlingen,8,False,0
-TuS 1860 Neunkirchen,7-Kampf Ma.,Isabelle,Schmolzi,1999,8.978,F,02.07./2022,Püttlingen,1,True,0
-TuS 1860 Neunkirchen,7-Kampf Ma.,Meike,Schreiner,1998,8.978,F,02.07./2022,Püttlingen,1,True,0
-TuS 1860 Neunkirchen,7-Kampf Ma.,Michelle,Euschen,1998,8.978,F,02.07./2022,Püttlingen,1,True,0
+LG Berus,7-Kampf,Sina,Vervin,1997,4.157,F,02.07.2022,Püttlingen,1,False,0
+TV St. Wendel,7-Kampf,Annika,Schopper,1996,3.978,F,05.06.2022,Limburgerhof,2,False,0
+LAZ Saarbrücken,7-Kampf,Lisa,Schuler,2001,3.685,F,02.07.2022,Püttlingen,3,False,0
+TV Elm,7-Kampf,Annika,Fendel,2001,3.663,F,02.07.2022,Püttlingen,4,False,0
+TuS 1860 Neunkirchen,7-Kampf,Isabelle,Schmolzi,1999,3.211,F,02.07.2022,Püttlingen,5,False,0
+TuS 1860 Neunkirchen,7-Kampf,Meike,Schreiner,1998,3.206,F,02.07.2022,Püttlingen,6,False,0
+LAC Saarlouis,7-Kampf,Tamara,Lutz,1993,2.988,F,02.07.2022,Püttlingen,7,False,0
+TuS 1860 Neunkirchen,7-Kampf,Michelle,Euschen,1998,2.561,F,02.07.2022,Püttlingen,8,False,0
+TuS 1860 Neunkirchen,7-Kampf Ma.,Isabelle,Schmolzi,1999,8.978,F,02.07.2022,Püttlingen,1,True,0
+TuS 1860 Neunkirchen,7-Kampf Ma.,Meike,Schreiner,1998,8.978,F,02.07.2022,Püttlingen,1,True,0
+TuS 1860 Neunkirchen,7-Kampf Ma.,Michelle,Euschen,1998,8.978,F,02.07.2022,Püttlingen,1,True,0
 TV Bliesen,100 m Lauf,Lukas,Krauße,2003,"10,87",MU20,16.07.2022,Ulm,1,False,0
 LAZ Saarbrücken,100 m Lauf,Tim,Vielhauer,2003,"11,34",MU20,06.06.2022,Mannheim,2,False,0
 SC Friedrichsthal,100 m Lauf,Fabian,Singh,2003,"11,48",MU20,30.06.2022,Saarbrücken,3,False,0
@@ -900,7 +900,7 @@ TV Bliesen,Speerwurf 600 g,Sophia,Wolf,2003,"21,92",WU20,21.05.2022,Rehlingen,6,
 TV Bliesen,Speerwurf 600 g,Emily,Schmitt,2003,"20,39",WU20,17.09.2022,Seckenheim,7,False,0
 LG Berus,4-Kampf,Isabel,Weber,2003,2.233,WU20,02.07.2022,Püttlingen,1,False,0
 TV Bliesen,4-Kampf,Franziska,Schmitt,2004,1.076,WU20,02.07.2022,Püttlingen,2,False,0
-LG Berus,7-Kampf,Isabel,Weber,2003,3.300,WU20,02.07./2022,Püttlingen,1,False,0
+LG Berus,7-Kampf,Isabel,Weber,2003,3.300,WU20,02.07.2022,Püttlingen,1,False,0
 TV St. Wendel,100 m Lauf,Samuel,Sleet,2006,"11,28",MU18,27.07.2022,Friedrichsthal,1,False,0
 LSG Sbr.-Sulzbachtal,100 m Lauf,Nils,Steckmann,2005,"11,67",MU18,14.07.2022,Saarbrücken,2,False,0
 LC Rehlingen,100 m Lauf,Michael,Klauck,2005,"11,96",MU18,03.05.2022,Rehlingen,3,False,0
@@ -1085,8 +1085,8 @@ LG Berus,5-Kampf,Simon,Valeske,2005,2.024,MU18,02.07.2022,Püttlingen,4,False,0
 LV Merzig,5-Kampf,Ruben,Volpert,2006,2.012,MU18,02.07.2022,Püttlingen,5,False,0
 AC Diefflen,5-Kampf,David,Gamrekeli,2005,1.600,MU18,02.07.2022,Püttlingen,6,False,0
 LG Berus,5-Kampf,Fynn,Gräber,2006,1.296,MU18,02.07.2022,Püttlingen,7,False,0
-LC Rehlingen,10-Kampf,Felix,Becker,2006,3.997,MU18,02.07./2022,Püttlingen,1,False,0
-LV Merzig,10-Kampf,Ruben,Volpert,2006,3.566,MU18,02.07./2022,Püttlingen,2,False,0
+LC Rehlingen,10-Kampf,Felix,Becker,2006,3.997,MU18,02.07.2022,Püttlingen,1,False,0
+LV Merzig,10-Kampf,Ruben,Volpert,2006,3.566,MU18,02.07.2022,Püttlingen,2,False,0
 SV GO! Saar 05,100 m Lauf,Ksenia,Helios,2005,"11,84",WU18,23.07.2022,Ludwigshafen,1,False,0
 SV GO! Saar 05,100 m Lauf,Emely,Rothfuchs,2006,"12,09",WU18,16.07.2022,Ulm,2,False,0
 TV Bliesen,100 m Lauf,Charlotte,Comtesse,2006,"12,70",WU18,21.05.2022,Rehlingen,3,False,0
@@ -1249,10 +1249,10 @@ LV Merzig,4-Kampf,Eva,Pangoup Heuntang,2006,1.749,WU18,02.07.2022,Püttlingen,4,
 Tri-Sport/Saar-Hochwald,4-Kampf,Timea,Laskodi,2006,1.657,WU18,02.07.2022,Püttlingen,5,False,0
 TV Bliesen,4-Kampf,Lucie,Staub,2005,1.600,WU18,02.07.2022,Püttlingen,6,False,0
 TV Bliesen,4-Kampf,Anna,Wagner,2006,1.396,WU18,02.07.2022,Püttlingen,7,False,0
-LC Rehlingen,7-Kampf,Frieda,Schulz,2006,4.362,WU18,02.07./2022,Püttlingen,1,False,0
-TV Bliesen,7-Kampf,Chiara,Rein,2006,4.079,WU18,02.07./2022,Püttlingen,2,False,0
-LAC Saarlouis,7-Kampf,Zoe,Staudter,2005,3.053,WU18,02.07./2022,Püttlingen,3,False,0
-LV Merzig,7-Kampf,Eva,Pangoup Heuntang,2006,2.832,WU18,02.07./2022,Püttlingen,4,False,0
+LC Rehlingen,7-Kampf,Frieda,Schulz,2006,4.362,WU18,02.07.2022,Püttlingen,1,False,0
+TV Bliesen,7-Kampf,Chiara,Rein,2006,4.079,WU18,02.07.2022,Püttlingen,2,False,0
+LAC Saarlouis,7-Kampf,Zoe,Staudter,2005,3.053,WU18,02.07.2022,Püttlingen,3,False,0
+LV Merzig,7-Kampf,Eva,Pangoup Heuntang,2006,2.832,WU18,02.07.2022,Püttlingen,4,False,0
 LC Rehlingen,4 x 100 m Staffel,Abdulrahman,Alshekaki,2008,"49,85",M15,19.06.2022,Frankfurt,1,True,0
 LC Rehlingen,4 x 100 m Staffel,David,Baldauf,2008,"49,85",M15,19.06.2022,Frankfurt,1,True,0
 LC Rehlingen,4 x 100 m Staffel,Tom,Reuter,2008,"49,85",M15,19.06.2022,Frankfurt,1,True,0
@@ -1286,12 +1286,12 @@ LA Team Saar,4-Kampf Ma.,Nils,Andler,2008,7.247,M15,02.07.2022,Püttlingen,2,Tru
 LA Team Saar,4-Kampf Ma.,Luca,Becker,2008,7.247,M15,02.07.2022,Püttlingen,2,True,0
 LA Team Saar,4-Kampf Ma.,Max,Müller,2008,7.247,M15,02.07.2022,Püttlingen,2,True,0
 LA Team Saar,4-Kampf Ma.,Timo,Leifheit,2008,7.247,M15,02.07.2022,Püttlingen,2,True,0
-LA Team Saar,9-Kampf Ma.,Elias,Günter,2007,12.618,M15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,9-Kampf Ma.,Aaron,Hoffmann,2007,12.618,M15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,9-Kampf Ma.,Johann,Rosch,2007,12.618,M15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,9-Kampf Ma.,Conrad,Altmeyer,2007,10.495,M15,02.07./2022,Püttlingen,2,True,0
-LA Team Saar,9-Kampf Ma.,Nils,Andler,2008,10.495,M15,02.07./2022,Püttlingen,2,True,0
-LA Team Saar,9-Kampf Ma.,Eric,Mayer,2007,10.495,M15,02.07./2022,Püttlingen,2,True,0
+LA Team Saar,9-Kampf Ma.,Elias,Günter,2007,12.618,M15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,9-Kampf Ma.,Aaron,Hoffmann,2007,12.618,M15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,9-Kampf Ma.,Johann,Rosch,2007,12.618,M15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,9-Kampf Ma.,Conrad,Altmeyer,2007,10.495,M15,02.07.2022,Püttlingen,2,True,0
+LA Team Saar,9-Kampf Ma.,Nils,Andler,2008,10.495,M15,02.07.2022,Püttlingen,2,True,0
+LA Team Saar,9-Kampf Ma.,Eric,Mayer,2007,10.495,M15,02.07.2022,Püttlingen,2,True,0
 LA Team Saar,Block Mannschaft,Elias,Günter,2007,11.997,M15,25.06.2022,Püttlingen,1,True,0
 LA Team Saar,Block Mannschaft,Aaron,Hoffmann,2007,11.997,M15,25.06.2022,Püttlingen,1,True,0
 LA Team Saar,Block Mannschaft,Johann,Rosch,2007,11.997,M15,25.06.2022,Püttlingen,1,True,0
@@ -1442,12 +1442,12 @@ LA Team Saar,4-Kampf,Johann,Rosch,2007,1.822,M15,02.07.2022,Püttlingen,7,False,
 LA Team Saar,4-Kampf,Eric,Mayer,2007,1.738,M15,02.07.2022,Püttlingen,8,False,0
 AC Diefflen,4-Kampf,Luca,Gamrekeli,2007,1.691,M15,02.07.2022,Püttlingen,9,False,0
 LA Team Saar,4-Kampf,Luca,Hartmann,2007,1.633,M15,02.07.2022,Püttlingen,10,False,0
-TV St. Wendel,9-Kampf,Konstantin,Schmitt,2007,4.843,M15,02.07./2022,Püttlingen,1,False,0
-LA Team Saar,9-Kampf,Elias,Günter,2007,4.345,M15,02.07./2022,Püttlingen,2,False,0
-LA Team Saar,9-Kampf,Aaron,Hoffmann,2007,4.201,M15,02.07./2022,Püttlingen,3,False,0
-LA Team Saar,9-Kampf,Johann,Rosch,2007,4.072,M15,02.07./2022,Püttlingen,4,False,0
-LA Team Saar,9-Kampf,Conrad,Altmeyer,2007,4.056,M15,02.07./2022,Püttlingen,5,False,0
-LA Team Saar,9-Kampf,Eric,Mayer,2007,2.987,M15,02.07./2022,Püttlingen,6,False,0
+TV St. Wendel,9-Kampf,Konstantin,Schmitt,2007,4.843,M15,02.07.2022,Püttlingen,1,False,0
+LA Team Saar,9-Kampf,Elias,Günter,2007,4.345,M15,02.07.2022,Püttlingen,2,False,0
+LA Team Saar,9-Kampf,Aaron,Hoffmann,2007,4.201,M15,02.07.2022,Püttlingen,3,False,0
+LA Team Saar,9-Kampf,Johann,Rosch,2007,4.072,M15,02.07.2022,Püttlingen,4,False,0
+LA Team Saar,9-Kampf,Conrad,Altmeyer,2007,4.056,M15,02.07.2022,Püttlingen,5,False,0
+LA Team Saar,9-Kampf,Eric,Mayer,2007,2.987,M15,02.07.2022,Püttlingen,6,False,0
 TV St. Wendel,Block S/S,Konstantin,Schmitt,2007,2.779,M15,25.06.2022,Püttlingen,1,False,0
 LA Team Saar,Block S/S,Elias,Günter,2007,2.768,M15,25.06.2022,Püttlingen,2,False,0
 LA Team Saar,Block S/S,Aaron,Hoffmann,2007,2.485,M15,25.06.2022,Püttlingen,3,False,0
@@ -1594,9 +1594,9 @@ LA Team Saar,4-Kampf,Luca,Becker,2008,1.493,M14,02.07.2022,Püttlingen,7,False,0
 LA Team Saar,4-Kampf,Max,Müller,2008,1.426,M14,02.07.2022,Püttlingen,8,False,0
 LA Team Saar,4-Kampf,Timo,Leifheit,2008,1.147,M14,02.07.2022,Püttlingen,9,False,0
 LA Team Saar,4-Kampf,Mattia,Falgiatore,2008,1.046,M14,02.07.2022,Püttlingen,10,False,0
-LV Merzig,9-Kampf,Johannes,Michel,2008,3.931,M14,02.07./2022,Püttlingen,1,False,0
-TV Elm,9-Kampf,Tim,Jungmann,2008,3.887,M14,02.07./2022,Püttlingen,2,False,0
-LA Team Saar,9-Kampf,Nils,Andler,2008,3.452,M14,02.07./2022,Püttlingen,3,False,0
+LV Merzig,9-Kampf,Johannes,Michel,2008,3.931,M14,02.07.2022,Püttlingen,1,False,0
+TV Elm,9-Kampf,Tim,Jungmann,2008,3.887,M14,02.07.2022,Püttlingen,2,False,0
+LA Team Saar,9-Kampf,Nils,Andler,2008,3.452,M14,02.07.2022,Püttlingen,3,False,0
 LG Saar 70,Block S/S,Leander,Loginoff,2008,2.222,M14,25.06.2022,Püttlingen,1,False,0
 LG Saar 70,Block S/S,Jérémie,Behr,2008,2.142,M14,25.06.2022,Püttlingen,2,False,0
 LC Rehlingen,Block S/S,David,Baldauf,2008,2.138,M14,25.06.2022,Püttlingen,3,False,0
@@ -1673,18 +1673,18 @@ LG Saar 70,4-Kampf Ma.,Teresa,Scherer,2007,6.793,W15,02.07.2022,Püttlingen,2,Tr
 LG Saar 70,4-Kampf Ma.,Jana,Hoffmann,2008,6.793,W15,02.07.2022,Püttlingen,2,True,0
 LG Saar 70,4-Kampf Ma.,Jule,Burger,2009,6.793,W15,02.07.2022,Püttlingen,2,True,0
 LG Saar 70,4-Kampf Ma.,Lilli,Wagner,2008,6.793,W15,02.07.2022,Püttlingen,2,True,0
-LA Team Saar,7-Kampf Ma.,Emilia,Bento,2008,8.478,W15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,7-Kampf Ma.,Lilianne,Weis,2008,8.478,W15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,7-Kampf Ma.,Emma,Wagner,2008,8.478,W15,02.07./2022,Püttlingen,1,True,0
-LA Team Saar,7-Kampf Ma.,Paula,Heinz,2007,7.621,W15,02.07./2022,Püttlingen,2,True,0
-LA Team Saar,7-Kampf Ma.,Alisha,Schmidt,2008,7.621,W15,02.07./2022,Püttlingen,2,True,0
-LA Team Saar,7-Kampf Ma.,Berenike,Hauck,2009,7.621,W15,02.07./2022,Püttlingen,2,True,0
-LG Berus,7-Kampf Ma.,Selina,Rech,2007,7.279,W15,02.07./2022,Püttlingen,3,True,0
-LG Berus,7-Kampf Ma.,Anna,Gräber,2008,7.279,W15,02.07./2022,Püttlingen,3,True,0
-LG Berus,7-Kampf Ma.,Lara Sophie,Kipp,2008,7.279,W15,02.07./2022,Püttlingen,3,True,0
-AC Diefflen,7-Kampf Ma.,Julie,Klee,2008,7.067,W15,02.07./2022,Püttlingen,4,True,0
-AC Diefflen,7-Kampf Ma.,Anne,Klein,2009,7.067,W15,02.07./2022,Püttlingen,4,True,0
-AC Diefflen,7-Kampf Ma.,Mia,Dzale,2009,7.067,W15,02.07./2022,Püttlingen,4,True,0
+LA Team Saar,7-Kampf Ma.,Emilia,Bento,2008,8.478,W15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,7-Kampf Ma.,Lilianne,Weis,2008,8.478,W15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,7-Kampf Ma.,Emma,Wagner,2008,8.478,W15,02.07.2022,Püttlingen,1,True,0
+LA Team Saar,7-Kampf Ma.,Paula,Heinz,2007,7.621,W15,02.07.2022,Püttlingen,2,True,0
+LA Team Saar,7-Kampf Ma.,Alisha,Schmidt,2008,7.621,W15,02.07.2022,Püttlingen,2,True,0
+LA Team Saar,7-Kampf Ma.,Berenike,Hauck,2009,7.621,W15,02.07.2022,Püttlingen,2,True,0
+LG Berus,7-Kampf Ma.,Selina,Rech,2007,7.279,W15,02.07.2022,Püttlingen,3,True,0
+LG Berus,7-Kampf Ma.,Anna,Gräber,2008,7.279,W15,02.07.2022,Püttlingen,3,True,0
+LG Berus,7-Kampf Ma.,Lara Sophie,Kipp,2008,7.279,W15,02.07.2022,Püttlingen,3,True,0
+AC Diefflen,7-Kampf Ma.,Julie,Klee,2008,7.067,W15,02.07.2022,Püttlingen,4,True,0
+AC Diefflen,7-Kampf Ma.,Anne,Klein,2009,7.067,W15,02.07.2022,Püttlingen,4,True,0
+AC Diefflen,7-Kampf Ma.,Mia,Dzale,2009,7.067,W15,02.07.2022,Püttlingen,4,True,0
 ATSV Saarbrücken,Block Mannschaft,Luna,Rothfuchs Galan,2007,10.262,W15,25.06.2022,Püttlingen,1,True,0
 ATSV Saarbrücken,Block Mannschaft,Henriette,Dubois,2007,10.262,W15,25.06.2022,Püttlingen,1,True,0
 ATSV Saarbrücken,Block Mannschaft,Yasmin,El Hayek,2008,10.262,W15,25.06.2022,Püttlingen,1,True,0
@@ -1805,9 +1805,9 @@ LG Berus,4-Kampf,Selina,Rech,2007,1.557,W15,02.07.2022,Püttlingen,2,False,0
 LA Team Saar,4-Kampf,Paula,Heinz,2007,1.541,W15,02.07.2022,Püttlingen,3,False,0
 LV Merzig,4-Kampf,Victoria,Müller,2007,1.466,W15,02.07.2022,Püttlingen,4,False,0
 LG Saar 70,4-Kampf,Teresa,Scherer,2007,1.441,W15,02.07.2022,Püttlingen,5,False,0
-LC Rehlingen,7-Kampf,Eva,Schmidt,2007,2.742,W15,02.07./2022,Püttlingen,1,False,0
-LA Team Saar,7-Kampf,Paula,Heinz,2007,2.591,W15,02.07./2022,Püttlingen,2,False,0
-LG Berus,7-Kampf,Selina,Rech,2007,2.557,W15,02.07./2022,Püttlingen,3,False,0
+LC Rehlingen,7-Kampf,Eva,Schmidt,2007,2.742,W15,02.07.2022,Püttlingen,1,False,0
+LA Team Saar,7-Kampf,Paula,Heinz,2007,2.591,W15,02.07.2022,Püttlingen,2,False,0
+LG Berus,7-Kampf,Selina,Rech,2007,2.557,W15,02.07.2022,Püttlingen,3,False,0
 SV GO! Saar 05,Block S/S,Luisa,Jose,2007,2.508,W15,25.06.2022,Püttlingen,1,False,0
 ATSV Saarbrücken,Block S/S,Luna,Rothfuchs Galan,2007,2.499,W15,25.06.2022,Püttlingen,2,False,0
 SV GO! Saar 05,Block S/S,Jule Hanni,Korter,2007,2.202,W15,25.06.2022,Püttlingen,3,False,0
@@ -1956,16 +1956,16 @@ LA Team Saar,4-Kampf,Lilianne,Weis,2008,1.606,W14,02.07.2022,Püttlingen,7,False
 LA Team Saar,4-Kampf,Emma,Wagner,2008,1.605,W14,02.07.2022,Püttlingen,8,False,0
 LA Team Saar,4-Kampf,Nia Luisa,Neis,2008,1.492,W14,02.07.2022,Püttlingen,9,False,0
 TV Elm,4-Kampf,Chiara,Schier,2008,1.471,W14,02.07.2022,Püttlingen,10,False,0
-LC Rehlingen,7-Kampf,Mathilda,Klein,2008,3.141,W14,02.07./2022,Püttlingen,1,False,0
-LA Team Saar,7-Kampf,Emilia,Bento,2008,2.942,W14,02.07./2022,Püttlingen,2,False,0
-SC Friedrichsthal,7-Kampf,Klara,Baumert,2008,2.887,W14,02.07./2022,Püttlingen,3,False,0
-LA Team Saar,7-Kampf,Lilianne,Weis,2008,2.824,W14,02.07./2022,Püttlingen,4,False,0
-LA Team Saar,7-Kampf,Emma,Wagner,2008,2.712,W14,02.07./2022,Püttlingen,5,False,0
-LA Team Saar,7-Kampf,Alisha,Schmidt,2008,2.531,W14,02.07./2022,Püttlingen,6,False,0
-LG Berus,7-Kampf,Anna,Gräber,2008,2.512,W14,02.07./2022,Püttlingen,7,False,0
-LA Team Saar,7-Kampf,Berenike,Hauck,2009,2.499,W14,02.07./2022,Püttlingen,8,False,0
-AC Diefflen,7-Kampf,Julie,Klee,2008,2.427,W14,02.07./2022,Püttlingen,9,False,0
-AC Diefflen,7-Kampf,Anne,Klein,2009,2.346,W14,02.07./2022,Püttlingen,10,False,0
+LC Rehlingen,7-Kampf,Mathilda,Klein,2008,3.141,W14,02.07.2022,Püttlingen,1,False,0
+LA Team Saar,7-Kampf,Emilia,Bento,2008,2.942,W14,02.07.2022,Püttlingen,2,False,0
+SC Friedrichsthal,7-Kampf,Klara,Baumert,2008,2.887,W14,02.07.2022,Püttlingen,3,False,0
+LA Team Saar,7-Kampf,Lilianne,Weis,2008,2.824,W14,02.07.2022,Püttlingen,4,False,0
+LA Team Saar,7-Kampf,Emma,Wagner,2008,2.712,W14,02.07.2022,Püttlingen,5,False,0
+LA Team Saar,7-Kampf,Alisha,Schmidt,2008,2.531,W14,02.07.2022,Püttlingen,6,False,0
+LG Berus,7-Kampf,Anna,Gräber,2008,2.512,W14,02.07.2022,Püttlingen,7,False,0
+LA Team Saar,7-Kampf,Berenike,Hauck,2009,2.499,W14,02.07.2022,Püttlingen,8,False,0
+AC Diefflen,7-Kampf,Julie,Klee,2008,2.427,W14,02.07.2022,Püttlingen,9,False,0
+AC Diefflen,7-Kampf,Anne,Klein,2009,2.346,W14,02.07.2022,Püttlingen,10,False,0
 LC Rehlingen,Block S/S,Mathilda,Klein,2008,2.355,W14,25.06.2022,Püttlingen,1,False,0
 LA Team Saar,Block S/S,Emilia,Bento,2008,2.333,W14,25.06.2022,Püttlingen,2,False,0
 SV GO! Saar 05,Block S/S,Friederike,Albersdörfer,2008,2.330,W14,25.06.2022,Püttlingen,3,False,0
