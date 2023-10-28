@@ -9,12 +9,14 @@ Eine Auswertung der Saarländischen Leichtathletik Bestenliste mit Juptyer Noteb
   - Bestenlistenpunkte pro Jahrgang und Geschlecht
   - Bestenlistenpunkte pro Athlet
   - Bestenlistenpunkte pro Ort
+  - Athleten pro Jahrgang
   - Durchschnittliches Alter in der Aktiven Klassen
   - Älteste Athleten in der Bestenliste
 - [general.ipynb](general.ipynb) - Auswertung der gesamten Bestenliste (nur ab 2023 möglich, Rest enthält nur bis Daten bis Platz 10)
   - Jahresbestleistungen pro Ort
   - Jahresbestleistungen pro Tag
   - Jahresbestleistungen pro Verein  
+  - Athleten pro Jahrgang
   - Athleten pro Verein und Anzahl der Jahresbestleistungen 
   - Älteste Athleten
 
