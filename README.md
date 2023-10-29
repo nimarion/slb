@@ -29,6 +29,9 @@ Eine Auswertung der Saarländischen Leichtathletik Bestenliste mit Juptyer Noteb
   - Athleten mit den meisten Einträgen in der Bestenliste
   - Athleten mit den meisten Vereinen
   - Athleten mit den meisten Disziplinen
+  - Athleten mit den meisten Punkten pro Jahr
+  - Disziplin mit den wenigsten Athleten pro Jahr (Altersklassenfilter benutzen)
+  - Häufigste Vor und Nachnamen pro Jahr
 
 Datenformat:
 ```csv
