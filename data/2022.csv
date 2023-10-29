@@ -15,12 +15,12 @@ LC Rehlingen,200 m Lauf,Max,Tank,2002,"22,55",M,22.05.2022,Rehlingen,3,False,4e6
 LAZ Saarbrücken,200 m Lauf,Jens,Martini,1989,"22,96",M,06.06.2022,Mannheim,4,False,84d06b952b9f1ca260919256226cf7f87cc65a8d204162854b1a27ca95cf4f12
 SV GO! Saar 05,200 m Lauf,Adnan,Hodzic,1995,"22,96",M,14.07.2022,Saarbrücken,5,False,19562a3aa54d2233d49d3a58ce6c43f0cd8a40e78597568eb0510f507d8bcf6d
 SV GO! Saar 05,200 m Lauf,Raphael,Motsch,2002,"23,59",M,30.08.2022,Rehlingen,6,False,ccef5a3ab5139c3b02f24cc89449c8fbabb949f76a12a6baa06896bbd5d45df4
-SV GO! Saar 05,200 m Lauf,Al-Jahir,Ahmed,2001,"24,02",M,27.07.2022,Friedrichsthal,7,False,326bbfc4497458130bdc0f3cadedbe9ad33439af5684308ed9e0b45cd0a8ffa9
+LA Team Saar,200 m Lauf,Al-Jahir,Ahmed,2001,"24,02",M,27.07.2022,Friedrichsthal,7,False,326bbfc4497458130bdc0f3cadedbe9ad33439af5684308ed9e0b45cd0a8ffa9
 LV Merzig,200 m Lauf,Samuel,Werner,2000,"24,03",M,15.05.2022,Saarlouis,8,False,2bd7e6768396c20cd3928d22fccea1d03b9bfc0d1c5f37582fa900b07e7c91ca
 LC Rehlingen,200 m Lauf,Matthias,Gerner,1999,"24,18",M,15.05.2022,Saarlouis,9,False,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
-LC Rehlingen,200 m Lauf,Marcus,Müller,1991,"24,29",M,05.06.2022,Schwabach,10,False,6645f5451a2a194a75295218e0fbdc5496d22fde7dc0bfdf89c792be3c561fd2
+LA Team Saar,200 m Lauf,Marcus,Müller,1991,"24,29",M,05.06.2022,Schwabach,10,False,6645f5451a2a194a75295218e0fbdc5496d22fde7dc0bfdf89c792be3c561fd2
 SV GO! Saar 05,400 m Lauf,Alexander,Jung,1999,"50,44",M,14.05.2022,Lubbock/USA,1,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
-SV GO! Saar 05,400 m Lauf,Lars,Herrmann,1995,"52,82",M,05.06.2022,Schwabach,2,False,e09073c55e0841f3f344f1d4306accb9ce7f87481041cf72ce10d7305109f0d0
+LA Team Saar,400 m Lauf,Lars,Herrmann,1995,"52,82",M,05.06.2022,Schwabach,2,False,e09073c55e0841f3f344f1d4306accb9ce7f87481041cf72ce10d7305109f0d0
 LC Rehlingen,400 m Lauf,Niklas,Marion,2002,"54,26",M,25.06.2022,Schifflange/LUX,3,False,bae7c1128101f60f6fe39ba2e1fc1b9f39efbbd45602b7cc02be38249059a662
 LC Rehlingen,400 m Lauf,Sami,Alshekaki,2002,"56,01",M,21.05.2022,Rehlingen,4,False,0e5adf3b92446a16177b396d1dbbb56341fff1865c258e293bba80a021017c84
 LSG Sbr.-Sulzbachtal,400 m Lauf,Marc,Schmitt,1972,"58,11",M,07.07.2022,Saarbrücken,5,False,ba83c782b6547d0fc7612f5bfe67eb79ba6d001b7fe5e61640fb471d8f78049c
@@ -51,18 +51,18 @@ LC Rehlingen,1000 m Lauf,Norbert,Baldauf,1969,"3:16,26",M,30.08.2022,Rehlingen,9
 LSG Sbr.-Sulzbachtal,1000 m Lauf,Andreas,Vonerden,1976,"3:18,44",M,26.04.2022,Sulzbach,10,False,d8b3cbf4358a2fffca66eea585a0cd9283ff9a43ea0ce1d28cf8ae3c1e2ad38a
 LSG Sbr.-Sulzbachtal,1500 m Lauf,Florian,Lauck,1993,"4:14,24",M,21.05.2022,Rehlingen,1,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LC Rehlingen,1500 m Lauf,Fabian,Schon,1999,"4:20,06",M,21.05.2022,Rehlingen,2,False,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
-LSG Schmelz-Hüttersdorf,1500 m Lauf,Jan,Thewes,2002,"4:27,49",M,08.04.2022,Buckhannon/USA,3,False,d905224fc59bc51e93455635ccd28dce62cfa11fb1ba3ea88edea1abb721a467
-LSG Sbr.-Sulzbachtal,1500 m Lauf,Thomas,Weber,1975,"4:30,32",M,14.07.2022,Saarbrücken,4,False,142ffc6971cf2d7c1c58be06bac01bcca5461b8a2f853fd93f7a1dea119914fa
-LC Rehlingen,1500 m Lauf,Reiner,Zender,1965,"4:34,70",M,14.07.2022,Saarbrücken,5,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
-LSG Sbr.-Sulzbachtal,1500 m Lauf,Martin,Münnich,1976,"4:36,43",M,21.05.2022,Rehlingen,6,False,10cc4f66261912462188a6282feccd6c55eac19f7fe23bab37321886338e1b86
-LSG Sbr.-Sulzbachtal,1500 m Lauf,Matthias,Müller,1973,"4:39,40",M,14.07.2022,Saarbrücken,7,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
-SV GO! Saar 05,1500 m Lauf,Alexander,Jung,1999,"4:44,51",M,15.05.2022,Lubbock/USA,8,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
-TV Ludweiler,1500 m Lauf,Christoph,Bach,1982,"4:50,05",M,14.07.2022,Saarbrücken,9,False,53bf1ba9cab95fbf33ecc821250252d53b2cf4e018518cd191a5da12a1295116
-LSG Sbr.-Sulzbachtal,1500 m Lauf,Tammo,Lang,1984,"4:52,90",M,21.05.2022,Rehlingen,10,False,fafdb21515ec03785cbd0b815612e392e051a53d1934b381548d58d9297a1aa3
+LSG Sbr.-Sulzbachtal,1500 m Lauf,Thomas,Weber,1975,"4:30,32",M,14.07.2022,Saarbrücken,3,False,142ffc6971cf2d7c1c58be06bac01bcca5461b8a2f853fd93f7a1dea119914fa
+LC Rehlingen,1500 m Lauf,Reiner,Zender,1965,"4:34,70",M,14.07.2022,Saarbrücken,4,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
+LSG Sbr.-Sulzbachtal,1500 m Lauf,Martin,Münnich,1976,"4:36,43",M,21.05.2022,Rehlingen,5,False,10cc4f66261912462188a6282feccd6c55eac19f7fe23bab37321886338e1b86
+LSG Sbr.-Sulzbachtal,1500 m Lauf,Matthias,Müller,1973,"4:39,40",M,14.07.2022,Saarbrücken,6,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
+SV GO! Saar 05,1500 m Lauf,Alexander,Jung,1999,"4:44,51",M,15.05.2022,Lubbock/USA,7,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
+TV Ludweiler,1500 m Lauf,Christoph,Bach,1982,"4:50,05",M,14.07.2022,Saarbrücken,8,False,53bf1ba9cab95fbf33ecc821250252d53b2cf4e018518cd191a5da12a1295116
+LSG Sbr.-Sulzbachtal,1500 m Lauf,Tammo,Lang,1984,"4:52,90",M,21.05.2022,Rehlingen,9,False,fafdb21515ec03785cbd0b815612e392e051a53d1934b381548d58d9297a1aa3
+LC Rehlingen,1500 m Lauf,Antonio,Squillace,1970,"4:58,09",M,16.07.2022,Dillingen,10,False,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
 LC Rehlingen,3000 m Lauf,Philipp,Stief,1991,"8:54,08",M,03.05.2022,Rehlingen,1,False,3e70e1f697675c191b119fc2f192aaee25d53ff9a42cfe9c28740fd0bceb68d8
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Florian,Lauck,1993,"8:54,29",M,30.06.2022,Saarbrücken,2,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LLG Wustweiler,3000 m Lauf,Christopher,Klesen,1997,"9:24,90",M,30.06.2022,Saarbrücken,3,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
-LLG Wustweiler,3000 m Lauf,Yves,Becker,1992,"9:33,76",M,30.06.2022,Saarbrücken,4,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
+LA Team Saar,3000 m Lauf,Yves,Becker,1992,"9:33,76",M,30.06.2022,Saarbrücken,4,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Thomas,Weber,1975,"9:57,34",M,12.04.2022,Sulzbach,5,False,142ffc6971cf2d7c1c58be06bac01bcca5461b8a2f853fd93f7a1dea119914fa
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Matthias,Müller,1973,"10:06,41",M,12.04.2022,Sulzbach,6,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
 LC Rehlingen,3000 m Lauf,Reiner,Zender,1965,"10:07,65",M,30.06.2022,Saarbrücken,7,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
@@ -71,7 +71,7 @@ Athletic Perl,3000 m Lauf,Markus,Krempchen,1972,"10:58,35",M,03.05.2022,Rehlinge
 LC Rehlingen,3000 m Lauf,Antonio,Squillace,1970,"11:23,89",M,03.05.2022,Rehlingen,10,False,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
 LSG Sbr.-Sulzbachtal,5000 m Lauf,Jan Lukas,Becker,1993,"14:00,23",M,23.04.2022,Charlottesville/USA,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LC Rehlingen,5000 m Lauf,Tobias,Blum,1995,"14:50,91",M,21.05.2022,Rehlingen,2,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
-LC Rehlingen,5000 m Lauf,Yves,Becker,1992,"16:04,36",M,07.07.2022,Saarbrücken,3,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
+LA Team Saar,5000 m Lauf,Yves,Becker,1992,"16:04,36",M,07.07.2022,Saarbrücken,3,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
 TuS Ormesheim,5000 m Lauf,Nico,Deckarm,2000,"16:07,06",M,10.09.2022,Berlin,4,False,61aaf68494c9374277e7640bd1937c58bf69abd36fd2dfe870e4aa38da5d0157
 LC Rehlingen,5000 m Lauf,Alexander,Bock,1992,"16:10,98",M,21.05.2022,Rehlingen,5,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LLG Wustweiler,5000 m Lauf,Christopher,Klesen,1997,"16:16,00",M,21.05.2022,Rehlingen,6,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
@@ -81,14 +81,14 @@ LC Rehlingen,5000 m Lauf,Jean-Marc,Burg,1996,"18:23,09",M,07.07.2022,Saarbrücke
 LC Rehlingen,5000 m Lauf,Norbert,Baldauf,1969,"18:37,0",M,16.07.2022,Dillingen,10,False,c06f58f233b29d793601d2bd8d5332837e17c3d5ff262ef14febc3d80f66fdaa
 LSG Sbr.-Sulzbachtal,10000 m Lauf,Jan Lukas,Becker,1993,"28:27,98",M,26.03.2022,Raleigh/USA,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LC Rehlingen,10000 m Lauf,Alexander,Bock,1992,"30:40,48",M,09.09.2022,Trier,2,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
-LSG Schmelz-Hüttersdorf,10000 m Lauf,Jan,Thewes,2002,"33:35,47",M,18.03.2022,Lexington/USA,3,False,d905224fc59bc51e93455635ccd28dce62cfa11fb1ba3ea88edea1abb721a467
-LLG Wustweiler,10000 m Lauf,Christopher,Klesen,1997,"33:50,03",M,02.04.2022,Rehlingen,4,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
-LLG Wustweiler,10000 m Lauf,Philippe,Weingarth,1984,"34:26,26",M,02.04.2022,Rehlingen,5,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
-LLG Wustweiler,10000 m Lauf,Giuseppe,Sardo,1990,"35:52,87",M,02.04.2022,Rehlingen,6,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
-LSG Sbr.-Sulzbachtal,10000 m Lauf,Matthias,Müller,1973,"36:29,24",M,02.04.2022,Rehlingen,7,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
-LC Rehlingen,10000 m Lauf,Reiner,Zender,1965,"37:02,29",M,02.04.2022,Rehlingen,8,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
-LLG Wustweiler,10000 m Lauf,Andreas,Holweck,1977,"38:12,95",M,02.04.2022,Rehlingen,9,False,75da0b08cb6ad421caea4d834dd43c0b68586d23e6589a3cba40cd33aa72fe71
-LLG Wustweiler,10000 m Lauf,Eric,Lorenz,1971,"38:38,36",M,02.04.2022,Rehlingen,10,False,2ac9cbab04e1d79f3df5d5a863ba9d3dceb0b3833ad30cbf25ffab4f26dc723b
+LLG Wustweiler,10000 m Lauf,Christopher,Klesen,1997,"33:50,03",M,02.04.2022,Rehlingen,3,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
+LLG Wustweiler,10000 m Lauf,Philippe,Weingarth,1984,"34:26,26",M,02.04.2022,Rehlingen,4,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
+LLG Wustweiler,10000 m Lauf,Giuseppe,Sardo,1990,"35:52,87",M,02.04.2022,Rehlingen,5,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
+LSG Sbr.-Sulzbachtal,10000 m Lauf,Matthias,Müller,1973,"36:29,24",M,02.04.2022,Rehlingen,6,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
+LC Rehlingen,10000 m Lauf,Reiner,Zender,1965,"37:02,29",M,02.04.2022,Rehlingen,7,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
+LLG Wustweiler,10000 m Lauf,Andreas,Holweck,1977,"38:12,95",M,02.04.2022,Rehlingen,8,False,75da0b08cb6ad421caea4d834dd43c0b68586d23e6589a3cba40cd33aa72fe71
+LLG Wustweiler,10000 m Lauf,Eric,Lorenz,1971,"38:38,36",M,02.04.2022,Rehlingen,9,False,2ac9cbab04e1d79f3df5d5a863ba9d3dceb0b3833ad30cbf25ffab4f26dc723b
+LTF Theeltal,10000 m Lauf,Nico,Noss,1992,"39:18,86",M,02.04.2022,Rehlingen,10,False,0a56f7d698ebba3c7f18067c98f39e2ad77485fbf4e363f3715d1608eae86e92
 LC Rehlingen,5 km Str.,Tobias,Blum,1995,14:37,M,18.09.2022,Saarbrücken,1,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LSG Sbr.-Sulzbachtal,5 km Str.,Jan Lukas,Becker,1993,14:37,M,18.09.2022,Saarbrücken,2,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LLG Wustweiler,5 km Str.,Christopher,Klesen,1997,15:50,M,24.06.2022,Lebach,3,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
@@ -98,7 +98,7 @@ LLG Wustweiler,5 km Str.,Maximilian,Gebhard,2000,16:18,M,18.09.2022,Saarbrücken
 LC Rehlingen,5 km Str.,Dennis,Zimmer,1990,16:20,M,24.06.2022,Lebach,7,False,159251c5f39d9221a8ee6d3ca34c572086bd2cc9f1f453e14ec94fe257e35723
 LTF Marpingen,5 km Str.,Samuel,Schu,1993,16:26,M,18.09.2022,Saarbrücken,8,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
 LLG Wustweiler,5 km Str.,Philippe,Weingarth,1984,16:26,M,18.09.2022,Saarbrücken,9,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
-LTF Marpingen,5 km Str.,Yves,Becker,1992,16:28,M,18.09.2022,Saarbrücken,10,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
+LA Team Saar,5 km Str.,Yves,Becker,1992,16:28,M,18.09.2022,Saarbrücken,10,False,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
 LC Rehlingen,5 km Str. Ma.,Norbert,Baldauf,1969,1:00:49,M,24.06.2022,Lebach,1,True,c06f58f233b29d793601d2bd8d5332837e17c3d5ff262ef14febc3d80f66fdaa
 LC Rehlingen,5 km Str. Ma.,Antonio,Squillace,1970,1:00:49,M,24.06.2022,Lebach,1,True,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
 LC Rehlingen,5 km Str. Ma.,Jörg,Dietrich,1954,1:00:49,M,24.06.2022,Lebach,1,True,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
@@ -117,10 +117,10 @@ LC Rehlingen,10 km Str.,Tobias,Blum,1995,29:20,M,18.09.2022,Saarbrücken,3,False
 LC Rehlingen,10 km Str.,Alexander,Bock,1992,31:13,M,26.03.2022,Schweich,4,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LC Rehlingen,10 km Str.,Philipp,Stief,1991,31:29,M,06.03.2022,Leverkusen,5,False,3e70e1f697675c191b119fc2f192aaee25d53ff9a42cfe9c28740fd0bceb68d8
 LLG Wustweiler,10 km Str.,Christopher,Klesen,1997,31:30,M,18.09.2022,Saarbrücken,6,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
-LAZ Saarbrücken,10 km Str.,Ian,Manthey,1993,31:37,M,27.11.2022,Saarbrücken,7,False,86aebb56ded5ccb793952432f84c2835676d6fb255909dd44364d66237c1bf72
-LTF Marpingen,10 km Str.,Samuel,Schu,1993,32:19,M,12.11.2022,Langsur,8,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
-LLG Wustweiler,10 km Str.,Maximilian,Gebhard,2000,32:48,M,18.09.2022,Saarbrücken,9,False,9fc9c69a52e2f6219ddf6268313762614cbdcf01f6adc00176d2f5ee20c4d7a8
-LSG Sbr.-Sulzbachtal,10 km Str.,Florian,Lauck,1993,32:55,M,18.09.2022,Saarbrücken,10,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
+LTF Marpingen,10 km Str.,Samuel,Schu,1993,32:19,M,12.11.2022,Langsur,7,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
+LLG Wustweiler,10 km Str.,Maximilian,Gebhard,2000,32:48,M,18.09.2022,Saarbrücken,8,False,9fc9c69a52e2f6219ddf6268313762614cbdcf01f6adc00176d2f5ee20c4d7a8
+LSG Sbr.-Sulzbachtal,10 km Str.,Florian,Lauck,1993,32:55,M,18.09.2022,Saarbrücken,9,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
+LLG Wustweiler,10 km Str.,Philippe,Weingarth,1984,32:58,M,18.09.2022,Saarbrücken,10,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
 LLG Wustweiler,10 km Str. Ma.,Christopher,Klesen,1997,1:37:16,M,18.09.2022,Saarbrücken,1,True,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
 LLG Wustweiler,10 km Str. Ma.,Maximilian,Gebhard,2000,1:37:16,M,18.09.2022,Saarbrücken,1,True,9fc9c69a52e2f6219ddf6268313762614cbdcf01f6adc00176d2f5ee20c4d7a8
 LLG Wustweiler,10 km Str. Ma.,Philippe,Weingarth,1984,1:37:16,M,18.09.2022,Saarbrücken,1,True,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
@@ -142,25 +142,22 @@ LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Andreas,Vonerden,1976,1:59:17,M,02.10.2022,S
 TV Ludweiler,10 km Str. Ma.,Christoph,Bach,1982,2:00:14,M,02.10.2022,Saarbrücken,7,True,53bf1ba9cab95fbf33ecc821250252d53b2cf4e018518cd191a5da12a1295116
 TV Ludweiler,10 km Str. Ma.,Patrick,Franz,1979,2:00:14,M,02.10.2022,Saarbrücken,7,True,75de4dcdbae38c34cd7ebb1a8d9c885b410d4f8032f222fc9e239fe31cbf72c6
 TV Ludweiler,10 km Str. Ma.,Andreas,Schneider,1980,2:00:14,M,02.10.2022,Saarbrücken,7,True,c0d0ee302ac22cf5fb3164916e2e6cd624637e5acba5bc332603c9e1fdee2894
-LC Rehlingen,10 km Str. Ma.,Norbert,Baldauf,1969,2:01:35,M,27.11.2022,Saarbrücken,8,True,c06f58f233b29d793601d2bd8d5332837e17c3d5ff262ef14febc3d80f66fdaa
-LC Rehlingen,10 km Str. Ma.,Antonio,Squillace,1970,2:01:35,M,27.11.2022,Saarbrücken,8,True,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
-LC Rehlingen,10 km Str. Ma.,Jörg,Dietrich,1954,2:01:35,M,27.11.2022,Saarbrücken,8,True,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
-LTF Theeltal,10 km Str. Ma.,Nico,Noss,1992,2:05:15,M,27.11.2022,Saarbrücken,9,True,0a56f7d698ebba3c7f18067c98f39e2ad77485fbf4e363f3715d1608eae86e92
-LTF Theeltal,10 km Str. Ma.,Sascha,Kammer,1980,2:05:15,M,27.11.2022,Saarbrücken,9,True,e529bd62fdc07b602fab66a4909e386bc77ad27bcfc89797973f69b18afea4e6
-LTF Theeltal,10 km Str. Ma.,André,Kronberg,1977,2:05:15,M,27.11.2022,Saarbrücken,9,True,6831b992c29360e5526573b0a7e2b1860a8dd15eff97e7baaaa1aadbcf1ca392
-Grojos LTF Elversberg,10 km Str. Ma.,Joachim,Groß,1965,2:06:31,M,27.11.2022,Saarbrücken,10,True,2f492973081db66e34aa75cac4189dcb8b035d6f09aee0fe16d3234f882c0ebf
-Grojos LTF Elversberg,10 km Str. Ma.,Stefan,Nieweling,1965,2:06:31,M,27.11.2022,Saarbrücken,10,True,fd906530501f785b5b70b827ee5b354ab460d47ce63b96503233a23845748ad7
-Grojos LTF Elversberg,10 km Str. Ma.,Roman,Schmitt,1967,2:06:31,M,27.11.2022,Saarbrücken,10,True,a25c65b82f60fe5b8874ef847527cb2d30d1f8eb75f9bdc3e27775325b7fc937
+LC Rehlingen,10 km Str. Ma.,Norbert,Baldauf,1969,2:09:19,M,18.09.2022,Saarbrücken,8,True,c06f58f233b29d793601d2bd8d5332837e17c3d5ff262ef14febc3d80f66fdaa
+LC Rehlingen,10 km Str. Ma.,Jürgen,Marx,1966,2:09:19,M,18.09.2022,Saarbrücken,8,True,6a5cb3ff9ec0340eafe65a6381e504e6416e97ba24ed8625efe27feb1f4985ca
+LC Rehlingen,10 km Str. Ma.,Reiner,Gier,1963,2:09:19,M,18.09.2022,Saarbrücken,8,True,48c5f91bb59d855af43664338721231077c1dc473d624205b9b5eb16e711c99a
+LA Team Saar,10 km Str. Ma.,Thomas,Strobel,1967,2:17:58,M,18.09.2022,Saarbrücken,9,True,f33258e2e9925c3042227e2197fea4df5978f9b00e5e0d45e9b34f3b01f8339f
+LA Team Saar,10 km Str. Ma.,Andreas,Hauck,1965,2:17:58,M,18.09.2022,Saarbrücken,9,True,a58e3e4818044c94f2aa50348d6270ef0dda5008a8dee352d6c536b7a084fa84
+LA Team Saar,10 km Str. Ma.,Michael,Klahm,1969,2:17:58,M,18.09.2022,Saarbrücken,9,True,c0eb270a5e5caf37b4209a1934572bcea7a19b219dfcff2ae92b1a8a1505d7c9
 LC Rehlingen,Halbmarathon,Richard,Ringer,1989,1:02:55,M,20.03.2022,New York/USA,1,False,bf82e029327bf1a49a202ec20e1336081a1d7b9fbccb39b1c2121c7ac5e4fe0f
 LC Rehlingen,Halbmarathon,Tobias,Blum,1995,1:05:21,M,25.09.2022,Ulm,2,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LC Rehlingen,Halbmarathon,Alexander,Bock,1992,1:11:25,M,20.03.2022,Saarbrücken,3,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LLG Wustweiler,Halbmarathon,Christopher,Klesen,1997,1:11:26,M,20.03.2022,Saarbrücken,4,False,c22717ba3ed270e423ade4e2012cb99ed6db629d2fc6e097a0f82683b6c47aee
 LLG Wustweiler,Halbmarathon,Philippe,Weingarth,1984,1:12:12,M,20.03.2022,Saarbrücken,5,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
 TuS Ormesheim,Halbmarathon,Torsten,Jacob,1985,1:12:52,M,20.03.2022,Saarbrücken,6,False,fed24213b4f65873034475465197d0e1b0d1d538b19521d839a11229240eceba
-LLG Wustweiler,Halbmarathon,Giuseppe,Sardo,1990,1:13:36,M,20.03.2022,Saarbrücken,7,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
-LAZ Saarbrücken,Halbmarathon,Florian,Weyerhäuser,1994,1:13:43,M,20.03.2022,Saarbrücken,8,False,6b3bd68fa69e966c8c3bf964f74d9b8598873ef91b26c1aafaeaa3de8621554f
-LAZ Saarbrücken,Halbmarathon,Till,Speicher,1994,1:13:46,M,16.10.2022,Saarbrücken,9,False,4304040804d441714205dac6fda9277cd3161dc77fe4f2655552f8a2f632850b
-LC Rehlingen,Halbmarathon,Marc,Schumacher,2002,1:14:02,M,20.03.2022,Saarbrücken,10,False,ed554a526129c1a7bcb7eba9823204339997f893cf5a0637584616655d095a2b
+LAZ Saarbrücken,Halbmarathon,Lukas,Pietrek,1995,1:13:09,M,16.10.2022,Saarbrücken,7,False,e063822f8f75cd269c457a59b23cd221bd3672a924a59e81e4df85fa81376f5a
+LLG Wustweiler,Halbmarathon,Giuseppe,Sardo,1990,1:13:36,M,20.03.2022,Saarbrücken,8,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
+LAZ Saarbrücken,Halbmarathon,Florian,Weyerhäuser,1994,1:13:43,M,20.03.2022,Saarbrücken,9,False,6b3bd68fa69e966c8c3bf964f74d9b8598873ef91b26c1aafaeaa3de8621554f
+LAZ Saarbrücken,Halbmarathon,Till,Speicher,1994,1:13:46,M,16.10.2022,Saarbrücken,10,False,4304040804d441714205dac6fda9277cd3161dc77fe4f2655552f8a2f632850b
 LC Rehlingen,Halbmarathon Ma.,Tobias,Blum,1995,3:30:55,M,20.03.2022,Saarbrücken,1,True,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LC Rehlingen,Halbmarathon Ma.,Alexander,Bock,1992,3:30:55,M,20.03.2022,Saarbrücken,1,True,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LC Rehlingen,Halbmarathon Ma.,Marc,Schumacher,2002,3:30:55,M,20.03.2022,Saarbrücken,1,True,ed554a526129c1a7bcb7eba9823204339997f893cf5a0637584616655d095a2b
@@ -192,15 +189,15 @@ LTF Theeltal,Halbmarathon Ma.,Klaus-Peter,Sünnen,1982,4:36:09,M,20.03.2022,Saar
 LTF Theeltal,Halbmarathon Ma.,Timo,Maurer,1970,4:36:09,M,20.03.2022,Saarbrücken,10,True,365df6bcdd45c35e957253e56daff3cb5444fbe2e58cd9a4cbd975af53a80b06
 LTF Theeltal,Halbmarathon Ma.,Thomas,Morgott,1972,4:36:09,M,20.03.2022,Saarbrücken,10,True,04c150eee615b7017590d47cdbbfa9c256477f9008c7d0c0ca5856b7731838b4
 LC Rehlingen,Marathon,Richard,Ringer,1989,2:10:21,M,15.08.2022,München,1,False,bf82e029327bf1a49a202ec20e1336081a1d7b9fbccb39b1c2121c7ac5e4fe0f
-TuS Ormesheim,Marathon,Torsten,Jacob,1985,2:37:37,M,24.04.2022,Hamburg,2,False,fed24213b4f65873034475465197d0e1b0d1d538b19521d839a11229240eceba
-LC Rehlingen,Marathon,Marc,Schumacher,2002,2:42:59,M,08.05.2022,St. Wendel,3,False,ed554a526129c1a7bcb7eba9823204339997f893cf5a0637584616655d095a2b
-LTF Marpingen,Marathon,Samuel,Schu,1993,2:44:13,M,08.05.2022,St. Wendel,4,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
-LLG Wustweiler,Marathon,Giuseppe,Sardo,1990,2:47:32,M,08.05.2022,St. Wendel,5,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
-TV Saarwellingen,Marathon,Rainer,Augustin,1980,2:49:27,M,24.04.2022,Hamburg,6,False,6c046660c657cea431c89ff9da785dd27bf17f7796f7388076b60316651e88fc
-LLG Wustweiler,Marathon,Daniel,Weber,1988,2:50:02,M,08.05.2022,St. Wendel,7,False,a23447c7157e7896883aa469405dd889be5ce338d4c1216455fb3ea66a2d7f85
-TuS Ormesheim,Marathon,Nico,Deckarm,2000,2:50:42,M,24.04.2022,Hamburg,8,False,61aaf68494c9374277e7640bd1937c58bf69abd36fd2dfe870e4aa38da5d0157
-LLG Wustweiler,Marathon,Philippe,Weingarth,1984,2:51:58,M,08.05.2022,St. Wendel,9,False,27ff8a5f2a57d4d8f0cc9447f1e0d19b2cbebe6c4d850380aeffe5214d721885
-LTF Theeltal,Marathon,Thomas,Detzen,1979,2:52:15,M,02.10.2022,Köln,10,False,c926c5ca5e79704368d1f6d7def8465da95cdbf49ea15c1bc7db166de163155c
+LC Rehlingen,Marathon,Tobias,Blum,1995,2:16:24,M,02.10.2022,Köln,2,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
+LC Rehlingen,Marathon,Alexander,Bock,1992,2:29:08,M,02.10.2022,Köln,3,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
+TuS Ormesheim,Marathon,Torsten,Jacob,1985,2:37:37,M,24.04.2022,Hamburg,4,False,fed24213b4f65873034475465197d0e1b0d1d538b19521d839a11229240eceba
+LC Rehlingen,Marathon,Marc,Schumacher,2002,2:42:59,M,08.05.2022,St. Wendel,5,False,ed554a526129c1a7bcb7eba9823204339997f893cf5a0637584616655d095a2b
+LTF Marpingen,Marathon,Samuel,Schu,1993,2:44:13,M,08.05.2022,St. Wendel,6,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
+LLG Wustweiler,Marathon,Giuseppe,Sardo,1990,2:47:32,M,08.05.2022,St. Wendel,7,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
+TV Saarwellingen,Marathon,Rainer,Augustin,1980,2:49:27,M,24.04.2022,Hamburg,8,False,6c046660c657cea431c89ff9da785dd27bf17f7796f7388076b60316651e88fc
+LLG Wustweiler,Marathon,Daniel,Weber,1988,2:50:02,M,08.05.2022,St. Wendel,9,False,a23447c7157e7896883aa469405dd889be5ce338d4c1216455fb3ea66a2d7f85
+TuS Ormesheim,Marathon,Nico,Deckarm,2000,2:50:42,M,24.04.2022,Hamburg,10,False,61aaf68494c9374277e7640bd1937c58bf69abd36fd2dfe870e4aa38da5d0157
 LC Rehlingen,Marathon Ma.,Tobias,Blum,1995,7:44:04,M,02.10.2022,Köln,1,True,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LC Rehlingen,Marathon Ma.,Alexander,Bock,1992,7:44:04,M,02.10.2022,Köln,1,True,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LC Rehlingen,Marathon Ma.,Frederik,Jakob,1996,7:44:04,M,02.10.2022,Köln,1,True,fff01b805fde3ec083e63a60e77ecc87e3110f930e80b9caf4ae49c961838901
@@ -217,7 +214,7 @@ LC Rehlingen,100 km,Alexander,Bock,1992,6:34:40,M,27.08.2022,Berlin/Bernau,1,Fal
 SV GO! Saar 05,110 m Hürden 1.067m,Alexander,Jung,1999,"14,68",M,15.05.2022,Lubbock/USA,1,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
 LV Merzig,110 m Hürden 1.067m,Samuel,Werner,2000,"16,85",M,14.05.2022,Saarlouis,2,False,2bd7e6768396c20cd3928d22fccea1d03b9bfc0d1c5f37582fa900b07e7c91ca
 LSG Sbr.-Sulzbachtal,3000 m Hindernis 0.914m,Jan Lukas,Becker,1993,"8:45,80",M,30.04.2022,Charlotteville/USA,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
-LSG Schmelz-Hüttersdorf,3000 m Hindernis 0.914m,Jan,Thewes,2002,"9:47,74",M,23.04.2022,Morgantown/USA,2,False,d905224fc59bc51e93455635ccd28dce62cfa11fb1ba3ea88edea1abb721a467
+LSG Schmelz-Hüttersdorf,3000 m Hindernis 0.914m,Jan,Thewes,2002,"9:49,62",M,21.05.2022,Karlsruhe,2,False,d905224fc59bc51e93455635ccd28dce62cfa11fb1ba3ea88edea1abb721a467
 LC Rehlingen,4 x 100 m Staffel,Fabian,Feld,1994,"44,97",M,22.05.2022,Rehlingen,1,True,4795c6ffc9f0a9fbc1ed1836d6e5265f5dd2c4738520c42ecea5b910b29bf827
 LC Rehlingen,4 x 100 m Staffel,Jonas,Lotz,1993,"44,97",M,22.05.2022,Rehlingen,1,True,5dd0b51c6eedcbe704a30ad785cf53d21c5042b72fb2fd803a8b111308a996e5
 LC Rehlingen,4 x 100 m Staffel,Matthias,Gerner,1999,"44,97",M,22.05.2022,Rehlingen,1,True,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
@@ -268,7 +265,7 @@ LG Bliestal,Hochsprung,Thomas Michael,Barsties,1950,"1,18",M,16.07.2022,Dillinge
 SV GO! Saar 05,Stabhochsprung,Alexander,Jung,1999,"5,01",M,15.05.2022,Lubbock/USA,1,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
 LAC Elm,Stabhochsprung,Tom,Spengler,1997,"4,20",M,04.09.2022,Bad Ems,2,False,b3831c80f594e7fa36ef5c771598cd3d727293afb89066ca0d1ce371430ab921
 LV Merzig,Stabhochsprung,Samuel,Werner,2000,"3,80",M,16.06.2022,Püttlingen,3,False,2bd7e6768396c20cd3928d22fccea1d03b9bfc0d1c5f37582fa900b07e7c91ca
-LV Merzig,Stabhochsprung,Tilman,Neises,1994,"3,20",M,04.06.2022,Schwabach,4,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
+LA Team Saar,Stabhochsprung,Tilman,Neises,1994,"3,20",M,04.06.2022,Schwabach,4,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
 SV GO! Saar 05,Weitsprung,Alexander,Jung,1999,"6,70",M,09.06.2022,Eugene/USA,1,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
 LSG Saarlouis,Weitsprung,Rouven,Näckel,1998,"6,59",M,15.05.2022,Saarlouis,2,False,6d2de2fa3b0a23c1eb29ff5f5c2b3f252529db1489e5055520abe45eb2a44a37
 LC Rehlingen,Weitsprung,Matthias,Gerner,1999,"6,58",M,15.05.2022,Saarlouis,3,False,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
@@ -283,7 +280,7 @@ LC Rehlingen,Dreisprung,Matthias,Gerner,1999,"11,95",M,30.08.2022,Rehlingen,1,Fa
 LG Saar 70,Dreisprung,Luca,Fischer,2002,"11,34",M,04.08.2022,Saarlouis,2,False,6bd27601112c0566aa8f25e7a85578090ec7ac060fdeeaf28c86af71390a8b0e
 LG Berus,Dreisprung,Marcus,Koch,1971,"10,80",M,04.08.2022,Saarlouis,3,False,f0b8d2f8e925a7c25c1a7e3dc1e22e1b12683c1a86e1c9a8696f1fe5596c14c6
 TV Bliesen,Dreisprung,Axel,Horras,1973,"9,25",M,24.06.2022,St. Wendel,4,False,4a87992bf7f8ea9789d30a6b08442df33e8680ae0d76fbbc313e260a52fa6c9d
-LC Rehlingen,Kugelstoß 7.26kg,Valentin,Moll,1999,"18,76",M,08.06.2022,Bergen/NOR,1,False,9e9b765ce0f3aa6ef9990b7098a8274b06ae7748a2d1ab0f74f90ce2c32d2985
+LC Rehlingen,Kugelstoß 7.26kg,Valentin,Moll,1999,"18,75",M,24.06.2022,Berlin,1,False,9e9b765ce0f3aa6ef9990b7098a8274b06ae7748a2d1ab0f74f90ce2c32d2985
 LC Rehlingen,Kugelstoß 7.26kg,Jan,Berg,1998,"14,91",M,30.08.2022,Rehlingen,2,False,01b845006a249e6d1a0eb280447ed11c4651aa956c0027440513d3b5c040f31f
 LC Rehlingen,Kugelstoß 7.26kg,Timo,Spath,2001,"13,47",M,26.05.2022,Duisburg,3,False,9d626dbe661d1ec2cd0a6b348bf385a606c34e2a29595c662fda56d3f645f7a7
 ATSV Saarbrücken,Kugelstoß 7.26kg,Bastian,Lorson,1997,"13,24",M,30.06.2022,Saarbrücken,4,False,4e07c080341051d338061cb3d9e25d44550581c1a50d0d2a1b564da024a04950
@@ -324,12 +321,12 @@ ATSV Saarbrücken,Speerwurf 800 g,Sven,Felder,1991,"41,90",M,16.07.2022,Dillinge
 LG Berus,Speerwurf 800 g,Marcus,Koch,1971,"40,14",M,15.10.2022,Dillingen,10,False,f0b8d2f8e925a7c25c1a7e3dc1e22e1b12683c1a86e1c9a8696f1fe5596c14c6
 SV GO! Saar 05,10-Kampf,Alexander,Jung,1999,7.606,M,14.05.2022,Lubbock/USA,1,False,5bdc2778f6ae562df800777bd641ed493e23359e672aab03e13d1ec4355d51f0
 SV GO! Saar 05,100 m Lauf,Lisa,Maihöfer,1998,"11,94",F,21.05.2022,Rehlingen,1,False,6985247d9bd5782d70d182140d650b54b94b8e30d1ab98317ee94a24b504a4e6
-SV GO! Saar 05,100 m Lauf,Svenja,Jakobs,1998,"11,99",F,06.06.2022,Mannheim,2,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
+LA Team Saar,100 m Lauf,Svenja,Jakobs,1998,"11,99",F,06.06.2022,Mannheim,2,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
 SV GO! Saar 05,100 m Lauf,Abigail,Adjei,1997,"12,03",F,21.05.2022,Rehlingen,3,False,621f15cffb2cea8b9d77315c2c0ed7f774497ec030bf5e1e3bcb8c1638e4575a
 SV GO! Saar 05,100 m Lauf,Lea,Halmans,1999,"12,35",F,21.05.2022,Rehlingen,4,False,4b262da166771bc8e35f25008b23e8f8095d349a7a3618a1774c8fc45dcb57b8
 LG Berus,100 m Lauf,Sina,Vervin,1997,"12,44",F,21.05.2022,Rehlingen,5,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LC Rehlingen,100 m Lauf,Dionne,Schnubel,2002,"12,53",F,03.05.2022,Rehlingen,6,False,281eb222ddef16422817a7f0a2e1eae232ec2eef2d5e17ee5d1c78511349c23c
-LC Rehlingen,100 m Lauf,Anabel,Motsch,2001,"12,76",F,21.05.2022,Rehlingen,7,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
+LA Team Saar,100 m Lauf,Anabel,Motsch,2001,"12,76",F,21.05.2022,Rehlingen,7,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 SV GO! Saar 05,100 m Lauf,Katharina,Jakob,1990,"12,97",F,04.06.2022,Zeven,8,False,4cca1b34f28929f0f6dfe4925ed42a1c55ed3748c4a463437210e9d4e1cb8d23
 TV Elm,100 m Lauf,Annika,Fendel,2001,"13,11",F,21.05.2022,Rehlingen,9,False,73aa056430b2582226c0d525c6f0ad201d0916d0b0c196557deecb93222046a5
 LC Rehlingen,100 m Lauf,Celina,Rolgeiser,2000,"13,26",F,03.05.2022,Rehlingen,10,False,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
@@ -337,9 +334,9 @@ SV GO! Saar 05,200 m Lauf,Laura,Müller,1995,"23,55",F,05.06.2022,Regensburg,1,F
 SV GO! Saar 05,200 m Lauf,Lisa,Maihöfer,1998,"24,77",F,15.05.2022,Zweibrücken,2,False,6985247d9bd5782d70d182140d650b54b94b8e30d1ab98317ee94a24b504a4e6
 LC Rehlingen,200 m Lauf,Marsha,Dunkel,1995,"25,38",F,24.07.2022,Ludwigshafen,3,False,1825330b2af919504e4d5c757c7965225db27fad9f08c19df3cd10a369fac792
 SV GO! Saar 05,200 m Lauf,Abigail,Adjei,1997,"25,57",F,15.05.2022,Zweibrücken,4,False,621f15cffb2cea8b9d77315c2c0ed7f774497ec030bf5e1e3bcb8c1638e4575a
-SV GO! Saar 05,200 m Lauf,Svenja,Jakobs,1998,"25,64",F,04.08.2022,Saarlouis,5,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
+LA Team Saar,200 m Lauf,Svenja,Jakobs,1998,"25,64",F,04.08.2022,Saarlouis,5,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
 LG Berus,200 m Lauf,Sina,Vervin,1997,"25,68",F,22.05.2022,Rehlingen,6,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
-LG Berus,200 m Lauf,Anabel,Motsch,2001,"26,36",F,22.05.2022,Rehlingen,7,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
+LA Team Saar,200 m Lauf,Anabel,Motsch,2001,"26,36",F,22.05.2022,Rehlingen,7,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 LAZ Saarbrücken,200 m Lauf,Lisa,Schuler,2001,"26,64",F,14.07.2022,Saarbrücken,8,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LC Rehlingen,200 m Lauf,Dionne,Schnubel,2002,"26,97",F,11.06.2022,Wetzlar,9,False,281eb222ddef16422817a7f0a2e1eae232ec2eef2d5e17ee5d1c78511349c23c
 TV Elm,200 m Lauf,Annika,Fendel,2001,"27,32",F,02.07.2022,Püttlingen,10,False,73aa056430b2582226c0d525c6f0ad201d0916d0b0c196557deecb93222046a5
@@ -354,7 +351,7 @@ LSG Sbr.-Sulzbachtal,400 m Lauf,Siu Ying,Mok,2002,"71,55",F,07.07.2022,Saarbrüc
 LAC Saarlouis,400 m Lauf,Julie,Thieser,2001,"71,88",F,04.08.2022,Saarlouis,9,False,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
 LSG Sbr.-Sulzbachtal,800 m Lauf,Christina,Laubenstein,1997,"2:17,47",F,21.05.2022,Melle,1,False,cd67fe01b84d0ece1d77b35053c849e7b6d33c5339629f3572d0ab648f709e73
 LV Merzig,800 m Lauf,Lea,Sanwald,1996,"2:30,71",F,15.05.2022,Saarlouis,2,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
-LV Merzig,800 m Lauf,Janina Sophie,Theobald,2000,"2:34,25",F,22.05.2022,Rehlingen,3,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LA Team Saar,800 m Lauf,Janina Sophie,Theobald,2000,"2:34,25",F,22.05.2022,Rehlingen,3,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
 LV Merzig,800 m Lauf,Laura-Helene,Kiefer,1997,"2:36,51",F,14.07.2022,Saarbrücken,4,False,c6c54fe84b6b475a1faef4af209996c474b8dad895db67ab0a9c44fb1b14d2c6
 LAZ Saarbrücken,800 m Lauf,Lisa,Schuler,2001,"2:38,49",F,03.07.2022,Püttlingen,5,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 TuS 1860 Neunkirchen,800 m Lauf,Isabelle,Schmolzi,1999,"2:41,33",F,03.07.2022,Püttlingen,6,False,a1b6099c74c8c99a4969bbb7ecef54cf0ccf89cf82d5f33d49c421b49a2ec58b
@@ -363,11 +360,11 @@ LAC Saarlouis,800 m Lauf,Tamara,Lutz,1993,"2:43,09",F,27.07.2022,Friedrichsthal,
 TuS 1860 Neunkirchen,800 m Lauf,Michelle,Euschen,1998,"2:44,14",F,03.07.2022,Püttlingen,9,False,62692f721eaa4dcc95cc56c26ed4776e5439b88f7929c4b318b53c187a390633
 LC Rehlingen,800 m Lauf,Claudia,Seel,1972,"2:45,93",F,10.09.2022,Lage,10,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
 LC Rehlingen,1500 m Lauf,Sara,Benfares,2001,"4:11,17",F,15.07.2022,Los Angeles/USA,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
-LC Rehlingen,1500 m Lauf,Vera,Hoffmann,1996,"4:14,86",F,28.05.2022,Ordegem/BEL,2,False,842d5378b973f4b86fea4090ee9672da05fdea6c59126a5b72d12761e82b694e
-LC Rehlingen,1500 m Lauf,Selma,Benfares,1999,"4:16,41",F,30.07.2022,Lier/BEL,3,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
+LC Rehlingen,1500 m Lauf,Selma,Benfares,1999,"4:16,41",F,30.07.2022,Lier/BEL,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
+LC Rehlingen,1500 m Lauf,Vera,Hoffmann,1996,"4:20,75",F,05.06.2022,Rehlingen,3,False,842d5378b973f4b86fea4090ee9672da05fdea6c59126a5b72d12761e82b694e
 LC Rehlingen,1500 m Lauf,Katharina,Welker,2000,"4:54,33",F,18.06.2022,Frankfurt,4,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LV Merzig,1500 m Lauf,Lea,Sanwald,1996,"4:56,56",F,14.07.2022,Saarbrücken,5,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
-LV Merzig,1500 m Lauf,Janina Sophie,Theobald,2000,"5:10,53",F,04.05.2022,Pfungstadt,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LA Team Saar,1500 m Lauf,Janina Sophie,Theobald,2000,"5:10,53",F,04.05.2022,Pfungstadt,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
 LSG Sbr.-Sulzbachtal,1500 m Lauf,Siu Ying,Mok,2002,"5:34,11",F,21.05.2022,Rehlingen,7,False,19326d399ba2b0a8195f6ab36c0367fab9d2e8628c8a94e44e1b5cc66101af48
 LC Rehlingen,1500 m Lauf,Claudia,Seel,1972,"5:38,75",F,07.07.2022,Tampere/FIN,8,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
 LAC Saarlouis,1500 m Lauf,Julie,Thieser,2001,"5:44,71",F,22.09.2022,Saarlouis,9,False,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
@@ -375,7 +372,7 @@ LG Saar 70,1500 m Lauf,Vanessa,Gillmann,2002,"5:46,98",F,22.09.2022,Saarlouis,10
 LC Rehlingen,3000 m Lauf,Sara,Benfares,2001,"8:56,36",F,10.08.2022,Ninove/BEL,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
 LC Rehlingen,3000 m Lauf,Selma,Benfares,1999,"9:17,03",F,18.06.2022,Kuortane/FIN,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 LC Rehlingen,3000 m Lauf,Katharina,Welker,2000,"10:13,67",F,26.05.2022,Duisburg,3,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
-LC Rehlingen,3000 m Lauf,Janina Sophie,Theobald,2000,"10:47,46",F,28.05.2022,Mainz,4,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LA Team Saar,3000 m Lauf,Janina Sophie,Theobald,2000,"10:47,46",F,28.05.2022,Mainz,4,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
 LV Merzig,3000 m Lauf,Lea,Sanwald,1996,"10:55,30",F,30.06.2022,Saarbrücken,5,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
 LC Rehlingen,3000 m Lauf,Claudia,Seel,1972,"11:47,87",F,03.08.2022,Pfungstadt,6,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Lisa-Maria,Kipper,1988,"12:18,01",F,30.06.2022,Saarbrücken,7,False,df07c572e7c28dce9167f3a9a07d2faae3cc6f47cd101aae45ebc138c70a5f92
@@ -383,36 +380,36 @@ LSG Sbr.-Sulzbachtal,3000 m Lauf,Siu Ying,Mok,2002,"12:23,29",F,12.04.2022,Sulzb
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Julia,Klees,1995,"12:37,81",F,12.04.2022,Sulzbach,9,False,b9e5b199d1d405636f493b4cdccff26d221447e57ad7d4370b45c0e908bb8828
 LC Rehlingen,3000 m Lauf,Gabriele,Celette,1956,"13:40,74",F,03.05.2022,Rehlingen,10,False,7dc557c1141823357b051b6079d1fb7224657fdeb020ae75fe27cd65a42e9faa
 LC Rehlingen,5000 m Lauf,Sara,Benfares,2001,"15:20,94",F,18.08.2022,München,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
-LC Rehlingen,5000 m Lauf,Selma,Benfares,1999,"16:14,29",F,25.05.2022,St. Maur/FRA,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
+LC Rehlingen,5000 m Lauf,Selma,Benfares,1999,"16:17,13",F,26.06.2022,Berlin,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 LC Rehlingen,5000 m Lauf,Katharina,Welker,2000,"17:36,11",F,21.05.2022,Karlsruhe,3,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LC Rehlingen,5000 m Lauf,Miriam,Marx,2001,"17:48,37",F,21.05.2022,Karlsruhe,4,False,e6dfe65223850e70bb91dbfe53602706263d5a30ef1344ab94fa9b9cc0c84195
 LV Merzig,5000 m Lauf,Lea,Sanwald,1996,"18:47,08",F,07.07.2022,Saarbrücken,5,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
-LV Merzig,5000 m Lauf,Janina Sophie,Theobald,2000,"18:50,99",F,21.05.2022,Karlsruhe,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
-LV Merzig,5000 m Lauf,Isabell,Mayer,1992,"20:13,00",F,07.07.2022,Saarbrücken,7,False,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
+LA Team Saar,5000 m Lauf,Janina Sophie,Theobald,2000,"18:50,99",F,21.05.2022,Karlsruhe,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LA Team Saar,5000 m Lauf,Isabell,Mayer,1992,"20:13,00",F,07.07.2022,Saarbrücken,7,False,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
 LC Rehlingen,5000 m Lauf,Claudia,Seel,1972,"21:02,0",F,16.07.2022,Dillingen,8,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
 LAG Saarbrücken,5000 m Lauf,Steffi,Meiers,1970,"23:13,89",F,07.07.2022,Saarbrücken,9,False,de1c1df0ea90faa0218cc15ad3eaeccb7563565e608a77228d14b1aa29160070
-LC Rehlingen,5000 m Lauf,Christina,Mezzavilla,1981,"23:19,0",F,16.07.2022,Dillingen,10,False,a8ddedf7850f0e37aa0cf7e1de43b10d4874bd1973c5e1813ec19262e9749f62
 LC Rehlingen,5000 m Lauf,Gabriele,Celette,1956,"23:19,0",F,16.07.2022,Dillingen,10,False,7dc557c1141823357b051b6079d1fb7224657fdeb020ae75fe27cd65a42e9faa
+LC Rehlingen,5000 m Lauf,Christina,Mezzavilla,1981,"23:19,0",F,16.07.2022,Dillingen,10,False,a8ddedf7850f0e37aa0cf7e1de43b10d4874bd1973c5e1813ec19262e9749f62
 LC Rehlingen,10000 m Lauf,Selma,Benfares,1999,"34:02,63",F,02.04.2022,Rehlingen,1,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 LC Rehlingen,10000 m Lauf,Miriam,Marx,2001,"36:57,02",F,02.04.2022,Rehlingen,2,False,e6dfe65223850e70bb91dbfe53602706263d5a30ef1344ab94fa9b9cc0c84195
 LC Rehlingen,10000 m Lauf,Katharina,Welker,2000,"38:31,92",F,07.05.2022,Pliezhausen,3,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LC Rehlingen,10000 m Lauf,Martina,Schumacher,1976,"39:10,95",F,02.04.2022,Rehlingen,4,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
 LV Merzig,10000 m Lauf,Lea,Sanwald,1996,"39:13,04",F,09.09.2022,Trier,5,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
-LV Merzig,10000 m Lauf,Janina Sophie,Theobald,2000,"39:31,15",F,02.04.2022,Rehlingen,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LA Team Saar,10000 m Lauf,Janina Sophie,Theobald,2000,"39:31,15",F,02.04.2022,Rehlingen,6,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
 LTF Theeltal,10000 m Lauf,Marion,Stras,1979,"41:41,18",F,02.04.2022,Rehlingen,7,False,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
 LC Rehlingen,10000 m Lauf,Claudia,Seel,1972,"43:53,19",F,02.04.2022,Rehlingen,8,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
 LLG Wustweiler,10000 m Lauf,Marlene,Rothenbusch,1956,"53:20,01",F,02.04.2022,Rehlingen,9,False,8ea514333a768e128f8a49658a9462ec7cee856cb6c1be629215c5a0cdec08f5
 TV Lebach,10000 m Lauf,Karin,Kapp,1954,"56:04,44",F,02.04.2022,Rehlingen,10,False,c5a773ec60ff0842b872618bbe7ab7f436efff42de5d6209cc56c0c08eb0609a
-LC Rehlingen,5 km Str.,Sara,Benfares,2001,14:58,F,04.12.2022,Hyéres/FRA,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
-LC Rehlingen,5 km Str.,Selma,Benfares,1999,16:11,F,11.12.2022,Thiais/FRA,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
-LC Rehlingen,5 km Str.,Katrin,Marx,2001,17:22,F,31.12.2022,Trier,3,False,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
-LC Rehlingen,5 km Str.,Katharina,Welker,2000,17:56,F,31.12.2022,Trier,4,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
-LC Rehlingen,5 km Str.,Julia,Keck-Brengel,1974,18:19,F,18.09.2022,Saarbrücken,5,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
-LC Rehlingen,5 km Str.,Joelle,Tesche,1978,18:38,F,24.06.2022,Lebach,6,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
-LSG Sbr.-Sulzbachtal,5 km Str.,Christina,Laubenstein,1997,18:49,F,06.03.2022,Leverkusen,7,False,cd67fe01b84d0ece1d77b35053c849e7b6d33c5339629f3572d0ab648f709e73
-LV Merzig,5 km Str.,Lea,Sanwald,1996,19:09,F,24.06.2022,Lebach,8,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
-LV Merzig,5 km Str.,Janina Sophie,Theobald,2000,19:11,F,24.06.2022,Lebach,9,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
-LC Rehlingen,5 km Str.,Martina,Schumacher,1976,19:29,F,18.09.2022,Saarbrücken,10,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
+LC Rehlingen,5 km Str.,Sara,Benfares,2001,15:49,F,20.03.2022,Lille/FRA,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
+LC Rehlingen,5 km Str.,Selma,Benfares,1999,17:12,F,18.09.2022,Saarbrücken,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
+LC Rehlingen,5 km Str.,Katharina,Welker,2000,18:14,F,18.09.2022,Saarbrücken,3,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
+LA Team Saar,5 km Str.,Julia,Keck-Brengel,1974,18:19,F,18.09.2022,Saarbrücken,4,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
+LA Team Saar,5 km Str.,Joelle,Tesche,1978,18:38,F,24.06.2022,Lebach,5,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
+LSG Sbr.-Sulzbachtal,5 km Str.,Christina,Laubenstein,1997,18:49,F,06.03.2022,Leverkusen,6,False,cd67fe01b84d0ece1d77b35053c849e7b6d33c5339629f3572d0ab648f709e73
+LV Merzig,5 km Str.,Lea,Sanwald,1996,19:09,F,24.06.2022,Lebach,7,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
+LA Team Saar,5 km Str.,Janina Sophie,Theobald,2000,19:11,F,24.06.2022,Lebach,8,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
+LC Rehlingen,5 km Str.,Martina,Schumacher,1976,19:29,F,18.09.2022,Saarbrücken,9,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
+LA Team Saar,5 km Str.,Joelle,Schuler,2000,19:30,F,18.09.2022,Saarbrücken,10,False,f5bd37cf28e07abf931b5e8f8282047998061ff04740bf6b14fb579c20fd387b
 SV GO! Saar 05,5 km Str. Ma.,Susanne,Trenz,1969,1:12:36,F,24.06.2022,Lebach,1,True,07445fda9ef83278305cdc50dad71b903347f9c2237919c3c9a674cb47598330
 SV GO! Saar 05,5 km Str. Ma.,Evi,Klahm,1968,1:12:36,F,24.06.2022,Lebach,1,True,d2b7a048cf322b9b1f13ab7ecaf260ce2ea88a42ae94c71743c9e68563e8839a
 SV GO! Saar 05,5 km Str. Ma.,Ayse,Kont,1967,1:12:36,F,24.06.2022,Lebach,1,True,bb6fa37940061453c47ebe4bfa072454e69ee4aff25d4c180d20b757285e1375
@@ -430,14 +427,14 @@ LC Rehlingen,5 km Str. Ma.,Madeleine,Goebel,1976,1:39:11,F,09.10.2022,Saarlouis,
 LC Rehlingen,5 km Str. Ma.,Michaela,Pallier,1972,1:39:11,F,09.10.2022,Saarlouis,5,True,7ace3e552ab8819f258022556a3c848f21e7d70a634957ee53dc5a79dd55126f
 LC Rehlingen,10 km Str.,Sara,Benfares,2001,32:29,F,18.09.2022,Saarbrücken,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
 LC Rehlingen,10 km Str.,Selma,Benfares,1999,34:44,F,18.09.2022,Saarbrücken,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
-LC Rehlingen,10 km Str.,Julia,Keck-Brengel,1974,36:53,F,18.09.2022,Saarbrücken,3,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
+LA Team Saar,10 km Str.,Julia,Keck-Brengel,1974,36:53,F,18.09.2022,Saarbrücken,3,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 LC Rehlingen,10 km Str.,Katharina,Welker,2000,37:05,F,18.09.2022,Saarbrücken,4,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
-LC Rehlingen,10 km Str.,Joelle,Tesche,1978,38:22,F,15.05.2022,Saarbrücken,5,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
+LA Team Saar,10 km Str.,Joelle,Tesche,1978,38:22,F,15.05.2022,Saarbrücken,5,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
 LC Rehlingen,10 km Str.,Martina,Schumacher,1976,38:49,F,18.09.2022,Saarbrücken,6,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
 LA Team Saar,10 km Str.,Joelle,Schuler,2000,39:21,F,18.09.2022,Saarbrücken,7,False,f5bd37cf28e07abf931b5e8f8282047998061ff04740bf6b14fb579c20fd387b
 LA Team Saar,10 km Str.,Janina Sophie,Theobald,2000,39:55,F,18.09.2022,Saarbrücken,8,False,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
-LTF Theeltal,10 km Str.,Marion,Stras,1979,39:55,F,27.11.2022,Saarbrücken,9,False,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
-SV GO! Saar 05,10 km Str.,Ann-Cathrine,Jülch,1989,40:39,F,18.09.2022,Saarbrücken,10,False,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
+SV GO! Saar 05,10 km Str.,Ann-Cathrine,Jülch,1989,40:39,F,18.09.2022,Saarbrücken,9,False,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
+LA Team Saar,10 km Str.,Isabell,Mayer,1992,41:21,F,06.03.2022,Leverkusen,10,False,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
 LC Rehlingen,10 km Str. Ma.,Sara,Benfares,2001,1:42:00,F,18.09.2022,Saarbrücken,1,True,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
 LC Rehlingen,10 km Str. Ma.,Selma,Benfares,1999,1:42:00,F,18.09.2022,Saarbrücken,1,True,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 LC Rehlingen,10 km Str. Ma.,Sofia,Benfares,2004,1:42:00,F,18.09.2022,Saarbrücken,1,True,e8fdfd4b72ace20996e5fa1b8c95f8b7d4ce11a3b1f40ed539a70bb123e72946
@@ -447,34 +444,28 @@ LC Rehlingen,10 km Str. Ma.,Martina,Schumacher,1976,1:52:31,F,18.09.2022,Saarbr�
 LA Team Saar,10 km Str. Ma.,Julia,Keck-Brengel,1974,1:56:09,F,18.09.2022,Saarbrücken,3,True,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 LA Team Saar,10 km Str. Ma.,Joelle,Schuler,2000,1:56:09,F,18.09.2022,Saarbrücken,3,True,f5bd37cf28e07abf931b5e8f8282047998061ff04740bf6b14fb579c20fd387b
 LA Team Saar,10 km Str. Ma.,Janina Sophie,Theobald,2000,1:56:09,F,18.09.2022,Saarbrücken,3,True,c54b3a95f24ceecef8d525d3a6b95193981f398a18162862f16eb8a7ec8cb9bc
-LTF Theeltal,10 km Str. Ma.,Marion,Stras,1979,2:09:00,F,27.11.2022,Saarbrücken,4,True,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
-LTF Theeltal,10 km Str. Ma.,Sarah,Kronberg,1986,2:09:00,F,27.11.2022,Saarbrücken,4,True,9eb22deff6aba8bba7595bcf2cb146be499c0026f5a4452ccb474c8e6c5aed01
-LTF Theeltal,10 km Str. Ma.,Saskia,Kupsch,1990,2:09:00,F,27.11.2022,Saarbrücken,4,True,eccafb393378764b2908b68dc1c61bdd07591accf93540675bbda0f3ab897518
-SV GO! Saar 05,10 km Str. Ma.,Ann-Cathrine,Jülch,1989,2:09:43,F,27.11.2022,Saarbrücken,5,True,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
-SV GO! Saar 05,10 km Str. Ma.,Valérie,Bultel,1992,2:09:43,F,27.11.2022,Saarbrücken,5,True,184f5e5541c46781b9dfffbf8161eb8b1a630b816cde27953513b0f8929aaa4b
-SV GO! Saar 05,10 km Str. Ma.,Evi,Klahm,1968,2:09:43,F,27.11.2022,Saarbrücken,5,True,d2b7a048cf322b9b1f13ab7ecaf260ce2ea88a42ae94c71743c9e68563e8839a
-LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Louisa,Becker,1996,2:16:02,F,18.09.2022,Saarbrücken,6,True,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
-LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Lisa-Maria,Kipper,1988,2:16:02,F,18.09.2022,Saarbrücken,6,True,df07c572e7c28dce9167f3a9a07d2faae3cc6f47cd101aae45ebc138c70a5f92
-LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Paula,John,2004,2:16:02,F,18.09.2022,Saarbrücken,6,True,ccd468d39dff9ed8c2f4f1b9e9c60845baf6ca012bfc9a9aebb4521f03502b07
-LC Rehlingen,10 km Str. Ma.,Claudia,Seel,1972,2:17:32,F,18.09.2022,Saarbrücken,7,True,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
-LC Rehlingen,10 km Str. Ma.,Bettina,Bopp,1966,2:17:32,F,18.09.2022,Saarbrücken,7,True,460fb97d96c89e57500875d064da7c903fb39ffe709aeff0eaa6eaeeca9fd2b1
-LC Rehlingen,10 km Str. Ma.,Galina,Marx,1972,2:17:32,F,18.09.2022,Saarbrücken,7,True,d83c2e7cbaa8ac0dd99d64b5663de76df836eb93482636b139ebfb63c4738c6b
+SV GO! Saar 05,10 km Str. Ma.,Ann-Cathrine,Jülch,1989,2:10:04,F,18.09.2022,Saarbrücken,4,True,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
+SV GO! Saar 05,10 km Str. Ma.,Valérie,Bultel,1992,2:10:04,F,18.09.2022,Saarbrücken,4,True,184f5e5541c46781b9dfffbf8161eb8b1a630b816cde27953513b0f8929aaa4b
+SV GO! Saar 05,10 km Str. Ma.,Sybille,Becker-Oehm,1979,2:10:04,F,18.09.2022,Saarbrücken,4,True,3d6af5baaa4c00e4b5adda3e686da6586a76c51c8ef40469b320a61c1d51ce58
+LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Louisa,Becker,1996,2:16:02,F,18.09.2022,Saarbrücken,5,True,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
+LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Lisa-Maria,Kipper,1988,2:16:02,F,18.09.2022,Saarbrücken,5,True,df07c572e7c28dce9167f3a9a07d2faae3cc6f47cd101aae45ebc138c70a5f92
+LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Paula,John,2004,2:16:02,F,18.09.2022,Saarbrücken,5,True,ccd468d39dff9ed8c2f4f1b9e9c60845baf6ca012bfc9a9aebb4521f03502b07
+LC Rehlingen,10 km Str. Ma.,Claudia,Seel,1972,2:17:32,F,18.09.2022,Saarbrücken,6,True,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
+LC Rehlingen,10 km Str. Ma.,Bettina,Bopp,1966,2:17:32,F,18.09.2022,Saarbrücken,6,True,460fb97d96c89e57500875d064da7c903fb39ffe709aeff0eaa6eaeeca9fd2b1
+LC Rehlingen,10 km Str. Ma.,Galina,Marx,1972,2:17:32,F,18.09.2022,Saarbrücken,6,True,d83c2e7cbaa8ac0dd99d64b5663de76df836eb93482636b139ebfb63c4738c6b
+SV GO! Saar 05,10 km Str. Ma.,Marion,Herzog,1970,2:18:30,F,18.09.2022,Saarbrücken,7,True,6404b78a261cebcf49d526bab6020352203fdbe439da4faafcbc4403ed752ba4
+SV GO! Saar 05,10 km Str. Ma.,Heike,Sausen,1969,2:18:30,F,18.09.2022,Saarbrücken,7,True,a9a96d708fb1ac2d3036101049bbf8af7d514fbcae4ff80021046105926b4e39
+SV GO! Saar 05,10 km Str. Ma.,Evi,Klahm,1968,2:18:30,F,18.09.2022,Saarbrücken,7,True,d2b7a048cf322b9b1f13ab7ecaf260ce2ea88a42ae94c71743c9e68563e8839a
 LLG Wustweiler,10 km Str. Ma.,Heike,Ehl,1990,2:20:49,F,02.10.2022,Saarbrücken,8,True,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
 LLG Wustweiler,10 km Str. Ma.,Stephanie,Dörr,1989,2:20:49,F,02.10.2022,Saarbrücken,8,True,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
 LLG Wustweiler,10 km Str. Ma.,Michelle,Faber,1994,2:20:49,F,02.10.2022,Saarbrücken,8,True,88ef790dd016323c6fd82ac528e5a515f028ffb5915cadd736bd620248344e64
-LAG Saarbrücken,10 km Str. Ma.,Olena,Kuchai,1981,2:21:33,F,27.11.2022,Saarbrücken,9,True,b08c484d1e24c07cac3105ee3b823d5ea6c81001cc0c6da7f91902c85884d75c
-LAG Saarbrücken,10 km Str. Ma.,Sabine,König,1963,2:21:33,F,27.11.2022,Saarbrücken,9,True,e33f4ed17ac7ef154d9e589ec79efb778a8f0b8736295f215bf732b8dabc1486
-LAG Saarbrücken,10 km Str. Ma.,Steffi,Meiers,1970,2:21:33,F,27.11.2022,Saarbrücken,9,True,de1c1df0ea90faa0218cc15ad3eaeccb7563565e608a77228d14b1aa29160070
-SV GO! Saar 05,10 km Str. Ma.,Heike,Sausen,1969,2:23:25,F,27.11.2022,Saarbrücken,10,True,a9a96d708fb1ac2d3036101049bbf8af7d514fbcae4ff80021046105926b4e39
-SV GO! Saar 05,10 km Str. Ma.,Claudia,Lang,1969,2:23:25,F,27.11.2022,Saarbrücken,10,True,36122286e88ee215f003b499ea61977d9824d22682a345a01096737ad7ebe69d
-SV GO! Saar 05,10 km Str. Ma.,Sabine,Köhler,1970,2:23:25,F,27.11.2022,Saarbrücken,10,True,9ee59f6b9c6bf21df982e94607d50fddc25441ea849d9705a4223e19bfbfd3e2
-LTF Theeltal,Halbmarathon,Julia,Keck,1974,1:23:37,F,16.10.2022,Saarbrücken,1,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,Halbmarathon,Julia,Keck,1974,1:23:37,F,16.10.2022,Saarbrücken,1,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
 LC Rehlingen,Halbmarathon,Martina,Schumacher,1976,1:26:59,F,20.03.2022,Saarbrücken,2,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
 Grojos LTF Elversberg,Halbmarathon,Maike,Müller,1991,1:29:05,F,20.03.2022,Saarbrücken,3,False,165009d791dc0ab1f76d2f5c9e7c9f11397038864d196d91e77729d3cecde146
 LLG Wustweiler,Halbmarathon,Laura,Fries,1994,1:30:36,F,20.03.2022,Saarbrücken,4,False,845065de691714e6ee07e33e9f5462dfa6c4d1bdb574f93dffc650a3f4510515
-LLG Wustweiler,Halbmarathon,Isabell,Mayer,1992,1:30:51,F,03.04.2022,Freiburg,5,False,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
+LA Team Saar,Halbmarathon,Isabell,Mayer,1992,1:30:51,F,03.04.2022,Freiburg,5,False,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
 TuS Ormesheim,Halbmarathon,Cornelia,Thon,1984,1:31:15,F,20.03.2022,Saarbrücken,6,False,716edab7f71100e37e1a50565ee0c3e921790db88f11b9a1f669881ce9f02d12
-TuS Ormesheim,Halbmarathon,Joelle,Tesche,1978,1:31:40,F,16.10.2022,Saarbrücken,7,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
+LA Team Saar,Halbmarathon,Joelle,Tesche,1978,1:31:40,F,16.10.2022,Saarbrücken,7,False,3848cfd698e34db1eb8d6e0ba5a4be1b6337b2afd2ed283716b2ba3144911499
 LLG Wustweiler,Halbmarathon,Stephanie,Dörr,1989,1:32:09,F,20.03.2022,Saarbrücken,8,False,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
 SV GO! Saar 05,Halbmarathon,Marion,Herzog,1970,1:32:30,F,20.03.2022,Saarbrücken,9,False,6404b78a261cebcf49d526bab6020352203fdbe439da4faafcbc4403ed752ba4
 LTF Theeltal,Halbmarathon,Marion,Stras,1979,1:33:05,F,20.03.2022,Saarbrücken,10,False,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
@@ -508,16 +499,16 @@ LTF Theeltal,Halbmarathon Ma.,Tina,Schorr,1967,6:36:42,F,02.10.2022,Köln,9,True
 LLG Wustweiler,Halbmarathon Ma.,Christina,Meiser,1970,6:40:29,F,02.10.2022,Köln,10,True,8acab1bdf8d3a1666a23acb0a3c80c251e2e6ed59a20dbc9812695ee46a962b7
 LLG Wustweiler,Halbmarathon Ma.,Nicole,Houy,1976,6:40:29,F,02.10.2022,Köln,10,True,2f8b250cea5489f17c5f6dfcae05443c85bae479266140bd3a84b2cdc7b9b5ee
 LLG Wustweiler,Halbmarathon Ma.,Melanie,Dietz,1980,6:40:29,F,02.10.2022,Köln,10,True,ae89131ac16bec10bb810ff06d08ce07886fa7d534dd55c42fcf9541873f6736
-LLG Wustweiler,Marathon,Julia,Keck-Brengel,1974,2:56:43,F,02.10.2022,Köln,1,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
+LA Team Saar,Marathon,Julia,Keck-Brengel,1974,2:56:43,F,02.10.2022,Köln,1,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 LC Rehlingen,Marathon,Martina,Schumacher,1976,3:00:56,F,09.10.2022,Lissabon/POR,2,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
 LC Rehlingen,Marathon,Tanja,Schmitt,1986,3:11:33,F,08.05.2022,St. Wendel,3,False,ce401e3b1cbff29b057329e665d01aa46c6aa36dbc92f4d9e267564176c729ba
 TuS Ormesheim,Marathon,Cornelia,Thon,1984,3:13:55,F,24.04.2022,Hamburg,4,False,716edab7f71100e37e1a50565ee0c3e921790db88f11b9a1f669881ce9f02d12
-SV GO! Saar 05,Marathon,Ann-Cathrine,Jülch,1989,3:17:15,F,25.09.2022,Berlin,5,False,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
-LLG Wustweiler,Marathon,Stephanie,Dörr,1989,3:17:29,F,24.04.2022,Hamburg,6,False,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
-LLG Wustweiler,Marathon,Laura,Fries,1994,3:18:40,F,24.04.2022,Hamburg,7,False,845065de691714e6ee07e33e9f5462dfa6c4d1bdb574f93dffc650a3f4510515
-SV GO! Saar 05,Marathon,Valérie,Bultel,1992,3:24:12,F,25.09.2022,Berlin,8,False,184f5e5541c46781b9dfffbf8161eb8b1a630b816cde27953513b0f8929aaa4b
-SV GO! Saar 05,Marathon,Franziska,Zimmer-Schönenberger,1973,3:27:34,F,02.10.2022,Köln,9,False,f2c7eeebc01d5a10138dff76d3343c96a2c47dff357b2c91cb733108961c3ff9
-LLG Wustweiler,Marathon,Heike,Ehl,1990,3:34:24,F,30.10.2022,Frankfurt,10,False,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
+LLG Wustweiler,Marathon,Stephanie,Dörr,1989,3:17:29,F,24.04.2022,Hamburg,5,False,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
+LLG Wustweiler,Marathon,Laura,Fries,1994,3:18:40,F,24.04.2022,Hamburg,6,False,845065de691714e6ee07e33e9f5462dfa6c4d1bdb574f93dffc650a3f4510515
+SV GO! Saar 05,Marathon,Valérie,Bultel,1992,3:24:12,F,25.09.2022,Berlin,7,False,184f5e5541c46781b9dfffbf8161eb8b1a630b816cde27953513b0f8929aaa4b
+LA Team Saar,Marathon,Franziska,Zimmer-Schönenberger,1973,3:27:34,F,02.10.2022,Köln,8,False,f2c7eeebc01d5a10138dff76d3343c96a2c47dff357b2c91cb733108961c3ff9
+LLG Wustweiler,Marathon,Heike,Ehl,1990,3:34:24,F,30.10.2022,Frankfurt,9,False,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
+LTF Theeltal,Marathon,Sarah,Kronberg,1986,3:37:32,F,02.10.2022,Köln,10,False,9eb22deff6aba8bba7595bcf2cb146be499c0026f5a4452ccb474c8e6c5aed01
 LLG Wustweiler,Marathon Ma.,Stephanie,Dörr,1989,10:27:01,F,24.06.2022,Hamburg,1,True,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
 LLG Wustweiler,Marathon Ma.,Laura,Fries,1994,10:27:01,F,24.06.2022,Hamburg,1,True,845065de691714e6ee07e33e9f5462dfa6c4d1bdb574f93dffc650a3f4510515
 LLG Wustweiler,Marathon Ma.,Heike,Ehl,1990,10:27:01,F,24.06.2022,Hamburg,1,True,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
@@ -574,9 +565,12 @@ StG Equipe Saar,4 x 100 m Staffel,Christina,Mezzavilla,1981,"69,19",F,21.06.2022
 StG Equipe Saar,4 x 100 m Staffel,Bettina,Bopp,1966,"69,19",F,21.06.2022,Rehlingen,8,True,460fb97d96c89e57500875d064da7c903fb39ffe709aeff0eaa6eaeeca9fd2b1
 StG Equipe Saar,4 x 100 m Staffel,Galina,Marx,1972,"69,19",F,21.06.2022,Rehlingen,8,True,d83c2e7cbaa8ac0dd99d64b5663de76df836eb93482636b139ebfb63c4738c6b
 StG Equipe Saar,4 x 100 m Staffel,Astrid,Schmitz,1970,"69,19",F,21.06.2022,Rehlingen,8,True,f8e549947c79df22d10d36f6e9e012997b03c3d20ddcc63df6c832445674f2df
-LAC Saarlouis,3 x 800 m Staffel,Julie,Thieser,2001,"8:29,36",F,16.06.2022,Püttlingen,1,True,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
-LAC Saarlouis,3 x 800 m Staffel,Zoe,Staudter,2005,"8:29,36",F,16.06.2022,Püttlingen,1,True,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
-LAC Saarlouis,3 x 800 m Staffel,Tamara,Lutz,1993,"8:29,36",F,16.06.2022,Püttlingen,1,True,01a67ba6be619ba8ff97e89ba8358cc5647a7be340a5109b2bb794809230e648
+LC Rehlingen,3 x 800 m Staffel,Emma,Nickels,2005,"7:52,63",F,16.06.2022,Püttlingen,1,True,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
+LC Rehlingen,3 x 800 m Staffel,Adriane,Klakow,2005,"7:52,63",F,16.06.2022,Püttlingen,1,True,100b353c3eb4dccbb4594895115715f59ea4c271179caecb1cdfadb6632716d7
+LC Rehlingen,3 x 800 m Staffel,Anna,Mehle,2004,"7:52,63",F,16.06.2022,Püttlingen,1,True,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
+LAC Saarlouis,3 x 800 m Staffel,Julie,Thieser,2001,"8:29,36",F,16.06.2022,Püttlingen,2,True,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
+LAC Saarlouis,3 x 800 m Staffel,Zoe,Staudter,2005,"8:29,36",F,16.06.2022,Püttlingen,2,True,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
+LAC Saarlouis,3 x 800 m Staffel,Tamara,Lutz,1993,"8:29,36",F,16.06.2022,Püttlingen,2,True,01a67ba6be619ba8ff97e89ba8358cc5647a7be340a5109b2bb794809230e648
 SV GO! Saar 05,Hochsprung,Lea,Halmans,1999,"1,85",F,12.06.2022,Essen,1,False,4b262da166771bc8e35f25008b23e8f8095d349a7a3618a1774c8fc45dcb57b8
 TV Elm,Hochsprung,Annika,Fendel,2001,"1,57",F,02.07.2022,Püttlingen,2,False,73aa056430b2582226c0d525c6f0ad201d0916d0b0c196557deecb93222046a5
 LAZ Saarbrücken,Hochsprung,Michelle,Weitzel,1987,"1,57",F,18.09.2022,Erding,3,False,6e630ecae8c6ded3d9917c225798aa01b2ce7212b167a6cdd79d97c8296f55d5
@@ -588,7 +582,7 @@ TV Germania 1910 Piesbach,Hochsprung,Yvonne,Maas,2002,"1,45",F,15.05.2022,Saarlo
 TV St. Wendel,Hochsprung,Annika,Schopper,1996,"1,42",F,05.06.2022,Limburgerhof,9,False,cdb62f54bdb4d780b8c7c7b5f2244a63c9ae7998ce02f79e00c06978e9fef538
 TuS 1860 Neunkirchen,Hochsprung,Michelle,Euschen,1998,"1,36",F,02.07.2022,Püttlingen,10,False,62692f721eaa4dcc95cc56c26ed4776e5439b88f7929c4b318b53c187a390633
 TuS 1860 Neunkirchen,Hochsprung,Isabelle,Schmolzi,1999,"1,36",F,02.07.2022,Püttlingen,10,False,a1b6099c74c8c99a4969bbb7ecef54cf0ccf89cf82d5f33d49c421b49a2ec58b
-SC Friedrichsthal,Stabhochsprung,Annegret,Hämsch,1968,"1,60",F,11.09.2022,Niesky,1,False,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
+LA Team Saar,Stabhochsprung,Annegret,Hämsch,1968,"1,60",F,11.09.2022,Niesky,1,False,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
 SV GO! Saar 05,Weitsprung,Lea,Halmans,1999,"6,19",F,24.07.2022,Ludwigshafen,1,False,4b262da166771bc8e35f25008b23e8f8095d349a7a3618a1774c8fc45dcb57b8
 TV St. Wendel,Weitsprung,Annika,Schopper,1996,"5,68",F,24.06.2022,St. Wendel,2,False,cdb62f54bdb4d780b8c7c7b5f2244a63c9ae7998ce02f79e00c06978e9fef538
 SV GO! Saar 05,Weitsprung,Saskia,Woidy,2001,"5,50",F,28.05.2022,Weinheim,3,False,4f0f2411e768305c5a7be2eb20969f14c936edd78be1c35432189b47035dd6b0
@@ -598,40 +592,40 @@ LAZ Saarbrücken,Weitsprung,Michelle,Weitzel,1987,"5,16",F,18.09.2022,Erding,6,F
 LC Rehlingen,Weitsprung,Celina,Rolgeiser,2000,"5,07",F,15.05.2022,Saarlouis,7,False,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
 TV Elm,Weitsprung,Annika,Fendel,2001,"5,06",F,15.05.2022,Saarlouis,8,False,73aa056430b2582226c0d525c6f0ad201d0916d0b0c196557deecb93222046a5
 TV Germania 1910 Piesbach,Weitsprung,Yvonne,Maas,2002,"4,90",F,15.05.2022,Saarlouis,9,False,0e867c2e25dcce34e6fad619d803fe2a54b1667b0ba54595983f8ad7808ea169
-TV Germania 1910 Piesbach,Weitsprung,Julia,Motsch,1999,"4,87",F,21.05.2022,Rehlingen,10,False,ff0d6585df2094300b73caf1b358c6cc6ff1683e22a5e569b441553f4f69a115
+LA Team Saar,Weitsprung,Julia,Motsch,1999,"4,87",F,21.05.2022,Rehlingen,10,False,ff0d6585df2094300b73caf1b358c6cc6ff1683e22a5e569b441553f4f69a115
 LC Rehlingen,Dreisprung,Celina,Rolgeiser,2000,"11,38",F,30.08.2022,Rehlingen,1,False,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
 LAZ Saarbrücken,Dreisprung,Lisa,Schuler,2001,"10,73",F,22.05.2022,Rehlingen,2,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
-LAZ Saarbrücken,Dreisprung,Julia,Motsch,1999,"10,48",F,22.05.2022,Rehlingen,3,False,ff0d6585df2094300b73caf1b358c6cc6ff1683e22a5e569b441553f4f69a115
-LAZ Saarbrücken,Dreisprung,Sophie Muriel,Herget,2001,"10,46",F,22.05.2022,Rehlingen,4,False,98d2da48e4316824720fe6c3a70ebb1b6e60806e8668172dcde4f81f48beb2f2
+LA Team Saar,Dreisprung,Julia,Motsch,1999,"10,48",F,22.05.2022,Rehlingen,3,False,ff0d6585df2094300b73caf1b358c6cc6ff1683e22a5e569b441553f4f69a115
+LA Team Saar,Dreisprung,Sophie Muriel,Herget,2001,"10,46",F,22.05.2022,Rehlingen,4,False,98d2da48e4316824720fe6c3a70ebb1b6e60806e8668172dcde4f81f48beb2f2
 TV Germania 1910 Piesbach,Dreisprung,Yvonne,Maas,2002,"9,92",F,30.08.2022,Rehlingen,5,False,0e867c2e25dcce34e6fad619d803fe2a54b1667b0ba54595983f8ad7808ea169
 LG Saar 70,Dreisprung,Janina,Triesch,2001,"9,25",F,30.08.2022,Rehlingen,6,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
-LG Saar 70,Dreisprung,Annegret,Hämsch,1968,"8,28",F,04.08.2022,Saarlouis,7,False,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
+LA Team Saar,Dreisprung,Annegret,Hämsch,1968,"8,28",F,04.08.2022,Saarlouis,7,False,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
 LC Rehlingen,Kugelstoß 4 kg,Alisha,Biwer,1998,"12,40",F,21.05.2022,Rehlingen,1,False,8d7100e86be22d29827c50b393258b1ff1ee0597d96a881a8b72ac8eec1b48e5
 LC Rehlingen,Kugelstoß 4 kg,Stella,Clemens,1997,"11,93",F,21.05.2022,Rehlingen,2,False,d732b6da88b20ad7847c21c087a497dcadc7ae51e0d440d33b5299ea6fcfb86d
 TV St. Wendel,Kugelstoß 4 kg,Annika,Schopper,1996,"11,29",F,02.07.2022,Püttlingen,3,False,cdb62f54bdb4d780b8c7c7b5f2244a63c9ae7998ce02f79e00c06978e9fef538
 LAF Merchweiler,Kugelstoß 4 kg,Franziska,Will,2002,"11,00",F,21.05.2022,Rehlingen,4,False,86c15803c5c74d375f2e0e3e08f9774a036672f7e4273c39cb0674505743a3b2
 LSG Sbr.-Sulzbachtal,Kugelstoß 4 kg,Jessica Lorena,Josch,1994,"11,00",F,04.06.2022,Schwabach,5,False,dc84fc563cd8d6977e146dd1b2ece8c14efcce1a133a8d8aa387938cf51f901c
-LSG Sbr.-Sulzbachtal,Kugelstoß 4 kg,Lara,Arand,2000,"10,79",F,21.05.2022,Rehlingen,6,False,8f911da45b5718b8682d222db0311571d1b2cf08492431c206147cc9e9cc89e3
+LA Team Saar,Kugelstoß 4 kg,Lara,Arand,2000,"10,79",F,21.05.2022,Rehlingen,6,False,8f911da45b5718b8682d222db0311571d1b2cf08492431c206147cc9e9cc89e3
 LG Berus,Kugelstoß 4 kg,Sina,Vervin,1997,"10,72",F,11.04.2022,Überherrn,7,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LAC Saarlouis,Kugelstoß 4 kg,Jeannette,Kirch,1979,"9,91",F,16.07.2022,Dillingen,8,False,328a607c8143759b60b999b3c7d5a31ff2347169163ef1ab5d66b748e0e6394a
-LAC Saarlouis,Kugelstoß 4 kg,Alrun,Frings,1993,"9,86",F,09.10.2022,Überherrn,9,False,51e836831c01eb6d56f1556eeb0928b6721738bd0df50c140bfe45e3f24d66ce
+LA Team Saar,Kugelstoß 4 kg,Alrun,Frings,1993,"9,86",F,09.10.2022,Überherrn,9,False,51e836831c01eb6d56f1556eeb0928b6721738bd0df50c140bfe45e3f24d66ce
 TV Elm,Kugelstoß 4 kg,Annika,Fendel,2001,"9,71",F,21.05.2022,Rehlingen,10,False,73aa056430b2582226c0d525c6f0ad201d0916d0b0c196557deecb93222046a5
 LAC Saarlouis,Diskuswurf 1 kg,Kristin,Stickdorn,2000,"42,77",F,02.04.2022,Princeton/USA,1,False,b527e6ab8b39bf29979f66f3f642411817b838fcd0effcbb8f4a4ac779ebe757
 LC Rehlingen,Diskuswurf 1 kg,Alexandra,Jenner,2000,"41,92",F,08.10.2022,Rehlingen,2,False,507e89aa9fccb950eb26dd2233dd251900fa522726b765f6e6640d46865f38d7
 LC Rehlingen,Diskuswurf 1 kg,Alisha,Biwer,1998,"38,54",F,30.04.2022,Merzig,3,False,8d7100e86be22d29827c50b393258b1ff1ee0597d96a881a8b72ac8eec1b48e5
-LC Rehlingen,Diskuswurf 1 kg,Christine,Ecker,1964,"36,03",F,05.07.2022,Tampere/FIN,4,False,ba7b618088dcee81bf83ec61a8352b4598d879cd4e38ae57610b507182b9fce3
+LA Team Saar,Diskuswurf 1 kg,Christine,Ecker,1964,"36,03",F,05.07.2022,Tampere/FIN,4,False,ba7b618088dcee81bf83ec61a8352b4598d879cd4e38ae57610b507182b9fce3
 LC Rehlingen,Diskuswurf 1 kg,Stella,Clemens,1997,"35,95",F,21.05.2022,Rehlingen,5,False,d732b6da88b20ad7847c21c087a497dcadc7ae51e0d440d33b5299ea6fcfb86d
 LC Rehlingen,Diskuswurf 1 kg,Margret,Klein-Raber,1964,"32,23",F,08.10.2022,Rehlingen,6,False,dd3997d1c9d2f65b570177918aaa072e381240d34a61181db25dd92984b44e46
 TV St. Wendel,Diskuswurf 1 kg,Annika,Schopper,1996,"31,56",F,24.06.2022,St. Wendel,7,False,cdb62f54bdb4d780b8c7c7b5f2244a63c9ae7998ce02f79e00c06978e9fef538
 LC Rehlingen,Diskuswurf 1 kg,Anke,Rehlinger,1976,"31,36",F,21.06.2022,Rehlingen,8,False,79f1f00e57806a4a885a1fc78c880a3090d80effb64c84a4baffcbe05742a1a8
-LC Rehlingen,Diskuswurf 1 kg,Lara,Arand,2000,"30,41",F,21.05.2022,Rehlingen,9,False,8f911da45b5718b8682d222db0311571d1b2cf08492431c206147cc9e9cc89e3
+LA Team Saar,Diskuswurf 1 kg,Lara,Arand,2000,"30,41",F,21.05.2022,Rehlingen,9,False,8f911da45b5718b8682d222db0311571d1b2cf08492431c206147cc9e9cc89e3
 LG Berus,Diskuswurf 1 kg,Sina,Vervin,1997,"29,80",F,07.10.2022,Überherrn,10,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LC Rehlingen,Hammerwurf 4 kg,Sophie,Gimmler,1996,"62,15",F,28.05.2022,Rhede,1,False,7a8b6049054e168a948ecf74a5c7b72dfddedf1e60bdfd70a8ccd9af0e24df8c
 LAC Saarlouis,Hammerwurf 4 kg,Kristin,Stickdorn,2000,"53,66",F,09.04.2022,New Haven/USA,2,False,b527e6ab8b39bf29979f66f3f642411817b838fcd0effcbb8f4a4ac779ebe757
 LAC Saarlouis,Hammerwurf 4 kg,Lorena,Hessling,2002,"48,23",F,18.06.2022,Frankfurt,3,False,ae84bc6284876ae3a1730ea4ae188a8a1896efd96532db5b30b63e7182dffc6b
 LAC Saarlouis,Hammerwurf 4 kg,Alexia,Stickdorn,2002,"41,08",F,23.01.2022,Saarbrücken,4,False,53e41b61ec5ad789a792a26dba090d2ddd6bcc6701cfaec3c8e40d1aa4ef1c88
 LSG Sbr.-Sulzbachtal,Hammerwurf 4 kg,Sonja,Wilhelm,1987,"40,09",F,23.07.2022,Ludwigshafen,5,False,2f6344b4c4f9a4cb21c7fdd43db336f39be0835e20118dcb613f7c170b0330bb
-LSG Sbr.-Sulzbachtal,Hammerwurf 4 kg,Alrun,Frings,1993,"34,00",F,09.10.2022,Überherrn,6,False,51e836831c01eb6d56f1556eeb0928b6721738bd0df50c140bfe45e3f24d66ce
+LA Team Saar,Hammerwurf 4 kg,Alrun,Frings,1993,"34,00",F,09.10.2022,Überherrn,6,False,51e836831c01eb6d56f1556eeb0928b6721738bd0df50c140bfe45e3f24d66ce
 LC Rehlingen,Hammerwurf 4 kg,Margret,Klein-Raber,1964,"32,85",F,09.07.2022,Mutterstadt,7,False,dd3997d1c9d2f65b570177918aaa072e381240d34a61181db25dd92984b44e46
 LC Rehlingen,Hammerwurf 4 kg,Simone,Hutmacher-Maßong,1974,"31,41",F,07.05.2022,Rehlingen,8,False,14046667ab7d4331d4f2f65ca628d9320ff295654a84e1233a749f647cebb4c5
 LSG Sbr.-Sulzbachtal,Hammerwurf 4 kg,Lena,Feid,2000,"28,93",F,21.05.2022,Rehlingen,9,False,c0decc91d385cae4b9472cbe00e151395fb1889062795995caec9b98c8cd8f03
@@ -664,7 +658,7 @@ LC Rehlingen,100 m Lauf,Jan,Flesch,2004,"11,64",MU20,07.07.2022,Saarbrücken,4,F
 LC Rehlingen,100 m Lauf,Simon,Marion,2003,"11,83",MU20,30.06.2022,Saarbrücken,5,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LSG Schmelz-Hüttersdorf,100 m Lauf,Lukas,Steffen,2004,"11,89",MU20,02.07.2022,Püttlingen,6,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
 TV St. Wendel,100 m Lauf,Nick,Holzhüter,2003,"12,12",MU20,21.05.2022,Rehlingen,7,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
-TV St. Wendel,100 m Lauf,Florian,Schampel,2004,"12,16",MU20,14.07.2022,Saarbrücken,8,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
+LA Team Saar,100 m Lauf,Florian,Schampel,2004,"12,16",MU20,14.07.2022,Saarbrücken,8,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 TV Bliesen,100 m Lauf,Johannes,Demuth,2004,"12,42",MU20,17.09.2022,Seckenheim,9,False,5318ba425434dce3ecf5e73634803d40f0a61aff71bb497feaf232ab15dd6ee3
 LA Team Saar,100 m Lauf,Dennis,Baldauf,2003,"12,48",MU20,02.07.2022,Püttlingen,10,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
 LAZ Saarbrücken,200 m Lauf,Tim,Vielhauer,2003,"22,37",MU20,22.05.2022,Rehlingen,1,False,73a1cdc6b3f4f5388d950cae7d0ee3850b038905020cfadb54e6964d11c05167
@@ -673,10 +667,10 @@ LC Rehlingen,200 m Lauf,Jan,Flesch,2004,"23,23",MU20,25.06.2022,Schifflange/LUX,
 SC Friedrichsthal,200 m Lauf,Fabian,Singh,2003,"23,36",MU20,22.05.2022,Rehlingen,4,False,c3bf621e86a165215a183e1d553984a75007ca6a80b86ddb5349c68885c62c67
 LC Rehlingen,200 m Lauf,Simon,Marion,2003,"23,38",MU20,22.05.2022,Rehlingen,5,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LSG Schmelz-Hüttersdorf,200 m Lauf,Lukas,Steffen,2004,"24,55",MU20,22.05.2022,Rehlingen,6,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
-LSG Schmelz-Hüttersdorf,200 m Lauf,Florian,Schampel,2004,"24,96",MU20,22.05.2022,Rehlingen,7,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
+LA Team Saar,200 m Lauf,Florian,Schampel,2004,"24,96",MU20,22.05.2022,Rehlingen,7,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 LC Rehlingen,200 m Lauf,Jonas,Klasen,2003,"25,12",MU20,22.05.2022,Rehlingen,8,False,eca4b25ea2e37cffc4dbac24fe08fb73435081842b77e047b95d3795b8fbd9e6
 SV GO! Saar 05,200 m Lauf,Fabian,Henz,2004,"25,42",MU20,30.06.2022,Saarbrücken,9,False,d896063e6e58333602d0423c20ec2f04d856450193c6543d5077f4bac383f2a0
-SV GO! Saar 05,200 m Lauf,Lucas,Dincher,2004,"25,61",MU20,22.05.2022,Rehlingen,10,False,29b470f95c1a1c4fb744bb65533c790fabf87aae2bb1ca7bb90d861bc04eba43
+LA Team Saar,200 m Lauf,Lucas,Dincher,2004,"25,61",MU20,22.05.2022,Rehlingen,10,False,29b470f95c1a1c4fb744bb65533c790fabf87aae2bb1ca7bb90d861bc04eba43
 LC Rehlingen,400 m Lauf,Simon,Marion,2003,"51,88",MU20,15.06.2022,Koblenz,1,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LC Rehlingen,400 m Lauf,Jan,Flesch,2004,"53,25",MU20,15.06.2022,Koblenz,2,False,62223daefebdecccea6b8805f079b0e011eec77e680adac1d4f79f5e92249337
 SC Friedrichsthal,400 m Lauf,Fabian,Singh,2003,"54,12",MU20,07.07.2022,Saarbrücken,3,False,c3bf621e86a165215a183e1d553984a75007ca6a80b86ddb5349c68885c62c67
@@ -694,16 +688,16 @@ LC Rehlingen,800 m Lauf,Abdullah,Alshekaki,2003,"2:29,10",MU20,14.07.2022,Saarbr
 LSG Sbr.-Sulzbachtal,1000 m Lauf,Lucien,Münnich,2004,"2:47,39",MU20,07.07.2022,Saarbrücken,1,False,98984901a7debf603ec75765929dd4e1fc9e658599f061f1e038e22120d7812f
 LSG Sbr.-Sulzbachtal,1500 m Lauf,Lucien,Münnich,2004,"4:25,85",MU20,21.05.2022,Rehlingen,1,False,98984901a7debf603ec75765929dd4e1fc9e658599f061f1e038e22120d7812f
 LSG Sbr.-Sulzbachtal,5000 m Lauf,Manuel,Meyer,2003,"17:45,44",MU20,02.04.2022,Rehlingen,1,False,619e13edd8a39e49c708e1b75dc4bed6b1ae0fd244b059010a73dbca18ce5e8a
-LSG Sbr.-Sulzbachtal,5000 m Lauf,Paul,Gessner,2004,"17:51,74",MU20,07.07.2022,Saarbrücken,2,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
+LA Team Saar,5000 m Lauf,Paul,Gessner,2004,"17:51,74",MU20,07.07.2022,Saarbrücken,2,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
 Tri-Sport/Saar-Hochwald,5000 m Lauf,Benjamin,Lukas,2003,"19:07,59",MU20,02.04.2022,Rehlingen,3,False,eba1e1601c125c1e89c7cd92e7c69a8f8161579a591ebeeb9f832235d5283f7e
 SV GO! Saar 05,5000 m Lauf,Robert,Herrmann,2004,"19:38,61",MU20,07.07.2022,Saarbrücken,4,False,15e24b05d9979afa207414140c9a36d7526263baff210336ee86565d40505188
 LSG Sbr.-Sulzbachtal,5 km Str.,Lucien,Münnich,2004,17:02,MU20,06.03.2022,Leverkusen,1,False,98984901a7debf603ec75765929dd4e1fc9e658599f061f1e038e22120d7812f
-LSG Sbr.-Sulzbachtal,5 km Str.,Paul,Gessner,2004,18:45,MU20,18.09.2022,Saarbrücken,2,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
+LA Team Saar,5 km Str.,Paul,Gessner,2004,18:45,MU20,18.09.2022,Saarbrücken,2,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
 LAZ Saarbrücken,5 km Str.,Philipp,Klein,2004,18:57,MU20,01.11.2022,Hockenheim,3,False,210a19cef063fe3458108c970f2108bffefb2a3007e9abce75f5d9922428e4b6
 LSG Sbr.-Sulzbachtal,5 km Str.,Tom-Lennox,Schneider,2004,20:56,MU20,26.03.2022,Schweich,4,False,e4a646cdcef2635f4b247a46a51211b2cae0d463c1144eb3c31a7168601ada98
 SV GO! Saar 05,5 km Str.,Robert,Herrmann,2004,21:18,MU20,18.09.2022,Saarbrücken,5,False,15e24b05d9979afa207414140c9a36d7526263baff210336ee86565d40505188
 LC Rehlingen,5 km Str.,Benjamin,Villard,2003,23:12,MU20,18.09.2022,Saarbrücken,6,False,3c0a373b316b571b9a0f76c4c82418533b9f475a5cddbb7415f4585652c99931
-LC Rehlingen,10 km Str.,Paul,Gessner,2004,37:58,MU20,02.10.2022,Saarbrücken,1,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
+LA Team Saar,10 km Str.,Paul,Gessner,2004,37:58,MU20,02.10.2022,Saarbrücken,1,False,4413bc895222554ec8a04ea2e99c9a042581ec908e48871d80283af88f820c31
 LC Rehlingen,4 x 100 m Staffel,David,Berson,2006,"46,67",MU20,22.05.2022,Rehlingen,1,True,cb101856828f8b47e6a7a2809c5b26c6c7bad0086dc7a37b0b6893e14f35553d
 LC Rehlingen,4 x 100 m Staffel,Simon,Marion,2003,"46,67",MU20,22.05.2022,Rehlingen,1,True,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LC Rehlingen,4 x 100 m Staffel,Michael,Klauck,2005,"46,67",MU20,22.05.2022,Rehlingen,1,True,5e6354ab58a2df5260fc75275107af1c2a68f9571481311aa7ae220bec659cc6
@@ -745,10 +739,10 @@ LA Team Saar,Hochsprung,Dennis,Baldauf,2003,"1,63",MU20,02.07.2022,Püttlingen,2
 LSG Schmelz-Hüttersdorf,Hochsprung,Lukas,Steffen,2004,"1,48",MU20,02.07.2022,Püttlingen,3,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
 LA Team Saar,Hochsprung,Florian,Schampel,2004,"1,45",MU20,02.07.2022,Püttlingen,4,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 AC Diefflen,Hochsprung,Jan,Fröhlich,2003,"1,36",MU20,02.07.2022,Püttlingen,5,False,1c84e689849d2b540c6cebd084a29899b92b3c93ef0329f6fb4a89b0bdb70596
-AC Diefflen,Stabhochsprung,Peter,Ecker,2004,"4,20",MU20,12.06.2022,Zweibrücken,1,False,1226a9377e113671ac4cfc056756e6c77148c14748cc0affecf46a10aadc6f83
+LA Team Saar,Stabhochsprung,Peter,Ecker,2004,"4,20",MU20,12.06.2022,Zweibrücken,1,False,1226a9377e113671ac4cfc056756e6c77148c14748cc0affecf46a10aadc6f83
 TV Bliesen,Weitsprung,Lukas,Krauße,2003,"6,76",MU20,24.06.2022,St. Wendel,1,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 TV St. Wendel,Weitsprung,Nick,Holzhüter,2003,"5,88",MU20,21.05.2022,Rehlingen,2,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
-TV St. Wendel,Weitsprung,Dennis,Baldauf,2003,"5,83",MU20,21.05.2022,Rehlingen,3,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
+LA Team Saar,Weitsprung,Dennis,Baldauf,2003,"5,83",MU20,21.05.2022,Rehlingen,3,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
 TV Bliesen,Weitsprung,Johannes,Demuth,2004,"5,66",MU20,17.09.2022,Seckenheim,4,False,5318ba425434dce3ecf5e73634803d40f0a61aff71bb497feaf232ab15dd6ee3
 LSG Schmelz-Hüttersdorf,Weitsprung,Lukas,Steffen,2004,"5,28",MU20,02.07.2022,Püttlingen,5,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
 LA Team Saar,Weitsprung,Florian,Schampel,2004,"5,07",MU20,02.07.2022,Püttlingen,6,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
@@ -757,22 +751,22 @@ LSG Schmelz-Hüttersdorf,Dreisprung,Steffen,Lukas,2004,"9,75",MU20,22.05.2022,Re
 TV Bliesen,Kugelstoß 6 kg,Lukas,Krauße,2003,"12,95",MU20,24.06.2022,St. Wendel,1,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 TV Limbach,Kugelstoß 6 kg,Luca,Vogel,2004,"12,53",MU20,15.09.2022,Rehlingen,2,False,6e118d38de1597a3c9e6ba1509ed5591103fc5d490af6672510155b94c959d5e
 LSG Sbr.-Sulzbachtal,Kugelstoß 6 kg,Lukas,Zubiller,2004,"12,14",MU20,03.05.2022,Rehlingen,3,False,086421debaaa086bbe9c5dc2292758624fea6525ea076b9bcb9a6e8b474740d9
-LSG Sbr.-Sulzbachtal,Kugelstoß 6 kg,Michael,Rosch,2004,"11,86",MU20,22.05.2022,Rehlingen,4,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
+LA Team Saar,Kugelstoß 6 kg,Michael,Rosch,2004,"11,86",MU20,22.05.2022,Rehlingen,4,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
 LA Team Saar,Kugelstoß 6 kg,Florian,Schampel,2004,"9,98",MU20,02.07.2022,Püttlingen,5,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 ATSV Saarbrücken,Kugelstoß 6 kg,Tillman Milan,Schäfer,2004,"9,91",MU20,30.06.2022,Saarbrücken,6,False,9e90507e08a42637161916b87f1bfed02fe4aa80a65e5b0c5d76839e89f627a5
 AC Diefflen,Kugelstoß 6 kg,Jan,Fröhlich,2003,"9,26",MU20,02.07.2022,Püttlingen,7,False,1c84e689849d2b540c6cebd084a29899b92b3c93ef0329f6fb4a89b0bdb70596
 LA Team Saar,Kugelstoß 6 kg,Dennis,Baldauf,2003,"8,92",MU20,02.07.2022,Püttlingen,8,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
 LSG Schmelz-Hüttersdorf,Kugelstoß 6 kg,Lukas,Steffen,2004,"7,64",MU20,02.07.2022,Püttlingen,9,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
 TV Bliesen,Diskuswurf 1.75kg,Lukas,Krauße,2003,"46,68",MU20,22.05.2022,Rehlingen,1,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
-TV Bliesen,Diskuswurf 1.75kg,Peter,Ecker,2004,"42,91",MU20,30.01.2022,Saarbrücken,2,False,1226a9377e113671ac4cfc056756e6c77148c14748cc0affecf46a10aadc6f83
-TV Bliesen,Diskuswurf 1.75kg,Michael,Rosch,2004,"35,36",MU20,02.07.2022,Püttlingen,3,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
+LA Team Saar,Diskuswurf 1.75kg,Peter,Ecker,2004,"42,91",MU20,30.01.2022,Saarbrücken,2,False,1226a9377e113671ac4cfc056756e6c77148c14748cc0affecf46a10aadc6f83
+LA Team Saar,Diskuswurf 1.75kg,Michael,Rosch,2004,"35,36",MU20,02.07.2022,Püttlingen,3,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
 TV Limbach,Diskuswurf 1.75kg,Luca,Vogel,2004,"32,72",MU20,30.08.2022,Rehlingen,4,False,6e118d38de1597a3c9e6ba1509ed5591103fc5d490af6672510155b94c959d5e
 LSG Schmelz-Hüttersdorf,Diskuswurf 1.75kg,Lukas,Steffen,2004,"26,79",MU20,22.05.2022,Rehlingen,5,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
-LSG Schmelz-Hüttersdorf,Diskuswurf 1.75kg,Florian,Schampel,2004,"19,21",MU20,30.01.2022,Saarbrücken,6,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
+LA Team Saar,Diskuswurf 1.75kg,Florian,Schampel,2004,"19,21",MU20,30.01.2022,Saarbrücken,6,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 LAC Saarlouis,Hammerwurf 6 kg,Florian,Stickdorn,2003,"54,69",MU20,23.01.2022,Saarbrücken,1,False,1a2fa5e85eed4f031ed94b7104f2833a1d43e2092d1316f2d19e3a2159ab7ff5
-LAC Saarlouis,Speerwurf 800 g,Michael,Rosch,2004,"59,35",MU20,26.06.2022,Schifflange/LUX,1,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
+LA Team Saar,Speerwurf 800 g,Michael,Rosch,2004,"59,35",MU20,26.06.2022,Schifflange/LUX,1,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
 LSG Sbr.-Sulzbachtal,Speerwurf 800 g,Lukas,Zubiller,2004,"39,75",MU20,05.06.2022,Schwabach,2,False,086421debaaa086bbe9c5dc2292758624fea6525ea076b9bcb9a6e8b474740d9
-LSG Sbr.-Sulzbachtal,Speerwurf 800 g,Florian,Schampel,2004,"34,84",MU20,21.05.2022,Rehlingen,3,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
+LA Team Saar,Speerwurf 800 g,Florian,Schampel,2004,"34,84",MU20,21.05.2022,Rehlingen,3,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
 TV Bliesen,Speerwurf 800 g,Johannes,Demuth,2004,"34,49",MU20,17.09.2022,Seckenheim,4,False,5318ba425434dce3ecf5e73634803d40f0a61aff71bb497feaf232ab15dd6ee3
 TV St. Wendel,Speerwurf 800 g,Nick,Holzhüter,2003,"30,93",MU20,30.01.2022,Saarbrücken,5,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
 LSG Schmelz-Hüttersdorf,5-Kampf,Lukas,Steffen,2004,2.322,MU20,02.07.2022,Püttlingen,1,False,8aa43563add4bb2e514a42ea5f1ff1b82e1ca3ddc0e5a639c987766ceb2dbb96
@@ -789,16 +783,16 @@ LG Berus,100 m Lauf,Viviana,Criscenzo,2004,"13,40",WU20,14.07.2022,Saarbrücken,
 SV GO! Saar 05,100 m Lauf,Lena,Schley,2004,"13,60",WU20,03.05.2022,Rehlingen,8,False,a401c02b12ef55bb5a55e993b8f23096293024590eb6f511ca102783a2501b16
 TV Bliesen,100 m Lauf,Emily,Schmitt,2003,"14,23",WU20,17.09.2022,Seckenheim,9,False,97e2d2b96c2b0b72b8b73f08ce3acdce141fbfab13f9d9e28d761229054c627a
 LG Saar 70,100 m Lauf,Emely,Platz,2004,"14,94",WU20,25.09.2022,Ottweiler,10,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
-SV GO! Saar 05,200 m Lauf,Maja,Schorr,2004,"24,90",WU20,13.08.2022,Wetzlar,1,False,c7598e6669e3a72a8a75c1e08b389dc1c8c9b38e10f8f44c50a2b82e7ee6eed0
-SV GO! Saar 05,200 m Lauf,Alina,Schmitt,2004,"25,80",WU20,19.06.2022,Frankfurt,2,False,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
-SV GO! Saar 05,200 m Lauf,Paula,Grauvogel,2003,"26,08",WU20,15.05.2022,Zweibrücken,3,False,2efd1bb81392b689f79d60dba9aec35d2dbd859ad659e11f94ddffada0b26f65
-LG Berus,200 m Lauf,Isabel,Weber,2003,"26,61",WU20,22.05.2022,Rehlingen,4,False,dbee16335f486cc95946696c6efa44eab7d4d13082517544dafb68f962e1fb73
-ATSV Saarbrücken,200 m Lauf,Amelie,Ast,2004,"27,38",WU20,22.05.2022,Rehlingen,5,False,86cb7b2c9aef410b45f3cd217be93a5e762e331e7790188da1e0b80a52bff382
-LG Berus,200 m Lauf,Marie,Simon,2003,"27,56",WU20,14.07.2022,Saarbrücken,6,False,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
-LG Berus,200 m Lauf,Viviana,Criszenzo,2004,"28,14",WU20,22.05.2022,Rehlingen,7,False,3649c324e84a3fe8a1983702f301fd6e3f45db6affb68aff7321424c240a7b19
-SC Friedrichsthal,200 m Lauf,Victoria,Brück,2003,"30,60",WU20,30.06.2022,Saarbrücken,8,False,c2518eac22eae85582166aaedcd7564eb1e80b07221627137a87df492e523a05
-LG Saar 70,200 m Lauf,Emely,Platz,2004,"31,95",WU20,22.09.2022,Saarlouis,9,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
-TV Bliesen,200 m Lauf,Franziska,Schmitt,2004,"32,95",WU20,02.07.2022,Püttlingen,10,False,6c465622dbc0ea99471151dd60008267b298ab829efacdc8f67c62dd3195ee3e
+SV GO! Saar 05,200 m Lauf,Alina,Schmitt,2004,"25,80",WU20,19.06.2022,Frankfurt,1,False,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
+SV GO! Saar 05,200 m Lauf,Paula,Grauvogel,2003,"26,08",WU20,15.05.2022,Zweibrücken,2,False,2efd1bb81392b689f79d60dba9aec35d2dbd859ad659e11f94ddffada0b26f65
+LG Berus,200 m Lauf,Isabel,Weber,2003,"26,61",WU20,22.05.2022,Rehlingen,3,False,dbee16335f486cc95946696c6efa44eab7d4d13082517544dafb68f962e1fb73
+ATSV Saarbrücken,200 m Lauf,Amelie,Ast,2004,"27,38",WU20,22.05.2022,Rehlingen,4,False,86cb7b2c9aef410b45f3cd217be93a5e762e331e7790188da1e0b80a52bff382
+LG Berus,200 m Lauf,Marie,Simon,2003,"27,56",WU20,14.07.2022,Saarbrücken,5,False,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
+LG Berus,200 m Lauf,Viviana,Criszenzo,2004,"28,14",WU20,22.05.2022,Rehlingen,6,False,3649c324e84a3fe8a1983702f301fd6e3f45db6affb68aff7321424c240a7b19
+SC Friedrichsthal,200 m Lauf,Victoria,Brück,2003,"30,60",WU20,30.06.2022,Saarbrücken,7,False,c2518eac22eae85582166aaedcd7564eb1e80b07221627137a87df492e523a05
+LG Saar 70,200 m Lauf,Emely,Platz,2004,"31,95",WU20,22.09.2022,Saarlouis,8,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
+TV Bliesen,200 m Lauf,Franziska,Schmitt,2004,"32,95",WU20,02.07.2022,Püttlingen,9,False,6c465622dbc0ea99471151dd60008267b298ab829efacdc8f67c62dd3195ee3e
+LSG Sbr.-Sulzbachtal,200 m Lauf,Emilia,Schmitt,2004,"34,47",WU20,27.07.2022,Friedrichsthal,10,False,bcabb6b2dff9f523d95a16908f9de030be4af757231dbc30d4ae7d45f5356107
 SV GO! Saar 05,400 m Lauf,Maja,Schorr,2004,"53,37",WU20,16.07.2022,Ulm,1,False,c7598e6669e3a72a8a75c1e08b389dc1c8c9b38e10f8f44c50a2b82e7ee6eed0
 LC Rehlingen,400 m Lauf,Anna,Mehle,2004,"65,99",WU20,21.05.2022,Rehlingen,2,False,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
 ATSV Saarbrücken,400 m Lauf,Lara Marie,Wiegmann,2004,"66,90",WU20,07.07.2022,Saarbrücken,3,False,1df558de158f5bc60d949fd56e6f5b2c168db17122a2f4aed704826aaa8b8fc1
@@ -835,7 +829,7 @@ LSG Sbr.-Sulzbachtal,10 km Str.,Paula,John,2004,50:49,WU20,18.09.2022,Saarbrück
 LTF Theeltal,10 km Str.,Hannah,Schirra,2003,52:21,WU20,02.10.2022,Saarbrücken,5,False,9caa3c5e28034b25ea3f19e0d3876663f29b861c9a740ee1c7c0638ca6b68bf7
 LC Rehlingen,10 km Str. Ma.,Sofia,Benfares,2004,1:58:24,WU20,18.09.2022,Saarbrücken,1,True,e8fdfd4b72ace20996e5fa1b8c95f8b7d4ce11a3b1f40ed539a70bb123e72946
 LC Rehlingen,10 km Str. Ma.,Hannah,Rödel,2004,1:58:24,WU20,18.09.2022,Saarbrücken,1,True,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
-LC Rehlingen,10 km Str. Ma.,Emma,Nickels,2005,1:58:24,WU20,18.09.2022,Saarbrücken,1,True,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
+LC Rehlingen,10 km Str. Ma.,Martha,Nickels,2003,1:58:24,WU20,18.09.2022,Saarbrücken,1,True,70a0145efb440e76e7ad816f26a1d806f5d264c89a72d13d1175a58c540e5a4c
 LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Paula,John,2004,2:45:32,WU20,26.02.2022,Ubstadt-Weiher,2,True,ccd468d39dff9ed8c2f4f1b9e9c60845baf6ca012bfc9a9aebb4521f03502b07
 LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Eva,John,2006,2:45:32,WU20,26.02.2022,Ubstadt-Weiher,2,True,9c19380b6f47775fa9fc45ccb9c9614336904c40060aa57550289095bb89d182
 LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Anna,Woll,2005,2:45:32,WU20,26.02.2022,Ubstadt-Weiher,2,True,3cdd0cfbb716bd0e111911331ea96a0dac49a4f0cb7aaa3a092b681b93101d54
@@ -871,7 +865,7 @@ LG Saar 70,Weitsprung,Emely,Platz,2004,"4,15",WU20,25.09.2022,Ottweiler,6,False,
 LG Saar 70,Weitsprung,Tammy,Abriss,2004,"2,97",WU20,25.09.2022,Ottweiler,7,False,6fd45551995a785be0b2f63895370113cc3b27aea25a2a8eb691bc3f70f0cb28
 TV Dillingen,Dreisprung,Mara Rebecca,Hilgert,2003,"10,54",WU20,03.06.2022,Dillingen,1,False,f47055d254bfb5c66eec6522e7af853635b43426da58067daebc25a90f7d6b5a
 LG Berus,Dreisprung,Marie,Simon,2003,"10,53",WU20,03.06.2022,Dillingen,2,False,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
-LG Berus,Dreisprung,Inga,Böhm,2003,"8,85",WU20,22.05.2022,Rehlingen,3,False,4e49d2482ee1cfc35e76164456712781dee120a6beb02594784745de873c2151
+LA Team Saar,Dreisprung,Inga,Böhm,2003,"8,85",WU20,22.05.2022,Rehlingen,3,False,4e49d2482ee1cfc35e76164456712781dee120a6beb02594784745de873c2151
 LC Rehlingen,Kugelstoß 4 kg,Lilly,Gerhard,2003,"13,53",WU20,21.06.2022,Rehlingen,1,False,edc2dc9c0f604b0d4b8199f8309cebfbe9bfaa137867271861aa8a3598b0f818
 TV Dillingen,Kugelstoß 4 kg,Mara Rebecca,Hilgert,2003,"11,65",WU20,25.10.2022,Dillingen,2,False,f47055d254bfb5c66eec6522e7af853635b43426da58067daebc25a90f7d6b5a
 SV GO! Saar 05,Kugelstoß 4 kg,Paula,Grauvogel,2003,"10,69",WU20,21.05.2022,Rehlingen,3,False,2efd1bb81392b689f79d60dba9aec35d2dbd859ad659e11f94ddffada0b26f65
@@ -905,7 +899,7 @@ TV St. Wendel,100 m Lauf,Samuel,Sleet,2006,"11,28",MU18,27.07.2022,Friedrichstha
 LSG Sbr.-Sulzbachtal,100 m Lauf,Nils,Steckmann,2005,"11,67",MU18,14.07.2022,Saarbrücken,2,False,2bef67f691fa92301d8b17c8dc329b1e82b30e9bdf25a496c7716edc607fbeba
 LC Rehlingen,100 m Lauf,Michael,Klauck,2005,"11,96",MU18,03.05.2022,Rehlingen,3,False,5e6354ab58a2df5260fc75275107af1c2a68f9571481311aa7ae220bec659cc6
 LC Rehlingen,100 m Lauf,David,Berson,2006,"11,97",MU18,27.07.2022,Friedrichsthal,4,False,cb101856828f8b47e6a7a2809c5b26c6c7bad0086dc7a37b0b6893e14f35553d
-LC Rehlingen,100 m Lauf,Noah,Walter,2006,"11,97",MU18,25.09.2022,Ottweiler,5,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,100 m Lauf,Noah,Walter,2006,"11,97",MU18,25.09.2022,Ottweiler,5,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LC Rehlingen,100 m Lauf,Felix,Becker,2006,"12,05",MU18,03.05.2022,Rehlingen,6,False,90ef2c884e76e8486f8701807891f3d3dbc5f4fb52a0d8c73adfd381064e3c39
 ATSV Saarbrücken,100 m Lauf,Moritz,Wachter,2005,"12,06",MU18,30.06.2022,Saarbrücken,7,False,b4e62dbbf80e6d479a4c919a243eb1e4cefcd8db6241ce09f80c6e94c2c7d5ce
 LG Bliestal,100 m Lauf,Robin Luca,Blumenauer,2006,"12,17",MU18,21.05.2022,Rehlingen,8,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
@@ -915,7 +909,7 @@ LSG Sbr.-Sulzbachtal,200 m Lauf,Nils,Steckmann,2005,"23,44",MU18,22.05.2022,Rehl
 LC Rehlingen,200 m Lauf,David,Berson,2006,"23,72",MU18,15.05.2022,Saarlouis,2,False,cb101856828f8b47e6a7a2809c5b26c6c7bad0086dc7a37b0b6893e14f35553d
 TV St. Wendel,200 m Lauf,Konstantin,Schmitt,2007,"24,00",MU18,27.07.2022,Friedrichsthal,3,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
 SV GO! Saar 05,200 m Lauf,Jannis,Brunschön,2006,"24,11",MU18,30.06.2022,Saarbrücken,4,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
-SV GO! Saar 05,200 m Lauf,Noah,Walter,2006,"24,49",MU18,04.08.2022,Saarlouis,5,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,200 m Lauf,Noah,Walter,2006,"24,49",MU18,04.08.2022,Saarlouis,5,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 ATSV Saarbrücken,200 m Lauf,Moritz,Wachter,2005,"24,63",MU18,30.06.2022,Saarbrücken,6,False,b4e62dbbf80e6d479a4c919a243eb1e4cefcd8db6241ce09f80c6e94c2c7d5ce
 TV Ludweiler,200 m Lauf,Corvin,Schwarz,2007,"24,97",MU18,14.07.2022,Saarbrücken,7,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 LSG Sbr.-Sulzbachtal,200 m Lauf,Sebastian,Schneider,2005,"25,20",MU18,01.09.2022,Friedrichsthal,8,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
@@ -924,7 +918,7 @@ LC Rehlingen,200 m Lauf,Simon,Harig,2006,"25,52",MU18,30.06.2022,Saarbrücken,10
 LC Rehlingen,400 m Lauf,David,Berson,2006,"51,94",MU18,21.05.2022,Rehlingen,1,False,cb101856828f8b47e6a7a2809c5b26c6c7bad0086dc7a37b0b6893e14f35553d
 SV GO! Saar 05,400 m Lauf,Jannis,Brunschön,2006,"53,26",MU18,21.05.2022,Rehlingen,2,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
 ATSV Saarbrücken,400 m Lauf,Nicolas,Kopelsky,2005,"54,01",MU18,07.07.2022,Saarbrücken,3,False,ee0582398ec8b0040e6ff3d0a49058cc75e68442c53d1e3d3df73b339a5a2740
-ATSV Saarbrücken,400 m Lauf,Noah,Walter,2006,"54,11",MU18,07.07.2022,Saarbrücken,4,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,400 m Lauf,Noah,Walter,2006,"54,11",MU18,07.07.2022,Saarbrücken,4,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LSG Sbr.-Sulzbachtal,400 m Lauf,Benjamin,Stumm,2006,"55,12",MU18,27.07.2022,Friedrichsthal,5,False,eb685e390a7c0953a0a40fb6da9cbb320b0d62258196af02dde9d67054b3c377
 LG Bliestal,400 m Lauf,Malte,Marx,2006,"56,07",MU18,21.05.2022,Rehlingen,6,False,307a219610f8c76a18589b5acacb136b087c11ecfb2c43030f368b3da8c56cca
 LC Rehlingen,400 m Lauf,Simon,Harig,2006,"57,43",MU18,07.07.2022,Saarbrücken,7,False,682e035050337ea70db05880a652d8c8890a283c06932c676689b0293999aa16
@@ -939,7 +933,7 @@ LC Rehlingen,800 m Lauf,Lucca,Agostini,2006,"2:03,81",MU18,22.05.2022,Rehlingen,
 LC Rehlingen,800 m Lauf,Jan,Biehl,2006,"2:07,76",MU18,22.05.2022,Rehlingen,6,False,ab5fca1a463529a60dc72dfdc2a1a228551faeeab3576fad51d30819d4d2e502
 SV GO! Saar 05,800 m Lauf,Jannis,Brunschön,2006,"2:08,84",MU18,22.05.2022,Rehlingen,7,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
 ATSV Saarbrücken,800 m Lauf,Lasse Mathis,Kessler,2006,"2:11,59",MU18,30.06.2022,Saarbrücken,8,False,88bb959a0f17b21312a7e2a60c3ec04f0772c3e62ca71f693ff8eda8bbb1e657
-ATSV Saarbrücken,800 m Lauf,Noah,Walter,2006,"2:12,30",MU18,14.07.2022,Saarbrücken,9,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,800 m Lauf,Noah,Walter,2006,"2:12,30",MU18,14.07.2022,Saarbrücken,9,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LC Rehlingen,800 m Lauf,Jakob,Villard,2005,"2:13,29",MU18,15.05.2022,Saarlouis,10,False,715aa43d4b4c3e4bd9d17a0d264f459d62b81ebd79757e77fff7939cb0b9cea1
 ATSV Saarbrücken,1000 m Lauf,Nicolas,Kopelsky,2005,"2:34,74",MU18,30.08.2022,Rehlingen,1,False,ee0582398ec8b0040e6ff3d0a49058cc75e68442c53d1e3d3df73b339a5a2740
 LSG Sbr.-Sulzbachtal,1000 m Lauf,Benjamin,Stumm,2006,"2:43,32",MU18,07.07.2022,Saarbrücken,2,False,eb685e390a7c0953a0a40fb6da9cbb320b0d62258196af02dde9d67054b3c377
@@ -961,7 +955,7 @@ LC Rehlingen,3000 m Lauf,Lucca,Agostini,2006,"9:56,84",MU18,02.04.2022,Rehlingen
 LC Rehlingen,3000 m Lauf,Jan,Biehl,2006,"9:58,25",MU18,02.04.2022,Rehlingen,5,False,ab5fca1a463529a60dc72dfdc2a1a228551faeeab3576fad51d30819d4d2e502
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Jan,Zaffuto,2005,"10:26,03",MU18,30.06.2022,Saarbrücken,6,False,4131f5748f15622a0490f198baf74cb52a1230523423678b4dccb7c62858a164
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Fabrice,Münnich,2005,"10:43,83",MU18,02.04.2022,Rehlingen,7,False,e1ed108757affe7956d29b09e76af8be2c60b56e7c75da1df423069a11a450e4
-LSG Sbr.-Sulzbachtal,3000 m Lauf,Noah,Walter,2006,"11:06,29",MU18,02.04.2022,Rehlingen,8,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,3000 m Lauf,Noah,Walter,2006,"11:06,29",MU18,02.04.2022,Rehlingen,8,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Tom,Zaffuto,2005,"11:27,06",MU18,02.04.2022,Rehlingen,9,False,499a0a63ccf5fe28e04468cc98a13f755962b23d786beae6c4fc03563c92d7c4
 LC Rehlingen,5000 m Lauf,Jakob,Villard,2005,"17:06,21",MU18,07.07.2022,Saarbrücken,1,False,715aa43d4b4c3e4bd9d17a0d264f459d62b81ebd79757e77fff7939cb0b9cea1
 LSG Sbr.-Sulzbachtal,5000 m Lauf,Jan,Zaffuto,2005,"19:00,73",MU18,07.07.2022,Saarbrücken,2,False,4131f5748f15622a0490f198baf74cb52a1230523423678b4dccb7c62858a164
@@ -977,14 +971,13 @@ LSG Sbr.-Sulzbachtal,5 km Str.,Paul,Ackermann,2006,19:12,MU18,18.09.2022,Saarbr�
 LAZ Saarbrücken,5 km Str.,Sebastian,Klein,2006,19:28,MU18,01.11.2022,Hockenheim,9,False,a19dd78d25b7b3de3a369109a9f10ec100d3a174fefa29893667a5987babb282
 LSG Sbr.-Sulzbachtal,5 km Str.,Tom,Zaffuto,2005,20:17,MU18,26.03.2022,Schweich,10,False,499a0a63ccf5fe28e04468cc98a13f755962b23d786beae6c4fc03563c92d7c4
 LC Rehlingen,10 km Str.,Lennart,Zehfeld,2005,32:06,MU18,01.11.2022,Hockenheim,1,False,5686ecdfa74ea2d5421e8190e7a8bd564f1e66fa6fea896123f29070360d925b
-LSG Sbr.-Sulzbachtal,10 km Str.,Benjamin,Stumm,2006,33:51,MU18,18.12.2022,Rheinzabern,2,False,eb685e390a7c0953a0a40fb6da9cbb320b0d62258196af02dde9d67054b3c377
-LC Rehlingen,10 km Str.,Jan,Biehl,2006,34:48,MU18,12.11.2022,Langsur,3,False,ab5fca1a463529a60dc72dfdc2a1a228551faeeab3576fad51d30819d4d2e502
-LC Rehlingen,10 km Str.,Jakob,Villard,2005,35:53,MU18,27.11.2022,Saarbrücken,4,False,715aa43d4b4c3e4bd9d17a0d264f459d62b81ebd79757e77fff7939cb0b9cea1
-LC Rehlingen,10 km Str.,Lucca,Agostini,2006,36:53,MU18,18.09.2022,Saarbrücken,5,False,487078197bd50f8826cf47bd619c21d45ba42d6e37faf165225ed3c6bbd0d00f
-SV GO! Saar 05,10 km Str.,Jonas,Fahrig,2008,40:17,MU18,02.10.2022,Saarbrücken,6,False,799f394bf47ebf9a7f1dee10fc32dd479d737784fc385b92266619ec631874cf
-LSG Sbr.-Sulzbachtal,10 km Str.,Paul,Ackermann,2006,41:28,MU18,25.09.2022,Ulm,7,False,1f1d1d728beacc74a5e62797ad574b52566ffafb80f5621c15beef6d82857fae
-LSG Sbr.-Sulzbachtal,10 km Str.,Tom,Zaffuto,2005,45:03,MU18,02.10.2022,Saarbrücken,8,False,499a0a63ccf5fe28e04468cc98a13f755962b23d786beae6c4fc03563c92d7c4
-TV Oberbexbach 1894,10 km Str.,Simeon,Seitz,2005,54:05,MU18,08.09.2022,Homburg,9,False,9d35fa540ef543b15029413c664bff5493d00b5d98995c5d2223ee82420ca020
+LC Rehlingen,10 km Str.,Jan,Biehl,2006,34:48,MU18,12.11.2022,Langsur,2,False,ab5fca1a463529a60dc72dfdc2a1a228551faeeab3576fad51d30819d4d2e502
+LSG Sbr.-Sulzbachtal,10 km Str.,Benjamin,Stumm,2006,35:22,MU18,02.10.2022,Saarbrücken,3,False,eb685e390a7c0953a0a40fb6da9cbb320b0d62258196af02dde9d67054b3c377
+LC Rehlingen,10 km Str.,Lucca,Agostini,2006,36:53,MU18,18.09.2022,Saarbrücken,4,False,487078197bd50f8826cf47bd619c21d45ba42d6e37faf165225ed3c6bbd0d00f
+SV GO! Saar 05,10 km Str.,Jonas,Fahrig,2008,40:17,MU18,02.10.2022,Saarbrücken,5,False,799f394bf47ebf9a7f1dee10fc32dd479d737784fc385b92266619ec631874cf
+LSG Sbr.-Sulzbachtal,10 km Str.,Paul,Ackermann,2006,41:28,MU18,25.09.2022,Ulm,6,False,1f1d1d728beacc74a5e62797ad574b52566ffafb80f5621c15beef6d82857fae
+LSG Sbr.-Sulzbachtal,10 km Str.,Tom,Zaffuto,2005,45:03,MU18,02.10.2022,Saarbrücken,7,False,499a0a63ccf5fe28e04468cc98a13f755962b23d786beae6c4fc03563c92d7c4
+TV Oberbexbach 1894,10 km Str.,Simeon,Seitz,2005,54:05,MU18,08.09.2022,Homburg,8,False,9d35fa540ef543b15029413c664bff5493d00b5d98995c5d2223ee82420ca020
 LC Rehlingen,10 km Str. Ma.,Lennart,Zehfeld,2005,1:47:29,MU18,18.09.2022,Saarbrücken,1,True,5686ecdfa74ea2d5421e8190e7a8bd564f1e66fa6fea896123f29070360d925b
 LC Rehlingen,10 km Str. Ma.,Jan,Biehl,2006,1:47:29,MU18,18.09.2022,Saarbrücken,1,True,ab5fca1a463529a60dc72dfdc2a1a228551faeeab3576fad51d30819d4d2e502
 LC Rehlingen,10 km Str. Ma.,Lucca,Agostini,2006,1:47:29,MU18,18.09.2022,Saarbrücken,1,True,487078197bd50f8826cf47bd619c21d45ba42d6e37faf165225ed3c6bbd0d00f
@@ -996,7 +989,7 @@ ATSV Saarbrücken,110 m Hürden 0.914m,Lorenz,Jung,2006,"17,01",MU18,22.05.2022,
 LC Rehlingen,110 m Hürden 0.914m,Felix,Becker,2006,"17,21",MU18,14.05.2022,Saarlouis,3,False,90ef2c884e76e8486f8701807891f3d3dbc5f4fb52a0d8c73adfd381064e3c39
 LSG Sbr.-Sulzbachtal,110 m Hürden 0.914m,Sebastian,Schneider,2005,"18,70",MU18,22.05.2022,Rehlingen,4,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
 LV Merzig,110 m Hürden 0.914m,Ruben,Volpert,2006,"19,75",MU18,03.07.2022,Püttlingen,5,False,4c8129d783ac76117bb9a682b245ac4a8bfc197fed33ad2fb9b600991409b809
-LV Merzig,400 m Hürden 0.838m,Noah,Walter,2006,"63,57",MU18,21.06.2022,Rehlingen,1,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,400 m Hürden 0.838m,Noah,Walter,2006,"63,57",MU18,21.06.2022,Rehlingen,1,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LSG Sbr.-Sulzbachtal,400 m Hürden 0.838m,Sebastian,Schneider,2005,"63,71",MU18,21.06.2022,Rehlingen,2,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
 ATSV Saarbrücken,400 m Hürden 0.838m,Lorenz,Jung,2006,"65,64",MU18,21.06.2022,Rehlingen,3,False,ca03810cf6e8a3527e4161f7d8edcb77dfa719c627d225047020d452b095a98c
 LSG Schmelz-Hüttersdorf,400 m Hürden 0.838m,Joshua,Trampert,2005,"65,68",MU18,21.06.2022,Rehlingen,4,False,99fafe610e435c874fed9db055786cc9c2e738445fc243b4bf872f3c70a7b778
@@ -1036,7 +1029,7 @@ LG Bliestal,Stabhochsprung,Torben,Grieser,2006,"3,00",MU18,16.06.2022,Püttlinge
 LV Merzig,Stabhochsprung,Ruben,Volpert,2006,"2,50",MU18,03.07.2022,Püttlingen,2,False,4c8129d783ac76117bb9a682b245ac4a8bfc197fed33ad2fb9b600991409b809
 LC Rehlingen,Stabhochsprung,Felix,Becker,2006,"2,10",MU18,03.07.2022,Püttlingen,3,False,90ef2c884e76e8486f8701807891f3d3dbc5f4fb52a0d8c73adfd381064e3c39
 LC Rehlingen,Weitsprung,Michael,Klauck,2005,"6,51",MU18,15.05.2022,Saarlouis,1,False,5e6354ab58a2df5260fc75275107af1c2a68f9571481311aa7ae220bec659cc6
-LC Rehlingen,Weitsprung,Noah,Walter,2006,"5,50",MU18,25.09.2022,Ottweiler,2,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
+LA Team Saar,Weitsprung,Noah,Walter,2006,"5,50",MU18,25.09.2022,Ottweiler,2,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 LSG Schmelz-Hüttersdorf,Weitsprung,Joshua,Trampert,2005,"5,48",MU18,30.08.2022,Rehlingen,3,False,99fafe610e435c874fed9db055786cc9c2e738445fc243b4bf872f3c70a7b778
 LC Rehlingen,Weitsprung,Felix,Becker,2006,"5,31",MU18,02.07.2022,Püttlingen,4,False,90ef2c884e76e8486f8701807891f3d3dbc5f4fb52a0d8c73adfd381064e3c39
 LG Berus,Weitsprung,Simon,Valeske,2005,"5,28",MU18,02.07.2022,Püttlingen,5,False,0f1aff25f211287bfb2e67e68e3a0f583e52aa96789497298579b022659d9f2b
@@ -1101,7 +1094,7 @@ SV GO! Saar 05,200 m Lauf,Emely,Rothfuchs,2006,"24,78",WU18,22.05.2022,Rehlingen
 SV GO! Saar 05,200 m Lauf,Ksenia,Helios,2005,"24,81",WU18,24.07.2022,Ludwigshafen,2,False,3b063919e66262418c133b6765210cadd63edee2dc5c31924f283686df018e9b
 ATSV Saarbrücken,200 m Lauf,Luna,Rothfuchs Galan,2007,"25,27",WU18,30.06.2022,Saarbrücken,3,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 TV Bliesen,200 m Lauf,Chiara,Rein,2006,"26,42",WU18,04.08.2022,Saarlouis,4,False,1d0df51b910fd55f8c78ca43ba6f3b12783c89f307d63add7384ec9b42939a93
-TV Bliesen,200 m Lauf,Paula,Heinz,2007,"27,24",WU18,22.05.2022,Rehlingen,5,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,200 m Lauf,Paula,Heinz,2007,"27,24",WU18,22.05.2022,Rehlingen,5,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LAC Saarlouis,200 m Lauf,Zoe,Staudter,2005,"27,87",WU18,14.07.2022,Saarbrücken,6,False,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
 LG Saar 70,200 m Lauf,Emma Mae,Schäfer,2005,"28,47",WU18,22.09.2022,Saarlouis,7,False,51a1f216798cdaef9b9d71d3e5bb8d9fef9aff8a6b6d336cfdfa4a7429ee96b8
 LV Merzig,200 m Lauf,Eva,Pangoup Heuntang,2006,"28,58",WU18,22.05.2022,Rehlingen,8,False,dbf77482fe37ee2d023160b19c58f532cf9f2d3a8d01d2ce7b367cc547dc4fb5
@@ -1110,9 +1103,9 @@ Tri-Sport/Saar-Hochwald,200 m Lauf,Timea,Laskodi,2006,"28,98",WU18,22.05.2022,Re
 LC Rehlingen,400 m Lauf,Frieda,Schulz,2006,"58,90",WU18,15.07.2022,Ulm,1,False,c6d8a59f9e788e0e2102fe839ef5949394ec0684569c614e43c54e361341e2a2
 LC Rehlingen,400 m Lauf,Franka,Wilhelm,2005,"63,46",WU18,21.05.2022,Rehlingen,2,False,17cd7c520430429128466ce39a050bf985e8282b782e32e1092360df82288124
 LAC Saarlouis,400 m Lauf,Zoe,Staudter,2005,"65,98",WU18,07.07.2022,Saarbrücken,3,False,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
-LAC Saarlouis,400 m Lauf,Paula,Heinz,2007,"67,07",WU18,07.07.2022,Saarbrücken,4,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,400 m Lauf,Paula,Heinz,2007,"67,07",WU18,07.07.2022,Saarbrücken,4,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LSG Sbr.-Sulzbachtal,400 m Lauf,Hannah,Jung,2006,"67,25",WU18,04.08.2022,Saarlouis,5,False,748b5f26c2c3a02155d031d55a1c440da2e4bb113c16f5718327c058f1694b3e
-LSG Sbr.-Sulzbachtal,400 m Lauf,Ronja,Schwindling,2006,"67,41",WU18,07.07.2022,Saarbrücken,6,False,1c6112e10052c1c0329255aadcbd1cb9e029890863a899cebcbc145d3ae22b56
+LA Team Saar,400 m Lauf,Ronja,Schwindling,2006,"67,41",WU18,07.07.2022,Saarbrücken,6,False,1c6112e10052c1c0329255aadcbd1cb9e029890863a899cebcbc145d3ae22b56
 LC Rehlingen,400 m Lauf,Emma,Nickels,2005,"68,21",WU18,21.05.2022,Rehlingen,7,False,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
 LC Rehlingen,400 m Lauf,Adriane,Klakow,2005,"69,71",WU18,03.05.2022,Rehlingen,8,False,100b353c3eb4dccbb4594895115715f59ea4c271179caecb1cdfadb6632716d7
 LAC Saarlouis,400 m Lauf,Lara,Emanuel,2005,"71,76",WU18,04.08.2022,Saarlouis,9,False,58c0c1a274f36dd292deb956e4270c929893e02d4ba1adac56beabe5698d631d
@@ -1228,7 +1221,7 @@ LV Merzig,Hammerwurf 3 kg,Emily,Kohlwey,2005,"34,94",WU18,01.05.2022,Merzig,2,Fa
 LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Hannah,Jung,2006,"32,76",WU18,21.05.2022,Rehlingen,3,False,748b5f26c2c3a02155d031d55a1c440da2e4bb113c16f5718327c058f1694b3e
 LV Merzig,Hammerwurf 3 kg,Eva,Pangoup Heuntang,2006,"28,32",WU18,09.10.2022,Überherrn,4,False,dbf77482fe37ee2d023160b19c58f532cf9f2d3a8d01d2ce7b367cc547dc4fb5
 LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Anna,Woll,2005,"26,02",WU18,21.05.2022,Rehlingen,5,False,3cdd0cfbb716bd0e111911331ea96a0dac49a4f0cb7aaa3a092b681b93101d54
-LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Ronja,Wirtz,2005,"24,08",WU18,09.10.2022,Überherrn,6,False,9c2ece207b87c315c2d782bffa7eb4437f9136164a9ae8ca779a6a2803055603
+LA Team Saar,Hammerwurf 3 kg,Ronja,Wirtz,2005,"24,08",WU18,09.10.2022,Überherrn,6,False,9c2ece207b87c315c2d782bffa7eb4437f9136164a9ae8ca779a6a2803055603
 LV Merzig,Hammerwurf 3 kg,Laura,Steuer,2006,"23,23",WU18,01.05.2022,Merzig,7,False,77b1e05c55fd2d49ed5641cf88b6b1302036d950713b7b4e91a9140271c361cc
 LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Margaretha,Dobelmann,2006,"19,78",WU18,21.05.2022,Rehlingen,8,False,f204be82e6bd911eb5dd62fecd83442ee59518bc276185431f1d2f942e48f3e4
 LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Charlotte,Lang,2005,"18,92",WU18,19.07.2022,Saarbrücken,9,False,0074b125d55f13d333fe4f464528763da0b657c6b386541f143da3c5050c61ad
@@ -1321,20 +1314,20 @@ TV St. Wendel,300 m Lauf,Konstantin,Schmitt,2007,"37,74",M15,19.06.2022,Frankfur
 LC Rehlingen,300 m Lauf,Linus,Krier,2007,"39,41",M15,29.05.2022,St. Wendel,2,False,392ded164dbcb28a4b3eca8b1a479927b580674c1e4cc8b0e07a994516eaa75b
 TV Ludweiler,300 m Lauf,Corvin,Schwarz,2007,"40,89",M15,04.08.2022,Saarlouis,3,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 TV Homburg,300 m Lauf,Robin,Pawlowski,2007,"41,10",M15,29.05.2022,St. Wendel,4,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
-TV Homburg,300 m Lauf,Elias,Günter,2007,"41,42",M15,29.05.2022,St. Wendel,5,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,300 m Lauf,Elias,Günter,2007,"41,42",M15,29.05.2022,St. Wendel,5,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 LC Rehlingen,300 m Lauf,Abie,Hensgen,2007,"42,70",M15,29.05.2022,St. Wendel,6,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 LC Rehlingen,300 m Lauf,Niklas,Müller,2007,"43,05",M15,14.05.2022,Saarlouis,7,False,d41c70728f209d6ec39c05ccbbc6869f8ed341ea081660be7380836c6881de1b
-LC Rehlingen,300 m Lauf,Eric,Mayer,2007,"43,60",M15,29.05.2022,St. Wendel,8,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
+LA Team Saar,300 m Lauf,Eric,Mayer,2007,"43,60",M15,29.05.2022,St. Wendel,8,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
 LSG Sbr.-Sulzbachtal,300 m Lauf,Julian,Schneider,2007,"45,67",M15,27.07.2022,Friedrichsthal,9,False,3a043c3f2f550d13968fa86ee168e5d02a6b786ee84e4ca86de3237797131297
 LC Rehlingen,800 m Lauf,Abie,Hensgen,2007,"2:02,09",M15,22.05.2022,Rehlingen,1,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 LC Rehlingen,800 m Lauf,Vincent,Sempruch,2007,"2:04,85",M15,22.05.2022,Rehlingen,2,False,a260da5fe8acc08ef270b8b9c1d2c7e210e8bbb79acb876a38a1964954c8f01a
 LC Rehlingen,800 m Lauf,Linus,Krier,2007,"2:08,66",M15,18.06.2022,Frankfurt,3,False,392ded164dbcb28a4b3eca8b1a479927b580674c1e4cc8b0e07a994516eaa75b
-LC Rehlingen,800 m Lauf,Aaron,Hoffmann,2007,"2:26,86",M15,03.05.2022,Rehlingen,4,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
+LA Team Saar,800 m Lauf,Aaron,Hoffmann,2007,"2:26,86",M15,03.05.2022,Rehlingen,4,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 TV Ludweiler,800 m Lauf,Corvin,Schwarz,2007,"2:27,34",M15,30.06.2022,Saarbrücken,5,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 TV Elm,800 m Lauf,David,Wittich,2007,"2:36,82",M15,25.09.2022,Ottweiler,6,False,9d4f692e27c07dba719f903f783a5a41557b029a3329657c5c4acc5dadd4f9ac
-TV Elm,800 m Lauf,Jannick,Serf,2007,"2:37,61",M15,28.05.2022,St. Wendel,7,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
+LA Team Saar,800 m Lauf,Jannick,Serf,2007,"2:37,61",M15,28.05.2022,St. Wendel,7,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
 LC Rehlingen,800 m Lauf,Jakob,Thieme,2007,"2:41,52",M15,30.06.2022,Saarbrücken,8,False,752638fde2bad626c3c8c004a2d0d3572ac58cb67a2d6bb589b41cf55ed32728
-LC Rehlingen,800 m Lauf,Conrad,Altmeyer,2007,"2:48,96",M15,25.09.2022,Ottweiler,9,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
+LA Team Saar,800 m Lauf,Conrad,Altmeyer,2007,"2:48,96",M15,25.09.2022,Ottweiler,9,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 LC Rehlingen,800 m Lauf,Henning,Bohn,2007,"3:02,55",M15,30.06.2022,Saarbrücken,10,False,f8f3cfb5c4763922c7b546e165607f7c513b5fd5345d858538f128073b01369a
 TV St. Wendel,1000 m Lauf,Konstantin,Schmitt,2007,"2:59,23",M15,03.07.2022,Püttlingen,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
 LA Team Saar,1000 m Lauf,Aaron,Hoffmann,2007,"3:06,42",M15,03.07.2022,Püttlingen,2,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
@@ -1348,29 +1341,29 @@ TV Ludweiler,2000 m Lauf,Corvin,Schwarz,2007,"7:48,89",M15,25.06.2022,Püttlinge
 TV Homburg,2000 m Lauf,Robin,Pawlowski,2007,"7:53,29",M15,25.06.2022,Püttlingen,5,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
 LC Rehlingen,3000 m Lauf,Abie,Hensgen,2007,"9:20,16",M15,24.07.2022,Ludwigshafen,1,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 LC Rehlingen,3000 m Lauf,Vincent,Sempruch,2007,"10:16,41",M15,02.04.2022,Rehlingen,2,False,a260da5fe8acc08ef270b8b9c1d2c7e210e8bbb79acb876a38a1964954c8f01a
-LC Rehlingen,3000 m Lauf,Aaron,Hoffmann,2007,"11:28,43",M15,02.04.2022,Rehlingen,3,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
-LC Rehlingen,3000 m Lauf,Jannick,Serf,2007,"12:50,24",M15,02.04.2022,Rehlingen,4,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
-LC Rehlingen,3000 m Lauf,Johann,Rosch,2007,"13:10,24",M15,02.04.2022,Rehlingen,5,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
+LA Team Saar,3000 m Lauf,Aaron,Hoffmann,2007,"11:28,43",M15,02.04.2022,Rehlingen,3,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
+LA Team Saar,3000 m Lauf,Jannick,Serf,2007,"12:50,24",M15,02.04.2022,Rehlingen,4,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
+LA Team Saar,3000 m Lauf,Johann,Rosch,2007,"13:10,24",M15,02.04.2022,Rehlingen,5,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
 LC Rehlingen,5 km Str.,Abie,Hensgen,2007,16:26,M15,06.03.2022,Leverkusen,1,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 LC Rehlingen,5 km Str.,Vincent,Sempruch,2007,18:04,M15,06.03.2022,Leverkusen,2,False,a260da5fe8acc08ef270b8b9c1d2c7e210e8bbb79acb876a38a1964954c8f01a
 LC Rehlingen,5 km Str.,Niklas,Müller,2007,21:28,M15,09.10.2022,Saarlouis,3,False,d41c70728f209d6ec39c05ccbbc6869f8ed341ea081660be7380836c6881de1b
 LTF Marpingen,5 km Str.,Lijan,Schu,2007,29:06,M15,24.06.2022,Lebach,4,False,803946cdcc7977cf70405c832636a3666865918aea780d315fd1f10ad19ef33c
 TV St. Wendel,80 m Hürden 0.838m,Konstantin,Schmitt,2007,"11,61",M15,25.06.2022,Püttlingen,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
-TV St. Wendel,80 m Hürden 0.838m,Elias,Günter,2007,"11,78",M15,25.06.2022,Püttlingen,2,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,80 m Hürden 0.838m,Elias,Günter,2007,"11,78",M15,25.06.2022,Püttlingen,2,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 TV Ludweiler,80 m Hürden 0.838m,Corvin,Schwarz,2007,"12,71",M15,28.05.2022,St. Wendel,3,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 TV Homburg,80 m Hürden 0.838m,Robin,Pawlowski,2007,"13,01",M15,25.06.2022,Püttlingen,4,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
 LC Rehlingen,80 m Hürden 0.838m,Linus,Krier,2007,"13,28",M15,01.05.2022,Mannheim,5,False,392ded164dbcb28a4b3eca8b1a479927b580674c1e4cc8b0e07a994516eaa75b
 LC Rehlingen,80 m Hürden 0.838m,Vincent,Sempruch,2007,"13,62",M15,25.06.2022,Püttlingen,6,False,a260da5fe8acc08ef270b8b9c1d2c7e210e8bbb79acb876a38a1964954c8f01a
-LC Rehlingen,80 m Hürden 0.838m,Eric,Mayer,2007,"14,14",M15,28.05.2022,St. Wendel,7,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
+LA Team Saar,80 m Hürden 0.838m,Eric,Mayer,2007,"14,14",M15,28.05.2022,St. Wendel,7,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
 LA Team Saar,80 m Hürden 0.838m,Aaron,Hoffmann,2007,"14,27",M15,03.07.2022,Püttlingen,8,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 AC Diefflen,80 m Hürden 0.838m,Luca,Gamrekeli,2007,"14,69",M15,25.06.2022,Püttlingen,9,False,937c7c77a521bef1078bce435dfeea3e3d92954cac86ccee909f62aea2299839
 LA Team Saar,80 m Hürden 0.838m,Conrad,Altmeyer,2007,"15,14",M15,03.07.2022,Püttlingen,10,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 TV St. Wendel,300 m Hürden 0.838m,Konstantin,Schmitt,2007,"40,86",M15,10.07.2022,Bremen,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
-TV St. Wendel,300 m Hürden 0.838m,Johann,Rosch,2007,"50,76",M15,21.06.2022,Rehlingen,2,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
-TV St. Wendel,300 m Hürden 0.838m,Jannick,Serf,2007,"55,82",M15,21.06.2022,Rehlingen,3,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
+LA Team Saar,300 m Hürden 0.838m,Johann,Rosch,2007,"50,76",M15,21.06.2022,Rehlingen,2,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
+LA Team Saar,300 m Hürden 0.838m,Jannick,Serf,2007,"55,82",M15,21.06.2022,Rehlingen,3,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
 LC Rehlingen,1500 m Hindernis 0.762m,Abie,Hensgen,2007,"4:37,01",M15,08.05.2022,Pliezhausen,1,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 LC Rehlingen,1500 m Hindernis 0.762m,Vincent,Sempruch,2007,"4:40,39",M15,08.05.2022,Pliezhausen,2,False,a260da5fe8acc08ef270b8b9c1d2c7e210e8bbb79acb876a38a1964954c8f01a
-LC Rehlingen,Hochsprung,Elias,Günter,2007,"1,72",M15,18.06.2022,Frankfurt,1,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,Hochsprung,Elias,Günter,2007,"1,72",M15,18.06.2022,Frankfurt,1,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 TV St. Wendel,Hochsprung,Konstantin,Schmitt,2007,"1,69",M15,02.07.2022,Püttlingen,2,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
 LSG Sbr.-Sulzbachtal,Hochsprung,Louis,Wöffler,2007,"1,66",M15,22.06.2022,Saarbrücken,3,False,3c02f91ca6134e5608c0bb25db19a99d489f054d4feb7483813cf2095a62bbd4
 LA Team Saar,Hochsprung,Aaron,Hoffmann,2007,"1,56",M15,25.06.2022,Püttlingen,4,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
@@ -1387,30 +1380,30 @@ LA Team Saar,Stabhochsprung,Eric,Mayer,2007,"2,00",M15,03.07.2022,Püttlingen,4,
 LA Team Saar,Stabhochsprung,Aaron,Hoffmann,2007,"2,00",M15,03.07.2022,Püttlingen,5,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 LA Team Saar,Stabhochsprung,Conrad,Altmeyer,2007,"1,80",M15,03.07.2022,Püttlingen,6,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 TV St. Wendel,Weitsprung,Konstantin,Schmitt,2007,"5,78",M15,02.07.2022,Püttlingen,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
-TV St. Wendel,Weitsprung,Aaron,Hoffmann,2007,"5,44",M15,25.06.2022,Püttlingen,2,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
-TV St. Wendel,Weitsprung,Elias,Günter,2007,"5,41",M15,25.06.2022,Püttlingen,3,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,Weitsprung,Aaron,Hoffmann,2007,"5,44",M15,25.06.2022,Püttlingen,2,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
+LA Team Saar,Weitsprung,Elias,Günter,2007,"5,41",M15,25.06.2022,Püttlingen,3,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 TV Homburg,Weitsprung,Robin,Pawlowski,2007,"5,39",M15,28.05.2022,St. Wendel,4,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
 LC Rehlingen,Weitsprung,Linus,Krier,2007,"5,19",M15,28.05.2022,St. Wendel,5,False,392ded164dbcb28a4b3eca8b1a479927b580674c1e4cc8b0e07a994516eaa75b
-LC Rehlingen,Weitsprung,Conrad,Altmeyer,2007,"5,12",M15,03.05.2022,Rehlingen,6,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
+LA Team Saar,Weitsprung,Conrad,Altmeyer,2007,"5,12",M15,03.05.2022,Rehlingen,6,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 TV Ludweiler,Weitsprung,Corvin,Schwarz,2007,"5,10",M15,28.05.2022,St. Wendel,7,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 TV Germania 1910 Piesbach,Weitsprung,Niklas,Görg,2007,"4,93",M15,28.05.2022,St. Wendel,8,False,166a535b1316f8cade3c87101ec127522cfe05230bdb1e138bd322a9ea913d12
 LA Team Saar,Weitsprung,Johann,Rosch,2007,"4,85",M15,25.06.2022,Püttlingen,9,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
 LA Team Saar,Weitsprung,Eric,Mayer,2007,"4,75",M15,25.06.2022,Püttlingen,10,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
-LC Rehlingen,Dreisprung,Aaron,Hoffmann,2007,"10,86",M15,28.05.2022,St. Wendel,1,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
-LC Rehlingen,Dreisprung,Conrad,Altmeyer,2007,"10,53",M15,28.05.2022,St. Wendel,2,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
-LC Rehlingen,Dreisprung,Jannick,Serf,2007,"8,93",M15,28.05.2022,St. Wendel,3,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
-LC Rehlingen,Kugelstoß 4 kg,Johann,Rosch,2007,"11,42",M15,03.09.2022,Konz,1,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
+LA Team Saar,Dreisprung,Aaron,Hoffmann,2007,"10,86",M15,28.05.2022,St. Wendel,1,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
+LA Team Saar,Dreisprung,Conrad,Altmeyer,2007,"10,53",M15,28.05.2022,St. Wendel,2,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
+LA Team Saar,Dreisprung,Jannick,Serf,2007,"8,93",M15,28.05.2022,St. Wendel,3,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
+LA Team Saar,Kugelstoß 4 kg,Johann,Rosch,2007,"11,42",M15,03.09.2022,Konz,1,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
 LA Team Saar,Kugelstoß 4 kg,Conrad,Altmeyer,2007,"10,47",M15,02.07.2022,Püttlingen,2,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 TV St. Wendel,Kugelstoß 4 kg,Konstantin,Schmitt,2007,"10,27",M15,02.07.2022,Püttlingen,3,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
 LG Saar 70,Kugelstoß 4 kg,Maximilian,Weber,2007,"10,07",M15,09.10.2022,Überherrn,4,False,08b9300eccbe9b33c6fd8ec54bf4c6cdbc1776f294aad3206c88d7379bf25c4e
-LG Saar 70,Kugelstoß 4 kg,Eric,Mayer,2007,"9,94",M15,30.04.2022,Merzig,5,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
+LA Team Saar,Kugelstoß 4 kg,Eric,Mayer,2007,"9,94",M15,30.04.2022,Merzig,5,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
 TV Ludweiler,Kugelstoß 4 kg,Corvin,Schwarz,2007,"9,64",M15,02.07.2022,Püttlingen,6,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
-TV Ludweiler,Kugelstoß 4 kg,Elias,Günter,2007,"9,27",M15,25.09.2022,Ottweiler,7,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,Kugelstoß 4 kg,Elias,Günter,2007,"9,27",M15,25.09.2022,Ottweiler,7,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 LSG Sbr.-Sulzbachtal,Kugelstoß 4 kg,Ben,Steinbach,2007,"9,24",M15,18.10.2022,Saarbrücken,8,False,884549b1b8ba87fed9b1fab9f568642b53cab0f0f921d9cd819dc6e2af4fa5a6
 LA Team Saar,Kugelstoß 4 kg,Aaron,Hoffmann,2007,"9,10",M15,02.07.2022,Püttlingen,9,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 TV Homburg,Kugelstoß 4 kg,Robin,Pawlowski,2007,"8,95",M15,02.07.2022,Püttlingen,10,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
 TV St. Wendel,Diskuswurf 1 kg,Konstantin,Schmitt,2007,"33,54",M15,30.04.2022,Merzig,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
-TV St. Wendel,Diskuswurf 1 kg,Johann,Rosch,2007,"33,26",M15,25.06.2022,Püttlingen,2,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
+LA Team Saar,Diskuswurf 1 kg,Johann,Rosch,2007,"33,26",M15,25.06.2022,Püttlingen,2,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
 LA Team Saar,Diskuswurf 1 kg,Conrad,Altmeyer,2007,"27,42",M15,03.07.2022,Püttlingen,3,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
 LA Team Saar,Diskuswurf 1 kg,Eric,Mayer,2007,"23,53",M15,28.05.2022,St. Wendel,4,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
 LA Team Saar,Diskuswurf 1 kg,Aaron,Hoffmann,2007,"23,26",M15,03.07.2022,Püttlingen,5,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
@@ -1418,14 +1411,14 @@ AC Diefflen,Diskuswurf 1 kg,Luca,Gamrekeli,2007,"22,90",M15,28.05.2022,St. Wende
 LA Team Saar,Diskuswurf 1 kg,Elias,Günter,2007,"22,61",M15,03.07.2022,Püttlingen,7,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 LSG Sbr.-Sulzbachtal,Hammerwurf 4 kg,Ben,Steinbach,2007,"13,71",M15,18.10.2022,Saarbrücken,1,False,884549b1b8ba87fed9b1fab9f568642b53cab0f0f921d9cd819dc6e2af4fa5a6
 TV St. Wendel,Speerwurf 600 g,Konstantin,Schmitt,2007,"40,06",M15,03.07.2022,Püttlingen,1,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
-TV St. Wendel,Speerwurf 600 g,Elias,Günter,2007,"36,35",M15,25.06.2022,Püttlingen,2,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
+LA Team Saar,Speerwurf 600 g,Elias,Günter,2007,"36,35",M15,25.06.2022,Püttlingen,2,False,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
 TV Ludweiler,Speerwurf 600 g,Corvin,Schwarz,2007,"35,32",M15,30.04.2022,Merzig,3,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
-TV Ludweiler,Speerwurf 600 g,Johann,Rosch,2007,"35,16",M15,30.04.2022,Merzig,4,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
-TV Ludweiler,Speerwurf 600 g,Aaron,Hoffmann,2007,"33,09",M15,28.05.2022,St. Wendel,5,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
-TV Ludweiler,Speerwurf 600 g,Conrad,Altmeyer,2007,"30,00",M15,03.07.2022,Püttlingen,6,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
-TV Ludweiler,Speerwurf 600 g,Eric,Mayer,2007,"27,51",M15,28.05.2022,St. Wendel,7,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
-TV Ludweiler,Speerwurf 600 g,Luca,Hartmann,2007,"22,83",M15,28.05.2022,St. Wendel,8,False,9043ae6bfdf1bb7f70e842a96505225a9a2b21458c1842d7af9d1b90c18c6713
-TV Ludweiler,Speerwurf 600 g,Jannick,Serf,2007,"21,64",M15,03.09.2022,Konz,9,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
+LA Team Saar,Speerwurf 600 g,Johann,Rosch,2007,"35,16",M15,30.04.2022,Merzig,4,False,161139cc9b9d0801165cde4dd69e5215821defced4ba0cac70da9be060a7f3d5
+LA Team Saar,Speerwurf 600 g,Aaron,Hoffmann,2007,"33,09",M15,28.05.2022,St. Wendel,5,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
+LA Team Saar,Speerwurf 600 g,Conrad,Altmeyer,2007,"30,00",M15,03.07.2022,Püttlingen,6,False,2e1e0a449db9bf4fbdad937bb64919464b1664ec48f017d15ad1acc1f8202efc
+LA Team Saar,Speerwurf 600 g,Eric,Mayer,2007,"27,51",M15,28.05.2022,St. Wendel,7,False,648b0bee1593b3cf47e08c320ccc09cab1650ef6b4c8f9ef6a2223716c97f9c1
+LA Team Saar,Speerwurf 600 g,Luca,Hartmann,2007,"22,83",M15,28.05.2022,St. Wendel,8,False,9043ae6bfdf1bb7f70e842a96505225a9a2b21458c1842d7af9d1b90c18c6713
+LA Team Saar,Speerwurf 600 g,Jannick,Serf,2007,"21,64",M15,03.09.2022,Konz,9,False,e4e8ccca0acb1a5f57c56bd756ce783115def81640b009a2fb9d80715fe25968
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Louis,Wöffler,2007,"65,50",M15,22.06.2022,Saarbrücken,1,False,3c02f91ca6134e5608c0bb25db19a99d489f054d4feb7483813cf2095a62bbd4
 TV Ludweiler,Ballwurf 200g,Corvin,Schwarz,2007,"54,50",M15,25.06.2022,Püttlingen,2,False,1503cb3a9d88f060a6caf1d0d70fed7d280a5a7e63ca654c11af8268ff9a20a0
 TV Homburg,Ballwurf 200g,Robin,Pawlowski,2007,"52,00",M15,25.06.2022,Püttlingen,3,False,886eb8af99fd6d1fc40f949fd2e93f4ff59a703a719b595793284d58bde88e5b
@@ -1487,7 +1480,7 @@ LC Rehlingen,800 m Lauf,Abdulrahman,Alshekaki,2008,"2:33,25",M14,14.07.2022,Saar
 LG Saar 70,800 m Lauf,Leo Henri,Niklas,2008,"2:40,45",M14,25.09.2022,Ottweiler,7,False,5ad250f27d0c4a74ade621f3acf0dd6ef9a92045128e60fed6de5b93c9715c53
 LC Rehlingen,800 m Lauf,David,Baldauf,2008,"2:41,55",M14,30.06.2022,Saarbrücken,8,False,222c8ef2ab5b515d3f5e2b16d0fb40c93f9573169ef517d8fb5b78ac6c515ac9
 TV Elm,800 m Lauf,Tim,Jungmann,2008,"2:46,03",M14,25.09.2022,Ottweiler,9,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
-TV Elm,800 m Lauf,Vincent,Ranker,2008,"2:46,21",M14,25.09.2022,Ottweiler,10,False,8ec4b7c722cf7ffc8a386301707a04a27c1fa348a67c5c90d9b187833ddb583d
+LA Team Saar,800 m Lauf,Vincent,Ranker,2008,"2:46,21",M14,25.09.2022,Ottweiler,10,False,8ec4b7c722cf7ffc8a386301707a04a27c1fa348a67c5c90d9b187833ddb583d
 LAC Saarlouis,1000 m Lauf,Santiago,Kalkes,2008,"3:06,66",M14,22.09.2022,Saarlouis,1,False,82d82b31c09342db6d3a8ab4d2753c199826cf03393035e61bc55a9becc0db2e
 LC Rehlingen,1000 m Lauf,Jonas,Fedick,2008,"3:23,28",M14,07.07.2022,Saarbrücken,2,False,c156da2e113f3e5e9555ad569352cff35f1ea3f2d01277e858d4765914d45e2c
 TV Elm,1000 m Lauf,Tim,Jungmann,2008,"3:25,90",M14,03.07.2022,Püttlingen,3,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
@@ -1515,14 +1508,14 @@ LC Rehlingen,80 m Hürden 0.838m,Abdulrahman,Alshekaki,2008,"14,42",M14,25.06.20
 TV Elm,80 m Hürden 0.838m,Tim,Jungmann,2008,"14,72",M14,28.05.2022,St. Wendel,6,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
 SV GO! Saar 05,80 m Hürden 0.838m,Simon,Puskeiler,2008,"14,78",M14,25.06.2022,Püttlingen,7,False,7b33772f1bfb0639cad93d92b14311df96c66324f8daa2be36b6e54269aadfc1
 LA Team Saar,80 m Hürden 0.838m,Nils,Andler,2008,"15,07",M14,25.06.2022,Püttlingen,8,False,91079a5740616086d6b5669c72d4f0de0ce88be39e99d05208eff8cbb57fdefc
-LAC Saarlouis,80 m Hürden 0.838m,Luca,Becker,2008,"15,14",M14,25.06.2022,Püttlingen,9,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
+LA Team Saar,80 m Hürden 0.838m,Luca,Becker,2008,"15,14",M14,25.06.2022,Püttlingen,9,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
 LAC Saarlouis,80 m Hürden 0.838m,Philipp,Mathieu,2008,"15,14",M14,25.06.2022,Püttlingen,10,False,552be1f5ed2ef62577cff8fa63023f11bec725ef2b68e0e2736629e030f77871
 LC Rehlingen,300 m Hürden 0.838m,David,Baldauf,2008,"46,79",M14,21.06.2022,Rehlingen,1,False,222c8ef2ab5b515d3f5e2b16d0fb40c93f9573169ef517d8fb5b78ac6c515ac9
 LC Rehlingen,300 m Hürden 0.838m,Tom,Reuter,2008,"48,91",M14,21.06.2022,Rehlingen,2,False,8449ddf8bc4884ba981664a11d97beb52cde56260157a2e5c6eab5d8f6bb06f2
 LC Rehlingen,300 m Hürden 0.838m,Abdulrahman,Alshekaki,2008,"50,34",M14,21.06.2022,Rehlingen,3,False,05ea69ebd6c1f9ba6b763c2ef53fe35f519346f376be1283488da6be20f366ce
 LV Merzig,Hochsprung,Johannes,Michel,2008,"1,51",M14,02.07.2022,Püttlingen,1,False,eea7f803e7aebd391d4319fded62402cff6a39f55c57c4320d8df829b90cf7af
 LG Saar 70,Hochsprung,Jérémie,Behr,2008,"1,50",M14,28.05.2022,St. Wendel,2,False,b3a681b247c0410dee051425c91f5c78732a37e2e3657ac0965b56bb776dae28
-LG Saar 70,Hochsprung,Luca,Becker,2008,"1,48",M14,02.07.2022,Püttlingen,3,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
+LA Team Saar,Hochsprung,Luca,Becker,2008,"1,48",M14,02.07.2022,Püttlingen,3,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
 LG Saar 70,Hochsprung,Leander,Loginoff,2008,"1,47",M14,25.06.2022,Püttlingen,4,False,66958717f9ec527038339c67f5c2ca7e210bc06a65e33382ece5de348b2d8e50
 SV GO! Saar 05,Hochsprung,Simon,Puskeiler,2008,"1,47",M14,25.06.2022,Püttlingen,5,False,7b33772f1bfb0639cad93d92b14311df96c66324f8daa2be36b6e54269aadfc1
 LA Team Saar,Hochsprung,Nils,Andler,2008,"1,42",M14,02.07.2022,Püttlingen,6,False,91079a5740616086d6b5669c72d4f0de0ce88be39e99d05208eff8cbb57fdefc
@@ -1570,7 +1563,7 @@ LC Rehlingen,Speerwurf 600 g,Abdulrahman,Alshekaki,2008,"32,09",M14,09.08.2022,B
 LV Merzig,Speerwurf 600 g,Johannes,Michel,2008,"30,97",M14,28.05.2022,St. Wendel,2,False,eea7f803e7aebd391d4319fded62402cff6a39f55c57c4320d8df829b90cf7af
 LG Saar 70,Speerwurf 600 g,Leander,Loginoff,2008,"29,21",M14,28.05.2022,St. Wendel,3,False,66958717f9ec527038339c67f5c2ca7e210bc06a65e33382ece5de348b2d8e50
 TV Bliesen,Speerwurf 600 g,Timo,Wachter,2009,"28,29",M14,24.06.2022,St. Wendel,4,False,2f8e0afb9a1f84b3650bb322cc24396c24ede128928af3f503d0379a4ece4e3e
-TV Bliesen,Speerwurf 600 g,Luca,Becker,2008,"28,11",M14,25.06.2022,Püttlingen,5,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
+LA Team Saar,Speerwurf 600 g,Luca,Becker,2008,"28,11",M14,25.06.2022,Püttlingen,5,False,f66573fa890a118f449a9a264aabb7c67637570c4eaf18d75e6023071e6d11cd
 TV Elm,Speerwurf 600 g,Tim,Jungmann,2008,"26,58",M14,30.04.2022,Merzig,6,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
 SV GO! Saar 05,Speerwurf 600 g,Jonas,Fahrig,2008,"24,04",M14,30.04.2022,Merzig,7,False,799f394bf47ebf9a7f1dee10fc32dd479d737784fc385b92266619ec631874cf
 LA Team Saar,Speerwurf 600 g,Nils,Andler,2008,"23,79",M14,25.06.2022,Püttlingen,8,False,91079a5740616086d6b5669c72d4f0de0ce88be39e99d05208eff8cbb57fdefc
@@ -1697,7 +1690,7 @@ LG Saar 70,Block Mannschaft,Stina,Schröder,2008,8.570,W15,25.06.2022,Püttlinge
 LG Saar 70,Block Mannschaft,Sophie,Druck,2008,8.570,W15,25.06.2022,Püttlingen,2,True,73205a3595e17f25eb1bdcfe7e955d7a1c091540029574125a7b539e4a7b28fa
 ATSV Saarbrücken,100 m Lauf,Luna,Rothfuchs Galan,2007,"12,24",W15,19.06.2022,Frankfurt,1,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 SV GO! Saar 05,100 m Lauf,Luisa,Jose,2007,"12,61",W15,28.05.2022,St. Wendel,2,False,ff1098eb6f11a081a298bbbddbe0f55aa2159796a59f8ebb356ac2ebc638982f
-SV GO! Saar 05,100 m Lauf,Paula,Heinz,2007,"13,37",W15,14.07.2022,Saarbrücken,3,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,100 m Lauf,Paula,Heinz,2007,"13,37",W15,14.07.2022,Saarbrücken,3,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LC Rehlingen,100 m Lauf,Eva,Schmidt,2007,"13,77",W15,28.05.2022,St. Wendel,4,False,6a88feb536396215b138687d919344054c5416f66d07b43813c7373a7a026abb
 SV GO! Saar 05,100 m Lauf,Jule Hanni,Korter,2007,"13,78",W15,28.05.2022,St. Wendel,5,False,c88c3aaf0960422c4948268244dc4df62c54a5457f0034a6ecab3fd268fa293a
 TV Germania 1910 Piesbach,100 m Lauf,Julie,Wamsbach,2007,"13,84",W15,28.05.2022,St. Wendel,6,False,0394792319d255f226b4e3aa6a2de117907969e06baa67d36e37cbcbb9a19ee0
@@ -1706,7 +1699,7 @@ LC Rehlingen,100 m Lauf,Jessica,Sander,2007,"14,50",W15,21.05.2022,Rehlingen,8,F
 LC Rehlingen,100 m Lauf,Lea-Malin,Kasper,2007,"14,57",W15,01.05.2022,Mannheim,9,False,90b08724dc3f43a8121f8a4764c3099971a213523b9e055e9aec378b54215eb2
 LG Saar 70,100 m Lauf,Lina,Becker,2007,"14,60",W15,28.05.2022,St. Wendel,10,False,71b9009ca44ece8d6f879596b34bbcb5cc5bdbba79a1834ef7ffeefe9059defa
 ATSV Saarbrücken,300 m Lauf,Luna,Rothfuchs Galan,2007,"43,11",W15,29.05.2022,St. Wendel,1,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
-ATSV Saarbrücken,300 m Lauf,Paula,Heinz,2007,"44,60",W15,29.05.2022,St. Wendel,2,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,300 m Lauf,Paula,Heinz,2007,"44,60",W15,29.05.2022,St. Wendel,2,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LC Rehlingen,300 m Lauf,Emely,Krieger,2007,"44,99",W15,29.05.2022,St. Wendel,3,False,58853390db74e5ebd465d1b801af8589e19d43fc295f0f21a4390c17e5f203de
 LAC Saarlouis,300 m Lauf,Franka,Bastian,2007,"46,66",W15,14.05.2022,Saarlouis,4,False,227492216b6125c7480bf189a5c300b6b268977376b2b434ef9e3f52d71d05a4
 LSG Sbr.-Sulzbachtal,300 m Lauf,Jana Katharina,Markatos,2007,"48,60",W15,29.05.2022,St. Wendel,5,False,09a55345ed9fdab8bddf32018c36a8e9d72490ea0745e167d017af717ecfa729
@@ -1716,7 +1709,7 @@ LC Rehlingen,800 m Lauf,Emely,Krieger,2007,"2:20,98",W15,22.05.2022,Rehlingen,1,
 LSG Sbr.-Sulzbachtal,800 m Lauf,Jana Katharina,Markatos,2007,"2:29,98",W15,22.06.2022,Saarbrücken,2,False,09a55345ed9fdab8bddf32018c36a8e9d72490ea0745e167d017af717ecfa729
 LAC Saarlouis,800 m Lauf,Franka,Bastian,2007,"2:33,72",W15,22.05.2022,Rehlingen,3,False,227492216b6125c7480bf189a5c300b6b268977376b2b434ef9e3f52d71d05a4
 LSG Schmelz-Hüttersdorf,800 m Lauf,Hanna,Irsch,2007,"2:39,66",W15,01.09.2022,Friedrichsthal,4,False,53b33c05462efdfe1a3f6e6c98d806145cd6920ff0cb82920fda29fa863852a5
-LSG Schmelz-Hüttersdorf,800 m Lauf,Paula,Heinz,2007,"2:47,74",W15,03.05.2022,Rehlingen,5,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,800 m Lauf,Paula,Heinz,2007,"2:47,74",W15,03.05.2022,Rehlingen,5,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LSG Schmelz-Hüttersdorf,800 m Lauf,Kim,Geib,2007,"2:52,49",W15,25.09.2022,Ottweiler,6,False,cb5473f7b8faf28394d84d54b111eb7e5d61ac94fbf0af99318fd36d7bf72a06
 LC Rehlingen,800 m Lauf,Eva,Schmidt,2007,"2:56,43",W15,03.07.2022,Püttlingen,7,False,6a88feb536396215b138687d919344054c5416f66d07b43813c7373a7a026abb
 LC Rehlingen,800 m Lauf,Alina,Drobyschew,2007,"2:59,73",W15,22.06.2022,Saarbrücken,8,False,dc3bf679506dcb6aa39f4da85694d6f989f0a5418d04c5ef1b0f580ef4c0acc5
@@ -1736,7 +1729,7 @@ SV GO! Saar 05,80 m Hürden 0.762m,Jule Hanni,Korter,2007,"13,20",W15,28.05.2022
 ATSV Saarbrücken,80 m Hürden 0.762m,Luna,Rothfuchs Galan,2007,"13,94",W15,25.06.2022,Püttlingen,3,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 LC Rehlingen,80 m Hürden 0.762m,Lea-Malin,Kasper,2007,"15,40",W15,01.05.2022,Mannheim,4,False,90b08724dc3f43a8121f8a4764c3099971a213523b9e055e9aec378b54215eb2
 LV Merzig,80 m Hürden 0.762m,Victoria,Müller,2007,"15,79",W15,28.05.2022,St. Wendel,5,False,3b4959c6cf704c0fb3f45d5ca0f683fe812c5fb12f7f2965c5cc9c275b97d94b
-LV Merzig,80 m Hürden 0.762m,Paula,Heinz,2007,"15,90",W15,25.06.2022,Püttlingen,6,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
+LA Team Saar,80 m Hürden 0.762m,Paula,Heinz,2007,"15,90",W15,25.06.2022,Püttlingen,6,False,56fcd4d2d943b5faa23df8156b7b2d775b04510ac9504e300a11b8aa284bccab
 LC Rehlingen,80 m Hürden 0.762m,Jessica,Sander,2007,"15,96",W15,28.05.2022,St. Wendel,7,False,5ad8fd77ee9b682c8cabfa5a00bd38984730c9dfcba26ca4031df79201aa7d90
 LSG Sbr.-Sulzbachtal,80 m Hürden 0.762m,Jana Katharina,Markatos,2007,"16,45",W15,25.06.2022,Püttlingen,8,False,09a55345ed9fdab8bddf32018c36a8e9d72490ea0745e167d017af717ecfa729
 LAC Saarlouis,80 m Hürden 0.762m,Franka,Bastian,2007,"16,62",W15,03.09.2022,Konz,9,False,227492216b6125c7480bf189a5c300b6b268977376b2b434ef9e3f52d71d05a4
@@ -1767,7 +1760,7 @@ LC Rehlingen,Weitsprung,Lea-Malin,Kasper,2007,"4,21",W15,01.05.2022,Mannheim,8,F
 ATSV Saarbrücken,Weitsprung,Josephine,Euler,2007,"4,19",W15,25.06.2022,Püttlingen,9,False,7ede54bf4d91cdc09b125b18adfa01517f6725b5cae981b4dda4ec219905b4a3
 ATSV Saarbrücken,Weitsprung,Henriette,Dubois,2007,"4,15",W15,25.06.2022,Püttlingen,10,False,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
 SV GO! Saar 05,Dreisprung,Friederike,Albersdörfer,2008,"9,28",W15,04.08.2022,Saarlouis,1,False,2afb51be5ae7f8f93ba0ea64f0518f56f42c7105477b068bab845d26081f8a45
-SV GO! Saar 05,Dreisprung,Alisha,Schmidt,2008,"9,15",W15,29.05.2022,St. Wendel,2,False,627df3c222515a72b102762f48488a19d45d9a46fe8ce52444c56c56a3bd437f
+LA Team Saar,Dreisprung,Alisha,Schmidt,2008,"9,15",W15,29.05.2022,St. Wendel,2,False,627df3c222515a72b102762f48488a19d45d9a46fe8ce52444c56c56a3bd437f
 LG Berus,Dreisprung,Anna,Gräber,2008,"8,77",W15,29.05.2022,St. Wendel,3,False,053b324ecc9764dfd3eaedb1f41b5a2183cf81a1adfeb8d43eeb930155737f55
 LV Merzig,Dreisprung,Victoria,Müller,2007,"8,63",W15,29.05.2022,St. Wendel,4,False,3b4959c6cf704c0fb3f45d5ca0f683fe812c5fb12f7f2965c5cc9c275b97d94b
 ATSV Saarbrücken,Kugelstoß 3 kg,Henriette,Dubois,2007,"11,28",W15,25.06.2022,Püttlingen,1,False,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
@@ -1831,19 +1824,19 @@ SC Friedrichsthal,100 m Lauf,Klara,Baumert,2008,"13,90",W14,02.07.2022,Püttling
 LG Saar 70,100 m Lauf,Lilly,Corpataux,2008,"13,91",W14,02.07.2022,Püttlingen,8,False,7eb7bbaa03e488d73877eb298affc357b435852208b28f0db59d8feb2121604f
 LSG Sbr.-Sulzbachtal,100 m Lauf,Noelle Maduh,Dohr,2008,"14,11",W14,27.07.2022,Friedrichsthal,9,False,9fe36e33daa821ecca1cb71dd288dc733c4f13c9d143ce7160bb64909e877835
 TV Bliesen,100 m Lauf,Vivien,Schmitt,2008,"14,17",W14,28.05.2022,St. Wendel,10,False,41589490fdcc6a9f746a7f0cd5ac0bd29f28dfb59fa8f913ef4589e100136d1c
-TV Bliesen,100 m Lauf,Louisa,Scholz,2008,"14,17",W14,14.07.2022,Saarbrücken,11,False,829896cbfbe53fd41f7c874e44ef924018bc8dc2d311f817d43325724b8f567c
-LAC Saarlouis,300 m Lauf,Emilia,Bento,2008,"45,08",W14,29.05.2022,St. Wendel,1,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
+LA Team Saar,100 m Lauf,Louisa,Scholz,2008,"14,17",W14,14.07.2022,Saarbrücken,10,False,829896cbfbe53fd41f7c874e44ef924018bc8dc2d311f817d43325724b8f567c
+LA Team Saar,300 m Lauf,Emilia,Bento,2008,"45,08",W14,29.05.2022,St. Wendel,1,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
 LC Rehlingen,300 m Lauf,Mathilda,Klein,2008,"45,37",W14,27.07.2022,Friedrichsthal,2,False,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
 LSG Sbr.-Sulzbachtal,300 m Lauf,Noelle Maduh,Dohr,2008,"45,91",W14,04.08.2022,Saarlouis,3,False,9fe36e33daa821ecca1cb71dd288dc733c4f13c9d143ce7160bb64909e877835
-LSG Sbr.-Sulzbachtal,300 m Lauf,Emma,Wagner,2008,"47,44",W14,29.05.2022,St. Wendel,4,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
-LSG Sbr.-Sulzbachtal,300 m Lauf,Lilianne,Weiss,2008,"47,84",W14,29.05.2022,St. Wendel,5,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
+LA Team Saar,300 m Lauf,Emma,Wagner,2008,"47,44",W14,29.05.2022,St. Wendel,4,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
+LA Team Saar,300 m Lauf,Lilianne,Weiss,2008,"47,84",W14,29.05.2022,St. Wendel,5,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
 SC Friedrichsthal,300 m Lauf,Klara,Baumert,2008,"48,08",W14,27.07.2022,Friedrichsthal,6,False,98473755838aaadd05835b6e65aa8904216c0880eef0e46c8e12c1dd59689506
 LC Rehlingen,300 m Lauf,Lotta,Heinz,2008,"48,54",W14,14.05.2022,Saarlouis,7,False,05405abb5c17c9b0e74bbf1660dda2dd86b4a69ef2d6e5ac1c04ac886b13f12a
 LAC Saarlouis,300 m Lauf,Elena,Blug,2008,"48,70",W14,29.05.2022,St. Wendel,8,False,cd72252b9aed47bd96fc3e4e22b3bc726f54795b9cba0d2ac366031c41704195
 LAC Saarlouis,300 m Lauf,Nina Luisa,Saccà,2008,"50,01",W14,04.08.2022,Saarlouis,9,False,32b9155bc4d7a73f8f7f674f05633ecb5c4271f311e9aed9580d8b5b6209bdfd
 Athletic Perl,300 m Lauf,Finja,Richter,2008,"50,19",W14,14.05.2022,Saarlouis,10,False,8e0be7748e9bdcac69314c8338079d073a130dac52dd0db1e2d99a3e75822af5
 LSG Sbr.-Sulzbachtal,800 m Lauf,Noelle Maduh,Dohr,2008,"2:31,01",W14,14.07.2022,Saarbrücken,1,False,9fe36e33daa821ecca1cb71dd288dc733c4f13c9d143ce7160bb64909e877835
-LSG Sbr.-Sulzbachtal,800 m Lauf,Lilianne,Weiss,2008,"2:38,20",W14,14.07.2022,Saarbrücken,2,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
+LA Team Saar,800 m Lauf,Lilianne,Weiss,2008,"2:38,20",W14,14.07.2022,Saarbrücken,2,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
 LAC Saarlouis,800 m Lauf,Elena,Blug,2008,"2:38,97",W14,27.07.2022,Friedrichsthal,3,False,cd72252b9aed47bd96fc3e4e22b3bc726f54795b9cba0d2ac366031c41704195
 SV GO! Saar 05,800 m Lauf,Mercedes,Rauchenecker,2008,"2:46,42",W14,01.09.2022,Friedrichsthal,4,False,e39ed998ac2b34d4515fbd3c30cdc67c9c0dae68046354651f841306552b8bd6
 LA Team Saar,800 m Lauf,Emma,Wagner,2008,"2:52,75",W14,03.07.2022,Püttlingen,5,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
@@ -1862,15 +1855,15 @@ TV Germania 1910 Piesbach,2000 m Lauf,Emma,Berens,2008,"9:24,94",W14,25.06.2022,
 LG Berus,2000 m Lauf,Lara Sophie,Kipp,2008,"10:02,19",W14,25.06.2022,Püttlingen,8,False,2de4479bbbe46bc24837c85b16bca9c3161eec0fc81245cee710cefd796861c4
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Noelle Maduh,Dohr,2008,"11:56,41",W14,02.04.2022,Rehlingen,1,False,9fe36e33daa821ecca1cb71dd288dc733c4f13c9d143ce7160bb64909e877835
 LAC Saarlouis,3000 m Lauf,Elena,Blug,2008,"13:08,18",W14,02.04.2022,Rehlingen,2,False,cd72252b9aed47bd96fc3e4e22b3bc726f54795b9cba0d2ac366031c41704195
-LAC Saarlouis,3000 m Lauf,Alisha,Schmidt,2008,"13:45,33",W14,02.04.2022,Rehlingen,3,False,627df3c222515a72b102762f48488a19d45d9a46fe8ce52444c56c56a3bd437f
+LA Team Saar,3000 m Lauf,Alisha,Schmidt,2008,"13:45,33",W14,02.04.2022,Rehlingen,3,False,627df3c222515a72b102762f48488a19d45d9a46fe8ce52444c56c56a3bd437f
 Athletic Perl,3000 m Lauf,Finja,Richter,2008,"13:52,15",W14,02.04.2022,Rehlingen,4,False,8e0be7748e9bdcac69314c8338079d073a130dac52dd0db1e2d99a3e75822af5
 Tri-Sport/Saar-Hochwald,3000 m Lauf,Amy,Wittig,2008,"13:56,65",W14,02.04.2022,Rehlingen,5,False,f7a726378f0a05ccf75ca4b0ab41872bb49dce05e6cfda81e761f4895a6a2b46
 TV Germania 1910 Piesbach,3000 m Lauf,Yasmin,Chadid,2008,"14:38,52",W14,02.04.2022,Rehlingen,6,False,c31e23dc7b11b6458ca7e17106d86d919e92251c602fe6bee68fbed0762d8ed2
 LC Rehlingen,80 m Hürden 0.762m,Mathilda,Klein,2008,"13,01",W14,28.05.2022,St. Wendel,1,False,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
-LC Rehlingen,80 m Hürden 0.762m,Emilia,Bento,2008,"13,17",W14,25.06.2022,Püttlingen,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
+LA Team Saar,80 m Hürden 0.762m,Emilia,Bento,2008,"13,17",W14,25.06.2022,Püttlingen,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
 LC Rehlingen,80 m Hürden 0.762m,Lotta,Heinz,2008,"13,75",W14,28.05.2022,St. Wendel,3,False,05405abb5c17c9b0e74bbf1660dda2dd86b4a69ef2d6e5ac1c04ac886b13f12a
 SV GO! Saar 05,80 m Hürden 0.762m,Friederike,Albersdörfer,2008,"13,95",W14,28.05.2022,St. Wendel,4,False,2afb51be5ae7f8f93ba0ea64f0518f56f42c7105477b068bab845d26081f8a45
-SV GO! Saar 05,80 m Hürden 0.762m,Lilianne,Weiss,2008,"14,76",W14,28.05.2022,St. Wendel,5,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
+LA Team Saar,80 m Hürden 0.762m,Lilianne,Weiss,2008,"14,76",W14,28.05.2022,St. Wendel,5,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
 SC Friedrichsthal,80 m Hürden 0.762m,Klara,Baumert,2008,"14,85",W14,03.07.2022,Püttlingen,6,False,98473755838aaadd05835b6e65aa8904216c0880eef0e46c8e12c1dd59689506
 ATSV Saarbrücken,80 m Hürden 0.762m,Yasmin,El Hayek,2008,"15,65",W14,25.06.2022,Püttlingen,7,False,2c1420cbb816e958507c2e9f2f4ff5262ec680b759cc75c0c9cb823a38bc4724
 TV Bliesen,80 m Hürden 0.762m,Vivien,Schmitt,2008,"15,77",W14,25.06.2022,Püttlingen,8,False,41589490fdcc6a9f746a7f0cd5ac0bd29f28dfb59fa8f913ef4589e100136d1c
@@ -1880,7 +1873,7 @@ LC Rehlingen,300 m Hürden 0.762m,Lotta,Heinz,2008,"52,93",W14,21.06.2022,Rehlin
 LAC Saarlouis,300 m Hürden 0.762m,Elena,Blug,2008,"54,21",W14,02.07.2022,Esch/LUX,2,False,cd72252b9aed47bd96fc3e4e22b3bc726f54795b9cba0d2ac366031c41704195
 LAC Saarlouis,300 m Hürden 0.762m,Nina Luisa,Saccà,2008,"56,23",W14,21.06.2022,Rehlingen,3,False,32b9155bc4d7a73f8f7f674f05633ecb5c4271f311e9aed9580d8b5b6209bdfd
 SC Friedrichsthal,Hochsprung,Klara,Baumert,2008,"1,51",W14,28.05.2022,St. Wendel,1,False,98473755838aaadd05835b6e65aa8904216c0880eef0e46c8e12c1dd59689506
-SC Friedrichsthal,Hochsprung,Emilia,Bento,2008,"1,44",W14,25.06.2022,Püttlingen,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
+LA Team Saar,Hochsprung,Emilia,Bento,2008,"1,44",W14,25.06.2022,Püttlingen,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
 LC Rehlingen,Hochsprung,Mathilda,Klein,2008,"1,41",W14,25.06.2022,Püttlingen,3,False,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
 TV Germania 1910 Piesbach,Hochsprung,Marielle,Thiery,2008,"1,41",W14,25.06.2022,Püttlingen,4,False,894ffa8878d4e826376af6e1389508d991d47012881285b425d5b2fcc8ec8a6f
 LG Berus,Hochsprung,Jade,Hoarau,2008,"1,39",W14,02.07.2022,Püttlingen,5,False,98a42453c75c20b4534b5c8c03c6d085e64ecfbbe6aadddbf9d007e63bdebab7
@@ -1888,15 +1881,15 @@ TV Bliesen,Hochsprung,Vivien,Schmitt,2008,"1,38",W14,25.06.2022,Püttlingen,6,Fa
 LG Saar 70,Hochsprung,Jana,Hoffmann,2008,"1,35",W14,28.05.2022,St. Wendel,7,False,2f5c35e0729bdad585c919cdd8e7769b3e9bc52fc424d2bb9ee643176d87bf6a
 LG Saar 70,Hochsprung,Lilly,Corpataux,2008,"1,33",W14,02.07.2022,Püttlingen,8,False,7eb7bbaa03e488d73877eb298affc357b435852208b28f0db59d8feb2121604f
 ATSV Saarbrücken,Hochsprung,Yasmin,El Hayek,2008,"1,30",W14,28.05.2022,St. Wendel,9,False,2c1420cbb816e958507c2e9f2f4ff5262ec680b759cc75c0c9cb823a38bc4724
-ATSV Saarbrücken,Hochsprung,Lilianne,Weiss,2008,"1,30",W14,28.05.2022,St. Wendel,10,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
-LA Team Saar,Hochsprung,Emma,Wagner,2008,"1,30",W14,02.07.2022,Püttlingen,11,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
+LA Team Saar,Hochsprung,Lilianne,Weiss,2008,"1,30",W14,28.05.2022,St. Wendel,10,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
+LA Team Saar,Hochsprung,Emma,Wagner,2008,"1,30",W14,02.07.2022,Püttlingen,10,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
 SV GO! Saar 05,Weitsprung,Friederike,Albersdörfer,2008,"5,01",W14,25.06.2022,Püttlingen,1,False,2afb51be5ae7f8f93ba0ea64f0518f56f42c7105477b068bab845d26081f8a45
-SV GO! Saar 05,Weitsprung,Emilia,Bento,2008,"4,65",W14,28.05.2022,St. Wendel,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
+LA Team Saar,Weitsprung,Emilia,Bento,2008,"4,65",W14,28.05.2022,St. Wendel,2,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
 LC Rehlingen,Weitsprung,Mathilda,Klein,2008,"4,64",W14,01.05.2022,Mannheim,3,False,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
 SC Friedrichsthal,Weitsprung,Klara,Baumert,2008,"4,61",W14,25.06.2022,Püttlingen,4,False,98473755838aaadd05835b6e65aa8904216c0880eef0e46c8e12c1dd59689506
-SC Friedrichsthal,Weitsprung,Emma,Wagner,2008,"4,54",W14,28.05.2022,St. Wendel,5,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
+LA Team Saar,Weitsprung,Emma,Wagner,2008,"4,54",W14,28.05.2022,St. Wendel,5,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
 LV Merzig,Weitsprung,Helena,Steuer,2009,"4,51",W14,22.06.2022,Saarbrücken,6,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
-LV Merzig,Weitsprung,Lilianne,Weiss,2008,"4,47",W14,28.05.2022,St. Wendel,7,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
+LA Team Saar,Weitsprung,Lilianne,Weiss,2008,"4,47",W14,28.05.2022,St. Wendel,7,False,582f6e96b619a6a90d40b5af73dbeda06e1000d9f2a15105d25878d44c22117d
 TV Bliesen,Weitsprung,Vivien,Schmitt,2008,"4,46",W14,28.05.2022,St. Wendel,8,False,41589490fdcc6a9f746a7f0cd5ac0bd29f28dfb59fa8f913ef4589e100136d1c
 LSG Sbr.-Sulzbachtal,Weitsprung,Noelle Maduh,Dohr,2008,"4,46",W14,25.06.2022,Püttlingen,9,False,9fe36e33daa821ecca1cb71dd288dc733c4f13c9d143ce7160bb64909e877835
 LG Saar 70,Weitsprung,Lilly,Corpataux,2008,"4,43",W14,03.05.2022,Rehlingen,10,False,7eb7bbaa03e488d73877eb298affc357b435852208b28f0db59d8feb2121604f
@@ -1931,7 +1924,7 @@ TV St. Wendel,Speerwurf 500 g,Maya,Fries,2009,"25,80",W14,24.06.2022,St. Wendel,
 ATSV Saarbrücken,Speerwurf 500 g,Yasmin,El Hayek,2008,"22,96",W14,22.06.2022,Saarbrücken,3,False,2c1420cbb816e958507c2e9f2f4ff5262ec680b759cc75c0c9cb823a38bc4724
 LG Berus,Speerwurf 500 g,Jade,Hoarau,2008,"22,56",W14,28.05.2022,St. Wendel,4,False,98a42453c75c20b4534b5c8c03c6d085e64ecfbbe6aadddbf9d007e63bdebab7
 LC Rehlingen,Speerwurf 500 g,Mathilda,Klein,2008,"21,45",W14,03.07.2022,Püttlingen,5,False,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
-LC Rehlingen,Speerwurf 500 g,Emilia,Bento,2008,"20,02",W14,25.06.2022,Püttlingen,6,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
+LA Team Saar,Speerwurf 500 g,Emilia,Bento,2008,"20,02",W14,25.06.2022,Püttlingen,6,False,97d119ba5fb3c05ddc572c169a3c27de146e5eebfae73a0b588c903c24fecb11
 TV Germania 1910 Piesbach,Speerwurf 500 g,Marielle,Thiery,2008,"19,86",W14,15.10.2022,Dillingen,7,False,894ffa8878d4e826376af6e1389508d991d47012881285b425d5b2fcc8ec8a6f
 LV Merzig,Speerwurf 500 g,Marlene,Primm,2008,"19,40",W14,28.05.2022,St. Wendel,8,False,2ba4ef06f59f698ac0cb0407fed2e788bd8c2e1f18c0a152bf4e8563c574b942
 LA Team Saar,Speerwurf 500 g,Berenike,Hauck,2009,"19,39",W14,03.07.2022,Püttlingen,9,False,639e2e38fd388f70d86d6740b5cb3d553d2323727fe2b14517dcc178f9f53fdc
@@ -2097,7 +2090,7 @@ LG Saar 70,Block Mannschaft,Kyle,Becker,2010,7.330,M13,25.06.2022,Püttlingen,3,
 LG Saar 70,Block Mannschaft,Julian Olaf,Schröder,2009,7.330,M13,25.06.2022,Püttlingen,3,True,d2573538b7f00b4162931c19051b582bdd950257e9944d3aebe27a6b22d407f3
 LG Saar 70,Block Mannschaft,Henri,Nehri,2011,7.330,M13,25.06.2022,Püttlingen,3,True,5e17581f167fa477a07c887eb7c34a9cd5292e6f30404863cc0285d14e2c0129
 TV Bliesen,75 m Lauf,Timo,Wachter,2009,"9,97",M13,17.09.2022,Seckenheim,1,False,2f8e0afb9a1f84b3650bb322cc24396c24ede128928af3f503d0379a4ece4e3e
-TV Bliesen,75 m Lauf,Namory Aaron,Kießling,2009,"10,54",M13,29.05.2022,St. Wendel,2,False,df22f9f3ebc58bacc03b809dd99d7e48b6204f30a167c1be63a70c8461ddc2ec
+LA Team Saar,75 m Lauf,Namory Aaron,Kießling,2009,"10,54",M13,29.05.2022,St. Wendel,2,False,df22f9f3ebc58bacc03b809dd99d7e48b6204f30a167c1be63a70c8461ddc2ec
 LC Rehlingen,75 m Lauf,David-Luis,Maistoru,2009,"10,69",M13,10.09.2022,Dillingen,3,False,76560c35734950090e5f23ee55d2f85b60870488a802d10acfe15a59f66737f8
 LC Rehlingen,75 m Lauf,Noah,Bohn,2009,"10,81",M13,29.05.2022,St. Wendel,4,False,df74a5f955bd9bc5b2d13381ae7e61890e3babf3058f5a9cfc07e61891705a60
 LC Rehlingen,75 m Lauf,Nico,Schneider,2009,"10,81",M13,29.05.2022,St. Wendel,5,False,4d9a192f6f4e6a803200a3bd48926fd14c07baf59c787fce0a7674cf4910c551
@@ -2162,7 +2155,7 @@ LSG Sbr.-Sulzbachtal,Kugelstoß 3 kg,Leander,Stahnke,2009,"7,34",M13,18.10.2022,
 LSG Sbr.-Sulzbachtal,Kugelstoß 3 kg,Timo,John,2009,"7,25",M13,29.05.2022,St. Wendel,6,False,47cb4441a417c61afdd5ebf802c6beb1bb9ea1d9e34293ad4ab4b80ed490b4fb
 LG Saar 70,Kugelstoß 3 kg,Robin,Dorst,2009,"7,15",M13,29.05.2022,St. Wendel,7,False,1301bf5a876d35891bef96a9989486d7ea4c59d6a1ee0de93710c029346a1265
 LG Berus,Kugelstoß 3 kg,Elias,Kipp,2009,"5,93",M13,25.06.2022,Püttlingen,8,False,a27bcc04f87c38aaa18b98d472c4bb16d2b77e0140b5d166846f2bed14772620
-LG Berus,Kugelstoß 3 kg,Paul,Mang,2009,"5,84",M13,29.05.2022,St. Wendel,9,False,b41dd58584a92f408de32cdf9464091c4619818b3fe5b3920f36afb912853b83
+LA Team Saar,Kugelstoß 3 kg,Paul,Mang,2009,"5,84",M13,29.05.2022,St. Wendel,9,False,b41dd58584a92f408de32cdf9464091c4619818b3fe5b3920f36afb912853b83
 LG Saar 70,Kugelstoß 3 kg,Moritz,Schmidt,2009,"5,73",M13,25.06.2022,Püttlingen,10,False,546711b7409678a3d674ecffb68670f92c4fa21f542b1eef230d6b627367e656
 ATSV Saarbrücken,Diskuswurf 750 g,Neo,Ecker,2009,"26,22",M13,25.06.2022,Püttlingen,1,False,c8b38662d6d6df8f8677fde393ca3561ce1c3e0cfd53acafcf1fe33eacfd33fc
 LSG Sbr.-Sulzbachtal,Diskuswurf 750 g,Leander,Stahnke,2009,"25,12",M13,19.07.2022,Saarbrücken,2,False,72c5e127ab01e17a3603f1b03f3e6c90aef19fef4bb1033cc0dc196da59888e9
@@ -2195,7 +2188,7 @@ SV GO! Saar 05,Ballwurf 200g,Jonas,Schmitt,2009,"40,00",M13,16.06.2022,Püttling
 ATSV Saarbrücken,Ballwurf 200g,Neo,Ecker,2009,"38,50",M13,16.06.2022,Püttlingen,8,False,c8b38662d6d6df8f8677fde393ca3561ce1c3e0cfd53acafcf1fe33eacfd33fc
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Leander,Stahnke,2009,"38,00",M13,16.06.2022,Püttlingen,9,False,72c5e127ab01e17a3603f1b03f3e6c90aef19fef4bb1033cc0dc196da59888e9
 LC Rehlingen,Ballwurf 200g,Dennis Niklas,Weber,2009,"35,50",M13,16.06.2022,Püttlingen,10,False,0c8f380720ca17f03e8994a926f1047e69e8775a60020416122a0629f0358f54
-LC Rehlingen,Ballwurf 200g,Nico,Schneider,2009,"35,50",M13,10.09.2022,Dillingen,11,False,4d9a192f6f4e6a803200a3bd48926fd14c07baf59c787fce0a7674cf4910c551
+LC Rehlingen,Ballwurf 200g,Nico,Schneider,2009,"35,50",M13,10.09.2022,Dillingen,10,False,4d9a192f6f4e6a803200a3bd48926fd14c07baf59c787fce0a7674cf4910c551
 TV Bliesen,3-Kampf,Timo,Wachter,2009,1.402,M13,17.09.2022,Seckenheim,1,False,2f8e0afb9a1f84b3650bb322cc24396c24ede128928af3f503d0379a4ece4e3e
 LSG Sbr.-Sulzbachtal,3-Kampf,Niels,Jung,2009,1.215,M13,16.06.2022,Püttlingen,2,False,8b94962487ed30b3b7eebb088c3502113c2b4bb3fcaef7f023e24cd3d75c0255
 LG Saar 70,3-Kampf,Malte,Becker,2009,1.204,M13,16.06.2022,Püttlingen,3,False,4fc53cd367b7d6fb3a9495bd775e5fe6fddd3fa964f075b71ed5babf2100d65b
@@ -2262,7 +2255,7 @@ TV Ludweiler,5 km Str.,Nelson,Franz,2010,24:21,M12,09.10.2022,Saarlouis,3,False,
 ATSV Saarbrücken,60 m Hürden 0.762m,Tom,Wahlen,2010,"11,74",M12,25.06.2022,Püttlingen,1,False,35aed1ebf38265afd2c8686c482dbd9bb8aa1da28a54391337542f31a66e1951
 LC Rehlingen,60 m Hürden 0.762m,Thilo,Pirot,2010,"12,19",M12,25.06.2022,Püttlingen,2,False,446875af0d221e622b4932ca37adde664f7a27f859237b1d428fe27e8e551b3e
 LG Berus,60 m Hürden 0.762m,Paul,Gozemba,2010,"12,26",M12,29.05.2022,St. Wendel,3,False,97633a06f7680f76cff8b647812f04f39b324b70a26f413d7917f8b3cf9867d6
-LG Berus,60 m Hürden 0.762m,Leon,Eckert,2010,"12,60",M12,25.06.2022,Püttlingen,4,False,9b742a1ed71a4aff4d85817fec6d56313569c212333e2bff855dc818a5832fbf
+LA Team Saar,60 m Hürden 0.762m,Leon,Eckert,2010,"12,60",M12,25.06.2022,Püttlingen,4,False,9b742a1ed71a4aff4d85817fec6d56313569c212333e2bff855dc818a5832fbf
 ATSV Saarbrücken,60 m Hürden 0.762m,Felix,Rückel,2010,"12,89",M12,25.06.2022,Püttlingen,5,False,e1932a816ba005ae18e6ac7aa304561e8735dd775bd6830474a44c10dce77534
 TV Germania 1910 Piesbach,60 m Hürden 0.762m,Aaron,Thiery,2010,"13,14",M12,25.06.2022,Püttlingen,6,False,d6ad0bd0a5a900347c87921a3a9c91d7c52c19f369e1867f74d5b882ce346805
 LG Saar 70,60 m Hürden 0.762m,Paul,Druck,2010,"13,20",M12,25.06.2022,Püttlingen,7,False,a5e42707a2e28253d16c41180ccc4c73707cf2f17dc2f7b4cca62d88a4b3e4a7
@@ -2274,7 +2267,7 @@ TV Germania 1910 Piesbach,Hochsprung,Aaron,Thiery,2010,"1,36",M12,23.06.2022,Saa
 ATSV Saarbrücken,Hochsprung,Tom,Wahlen,2010,"1,28",M12,16.06.2022,Püttlingen,3,False,35aed1ebf38265afd2c8686c482dbd9bb8aa1da28a54391337542f31a66e1951
 LG Berus,Hochsprung,Paul,Gozemba,2010,"1,27",M12,10.09.2022,Dillingen,4,False,97633a06f7680f76cff8b647812f04f39b324b70a26f413d7917f8b3cf9867d6
 AC Diefflen,Hochsprung,Ben,Müller,2010,"1,26",M12,14.05.2022,Saarlouis,5,False,ddd4e1122c8a12319d941b39f52c7ccaa320a1b3eb1b7ada94bf124ae2c90177
-AC Diefflen,Hochsprung,Samuel Aaron,Mang,2010,"1,25",M12,29.05.2022,St. Wendel,6,False,295a3d6c569655ed342cabe65f5401cabb3b3c8e5b06b5ce0e9329ed89876481
+LA Team Saar,Hochsprung,Samuel Aaron,Mang,2010,"1,25",M12,29.05.2022,St. Wendel,6,False,295a3d6c569655ed342cabe65f5401cabb3b3c8e5b06b5ce0e9329ed89876481
 LA Team Saar,Hochsprung,Leon,Eckert,2010,"1,22",M12,16.06.2022,Püttlingen,7,False,9b742a1ed71a4aff4d85817fec6d56313569c212333e2bff855dc818a5832fbf
 LC Rehlingen,Hochsprung,Thilo,Pirot,2010,"1,22",M12,16.06.2022,Püttlingen,8,False,446875af0d221e622b4932ca37adde664f7a27f859237b1d428fe27e8e551b3e
 LC Rehlingen,Hochsprung,Jonas,Hoffmann,2010,"1,20",M12,14.05.2022,Saarlouis,9,False,5b2eb3427b61cf551df783224aa9ad9678eaa5bae6798daf20860b547cf5776b
@@ -2321,15 +2314,15 @@ LA Team Saar,Speerwurf 400 g,Paul,Hübschen,2010,"7,97",M12,25.06.2022,Püttling
 LA Team Saar,Ballwurf 200g,Malik,Rian,2011,"42,00",M12,25.09.2022,Ottweiler,1,False,3767c8077f9f4ef19d15a8276d3e5f6a09e21591d6896c250dbd2faf8288343b
 LAC Saarlouis,Ballwurf 200g,Till,Bastian,2010,"40,50",M12,10.09.2022,Dillingen,2,False,77d9dfddc768d47fbb0d37086e535c2b4c17d1de2d6787b8f881f4294b0b346d
 ATSV Saarbrücken,Ballwurf 200g,Tom,Wahlen,2010,"39,00",M12,16.06.2022,Püttlingen,3,False,35aed1ebf38265afd2c8686c482dbd9bb8aa1da28a54391337542f31a66e1951
-ATSV Saarbrücken,Ballwurf 200g,Leon,Eckert,2010,"34,00",M12,29.05.2022,St. Wendel,4,False,9b742a1ed71a4aff4d85817fec6d56313569c212333e2bff855dc818a5832fbf
+LA Team Saar,Ballwurf 200g,Leon,Eckert,2010,"34,00",M12,29.05.2022,St. Wendel,4,False,9b742a1ed71a4aff4d85817fec6d56313569c212333e2bff855dc818a5832fbf
 LC Rehlingen,Ballwurf 200g,Moritz,Kolz,2011,"34,00",M12,16.06.2022,Püttlingen,5,False,8898854c06aa46d2782bfdc20504bb1e62dfe47d93c9d30569efdf88ba5f31bf
 LC Rehlingen,Ballwurf 200g,Jonas,Hoffmann,2010,"33,00",M12,25.06.2022,Püttlingen,6,False,5b2eb3427b61cf551df783224aa9ad9678eaa5bae6798daf20860b547cf5776b
 LG Saar 70,Ballwurf 200g,Henrik Lasse,Schröder,2011,"32,50",M12,16.06.2022,Püttlingen,7,False,37ecb8c999d7b5c0684ce60f5147e0dbd4166892036aa4bb100793459f191b20
 LG Berus,Ballwurf 200g,Paul,Gozemba,2010,"32,50",M12,10.09.2022,Dillingen,8,False,97633a06f7680f76cff8b647812f04f39b324b70a26f413d7917f8b3cf9867d6
 LC Rehlingen,Ballwurf 200g,Thilo,Pirot,2010,"32,00",M12,16.06.2022,Püttlingen,9,False,446875af0d221e622b4932ca37adde664f7a27f859237b1d428fe27e8e551b3e
 LG Saar 70,Ballwurf 200g,David,Hoffmann,2010,"31,50",M12,29.05.2022,St. Wendel,10,False,a0a83419fd23a4118bf4d508f6492ecd81fac093d2d2168c05e91ad7b99f668d
-LG Saar 70,Ballwurf 200g,Kyle,Becker,2010,"31,50",M12,16.06.2022,Püttlingen,11,False,dd4e1d037caffd8b99ae5380b6670d122fadd748485652e16e1df5be86404625
-ATSV Saarbrücken,Ballwurf 200g,Felix,Rückel,2010,"31,50",M12,25.06.2022,Püttlingen,12,False,e1932a816ba005ae18e6ac7aa304561e8735dd775bd6830474a44c10dce77534
+LG Saar 70,Ballwurf 200g,Kyle,Becker,2010,"31,50",M12,16.06.2022,Püttlingen,10,False,dd4e1d037caffd8b99ae5380b6670d122fadd748485652e16e1df5be86404625
+ATSV Saarbrücken,Ballwurf 200g,Felix,Rückel,2010,"31,50",M12,25.06.2022,Püttlingen,10,False,e1932a816ba005ae18e6ac7aa304561e8735dd775bd6830474a44c10dce77534
 TV Bliesen,3-Kampf,Felix,Wagner,2010,1.176,M12,25.09.2022,Birkenfeld,1,False,68391639c67ea72375611b4a67c7f044bb7301474d10d407c4a1d60a3d3681ea
 ATSV Saarbrücken,3-Kampf,Tom,Wahlen,2010,1.167,M12,16.06.2022,Püttlingen,2,False,35aed1ebf38265afd2c8686c482dbd9bb8aa1da28a54391337542f31a66e1951
 AC Diefflen,3-Kampf,Ben,Müller,2010,1.129,M12,16.06.2022,Püttlingen,3,False,ddd4e1122c8a12319d941b39f52c7ccaa320a1b3eb1b7ada94bf124ae2c90177
@@ -2557,18 +2550,18 @@ LSG Sbr.-Sulzbachtal,75 m Lauf,Nike,Stahnke,2009,"10,26",W13,29.05.2022,St. Wend
 LC Rehlingen,75 m Lauf,Anna,Gammel,2009,"10,44",W13,29.05.2022,St. Wendel,3,False,4112afe8b7eafa4d1527c718db5b420a52dcf29e32b1b563cfb633e3516d0177
 ATSV Saarbrücken,75 m Lauf,Mia Marie,Salomon,2009,"10,84",W13,16.06.2022,Püttlingen,4,False,3c812b5ad0980efb4132db367cc489ea055f3827821eaf474dfc32ee09d29a1e
 LV Merzig,75 m Lauf,Helena,Steuer,2009,"10,88",W13,29.05.2022,St. Wendel,5,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
-LV Merzig,75 m Lauf,Michelle,Huppert,2009,"10,93",W13,01.09.2022,Friedrichsthal,6,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
-LV Merzig,75 m Lauf,Anna,Kaul,2009,"10,93",W13,25.09.2022,Ottweiler,7,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,75 m Lauf,Michelle,Huppert,2009,"10,93",W13,01.09.2022,Friedrichsthal,6,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
+LA Team Saar,75 m Lauf,Anna,Kaul,2009,"10,93",W13,25.09.2022,Ottweiler,7,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LC Rehlingen,75 m Lauf,Johanna,Kolz,2009,"11,01",W13,29.05.2022,St. Wendel,8,False,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
-LC Rehlingen,75 m Lauf,Lea,Plinius,2009,"11,05",W13,29.05.2022,St. Wendel,9,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
-LC Rehlingen,75 m Lauf,Lena,Pfaff,2009,"11,07",W13,29.05.2022,St. Wendel,10,False,e43d6fcee4c55f4f81ed3147aa6106d5e0bf5b393c541e36e2aa738202dec2bf
+LA Team Saar,75 m Lauf,Lea,Plinius,2009,"11,05",W13,29.05.2022,St. Wendel,9,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
+LA Team Saar,75 m Lauf,Lena,Pfaff,2009,"11,07",W13,29.05.2022,St. Wendel,10,False,e43d6fcee4c55f4f81ed3147aa6106d5e0bf5b393c541e36e2aa738202dec2bf
 LC Rehlingen,800 m Lauf,Liara,Schulze,2009,"2:28,39",W13,05.06.2022,Rehlingen,1,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
 LC Rehlingen,800 m Lauf,Li,Libens-Thein,2009,"2:29,89",W13,01.05.2022,Esch/LUX,2,False,be8655d918b857fb3f17a73749c6e1e8e937ba80c8969a1207e2ef3b1d04c4e0
 LC Rehlingen,800 m Lauf,Anna,Gammel,2009,"2:30,91",W13,29.05.2022,St. Wendel,3,False,4112afe8b7eafa4d1527c718db5b420a52dcf29e32b1b563cfb633e3516d0177
 LSG Schmelz-Hüttersdorf,800 m Lauf,Emma,Zumkeller,2009,"2:38,19",W13,29.05.2022,St. Wendel,4,False,21cbc735c23b72954217956f37a53c36bd3f75fda80dc4cf5c41917b7005edcc
 LC Rehlingen,800 m Lauf,Emilia,Jerzenbeck,2009,"2:42,01",W13,05.06.2022,Rehlingen,5,False,c963be09b7617bd621046c7188a29b9085b6164d870453cb0486b7825130c920
 LSG Sbr.-Sulzbachtal,800 m Lauf,Nike,Stahnke,2009,"2:45,22",W13,25.06.2022,Püttlingen,6,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
-LSG Sbr.-Sulzbachtal,800 m Lauf,Marie,Zwick,2009,"2:46,30",W13,25.06.2022,Püttlingen,7,False,27c9990cc00301f7ccf12c87900b4514245f826d5266da8a467c5206bf12d09b
+LA Team Saar,800 m Lauf,Marie,Zwick,2009,"2:46,30",W13,25.06.2022,Püttlingen,7,False,27c9990cc00301f7ccf12c87900b4514245f826d5266da8a467c5206bf12d09b
 LC Rehlingen,800 m Lauf,Helena,Broßette,2009,"2:47,08",W13,14.05.2022,Saarlouis,8,False,061bb34513ae2dfdb580b7d5f56722a1381e39b3fd995e978aafc932a47e86b7
 TV Homburg,800 m Lauf,Alina,Weyand,2009,"2:48,68",W13,01.09.2022,Friedrichsthal,9,False,b5ad9beb5e168537473855588d5754605419419db683abe6062c7ad9345fea6a
 TV St. Wendel,800 m Lauf,Maya,Fries,2009,"2:52,25",W13,29.05.2022,St. Wendel,10,False,a409aaa0475f6f00fafd7a832c2c6deb289043920e822ea2e33bf2c187d04238
@@ -2584,7 +2577,7 @@ TV Germania 1910 Piesbach,2000 m Lauf,Leni,Bösen,2009,"8:55,98",W13,02.04.2022,
 TV Germania 1910 Piesbach,2000 m Lauf,Marie,Schmitt,2009,"8:59,12",W13,02.04.2022,Rehlingen,10,False,f022e2a2a75e3ab62e121719010f6bcc619c60f18bbbcc7891c1cc445f5e56aa
 LC Rehlingen,5 km Str.,Emilia,Jerzenbeck,2009,21:57,W13,01.11.2022,Hockenheim,1,False,c963be09b7617bd621046c7188a29b9085b6164d870453cb0486b7825130c920
 LC Rehlingen,5 km Str.,Smilla,Sempruch,2009,23:01,W13,09.10.2022,Föhren,2,False,72414af98c50a27aa4e467bca58f77cc9e4b4d667a4f6f5a584ccba902dadea6
-LC Rehlingen,60 m Hürden 0.762m,Anna,Kaul,2009,"10,26",W13,29.05.2022,St. Wendel,1,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,60 m Hürden 0.762m,Anna,Kaul,2009,"10,26",W13,29.05.2022,St. Wendel,1,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LV Merzig,60 m Hürden 0.762m,Helena,Steuer,2009,"10,92",W13,29.05.2022,St. Wendel,2,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
 LC Rehlingen,60 m Hürden 0.762m,Liara,Schulze,2009,"10,95",W13,25.06.2022,Püttlingen,3,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
 LA Team Saar,60 m Hürden 0.762m,Michelle,Huppert,2009,"11,06",W13,25.06.2022,Püttlingen,4,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
@@ -2593,12 +2586,12 @@ ATSV Saarbrücken,60 m Hürden 0.762m,Anna,Embacher,2009,"11,63",W13,29.05.2022,
 LA Team Saar,60 m Hürden 0.762m,Lea,Plinius,2009,"11,80",W13,25.06.2022,Püttlingen,7,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
 ATSV Saarbrücken,60 m Hürden 0.762m,Mia Marie,Salomon,2009,"11,91",W13,25.06.2022,Püttlingen,8,False,3c812b5ad0980efb4132db367cc489ea055f3827821eaf474dfc32ee09d29a1e
 TV Homburg,60 m Hürden 0.762m,Sara,Brang,2009,"11,92",W13,25.06.2022,Püttlingen,9,False,a9ab4f60b6438b8111050d947db047cd4ff5427176469d392ed8417b225a7c90
-TV Homburg,60 m Hürden 0.762m,Marie,Zwick,2009,"11,97",W13,29.05.2022,St. Wendel,10,False,27c9990cc00301f7ccf12c87900b4514245f826d5266da8a467c5206bf12d09b
+LA Team Saar,60 m Hürden 0.762m,Marie,Zwick,2009,"11,97",W13,29.05.2022,St. Wendel,10,False,27c9990cc00301f7ccf12c87900b4514245f826d5266da8a467c5206bf12d09b
 LC Rehlingen,Hochsprung,Li,Libens-Thein,2009,"1,50",W13,22.05.2022,Barvaux/BEL,1,False,be8655d918b857fb3f17a73749c6e1e8e937ba80c8969a1207e2ef3b1d04c4e0
 LV Merzig,Hochsprung,Helena,Steuer,2009,"1,50",W13,25.06.2022,Püttlingen,2,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
-LV Merzig,Hochsprung,Anna,Kaul,2009,"1,47",W13,25.06.2022,Püttlingen,3,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,Hochsprung,Anna,Kaul,2009,"1,47",W13,25.06.2022,Püttlingen,3,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LC Rehlingen,Hochsprung,Anna,Gammel,2009,"1,40",W13,16.06.2022,Püttlingen,4,False,4112afe8b7eafa4d1527c718db5b420a52dcf29e32b1b563cfb633e3516d0177
-LC Rehlingen,Hochsprung,Lea,Plinius,2009,"1,38",W13,29.05.2022,St. Wendel,5,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
+LA Team Saar,Hochsprung,Lea,Plinius,2009,"1,38",W13,29.05.2022,St. Wendel,5,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
 LA Team Saar,Hochsprung,Michelle,Huppert,2009,"1,37",W13,16.06.2022,Püttlingen,6,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
 LA Team Saar,Hochsprung,Berenike,Hauck,2009,"1,36",W13,02.07.2022,Püttlingen,7,False,639e2e38fd388f70d86d6740b5cb3d553d2323727fe2b14517dcc178f9f53fdc
 ATSV Saarbrücken,Hochsprung,Tara,Quintus,2009,"1,35",W13,29.05.2022,St. Wendel,8,False,a74e4196c1f33d0107bcde2ef1d4a763ad0d8d8d08c546ff7b0af485afe27f3a
@@ -2610,14 +2603,14 @@ LA Team Saar,Stabhochsprung,Paula,Stalter,2009,"1,90",W13,02.07.2022,Püttlingen
 LA Team Saar,Stabhochsprung,Sima,Alakrami,2009,"1,70",W13,02.07.2022,Püttlingen,4,False,95c7c07fa6f59d330ca0ca90e84a709e6c3d5e601af5bbd7fe0c2c9830c3cf4b
 LSG Sbr.-Sulzbachtal,Weitsprung,Nike,Stahnke,2009,"5,06",W13,16.06.2022,Püttlingen,1,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
 LC Rehlingen,Weitsprung,Liara,Schulze,2009,"4,85",W13,25.06.2022,Püttlingen,2,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
-LC Rehlingen,Weitsprung,Anna,Kaul,2009,"4,73",W13,23.06.2022,Saarbrücken,3,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,Weitsprung,Anna,Kaul,2009,"4,73",W13,23.06.2022,Saarbrücken,3,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LV Merzig,Weitsprung,Helena,Steuer,2009,"4,63",W13,23.06.2022,Saarbrücken,4,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
 LC Rehlingen,Weitsprung,Johanna,Kolz,2009,"4,58",W13,14.05.2022,Saarlouis,5,False,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
 LG Saar 70,Weitsprung,Jule,Burger,2009,"4,58",W13,16.06.2022,Püttlingen,6,False,257250efd888914c5741b6c5bea3e40913e75c0a629c87cabfed9137c4a8f579
 ATSV Saarbrücken,Weitsprung,Mia Marie,Salomon,2009,"4,56",W13,23.06.2022,Saarbrücken,7,False,3c812b5ad0980efb4132db367cc489ea055f3827821eaf474dfc32ee09d29a1e
 LC Rehlingen,Weitsprung,Anna,Gammel,2009,"4,49",W13,16.06.2022,Püttlingen,8,False,4112afe8b7eafa4d1527c718db5b420a52dcf29e32b1b563cfb633e3516d0177
 LC Rehlingen,Weitsprung,Edda,Junkes,2009,"4,43",W13,25.06.2022,Püttlingen,9,False,63b854c1424f9aa1b0a593713443d404e35646d62f86aa7c8c259be30e7db32c
-LC Rehlingen,Weitsprung,Paula,Stalter,2009,"4,41",W13,25.09.2022,Ottweiler,10,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
+LA Team Saar,Weitsprung,Paula,Stalter,2009,"4,41",W13,25.09.2022,Ottweiler,10,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
 LC Rehlingen,Kugelstoß 3 kg,Johanna,Kolz,2009,"7,90",W13,25.06.2022,Püttlingen,1,False,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
 LSG Sbr.-Sulzbachtal,Kugelstoß 3 kg,Nike,Stahnke,2009,"7,63",W13,09.10.2022,Überherrn,2,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
 LV Merzig,Kugelstoß 3 kg,Helena,Steuer,2009,"7,45",W13,29.05.2022,St. Wendel,3,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
@@ -2636,11 +2629,11 @@ LC Rehlingen,Diskuswurf 750 g,Li,Libens-Thein,2009,"16,98",W13,07.06.2022,Bertri
 TV Elm,Diskuswurf 750 g,Helene,Massmich,2009,"14,40",W13,25.06.2022,Püttlingen,6,False,05a2cb28881a203ae5da44c7454818ede0214cb66bef7162e0513310d9dee1a0
 TV Elm,Diskuswurf 750 g,Victoria,Trennheuser,2009,"14,24",W13,30.04.2022,Merzig,7,False,874b7f716920a54092b07c51993424159134e236b38af93349f3a97d98194a84
 LG Saar 70,Diskuswurf 750 g,Jule,Burger,2009,"14,23",W13,29.05.2022,St. Wendel,8,False,257250efd888914c5741b6c5bea3e40913e75c0a629c87cabfed9137c4a8f579
-LG Saar 70,Diskuswurf 750 g,Paula,Stalter,2009,"13,92",W13,29.05.2022,St. Wendel,9,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
+LA Team Saar,Diskuswurf 750 g,Paula,Stalter,2009,"13,92",W13,29.05.2022,St. Wendel,9,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
 LG Saar 70,Diskuswurf 750 g,Lotte,Falk,2009,"12,63",W13,25.06.2022,Püttlingen,10,False,c1b4e0585a91d8eec6dc1f57849ff71215f0ab1cc51d9e43d42196028248cf63
 LSG Sbr.-Sulzbachtal,Hammerwurf 2 kg,Nike,Stahnke,2009,"26,06",W13,18.10.2022,Saarbrücken,1,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
 LV Merzig,Hammerwurf 2 kg,Helena,Steuer,2009,"25,00",W13,01.05.2022,Merzig,2,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
-LV Merzig,Hammerwurf 2 kg,Paula,Stalter,2009,"22,60",W13,09.10.2022,Überherrn,3,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
+LA Team Saar,Hammerwurf 2 kg,Paula,Stalter,2009,"22,60",W13,09.10.2022,Überherrn,3,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
 TV St. Wendel,Speerwurf 400 g,Maya,Fries,2009,"25,80",W13,24.06.2022,St. Wendel,1,False,a409aaa0475f6f00fafd7a832c2c6deb289043920e822ea2e33bf2c187d04238
 LC Rehlingen,Speerwurf 400 g,Li,Libens-Thein,2009,"23,45",W13,18.06.2022,Dudelange/LUX,2,False,be8655d918b857fb3f17a73749c6e1e8e937ba80c8969a1207e2ef3b1d04c4e0
 LA Team Saar,Speerwurf 400 g,Berenike,Hauck,2009,"21,01",W13,25.06.2022,Püttlingen,3,False,639e2e38fd388f70d86d6740b5cb3d553d2323727fe2b14517dcc178f9f53fdc
@@ -2650,8 +2643,8 @@ LA Team Saar,Speerwurf 400 g,Anna,Kaul,2009,"20,41",W13,25.06.2022,Püttlingen,6
 LV Merzig,Speerwurf 400 g,Helena,Steuer,2009,"20,12",W13,30.04.2022,Merzig,7,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
 LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Nike,Stahnke,2009,"19,88",W13,03.09.2022,Konz,8,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
 AC Diefflen,Speerwurf 400 g,Mia,Dzale,2009,"17,46",W13,25.06.2022,Püttlingen,9,False,a186815c5610597c58432797aef7d24ffbcac3f3e74b695efa18a630a061d7a2
-AC Diefflen,Speerwurf 400 g,Paula,Stalter,2009,"16,85",W13,25.06.2022,Püttlingen,10,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
-TV Elm,Ballwurf 200g,Anna,Kaul,2009,"41,00",W13,25.09.2022,Ottweiler,1,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,Speerwurf 400 g,Paula,Stalter,2009,"16,85",W13,25.06.2022,Püttlingen,10,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
+LA Team Saar,Ballwurf 200g,Anna,Kaul,2009,"41,00",W13,25.09.2022,Ottweiler,1,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LC Rehlingen,Ballwurf 200g,Edda,Junkes,2009,"39,50",W13,29.05.2022,St. Wendel,2,False,63b854c1424f9aa1b0a593713443d404e35646d62f86aa7c8c259be30e7db32c
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Kati,Steckmann,2009,"34,00",W13,16.06.2022,Püttlingen,3,False,8f86089df6f85a2306ad8bf3d115756bad29d55bd5658c4fd96d7f2260d4f704
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Nike,Stahnke,2009,"34,00",W13,25.06.2022,Püttlingen,4,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
@@ -2659,9 +2652,9 @@ ATSV Saarbrücken,Ballwurf 200g,Amina,EL Boukhliki,2009,"34,00",W13,25.06.2022,P
 LC Rehlingen,Ballwurf 200g,Liara,Schulze,2009,"33,50",W13,25.06.2022,Püttlingen,6,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
 AC Diefflen,Ballwurf 200g,Mia,Dzale,2009,"32,00",W13,16.06.2022,Püttlingen,7,False,a186815c5610597c58432797aef7d24ffbcac3f3e74b695efa18a630a061d7a2
 TV Germania 1910 Piesbach,Ballwurf 200g,Leni,Bösen,2009,"31,50",W13,16.06.2022,Püttlingen,8,False,0fb42daa099d4ada7268fa430b100c8062e52adad0b59636cf1d8c57cccb49bd
-TV Germania 1910 Piesbach,Ballwurf 200g,Lena,Pfaff,2009,"31,00",W13,25.09.2022,Ottweiler,9,False,e43d6fcee4c55f4f81ed3147aa6106d5e0bf5b393c541e36e2aa738202dec2bf
+LA Team Saar,Ballwurf 200g,Lena,Pfaff,2009,"31,00",W13,25.09.2022,Ottweiler,9,False,e43d6fcee4c55f4f81ed3147aa6106d5e0bf5b393c541e36e2aa738202dec2bf
 LC Rehlingen,Ballwurf 200g,Johanna,Kolz,2009,"30,50",W13,16.06.2022,Püttlingen,10,False,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
-LA Team Saar,Ballwurf 200g,Berenike,Hauck,2009,"30,50",W13,25.09.2022,Ottweiler,11,False,639e2e38fd388f70d86d6740b5cb3d553d2323727fe2b14517dcc178f9f53fdc
+LA Team Saar,Ballwurf 200g,Berenike,Hauck,2009,"30,50",W13,25.09.2022,Ottweiler,10,False,639e2e38fd388f70d86d6740b5cb3d553d2323727fe2b14517dcc178f9f53fdc
 LC Rehlingen,3-Kampf,Liara,Schulze,2009,1.440,W13,16.06.2022,Püttlingen,1,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
 LSG Sbr.-Sulzbachtal,3-Kampf,Nike,Stahnke,2009,1.434,W13,16.06.2022,Püttlingen,2,False,fb0ee4836184982ebdb2b273ecc45ec8f0bb5ef8857807ac5ff9cc39eff66bee
 LA Team Saar,3-Kampf,Anna,Kaul,2009,1.344,W13,16.06.2022,Püttlingen,3,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
@@ -2673,12 +2666,12 @@ ATSV Saarbrücken,3-Kampf,Mia Marie,Salomon,2009,1.261,W13,16.06.2022,Püttlinge
 LA Team Saar,3-Kampf,Michelle,Huppert,2009,1.259,W13,16.06.2022,Püttlingen,9,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
 LSG Sbr.-Sulzbachtal,3-Kampf,Kati,Steckmann,2009,1.237,W13,16.06.2022,Püttlingen,10,False,8f86089df6f85a2306ad8bf3d115756bad29d55bd5658c4fd96d7f2260d4f704
 LC Rehlingen,4-Kampf,Liara,Schulze,2009,1.828,W13,16.06.2022,Püttlingen,1,False,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
-LC Rehlingen,4-Kampf,Anna,Kaul,2009,1.826,W13,05.06.2022,Schwabach,2,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
+LA Team Saar,4-Kampf,Anna,Kaul,2009,1.826,W13,05.06.2022,Schwabach,2,False,4d165d3d0c56ae3c22dcd27a43eaf0916b1b46be2511847ad9df717bb8f7b6ce
 LV Merzig,4-Kampf,Helena,Steuer,2009,1.772,W13,10.09.2022,Dillingen,3,False,0ce3d8e39f56c33cea2fce7b83b6f440116b9ab8ea6ce69108cd9f49b6dfb7b7
 LC Rehlingen,4-Kampf,Anna,Gammel,2009,1.760,W13,16.06.2022,Püttlingen,4,False,4112afe8b7eafa4d1527c718db5b420a52dcf29e32b1b563cfb633e3516d0177
 LA Team Saar,4-Kampf,Michelle,Huppert,2009,1.685,W13,16.06.2022,Püttlingen,5,False,3085431705b2f43fc82ebf7c314d05f336d0e3859107e58c680d89781851f878
 LC Rehlingen,4-Kampf,Edda,Junkes,2009,1.659,W13,16.06.2022,Püttlingen,6,False,63b854c1424f9aa1b0a593713443d404e35646d62f86aa7c8c259be30e7db32c
-LC Rehlingen,4-Kampf,Lea,Plinius,2009,1.627,W13,05.06.2022,Schwabach,7,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
+LA Team Saar,4-Kampf,Lea,Plinius,2009,1.627,W13,05.06.2022,Schwabach,7,False,94479b420ddb2fa4cd6975e5d5f0d28f3f8effc2c66a8fa1cd0301d8d257552f
 LC Rehlingen,4-Kampf,Johanna,Kolz,2009,1.611,W13,10.09.2022,Dillingen,8,False,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
 LG Saar 70,4-Kampf,Jule,Burger,2009,1.541,W13,16.06.2022,Püttlingen,9,False,257250efd888914c5741b6c5bea3e40913e75c0a629c87cabfed9137c4a8f579
 LA Team Saar,4-Kampf,Paula,Stalter,2009,1.522,W13,16.06.2022,Püttlingen,10,False,296746b27a532685f31479e67b54820502076fe1174790c513c48bfa677414e9
@@ -2713,11 +2706,11 @@ LG Saar 70,75 m Lauf,Lilly,Machulla,2010,"10,75",W12,25.09.2022,Ottweiler,3,Fals
 ATSV Saarbrücken,75 m Lauf,Nolwenn,Frankus,2011,"11,04",W12,16.06.2022,Püttlingen,4,False,5061827d08ffd262c65fb0d69434368eea912ecfdcd200b58fe3c66b071077d8
 LG Saar 70,75 m Lauf,Smilla,Spaniol,2010,"11,08",W12,25.09.2022,Ottweiler,5,False,a0b26693d4dd78f8ff0c99864b1f0169001db0dd5d777c293c2aa4f118164d8d
 LC Rehlingen,75 m Lauf,Neele,Ritsch,2010,"11,16",W12,29.05.2022,St. Wendel,6,False,d8891d3d98659f588fb30e543efd3ec42a6e852887d67f8501c97f45f8871f1e
-LC Rehlingen,75 m Lauf,Paula,Ludwig,2010,"11,17",W12,29.05.2022,St. Wendel,7,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
-LC Rehlingen,75 m Lauf,Annalena,Serf,2010,"11,28",W12,29.05.2022,St. Wendel,8,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
+LA Team Saar,75 m Lauf,Paula,Ludwig,2010,"11,17",W12,29.05.2022,St. Wendel,7,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
+LA Team Saar,75 m Lauf,Annalena,Serf,2010,"11,28",W12,29.05.2022,St. Wendel,8,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
 LA Team Saar,75 m Lauf,Mathilda,Braun,2010,"11,29",W12,16.06.2022,Püttlingen,9,False,6963d7fd266129b08703a6e701a15c23f82248bcd7e5a016e5c7582719b16e4a
 TV Germania 1910 Piesbach,75 m Lauf,Luisa,Groß,2010,"11,32",W12,29.05.2022,St. Wendel,10,False,f52ebc203a60d2599d0969428a203d24989f3f6aa017c91dfdf493851037a1a2
-LC Rehlingen,75 m Lauf,Jeanne,Dilzer,2010,"11,32",W12,16.06.2022,Püttlingen,11,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
+LC Rehlingen,75 m Lauf,Jeanne,Dilzer,2010,"11,32",W12,16.06.2022,Püttlingen,10,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
 LSG Sbr.-Sulzbachtal,800 m Lauf,Mara,Steinbach,2010,"2:41,01",W12,29.05.2022,St. Wendel,1,False,06a1fc1305b0d537a557ccd36d6c1bfa81211e9767120feec32a0b4e20d10219
 LA Team Saar,800 m Lauf,Emilia,Tesche,2010,"2:46,27",W12,29.05.2022,St. Wendel,2,False,8a343b9b360b1bed99d187c5985c589b730c277d6160334664fa9400bd891b96
 LSG Sbr.-Sulzbachtal,800 m Lauf,Malu,Zewe,2010,"2:47,50",W12,29.05.2022,St. Wendel,3,False,acad498061b395d86196e4f6c8c6603985e7d0e9f2747e8bca462abf2778edae
@@ -2726,10 +2719,10 @@ SV GO! Saar 05,800 m Lauf,Leni,Dorst,2010,"2:52,87",W12,29.05.2022,St. Wendel,5,
 TV Homburg,800 m Lauf,Lotta,Eckstein,2010,"2:53,68",W12,29.05.2022,St. Wendel,6,False,f33da470171598f770f3195e8bb39c5b0d62ba0b89ffe4ba4707ce963d1116e8
 LC Rehlingen,800 m Lauf,Jeanne,Dilzer,2010,"2:53,86",W12,25.06.2022,Püttlingen,7,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
 TV Homburg,800 m Lauf,Etienne-Monique,Biehl,2010,"2:54,45",W12,25.06.2022,Püttlingen,8,False,86465810a9152b09becd1ac654c76c2901accd970c715e747a6ab46e1de3350e
-TV Homburg,800 m Lauf,Svea,Bennoit,2010,"2:55,26",W12,25.06.2022,Püttlingen,9,False,95fd55741b1e92eba2d2a674bdeefe9bba6c3b6b944feee6048f875111868614
+LA Team Saar,800 m Lauf,Svea,Bennoit,2010,"2:55,26",W12,25.06.2022,Püttlingen,9,False,95fd55741b1e92eba2d2a674bdeefe9bba6c3b6b944feee6048f875111868614
 LC Rehlingen,800 m Lauf,Neele,Ritsch,2010,"2:55,36",W12,25.09.2022,Ottweiler,10,False,d8891d3d98659f588fb30e543efd3ec42a6e852887d67f8501c97f45f8871f1e
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Mara,Steinbach,2010,"7:45,57",W12,02.04.2022,Rehlingen,1,False,06a1fc1305b0d537a557ccd36d6c1bfa81211e9767120feec32a0b4e20d10219
-LSG Sbr.-Sulzbachtal,2000 m Lauf,Emilia,Tesche,2010,"8:09,15",W12,02.04.2022,Rehlingen,2,False,8a343b9b360b1bed99d187c5985c589b730c277d6160334664fa9400bd891b96
+LA Team Saar,2000 m Lauf,Emilia,Tesche,2010,"8:09,15",W12,02.04.2022,Rehlingen,2,False,8a343b9b360b1bed99d187c5985c589b730c277d6160334664fa9400bd891b96
 LC Rehlingen,2000 m Lauf,Jenny,Kraemer,2010,"8:30,71",W12,02.04.2022,Rehlingen,3,False,4cd9eb7daeee9cfa213f6a6b9664c696c06a4eba6dd361cdf358174c5f0ca5cd
 LAC Saarlouis,2000 m Lauf,Charlotte,Marquordt,2010,"8:37,69",W12,02.04.2022,Rehlingen,4,False,1766679c16958a5851104712c97e8040001194851acd719d7acad667f0106eca
 LC Rehlingen,2000 m Lauf,Jeanne,Dilzer,2010,"8:37,72",W12,09.09.2022,Trier,5,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
@@ -2764,7 +2757,7 @@ TV Homburg,Weitsprung,Klara,Lisson,2010,"4,53",W12,16.06.2022,Püttlingen,2,Fals
 SV GO! Saar 05,Weitsprung,Leni,Dorst,2010,"4,45",W12,29.05.2022,St. Wendel,3,False,643d93f607c07b639b7dd4069e3babd8858abfa9cc38507132b4fd090e91aafe
 LG Saar 70,Weitsprung,Lilly,Machulla,2010,"4,39",W12,29.05.2022,St. Wendel,4,False,6f8dc7b9066ddf39d2b83f67339eb413eac56795965ef2b7763c961a0734411a
 ATSV Saarbrücken,Weitsprung,Nolwenn,Frankus,2011,"4,28",W12,16.06.2022,Püttlingen,5,False,5061827d08ffd262c65fb0d69434368eea912ecfdcd200b58fe3c66b071077d8
-ATSV Saarbrücken,Weitsprung,Paula,Ludwig,2010,"4,28",W12,25.06.2022,Püttlingen,6,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
+LA Team Saar,Weitsprung,Paula,Ludwig,2010,"4,28",W12,25.06.2022,Püttlingen,6,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
 LA Team Saar,Weitsprung,Mathilda,Braun,2010,"4,25",W12,16.06.2022,Püttlingen,7,False,6963d7fd266129b08703a6e701a15c23f82248bcd7e5a016e5c7582719b16e4a
 TV Germania 1910 Piesbach,Weitsprung,Luisa,Groß,2010,"4,23",W12,25.09.2022,Ottweiler,8,False,f52ebc203a60d2599d0969428a203d24989f3f6aa017c91dfdf493851037a1a2
 LC Rehlingen,Weitsprung,Neele,Ritsch,2010,"4,18",W12,23.06.2022,Saarbrücken,9,False,d8891d3d98659f588fb30e543efd3ec42a6e852887d67f8501c97f45f8871f1e
@@ -2776,17 +2769,17 @@ LG Saar 70,Kugelstoß 3 kg,Lilly,Machulla,2010,"6,25",W12,29.05.2022,St. Wendel,
 TV Homburg,Kugelstoß 3 kg,Etienne-Monique,Biehl,2010,"6,03",W12,29.05.2022,St. Wendel,5,False,86465810a9152b09becd1ac654c76c2901accd970c715e747a6ab46e1de3350e
 TV Homburg,Kugelstoß 3 kg,Klara,Lisson,2010,"5,82",W12,29.05.2022,St. Wendel,6,False,67684df4fce2610b19f2857f359d4630af08d4a1a77b1ab8ce4ec41a48b4b5bb
 LG Saar 70,Kugelstoß 3 kg,Sophia,Panus,2010,"5,72",W12,29.05.2022,St. Wendel,7,False,9c3ffdcd0a6b560e93feaa069951009992be4ef632652930c7802aba605c5b58
-LG Saar 70,Kugelstoß 3 kg,Paula,Himbert,2010,"5,63",W12,29.05.2022,St. Wendel,8,False,8478cd45fecd8c086935baef4093e5e2305a31cce3a78c231d337409b3cff52e
+LA Team Saar,Kugelstoß 3 kg,Paula,Himbert,2010,"5,63",W12,29.05.2022,St. Wendel,8,False,8478cd45fecd8c086935baef4093e5e2305a31cce3a78c231d337409b3cff52e
 LSG Sbr.-Sulzbachtal,Kugelstoß 3 kg,Mara,Steinbach,2010,"5,48",W12,18.10.2022,Saarbrücken,9,False,06a1fc1305b0d537a557ccd36d6c1bfa81211e9767120feec32a0b4e20d10219
 LG Saar 70,Kugelstoß 3 kg,Smilla,Spaniol,2010,"5,28",W12,25.06.2022,Püttlingen,10,False,a0b26693d4dd78f8ff0c99864b1f0169001db0dd5d777c293c2aa4f118164d8d
 LG Saar 70,Diskuswurf 750 g,Simona,Hoffmann,2010,"17,75",W12,29.05.2022,St. Wendel,1,False,dec44f4c90767b6a9e6c7c7807dca366aa6e6d3195e1f8b78a5e3b1ee76998ab
-LG Saar 70,Diskuswurf 750 g,Linn,Wagner,2010,"15,65",W12,29.05.2022,St. Wendel,2,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
+LA Team Saar,Diskuswurf 750 g,Linn,Wagner,2010,"15,65",W12,29.05.2022,St. Wendel,2,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
 LG Saar 70,Diskuswurf 750 g,Sophia,Panus,2010,"14,09",W12,29.05.2022,St. Wendel,3,False,9c3ffdcd0a6b560e93feaa069951009992be4ef632652930c7802aba605c5b58
 LG Saar 70,Diskuswurf 750 g,Smilla,Spaniol,2010,"13,05",W12,29.05.2022,St. Wendel,4,False,a0b26693d4dd78f8ff0c99864b1f0169001db0dd5d777c293c2aa4f118164d8d
 TV Elm,Diskuswurf 750 g,Lea,Weidemann,2010,"12,93",W12,29.05.2022,St. Wendel,5,False,cb090f0f05584ebe384fb2bc27cddb6c15f3f585786c94d61e33530e891084fd
 LG Saar 70,Diskuswurf 750 g,Marie-Sophie,Calmano,2010,"9,57",W12,29.05.2022,St. Wendel,6,False,a5cf28694f2e8386010ecd2c1d25cc8ffae6b52d3064e3c3676962c3807071d0
 LG Saar 70,Diskuswurf 750 g,Saskia,Kraiser,2010,"8,78",W12,29.05.2022,St. Wendel,7,False,b20099a0b1e9dc4e3260e1088da240a5b919b2b49df95c950f64c2780ce5499b
-LG Saar 70,Speerwurf 400 g,Linn,Wagner,2010,"18,29",W12,29.05.2022,St. Wendel,1,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
+LA Team Saar,Speerwurf 400 g,Linn,Wagner,2010,"18,29",W12,29.05.2022,St. Wendel,1,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
 TV Homburg,Speerwurf 400 g,Klara,Lisson,2010,"15,94",W12,25.06.2022,Püttlingen,2,False,67684df4fce2610b19f2857f359d4630af08d4a1a77b1ab8ce4ec41a48b4b5bb
 SV GO! Saar 05,Speerwurf 400 g,Johanna,Schwamborn-Heijting,2010,"15,19",W12,25.06.2022,Püttlingen,3,False,9d268d2343278d0499f242fb5aa7cd9ed73f1a77b10d1cc3b2e6eb955043765a
 LA Team Saar,Speerwurf 400 g,Annalena,Serf,2010,"12,49",W12,25.06.2022,Püttlingen,4,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
@@ -2802,7 +2795,7 @@ TV Saarwellingen,Ballwurf 200g,Mara-Sophie,Müller,2010,"28,00",W12,10.09.2022,D
 TV Homburg,Ballwurf 200g,Klara,Lisson,2010,"27,00",W12,25.09.2022,Ottweiler,4,False,67684df4fce2610b19f2857f359d4630af08d4a1a77b1ab8ce4ec41a48b4b5bb
 TV Homburg,Ballwurf 200g,Etienne-Monique,Biehl,2010,"26,50",W12,16.06.2022,Püttlingen,5,False,86465810a9152b09becd1ac654c76c2901accd970c715e747a6ab46e1de3350e
 LG Saar 70,Ballwurf 200g,Celine,Kruse,2010,"26,50",W12,25.09.2022,Ottweiler,6,False,68a65e2a2cd89129e83afcdbe780358292bd7d6edd52a20be203d677b3f00e90
-LG Saar 70,Ballwurf 200g,Emilia,Tesche,2010,"26,50",W12,25.09.2022,Ottweiler,7,False,8a343b9b360b1bed99d187c5985c589b730c277d6160334664fa9400bd891b96
+LA Team Saar,Ballwurf 200g,Emilia,Tesche,2010,"26,50",W12,25.09.2022,Ottweiler,7,False,8a343b9b360b1bed99d187c5985c589b730c277d6160334664fa9400bd891b96
 LA Team Saar,Ballwurf 200g,Johanna,Kappes,2010,"26,00",W12,16.06.2022,Püttlingen,8,False,230217bf27c162186414c676fb891b57290fd400c0b9cc3b931a180ea5f96242
 SC Friedrichsthal,Ballwurf 200g,Lotte,Baumert,2011,"25,50",W12,25.09.2022,Ottweiler,9,False,a0c990f21e36c4bebc3ab2427885fc96f3610aba360a6c0371003aaeebf66023
 TV Homburg,Ballwurf 200g,Mira,Zeller,2010,"25,50",W12,25.09.2022,Ottweiler,10,False,ae34b2325a1fecd27dc433c1ff8efca825901c0ed16fa7347b74f3285dd075b6
