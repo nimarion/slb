@@ -33,3 +33,10 @@ for year in years:
               " Athleten mit falscher athleteId")
         print(mismatches[['athleteId', 'computed_athleteId',
               'firstname', 'lastname', 'birthyear']])
+
+    duplicates = data[data.duplicated(['firstname', 'lastname', 'date', 'discipline'])]
+    duplicates = duplicates[~duplicates['teamResult']]
+    if(len(duplicates) > 0):
+        print(str(year) + ":" + str(len(duplicates)) +
+              " Duplikate in der Datenbank")
+        print(duplicates[['athleteId', 'date', 'discipline', 'firstname', 'lastname', 'ageGroup']])
