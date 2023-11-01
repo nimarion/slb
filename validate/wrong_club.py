@@ -16,4 +16,7 @@ cols.pop(cols.index('Verein in Bestenliste'))
 cols.pop(cols.index('Verein in Startrecht'))
 data = data[cols+['Verein in Bestenliste', 'Verein in Startrecht']]
 
+if year == 2023:
+    data = data[~((data['firstname'] == 'David') & (data['lastname'] == 'Zeller'))]
+
 print(data)
