@@ -110,17 +110,17 @@ Grojos LTF Elversberg,10 km Str. Ma.,Bengt,Leibrock,1985,1:45:18,M,27.11.2011,Sa
 Grojos LTF Elversberg,10 km Str. Ma.,Sacha,Anton,0,1:45:18,M,27.11.2011,Saarbrücken,3,True,f73b0fe8eca7e6e03ba08d22812ef56723882d1466a51bc7d461ce524bdb8ec3
 Grojos LTF Elversberg,10 km Str. Ma.,Thomas,Weber,1975,1:45:18,M,27.11.2011,Saarbrücken,3,True,142ffc6971cf2d7c1c58be06bac01bcca5461b8a2f853fd93f7a1dea119914fa
 LAZ Saarbrücken,10 km Str. Ma.,Stefan,Zachäus,1990,1:45:22,M,27.11.2011,Saarbrücken,4,True,f890066e6e891582e5162e33781d5896624644d721b17d1df54dd4a9453ab477
-LAZ Saarbrücken,10 km Str. Ma.,Micha,Zimmer,0,1:45:22,M,27.11.2011,Saarbrücken,4,True,1cfceff0a9b10f67498c86c6195dd45536eb06598ea90b9a4ce62aaa3b3acb4d
-LAZ Saarbrücken,10 km Str. Ma.,Dirk,Buschmann,0,1:45:22,M,27.11.2011,Saarbrücken,4,True,7907459815096588ac80e0796e1075b74f15197d609bac8e49265bd5b5b1a548
+LAZ Saarbrücken,10 km Str. Ma.,Micha,Zimmer,1991,1:45:22,M,27.11.2011,Saarbrücken,4,True,2d487682e6ad87b1425ec60dcd50b1e5fc9fe7252ff1031987af829720227a3c
+LAZ Saarbrücken,10 km Str. Ma.,Dirk,Buschmann,1968,1:45:22,M,27.11.2011,Saarbrücken,4,True,d7186f8ff89cdb13761a7e0c93b188b6c243b85d83c6166a0b71e59e04426db0
 LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Uwe,Trampert,1972,1:47:31,M,18.04.2011,Sandhofen,5,True,17ce5cc9c914b81519c44ef6b6a0fcc8afd5bc81f287ac1675286c8fd419cf72
-LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Robert,Schneider,0,1:47:31,M,18.04.2011,Sandhofen,5,True,845917d0026f5f72771764ef480576623db3a9e9d89484273aeee22ff800ffbf
+LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Robert,Schneider,1987,1:47:31,M,18.04.2011,Sandhofen,5,True,cd0659845692f2d6cb5274a10bce0ddbab26280dfa48023a870c13f730e6f582
 LSG Sbr.-Sulzbachtal,10 km Str. Ma.,Matthias,Müller,1973,1:47:31,M,18.04.2011,Sandhofen,5,True,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
 LSG Schmelz-Hüttersdorf,10 km Str. Ma.,Patrick,Leidinger,1977,1:48:09,M,02.06.2011,Schmelz,6,True,94355e1e54681bcdba72089f3cc8f2617c0864591dd0cc4dbfb6b51bb9da0db6
 LSG Schmelz-Hüttersdorf,10 km Str. Ma.,Rudi,Krämer,1957,1:48:09,M,02.06.2011,Schmelz,6,True,facfc6a27c6ed41c1d19c3ff825b5b5fddb1883603cc7ed800b8dc0fa5d04f5b
 LSG Schmelz-Hüttersdorf,10 km Str. Ma.,Alois,Holz,1965,1:48:09,M,02.06.2011,Schmelz,6,True,f49720bc470c65a3aa103036b8031476eb66de3b0273881f85e627299b2d3a29
 LC Rehlingen,10 km Str. Ma.,Christoph,Marx,1993,1:49:03,M,27.11.2011,Saarbrücken,7,True,a57031e01ff25bc382ecbcb17ebd4671013d83d38f8d4b3209a4c548904712d9
 LC Rehlingen,10 km Str. Ma.,Stefan,Seel,0,1:49:03,M,27.11.2011,Saarbrücken,7,True,e8e0a942bf6d9e1ba2b4095cc72a8ef423cc8e0e5bd0ee57ca6704b8716bc0bd
-LC Rehlingen,10 km Str. Ma.,Michael,München,0,1:49:03,M,27.11.2011,Saarbrücken,7,True,7d457242654bbfbf40cba80a4a871f59afdf4daa57a92891400344ca273f2794
+LC Rehlingen,10 km Str. Ma.,Michael,München,1959,1:49:03,M,27.11.2011,Saarbrücken,7,True,a82b4f1633f93909f323946e7f05df39d4b2683019749dbda25478a232cc8519
 LC Warndt,10 km Str. Ma.,Uwe,Hartmann,1959,1:50:33,M,24.07.2011,Kaiserslautern,8,True,8fe069bba36bb7b0627f9b1005d01cdc88dcde94aee37ed890832377079e0cf1
 LC Warndt,10 km Str. Ma.,Jörg,Dietrich,0,1:50:33,M,24.07.2011,Kaiserslautern,8,True,7ca24611edc0671d492a3b5831a13e1565162866f8bb22c0414e8a5283e34dd7
 LC Warndt,10 km Str. Ma.,Francesco,Carleiano,0,1:50:33,M,24.07.2011,Kaiserslautern,8,True,1501695868846b7e1b3bed38183fa1479660b487cd6ec23dfecf85f3b41328b7
@@ -128,7 +128,7 @@ TV Lebach,10 km Str. Ma.,Manfred,Komenda,1961,1:51:56,M,02.06.2011,Schmelz,9,Tru
 TV Lebach,10 km Str. Ma.,Klauspeter,Brill,0,1:51:56,M,02.06.2011,Schmelz,9,True,be02b35fecc7accc99f72e1e224cb407d84d2d61537ab3a1c4ffe5b93de60fc3
 TV Lebach,10 km Str. Ma.,Christoph,Feld,0,1:51:56,M,02.06.2011,Schmelz,9,True,cb3e5bfc1f616f390655777a02238b67f4a54ddd6da464e5fa876265b871fe89
 LTF Marpingen,10 km Str. Ma.,Jörg,Hooß,1964,1:52:46,M,27.11.2011,Saarbrücken,10,True,696e668e3cd8604f787403a2b115a64ea7bacc412382a798fab036120343cf77
-LTF Marpingen,10 km Str. Ma.,Peter,Kapitza,0,1:52:46,M,27.11.2011,Saarbrücken,10,True,9ebf64b5469a3d5719507f8c5c7004218840fab3b67575f1f3d5d109922a862d
+LTF Marpingen,10 km Str. Ma.,Peter,Kapitza,1969,1:52:46,M,27.11.2011,Saarbrücken,10,True,906b4bf5572ee9be169f3afaa8b62f51cba8e8bdf435a3250a07bdbfffef8b86
 LTF Marpingen,10 km Str. Ma.,Peter,Woll,0,1:52:46,M,27.11.2011,Saarbrücken,10,True,105425fa629c8a36866b8904b5a7c8c3110c4aa8e4d3ac59491ef67ce0461676
 LTF Marpingen,Halbmarathon,Rainer,Müller,1966,1:13:14,M,29.05.2011,Saarlouis,1,False,ea6d2fe38d272139848f7add0249fa4ba306d8b62c25bf0cc789f7ad88c5799e
 LTF Marpingen,Halbmarathon,Samuel,Schu,1993,1:13:28,M,01.05.2011,St. Wendel,2,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
@@ -148,25 +148,25 @@ LC Rehlingen,Halbmarathon Ma.,Björn,Kammer,1982,3:49:43,M,27.03.2011,Saarbrück
 LC Rehlingen,Halbmarathon Ma.,Stefan,Seel,0,3:49:43,M,27.03.2011,Saarbrücken,2,True,e8e0a942bf6d9e1ba2b4095cc72a8ef423cc8e0e5bd0ee57ca6704b8716bc0bd
 Grojos LTF Elversberg,Halbmarathon Ma.,Erik,Theiß,0,3:57:13,M,27.02.2011,Mdina,3,True,9dfe09f9c3013ed8e5aa09b146de5e367261da0042d6bac4668d1235307b600b
 Grojos LTF Elversberg,Halbmarathon Ma.,Andreas,Holweck,0,3:57:13,M,27.02.2011,Mdina,3,True,57f52fa491ddd28ab3244450c8d11cf4db07db5e6d687af37e3b383f5c6f53ea
-Grojos LTF Elversberg,Halbmarathon Ma.,Joachim,Groß,0,3:57:13,M,27.02.2011,Mdina,3,True,f61b309c1e88dd97b443249be9645279791418e78a609e19bf71d988b9fa8d1e
+Grojos LTF Elversberg,Halbmarathon Ma.,Joachim,Groß,1965,3:57:13,M,27.02.2011,Mdina,3,True,2f492973081db66e34aa75cac4189dcb8b035d6f09aee0fe16d3234f882c0ebf
 TV Lebach,Halbmarathon Ma.,Mustafa,Okyay,1971,3:59:25,M,27.03.2011,Saarbrücken,4,True,f814c625c38fe521dd580e340af683d78557b9a599e9d293586d7bea20dfc0f9
 TV Lebach,Halbmarathon Ma.,Manfred,Komenda,1961,3:59:25,M,27.03.2011,Saarbrücken,4,True,742babd4da6f5a06791243fe2ebac2893af086380c14b564989219e3ec742150
 TV Lebach,Halbmarathon Ma.,Christoph,Feld,0,3:59:25,M,27.03.2011,Saarbrücken,4,True,cb3e5bfc1f616f390655777a02238b67f4a54ddd6da464e5fa876265b871fe89
 LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Rudi,Krämer,1957,4:01:05,M,27.03.2011,Saarbrücken,5,True,facfc6a27c6ed41c1d19c3ff825b5b5fddb1883603cc7ed800b8dc0fa5d04f5b
-LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Stefan,Klein,0,4:01:05,M,27.03.2011,Saarbrücken,5,True,1813a054b15909ba9bd6e81eede4acaf66545cf2dd9c920ddf3635474508c0bb
+LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Stefan,Klein,1963,4:01:05,M,27.03.2011,Saarbrücken,5,True,568d9e179e4c1f2a7c44323470969b65bdc0bc38115233457d54c6c4319e564b
 LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Alois,Holz,1965,4:01:05,M,27.03.2011,Saarbrücken,5,True,f49720bc470c65a3aa103036b8031476eb66de3b0273881f85e627299b2d3a29
 LSG Sbr.-Sulzbachtal,Halbmarathon Ma.,Uwe,Trampert,1972,4:03:00,M,17.04.2011,Griesheim,6,True,17ce5cc9c914b81519c44ef6b6a0fcc8afd5bc81f287ac1675286c8fd419cf72
 LSG Sbr.-Sulzbachtal,Halbmarathon Ma.,Matthias,Müller,1973,4:03:00,M,17.04.2011,Griesheim,6,True,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
-LSG Sbr.-Sulzbachtal,Halbmarathon Ma.,Andreas,Vonerden,0,4:03:00,M,17.04.2011,Griesheim,6,True,26fd5362d6860ca363fee4c19073fb07b1bfe222cf8bd010ea8658f2e30b25f4
-LAZ Saarbrücken,Halbmarathon Ma.,Dirk,Buschmann,0,4:07:19,M,27.03.2011,Saarbrücken,7,True,7907459815096588ac80e0796e1075b74f15197d609bac8e49265bd5b5b1a548
-LAZ Saarbrücken,Halbmarathon Ma.,Salvatore,Gagliardi,0,4:07:19,M,27.03.2011,Saarbrücken,7,True,a58c7b4a511e5be07f990ec51e056e11e62e82f829374eb11c04f7d84b1dcaba
+LSG Sbr.-Sulzbachtal,Halbmarathon Ma.,Andreas,Vonerden,1976,4:03:00,M,17.04.2011,Griesheim,6,True,d8b3cbf4358a2fffca66eea585a0cd9283ff9a43ea0ce1d28cf8ae3c1e2ad38a
+LAZ Saarbrücken,Halbmarathon Ma.,Dirk,Buschmann,1968,4:07:19,M,27.03.2011,Saarbrücken,7,True,d7186f8ff89cdb13761a7e0c93b188b6c243b85d83c6166a0b71e59e04426db0
+LAZ Saarbrücken,Halbmarathon Ma.,Salvatore,Gagliardi,1971,4:07:19,M,27.03.2011,Saarbrücken,7,True,bf66176a29eebfe751dc1624a6e00db7b199b686fc82c44207885a50e12c7a53
 LAZ Saarbrücken,Halbmarathon Ma.,Michael,Klahm,1969,4:07:19,M,27.03.2011,Saarbrücken,7,True,c0eb270a5e5caf37b4209a1934572bcea7a19b219dfcff2ae92b1a8a1505d7c9
 Grojos LTF Elversberg,Halbmarathon Ma.,Marcel,Luka,0,4:08:10,M,20.02.2011,Saarbrücken,8,True,33d2c4a621ea0308d036d7049fdc5001f422620affb1ffb497ae9eeb4be690a8
 Grojos LTF Elversberg,Halbmarathon Ma.,Thomas,Weber,1975,4:08:10,M,20.02.2011,Saarbrücken,8,True,142ffc6971cf2d7c1c58be06bac01bcca5461b8a2f853fd93f7a1dea119914fa
-Grojos LTF Elversberg,Halbmarathon Ma.,Roman,Schmitt,0,4:08:10,M,20.02.2011,Saarbrücken,8,True,d233348e4e587be218aebc61033a26656f9d718ac6c6ebdf1039dee422c4bf9d
+Grojos LTF Elversberg,Halbmarathon Ma.,Roman,Schmitt,1967,4:08:10,M,20.02.2011,Saarbrücken,8,True,a25c65b82f60fe5b8874ef847527cb2d30d1f8eb75f9bdc3e27775325b7fc937
 LA Team Saar,Halbmarathon Ma.,Uwe,Wachter,0,4:09:05,M,27.03.2011,Saarbrücken,9,True,5102c4009427057ce62b4e65e4aa1033fd552d7bd959819e722bec0d0087e9ee
 LA Team Saar,Halbmarathon Ma.,Martin,Frenzel,0,4:09:05,M,27.03.2011,Saarbrücken,9,True,4913374b371c93be2e9e27231390f102508ebe3288e77b2b7259abf2747e7214
-LA Team Saar,Halbmarathon Ma.,Thomas,Jacob,0,4:09:05,M,27.03.2011,Saarbrücken,9,True,1614f1df5190585356a27c20833e082f38ed2abd85f95fdb104f4f0c44cf93e4
+LA Team Saar,Halbmarathon Ma.,Thomas,Jacob,1963,4:09:05,M,27.03.2011,Saarbrücken,9,True,0257f86a02193edeaf7dbd3e4ef4bf2d74cd1bb27cb884f2a131aedad0dc7c01
 LC Warndt,Halbmarathon Ma.,Uwe,Hartmann,1959,4:11:50,M,29.05.2011,Saarlouis,10,True,8fe069bba36bb7b0627f9b1005d01cdc88dcde94aee37ed890832377079e0cf1
 LC Warndt,Halbmarathon Ma.,Jörg,Dietrich,0,4:11:50,M,29.05.2011,Saarlouis,10,True,7ca24611edc0671d492a3b5831a13e1565162866f8bb22c0414e8a5283e34dd7
 LC Warndt,Halbmarathon Ma.,Gerd,Thiry,0,4:11:50,M,29.05.2011,Saarlouis,10,True,a8737a3a085503777088884465ec68c370548b4b18eef0ad7f0d9573feb64bee
@@ -182,7 +182,7 @@ LSG Schmelz-Hüttersdorf,Marathon,Alois,Holz,1965,2:53:15,M,30.10.2011,Frankfurt
 LSG Schmelz-Hüttersdorf,Marathon,Patrick,Leidinger,1977,2:53:38,M,30.10.2011,Frankfurt,10,False,94355e1e54681bcdba72089f3cc8f2617c0864591dd0cc4dbfb6b51bb9da0db6
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Alois,Holz,1965,8:43:35,M,30.10.2011,Frankfurt,1,True,f49720bc470c65a3aa103036b8031476eb66de3b0273881f85e627299b2d3a29
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Patrick,Leidinger,1977,8:43:35,M,30.10.2011,Frankfurt,1,True,94355e1e54681bcdba72089f3cc8f2617c0864591dd0cc4dbfb6b51bb9da0db6
-LSG Schmelz-Hüttersdorf,Marathon Ma.,Stefan,Klein,0,8:43:35,M,30.10.2011,Frankfurt,1,True,1813a054b15909ba9bd6e81eede4acaf66545cf2dd9c920ddf3635474508c0bb
+LSG Schmelz-Hüttersdorf,Marathon Ma.,Stefan,Klein,1963,8:43:35,M,30.10.2011,Frankfurt,1,True,568d9e179e4c1f2a7c44323470969b65bdc0bc38115233457d54c6c4319e564b
 LTF Marpingen,Marathon Ma.,Jörg,Hooß,1964,8:45:38,M,04.09.2011,Merzig,2,True,696e668e3cd8604f787403a2b115a64ea7bacc412382a798fab036120343cf77
 LTF Marpingen,Marathon Ma.,Markus,Wagner,1968,8:45:38,M,04.09.2011,Merzig,2,True,a2fc0aee577e8e38c56832c865551d94d678aa8b64e1bf4615da7d646fe438e1
 LTF Marpingen,Marathon Ma.,Gernot,Helferich,0,8:45:38,M,04.09.2011,Merzig,2,True,85af511f40667849e580635ae03edc45c9ca2776659f56d499cd2496b8612b1c
@@ -190,7 +190,7 @@ Grojos LTF Elversberg,Marathon Ma.,Dirk,Salm,1968,9:08:50,M,30.10.2011,Frankfurt
 Grojos LTF Elversberg,Marathon Ma.,Andreas,Holweck,0,9:08:50,M,30.10.2011,Frankfurt,3,True,57f52fa491ddd28ab3244450c8d11cf4db07db5e6d687af37e3b383f5c6f53ea
 Grojos LTF Elversberg,Marathon Ma.,Karsten,Fend,0,9:08:50,M,30.10.2011,Frankfurt,3,True,8cbfde5733d5268c994cbc7cb59aaef567c281e02ff4dca79ab18f50f9b02a9a
 LAG Saarbrücken,Marathon Ma.,Steffen,Gulden,0,9:17:59,M,30.10.2011,Frankfurt,4,True,6ddc297f071b73c4c4252161fc7d483274898b4d2c8586c65570b2578a1b2f8e
-LAG Saarbrücken,Marathon Ma.,Sven,Brall,0,9:17:59,M,30.10.2011,Frankfurt,4,True,2747f758eb227f552ecedd71fe78632d54d798001b30ecd8f426af1577c97c46
+LAG Saarbrücken,Marathon Ma.,Sven,Brall,1975,9:17:59,M,30.10.2011,Frankfurt,4,True,a1fd86cbd2c32fa66fcd6086e9c7c2fc57f835ac70c21dd4cf558c093ea28dca
 LAG Saarbrücken,Marathon Ma.,Martin,Zimmer,0,9:17:59,M,30.10.2011,Frankfurt,4,True,2c1b7d54f92315ce3ed42905ff93b5f50a0b7cec6151327b43c42f5073044290
 LTF Köllertal,Marathon Ma.,Michael,Klein,0,9:22:36,M,30.10.2011,Frankfurt,5,True,98ae132675e36ca78d606bc78a4a1eb8bde0d2e696d1c17b3d5f2779cf924a13
 LTF Köllertal,Marathon Ma.,Timo,Schmidt,0,9:22:36,M,30.10.2011,Frankfurt,5,True,66d6b86ec5a6a579acb3ad8043cef8ff849d68288734050e3f477de8bee09961
@@ -198,17 +198,17 @@ LTF Köllertal,Marathon Ma.,Michael,Trenz,0,9:22:36,M,30.10.2011,Frankfurt,5,Tru
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Markus,Hilgers,0,9:47:52,M,30.10.2011,Frankfurt,6,True,3bd959b5856ee77210473d47900ffbd8fd2e2799eadcadeb26d6d97bac0ae03c
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Jürgen,Steimer,1964,9:47:52,M,30.10.2011,Frankfurt,6,True,8d7003edbcd02d540d4606baec373f8a3ff657006e0d591968c350ea37f9783b
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Jörg,Erbel,0,9:47:52,M,30.10.2011,Frankfurt,6,True,cbe6705397239a3a63f399b87ef960ab7d8fc65369842707955935362ba7ad61
-LTF Marpingen,Marathon Ma.,Giovanni,De Giorgi,0,9:49:13,M,04.09.2011,Merzig,7,True,caf75a4de17a73879c4b5d53e833bcdf4001e88c413a40051077a5e1af571770
+LTF Marpingen,Marathon Ma.,Giovanni,De Giorgi,1958,9:49:13,M,04.09.2011,Merzig,7,True,2236819b1eafe93c46b5a19baab794dc50677bbad0ebd694c908ecb70e683220
 LTF Marpingen,Marathon Ma.,Frank,Bonnaire,1965,9:49:13,M,04.09.2011,Merzig,7,True,fdd1cb81cbae92aaa900a412ddefca4e7656fae5504d81dc03af0a3436d71561
-LTF Marpingen,Marathon Ma.,Andreas,Aldekamp,0,9:49:13,M,04.09.2011,Merzig,7,True,0aeada67acf7b34891ccc22123e0b3fb9b2eadecaf2a10b84b7ade658d5f07d6
-LLG Wustweiler,Marathon Ma.,Heinz,Schuh,0,9:53:28,M,30.10.2011,Frankfurt,8,True,717484c158f7ec17692df37ac28077f46b5a443b07254cef6e390a0162c93304
-LLG Wustweiler,Marathon Ma.,Heinrich,Becker,0,9:53:28,M,30.10.2011,Frankfurt,8,True,1e0a2da73b2f49ca896787c609b9736db25bb5d09997520bcbf401dbf618d35a
-LLG Wustweiler,Marathon Ma.,Klaus-Dieter,Gorges,0,9:53:28,M,30.10.2011,Frankfurt,8,True,d9719f85869d7e90f96b23799a5513097af449cc9818d3285cbf2dda163a315a
-LTF Köllertal,Marathon Ma.,Klaus,Wieland,0,10:14:17,M,30.10.2011,Frankfurt,9,True,52ba8083b124c688883516662bf50debf8581bb47da2112e92f790742915dc75
+LTF Marpingen,Marathon Ma.,Andreas,Aldekamp,1968,9:49:13,M,04.09.2011,Merzig,7,True,a9ea53e6562ce8a21751c01ec9414080fa3390ece67df51e8c38a60e91d692ff
+LLG Wustweiler,Marathon Ma.,Heinz,Schuh,1957,9:53:28,M,30.10.2011,Frankfurt,8,True,c6fe89b51e92acfea53f60cff6a8de2ef4028eb7759bbedcd5b4470956fe31b9
+LLG Wustweiler,Marathon Ma.,Heinrich,Becker,1961,9:53:28,M,30.10.2011,Frankfurt,8,True,b58bc062bf99a3e3e1a6dca870c9e97bbb93f3658fc955519e8aa572ab09544d
+LLG Wustweiler,Marathon Ma.,Klaus-Dieter,Gorges,1960,9:53:28,M,30.10.2011,Frankfurt,8,True,833fbeca8b46b3e39dcf4f79f60bcf946fcb996dfe982eccd792c3e2fec7e79b
+LTF Köllertal,Marathon Ma.,Klaus,Wieland,1962,10:14:17,M,30.10.2011,Frankfurt,9,True,2c42ca669e73f3ffc719f2f50042e474d3e286529d787f31c37bb315237cf884
 LTF Köllertal,Marathon Ma.,Oli,Blaß,0,10:14:17,M,30.10.2011,Frankfurt,9,True,fc055d3683c19a4b40539b5453406b7decab083afff07c0635a871f0751e44ff
-LTF Köllertal,Marathon Ma.,Thomas,Geber,0,10:14:17,M,30.10.2011,Frankfurt,9,True,596815001a3e93bffbc79017271ea5027478f3063241446c29c00fe96541efc5
-LTF Marpingen,Marathon Ma.,Peter,Wagner,0,10:55:02,M,04.09.2011,Merzig,10,True,01cb19ea13019754f28c0f799fcff69a629f87abddb5fd43477f554bb62db429
-LTF Marpingen,Marathon Ma.,Stefan,Feller,0,10:55:02,M,04.09.2011,Merzig,10,True,fcd6fe2d366d463918fe1a4e46a8a4c7fac2a18f8b3eea174c48b092f28ede81
+LTF Köllertal,Marathon Ma.,Thomas,Geber,1973,10:14:17,M,30.10.2011,Frankfurt,9,True,59468b4e91e1267c253508f0bea91d8693ba2e2dff8f5173814f1b3b280054ca
+LTF Marpingen,Marathon Ma.,Peter,Wagner,1959,10:55:02,M,04.09.2011,Merzig,10,True,b00ab106a285fedaacc16ccfe6b78d04a5bee829c7401978e26f763817e98715
+LTF Marpingen,Marathon Ma.,Stefan,Feller,1968,10:55:02,M,04.09.2011,Merzig,10,True,134b01dd84b1607ac5eb202c3e6dd99e2f2a9c0b0978a59079459fee6ff8430e
 LTF Marpingen,Marathon Ma.,Hubertus,Eckert,0,10:55:02,M,04.09.2011,Merzig,10,True,520e1063d4d6a7dacc1b8bb5822abb5b3882d6252a7f309e3dc6d896be5eca73
 LTF Marpingen,100 km,Jörg,Hooß,1964,8:05:41,M,18.06.2011,Biel,1,False,696e668e3cd8604f787403a2b115a64ea7bacc412382a798fab036120343cf77
 LTF Marpingen,100 km,Frank,Bonnaire,1965,10:40:01,M,18.06.2011,Biel,2,False,fdd1cb81cbae92aaa900a412ddefca4e7656fae5504d81dc03af0a3436d71561
@@ -243,7 +243,7 @@ LC Rehlingen,4 x 100 m Staffel,Eric,Uder,1988,"42,67",M,05.06.2011,St. Wendel,1,
 LC Rehlingen,4 x 100 m Staffel,Carsten,Schmitt,1990,"42,67",M,05.06.2011,St. Wendel,1,True,ab178a2faddfbce61100785fd76a75b873273e08ac36498fe4b96ca2635b88c1
 LC Rehlingen,4 x 100 m Staffel,Jan,Uder,1988,"42,67",M,05.06.2011,St. Wendel,1,True,d2bff6629fa6f77e9d5e21d4db06d0d18e9c8376b91017ab2ad6aea66177c901
 TV Elm,4 x 100 m Staffel,Tobias,Martini,1991,"45,43",M,05.06.2011,St. Wendel,2,True,928ce856b998bf2ab79b9cf2196446ff03e69f4f889d74c75bf9da36697f016e
-TV Elm,4 x 100 m Staffel,Jochen,Kiefer,0,"45,43",M,05.06.2011,St. Wendel,2,True,2433bd7b6872c2ef4d332c61a8fed1ff72763b6c477357593dcea1eaa7654b08
+TV Elm,4 x 100 m Staffel,Jochen,Kiefer,1991,"45,43",M,05.06.2011,St. Wendel,2,True,931606c054146bd966b58b8414d43ac07540c4790b30381475ab79588daa8a0c
 TV Elm,4 x 100 m Staffel,Tim,Bruxmeier,0,"45,43",M,05.06.2011,St. Wendel,2,True,24686f3134909883c0dbb17f2436f35479e39401bbe174ab93b6cb3d212e7737
 TV Elm,4 x 100 m Staffel,Jens,Martini,1989,"45,43",M,05.06.2011,St. Wendel,2,True,84d06b952b9f1ca260919256226cf7f87cc65a8d204162854b1a27ca95cf4f12
 LG Saar 70,4 x 100 m Staffel,David,Naumann,1992,"45,60",M,05.06.2011,St. Wendel,3,True,2caedea48b7fcaac532962a73c89fcf41cc0403603ff134b1526eeaa2bee54af
@@ -254,7 +254,7 @@ LA Team Saar,4 x 100 m Staffel,Dominik,Becker,1993,"45,65",M,05.06.2011,St. Wend
 LA Team Saar,4 x 100 m Staffel,Marco,Brück,1993,"45,65",M,05.06.2011,St. Wendel,4,True,09b4d37c0d9f7dfb0ae0dfeebce1f06d649df85ebc2dd571d4cfaa99ff69a51a
 LA Team Saar,4 x 100 m Staffel,Jasper,Möhler,1992,"45,65",M,05.06.2011,St. Wendel,4,True,cf1866de8e663eea902f5a4370ae14bf558232749b7bee0a8453c17031254f28
 LA Team Saar,4 x 100 m Staffel,Philipp,Burgard,1991,"45,65",M,05.06.2011,St. Wendel,4,True,409c52a63163009c978fe21c5528cb556b6364fd0c992e92d675552c33579873
-LAZ Saarbrücken,4 x 100 m Staffel,Daniel,Biehl,0,"47,26",M,13.08.2011,Friedrichsthal,5,True,bd128b0c834ac2c349e635a5be2acf35e2ae715900a229dabf39005247295e49
+LAZ Saarbrücken,4 x 100 m Staffel,Daniel,Biehl,1963,"47,26",M,13.08.2011,Friedrichsthal,5,True,49a28e9b7fb0d76a308b49a342f804fb9dc05fa5bf5c3d7ef0f71fafe43ca675
 LAZ Saarbrücken,4 x 100 m Staffel,Matthias,Vogel,1990,"47,26",M,13.08.2011,Friedrichsthal,5,True,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
 LAZ Saarbrücken,4 x 100 m Staffel,Martin,Vogel,1959,"47,26",M,13.08.2011,Friedrichsthal,5,True,e0bcbf25d1c9c92dd0cc008babca881cc6ce62773ef99c966cab1e3d4b05b49e
 LAZ Saarbrücken,4 x 100 m Staffel,Oliver,Schneider,1965,"47,26",M,13.08.2011,Friedrichsthal,5,True,cffd5e11636388394cde55c7d86d459265c6c316b7b36ab85483641205cc116c
@@ -262,22 +262,22 @@ StG Saar Masters 09,4 x 100 m Staffel,Oliver,Schneider,0,"48,73",M,04.06.2011,Di
 StG Saar Masters 09,4 x 100 m Staffel,Achim,Hachenthal,0,"48,73",M,04.06.2011,Dillingen,6,True,e73a62fa4419dbc306b0faff44ccf2e0f7db2a2dc2d0d007f220be4b8d646da1
 StG Saar Masters 09,4 x 100 m Staffel,Daniel,Biehl,0,"48,73",M,04.06.2011,Dillingen,6,True,bd128b0c834ac2c349e635a5be2acf35e2ae715900a229dabf39005247295e49
 StG Saar Masters 09,4 x 100 m Staffel,Martin,Schumacher,0,"48,73",M,04.06.2011,Dillingen,6,True,01866d9148858c72dfe0d4bedba2e27b45255659c5dbdb9d8e54a59994e3062a
-LAC Saarlouis,4 x 100 m Staffel,Oliver,Kirch,0,"49,20",M,04.09.2011,Homburg,7,True,26114ed3d61a61bf9d0f020a98274efc90fb9f286bf1a35baa56f1a457b48deb
+LAC Saarlouis,4 x 100 m Staffel,Oliver,Kirch,1978,"49,20",M,04.09.2011,Homburg,7,True,882fb423516602cac0de8609bd54b13f09db5fa5570e62e742187cc875a32988
 LAC Saarlouis,4 x 100 m Staffel,Manuel,Keil,1979,"49,20",M,04.09.2011,Homburg,7,True,6cd6fa7cfb4647f43433179736883d0e6dd60e92ac900ba9b90317ac8a4db590
-LAC Saarlouis,4 x 100 m Staffel,Christopher,Sieger,0,"49,20",M,04.09.2011,Homburg,7,True,54f25f82bf03882a229599a1338bfb11a5085c80df1b38b3fb33bfb27becc89d
+LAC Saarlouis,4 x 100 m Staffel,Christopher,Sieger,1986,"49,20",M,04.09.2011,Homburg,7,True,678219f916548be13a1417e8f733e0486c89751b39367d9a9791d92b22d4d09c
 LAC Saarlouis,4 x 100 m Staffel,Martin,Schumacher,1966,"49,20",M,04.09.2011,Homburg,7,True,b0051713e7013416a9cccdec8478059df4f64b0f6ab0b2bde2a3728b388a97a6
-LG Saar 70,4 x 100 m Staffel,Thomas,Huber,0,"49,22",M,04.06.2011,Dillingen,8,True,3fac0ce8a44b69171bf1cd42d60bfe4e17e008a319ab507aa1465074d8a6d807
-LG Saar 70,4 x 100 m Staffel,Uwe,Jung,0,"49,22",M,04.06.2011,Dillingen,8,True,092558727be07819cbfdf79ec08646fb99ca073876b6921f1a005a6e813c2d5f
-LG Saar 70,4 x 100 m Staffel,Michael,Huber,0,"49,22",M,04.06.2011,Dillingen,8,True,63aca9ce7ff7b5cec5df652763574df90c017864ea1695624697ae00d39a12a6
-LG Saar 70,4 x 100 m Staffel,Harald,Janes,0,"49,22",M,04.06.2011,Dillingen,8,True,48e20cedd0dc2550fbc9115bae42e0b8f2eaa115c207495726e97bbf2578d54c
+LG Saar 70,4 x 100 m Staffel,Thomas,Huber,1970,"49,22",M,04.06.2011,Dillingen,8,True,fe7741229bf10003c5f6809e9494ad0d8a67e1589244d6260d2b5479d3fb5bc3
+LG Saar 70,4 x 100 m Staffel,Uwe,Jung,1962,"49,22",M,04.06.2011,Dillingen,8,True,5df628ac92e66e346f7f53631e1834e63dc7342bc17cdfce7afe57c798c68931
+LG Saar 70,4 x 100 m Staffel,Michael,Huber,1962,"49,22",M,04.06.2011,Dillingen,8,True,4bd851cc67c34417ec0f714f194bf2e1b8a1e76781d97121c225dfa7c0655c54
+LG Saar 70,4 x 100 m Staffel,Harald,Janes,1958,"49,22",M,04.06.2011,Dillingen,8,True,77e8053c5747fee16c21bfb8b32a30f4d82d1eb045b226a5f1ec8d243df7708b
 SC Friedrichsthal,4 x 100 m Staffel,Kai-Daniel,Weil,1992,"50,88",M,04.09.2011,Homburg,9,True,7c5ae1b8caaa4f6a89c0d509e62d1d0fe5f5e3f37fad171de23c4cf95c91c00a
 SC Friedrichsthal,4 x 100 m Staffel,Daniel,Hunold,0,"50,88",M,04.09.2011,Homburg,9,True,50b54f627479ab68b5eded583ee0c3d0f2858dcd51dba20b589022ab82112af0
-SC Friedrichsthal,4 x 100 m Staffel,Holger,Becker,0,"50,88",M,04.09.2011,Homburg,9,True,519a978a18d0ca65fce582afd0fff56c250547eac6cbb805dc01e6c5b161b800
+SC Friedrichsthal,4 x 100 m Staffel,Holger,Becker,1968,"50,88",M,04.09.2011,Homburg,9,True,dd842d3038f47458a4115f7277781faae3b21296adef7c15b845eea455505ad6
 SC Friedrichsthal,4 x 100 m Staffel,Fabian,Burgard,0,"50,88",M,04.09.2011,Homburg,9,True,608b539c1a5cde361ce75bac9798aa3ee8f91e8dc23dc848f12da15bf532dc26
-LC 72 Altenkessel,4 x 100 m Staffel,Johannes,Hoffmann,0,"53,34",M,04.09.2011,Homburg,10,True,2590c8cb3576e510504bb01eba6511443ccbf4c3efc074d00f3209b96634f031
+LC 72 Altenkessel,4 x 100 m Staffel,Johannes,Hoffmann,1980,"53,34",M,04.09.2011,Homburg,10,True,81927f89d4cd79d4c98fbf08ff5e1e16929cd0727200ec9b2d0ceb914f4e30cf
 LC 72 Altenkessel,4 x 100 m Staffel,Michael,Schwarz,0,"53,34",M,04.09.2011,Homburg,10,True,ce47c3a6e466daec96a04632517b563c75dcc52c96d6a5caf5652bc4c122c8c7
-LC 72 Altenkessel,4 x 100 m Staffel,Dietmar,Pauly,0,"53,34",M,04.09.2011,Homburg,10,True,0bacc2cf9ba7fdc263413f496dab10909e8c12f77b394ae2256df419d1232299
-LC 72 Altenkessel,4 x 100 m Staffel,Heiko,Kaltenbach,0,"53,34",M,04.09.2011,Homburg,10,True,23d497e3fc41017800c9550a14baade620eae94d3fa421be7ff33cf26130e83a
+LC 72 Altenkessel,4 x 100 m Staffel,Dietmar,Pauly,1957,"53,34",M,04.09.2011,Homburg,10,True,7b7243c060dc44e11b39036546f1095293c0ad11d4c3195e80301fbf8d455b5f
+LC 72 Altenkessel,4 x 100 m Staffel,Heiko,Kaltenbach,1981,"53,34",M,04.09.2011,Homburg,10,True,453008a7bcf22fdc3e46cc5bbd70f1bf57467c8c41bd29fca749a68003616004
 LC Rehlingen,4 x 400 m Staffel,Jonas,Lotz,1993,"3:18,56",M,21.08.2011,Forst,1,True,5dd0b51c6eedcbe704a30ad785cf53d21c5042b72fb2fd803a8b111308a996e5
 LC Rehlingen,4 x 400 m Staffel,Nils,Klein,1989,"3:18,56",M,21.08.2011,Forst,1,True,fc688d446dcc0c0fae99a62399658373d413e2faf882c2454f297bfb0e901683
 LC Rehlingen,4 x 400 m Staffel,Mike,Seewald,1986,"3:18,56",M,21.08.2011,Forst,1,True,8b435adb7cad917a153584c177fb9b518386100cffc163531e46731941114eb5
@@ -295,16 +295,16 @@ LG Saar 70,4 x 400 m Staffel,Dominik,Schmitt,1989,"3:39,1",M,22.05.2011,St. Wend
 LG Saar 70,4 x 400 m Staffel,Kai,Heinrich,1993,"3:39,1",M,22.05.2011,St. Wendel,4,True,11c473a6c5928256d5bdeb45791aab970457c60e43656dddfe84543ac84a5665
 LG Saar 70,4 x 400 m Staffel,Alexander,Schmidt,0,"3:39,1",M,22.05.2011,St. Wendel,4,True,1be31b36f26ab0d91a908b89e50ba6a5a9416114672a431e672c22aec595e49c
 LA Team Saar,4 x 400 m Staffel,Simon,Hechler,1988,"3:39,7",M,22.05.2011,St. Wendel,5,True,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
-LA Team Saar,4 x 400 m Staffel,Tobias,Mix,0,"3:39,7",M,22.05.2011,St. Wendel,5,True,10d9f3ca11606d0db6eae667a050f56968b2a4e2d6714d7e9af4b049426da26a
+LA Team Saar,4 x 400 m Staffel,Tobias,Mix,1987,"3:39,7",M,22.05.2011,St. Wendel,5,True,08ac43dc7d76b264c0a2f16703c8f99dc144ab25ee179aed6991d6d6dc9aa219
 LA Team Saar,4 x 400 m Staffel,Marco,Brück,1993,"3:39,7",M,22.05.2011,St. Wendel,5,True,09b4d37c0d9f7dfb0ae0dfeebce1f06d649df85ebc2dd571d4cfaa99ff69a51a
 LA Team Saar,4 x 400 m Staffel,Andreas,Blank,0,"3:39,7",M,22.05.2011,St. Wendel,5,True,a4a372431473bf44b9d562c50a04152a5bc11a47aca4a058f25981d970d055ce
 LAZ Saarbrücken,4 x 400 m Staffel,Matthias,Vogel,1990,"3:43,37",M,25.08.2011,Saarbrücken,6,True,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
-LAZ Saarbrücken,4 x 400 m Staffel,Daniel,Bild,0,"3:43,37",M,25.08.2011,Saarbrücken,6,True,afed04a04169b930b82b302ab458450f82963facb003622fb1f1107ab07c04fd
+LAZ Saarbrücken,4 x 400 m Staffel,Daniel,Bild,1987,"3:43,37",M,25.08.2011,Saarbrücken,6,True,e12fa02666adefc00e885241b6515f1b1cb533be2a0a043e504c634e272acca2
 LAZ Saarbrücken,4 x 400 m Staffel,Adrian,Fritz,0,"3:43,37",M,25.08.2011,Saarbrücken,6,True,ce3f123904580ac517c9510798ab8e016159b983fe7af7fd1c09ac05dc3a597c
 LAZ Saarbrücken,4 x 400 m Staffel,Martin,Vogel,1959,"3:43,37",M,25.08.2011,Saarbrücken,6,True,e0bcbf25d1c9c92dd0cc008babca881cc6ce62773ef99c966cab1e3d4b05b49e
 ATSV Saarbrücken,4 x 400 m Staffel,Zeik,Fenty,0,"3:46,0",M,22.05.2011,St. Wendel,7,True,eb10524fb80d3770dcfbcbf1dcbde5f2a2a905c3fb5380ae76f2d89118d8f0d6
 ATSV Saarbrücken,4 x 400 m Staffel,Tobias,Lesch,1992,"3:46,0",M,22.05.2011,St. Wendel,7,True,26c28633e6545398dc2e51a039cadd1d28c2db162396e912e353d5bf2b73aaac
-ATSV Saarbrücken,4 x 400 m Staffel,Christian,Wonn,0,"3:46,0",M,22.05.2011,St. Wendel,7,True,4e3fa2f9e70076d2989b9c2488ecb32aebb1c08b08af006612118530668f8578
+ATSV Saarbrücken,4 x 400 m Staffel,Christian,Wonn,1986,"3:46,0",M,22.05.2011,St. Wendel,7,True,2bd28ba124386879cf416c2ee7d23bfb41377ac56a784620be62fc39dcf2587e
 ATSV Saarbrücken,4 x 400 m Staffel,Andreas,Piehl,1984,"3:46,0",M,22.05.2011,St. Wendel,7,True,ec353eac657dd2a9b3d5943359191366c51b710640496b1547871d8503e9f57c
 TV Niederwürzbach,4 x 400 m Staffel,Christian,Staab,0,"4:15,04",M,25.08.2011,Saarbrücken,8,True,b18478a845934464afca3b95e98471631c4639d62b0bbe7c34923aa5b55f2bb9
 TV Niederwürzbach,4 x 400 m Staffel,Reiner,Kleim,0,"4:15,04",M,25.08.2011,Saarbrücken,8,True,e9549764e9d674029e3e0148d1433f1589daea57ef966a9d181ac7a50f0bb2c1
@@ -322,34 +322,34 @@ LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Matthias,Merk,1984,"8:04,14",M,17.09.201
 LA Team Saar,3 x 1000 m Staffel,Daniel,Gottwald,0,"8:44,65",M,10.04.2011,Püttlingen,4,True,f7c57b8dad72c760ff0e621d54eeba5a65eb33c3da66351635502ee862241bdf
 LA Team Saar,3 x 1000 m Staffel,Tammo,Lang,0,"8:44,65",M,10.04.2011,Püttlingen,4,True,69d4f97a0db7688d6e946274905550251b9f15c400acf4c2bfa0e75cf46787a8
 LA Team Saar,3 x 1000 m Staffel,Andreas,Blank,0,"8:44,65",M,10.04.2011,Püttlingen,4,True,a4a372431473bf44b9d562c50a04152a5bc11a47aca4a058f25981d970d055ce
-LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Andreas,Vonerden,0,"8:47,89",M,25.08.2011,Saarbrücken,5,True,26fd5362d6860ca363fee4c19073fb07b1bfe222cf8bd010ea8658f2e30b25f4
+LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Andreas,Vonerden,1976,"8:47,89",M,25.08.2011,Saarbrücken,5,True,d8b3cbf4358a2fffca66eea585a0cd9283ff9a43ea0ce1d28cf8ae3c1e2ad38a
 LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Matthias,Müller,1973,"8:47,89",M,25.08.2011,Saarbrücken,5,True,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
 LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Uwe,Trampert,1972,"8:47,89",M,25.08.2011,Saarbrücken,5,True,17ce5cc9c914b81519c44ef6b6a0fcc8afd5bc81f287ac1675286c8fd419cf72
-LAZ Saarbrücken,3 x 1000 m Staffel,Dirk,Buschmann,0,"8:50,13",M,25.08.2011,Saarbrücken,6,True,7907459815096588ac80e0796e1075b74f15197d609bac8e49265bd5b5b1a548
-LAZ Saarbrücken,3 x 1000 m Staffel,Michael,Gärtner,0,"8:50,13",M,25.08.2011,Saarbrücken,6,True,ea583d3f69e42fca2a1f4cd7e1cbaf352e4939317f3b3082785f55829cf24ba6
-LAZ Saarbrücken,3 x 1000 m Staffel,Dominik,Sandmeier,0,"8:50,13",M,25.08.2011,Saarbrücken,6,True,36b87d3efd14900a551065d02823368a43b65ff994dc3b2398935ad406073561
-LAZ Saarbrücken,3 x 1000 m Staffel,Michael,Roder,0,"9:14,89",M,10.04.2011,Püttlingen,7,True,1f03567fd45cc5f5a383f529303638314827cfc5c1b7e4fbf0a04b7e2c3ee21f
+LAZ Saarbrücken,3 x 1000 m Staffel,Dirk,Buschmann,1968,"8:50,13",M,25.08.2011,Saarbrücken,6,True,d7186f8ff89cdb13761a7e0c93b188b6c243b85d83c6166a0b71e59e04426db0
+LAZ Saarbrücken,3 x 1000 m Staffel,Michael,Gärtner,1968,"8:50,13",M,25.08.2011,Saarbrücken,6,True,bd017b31272f591bfb46675eca504b7dafb76218a55ad6a8f9ab82386db78b34
+LAZ Saarbrücken,3 x 1000 m Staffel,Dominik,Sandmeier,1967,"8:50,13",M,25.08.2011,Saarbrücken,6,True,fc5fef0b57a476cd15fa9b80bc61bc42849cb2b5258f1f11decccf4d9ed58df6
+LAZ Saarbrücken,3 x 1000 m Staffel,Michael,Roder,1969,"9:14,89",M,10.04.2011,Püttlingen,7,True,74ad53ae8d6ecb1f8433e49657cc39f6cebc00b0f21fb08df4bfeab7023d4687
 LAZ Saarbrücken,3 x 1000 m Staffel,Adrian,Fritz,0,"9:14,89",M,10.04.2011,Püttlingen,7,True,ce3f123904580ac517c9510798ab8e016159b983fe7af7fd1c09ac05dc3a597c
 LAZ Saarbrücken,3 x 1000 m Staffel,Thomas,Schmidt,0,"9:14,89",M,10.04.2011,Püttlingen,7,True,d49ff81dc0052203aea437cd08231ea54eea2a0feb9683195945269bbd436e01
-LTF Köllertal,3 x 1000 m Staffel,Kai,Schneider,0,"9:29,10",M,17.09.2011,Friedrichsthal,8,True,7565d0ecd487528c97fd94c64894f3847372198d76eb5232b409bbeb23afe8e2
-LTF Köllertal,3 x 1000 m Staffel,Thomas,Geber,0,"9:29,10",M,17.09.2011,Friedrichsthal,8,True,596815001a3e93bffbc79017271ea5027478f3063241446c29c00fe96541efc5
+LTF Köllertal,3 x 1000 m Staffel,Kai,Schneider,1979,"9:29,10",M,17.09.2011,Friedrichsthal,8,True,79fd9bd223bef75f5d5f5563bfa4ba94f7253e33b1fbd6201e1b5ac24c789a8a
+LTF Köllertal,3 x 1000 m Staffel,Thomas,Geber,1973,"9:29,10",M,17.09.2011,Friedrichsthal,8,True,59468b4e91e1267c253508f0bea91d8693ba2e2dff8f5173814f1b3b280054ca
 LTF Köllertal,3 x 1000 m Staffel,Heiko,Maas,0,"9:29,10",M,17.09.2011,Friedrichsthal,8,True,6c2467e8917e39f7051c0462826fdae24c65d582eaaa5dc8b7bfa963c89f3d6a
 LAZ Saarbrücken,3 x 1000 m Staffel,Michael,Klahm,1969,"9:34,93",M,10.04.2011,Püttlingen,9,True,c0eb270a5e5caf37b4209a1934572bcea7a19b219dfcff2ae92b1a8a1505d7c9
-LAZ Saarbrücken,3 x 1000 m Staffel,Frederik,Schäfer,0,"9:34,93",M,10.04.2011,Püttlingen,9,True,857119452b5c8ce368e8ecef9878822d4208826ec8be55caf6840404c375fc76
-LAZ Saarbrücken,3 x 1000 m Staffel,Daniel,Biehl,0,"9:34,93",M,10.04.2011,Püttlingen,9,True,bd128b0c834ac2c349e635a5be2acf35e2ae715900a229dabf39005247295e49
+LAZ Saarbrücken,3 x 1000 m Staffel,Frederik,Schäfer,1990,"9:34,93",M,10.04.2011,Püttlingen,9,True,b3403058b1cf3b22730f4bfa32dbd27a3fd3cd4210d1fe3d875b15f91a07d1ed
+LAZ Saarbrücken,3 x 1000 m Staffel,Daniel,Biehl,1963,"9:34,93",M,10.04.2011,Püttlingen,9,True,49a28e9b7fb0d76a308b49a342f804fb9dc05fa5bf5c3d7ef0f71fafe43ca675
 SV Schlau.Com Saar 05 SBR.,3 x 1000 m Staffel,Sören,Schwarz,0,"9:35,70",M,17.09.2011,Friedrichsthal,10,True,58aec00c3de3cab4f37b1913b9d2466ebbe8e9d2dfd69d2ceff0f102af72b930
 SV Schlau.Com Saar 05 SBR.,3 x 1000 m Staffel,Rainer,Maurer,0,"9:35,70",M,17.09.2011,Friedrichsthal,10,True,0cc63eb34e78482f6fdec3d4ca47772047bb57900ed371df7acea97d32bfa9c7
 SV Schlau.Com Saar 05 SBR.,3 x 1000 m Staffel,Tom,Haake,0,"9:35,70",M,17.09.2011,Friedrichsthal,10,True,b724ea0060c48f6eb7445dc75d0fa166dcb5b3dd2d3692c4c76f269ff5215dbc
-TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider,1947,"58:53,92",M,18.06.2011,Kaiserslautern,1,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider Dr.,1947,"58:53,92",M,18.06.2011,Kaiserslautern,1,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,10.000 m Bahngehen,Christof,Hölle,1964,"59:29,84",M,10.07.2011,Eisenberg,2,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
 TV Ludweiler,10.000 m Bahngehen,Stefan,Nißl,1959,"63:38,9",M,27.08.2011,Groß-Gerau,3,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,10.000 m Bahngehen,Hans-Joachim,Dilg,1958,"68:24,71",M,18.06.2011,Kaiserslautern,4,False,576d2462240b09c5a51ba82807cd2ada6b17a43e365605e7d071dc5865173037
 TV Ludweiler,20km Str.Gehen,Christof,Hölle,1964,2:00:51,M,16.04.2011,Biberach,1,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider,1947,2:02:05,M,16.04.2011,Biberach,2,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider Dr.,1947,2:02:05,M,16.04.2011,Biberach,2,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,20km Str.Gehen,Stefan,Nißl,1959,2:20:31,M,16.04.2011,Biberach,3,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,20km Str.Gehen,Hans-Joachim,Dilg,1958,2:23:55,M,16.04.2011,Biberach,4,False,576d2462240b09c5a51ba82807cd2ada6b17a43e365605e7d071dc5865173037
 TV Ludweiler,20km Str.Gehen Ma.,Christof,Hölle,1964,6:23:27,M,16.04.2011,Biberach,1,True,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,20km Str.Gehen Ma.,Rainer,Lorscheider,1947,6:23:27,M,16.04.2011,Biberach,1,True,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,20km Str.Gehen Ma.,Rainer,Lorscheider Dr.,1947,6:23:27,M,16.04.2011,Biberach,1,True,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,20km Str.Gehen Ma.,Stefan,Nißl,1959,6:23:27,M,16.04.2011,Biberach,1,True,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 LC Rehlingen,Hochsprung,Carsten,Schmitt,1990,"2,02",M,02.06.2011,Koblenz,1,False,ab178a2faddfbce61100785fd76a75b873273e08ac36498fe4b96ca2635b88c1
 LAZ Saarbrücken,Hochsprung,Matthias,Vogel,1990,"2,00",M,13.08.2011,Friedrichsthal,2,False,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
@@ -359,7 +359,7 @@ LAC Elm,Hochsprung,Lars,Albert,1982,"1,91",M,16.07.2011,Ratingen,5,False,76ba7af
 LG Bliestal,Hochsprung,Alexander,Lück,1989,"1,89",M,05.06.2011,St. Wendel,6,False,28fbb8fe35fe64b0659b8c8fd27cc233c6e872043b87420da79fb9891f83cdf0
 LSG Saarlouis,Hochsprung,Marco,Philippe,1991,"1,85",M,05.07.2011,Rehlingen,7,False,78c0f892cf96e63dbee70bf8f6dcd6772b07b9a0e678bdbc41b461976ca1a69b
 LAC Saarlouis,Hochsprung,Martin,Schumacher,1966,"1,81",M,26.06.2011,Ahlen,8,False,b0051713e7013416a9cccdec8478059df4f64b0f6ab0b2bde2a3728b388a97a6
-LG Saar 70,Hochsprung,Matthias,Schöne,1990,"1,76",M,04.09.2011,Homburg,9,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Hochsprung,Matthias,Schmitt,1990,"1,76",M,04.09.2011,Homburg,9,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LAC Saarlouis,Hochsprung,Dominic,Jourdain,1986,"1,75",M,05.07.2011,Rehlingen,10,False,85abb75cf0676a711f86d4ef663f0e493db5afea5d82a0023719f2b8b63e5c6e
 SV Schlau.Com Saar 05 SBR.,Stabhochsprung,Amdan,Traore,1988,"5,32",M,10.06.2011,Soest,1,False,17f268b0817878906c880fb42255a2a4455b11aed7a799bb825fcddebcb55153
 LAC Elm,Stabhochsprung,Lars,Albert,1982,"4,80",M,26.06.2011,Hannover,2,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
@@ -449,7 +449,7 @@ LAZ Saarbrücken,5-Kampf Ma.,Robert,Szopko,1960,3.214,M,01.10.2011,Nieder-Olm,2,
 LAZ Saarbrücken,5-Kampf Ma.,Dieter,Dörr,0,3.214,M,01.10.2011,Nieder-Olm,2,True,09edc7ca15706d15e578bb38ad25b146b657ae63e6097a44f943bb8516b44b57
 LA Team Saar,5-Kampf Ma.,Harald,Krauhs,1965,3.162,M,01.10.2011,Nieder-Olm,3,True,fa8d9da44e3ff6f78dd2bc3fd6d73ca9ba474d65a62b7c9845571f18f34e1ef1
 LA Team Saar,5-Kampf Ma.,Hermann,Müller,1966,3.162,M,01.10.2011,Nieder-Olm,3,True,352522b235278840f7d733472874916f973dc210f06937e82a326c92ed809deb
-LA Team Saar,5-Kampf Ma.,Klaus,Backes,0,3.162,M,01.10.2011,Nieder-Olm,3,True,1abffe1cb99e1eb285bc1c2b272924b983c208f60e94d7e5ded888fb0c28e306
+LA Team Saar,5-Kampf Ma.,Klaus,Backes,1961,3.162,M,01.10.2011,Nieder-Olm,3,True,0f914c7f06d85cb4c85d7b99181438f272723f33eab8f220c532075bc8559bca
 LA Team Saar,10-Kampf,Simon,Hechler,1988,8.058,M,13.08.2011,Chula Vista,1,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
 LAC Elm,10-Kampf,Lars,Albert,1982,7.712,M,25.06.2011,Hannover,2,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
 LAZ Saarbrücken,10-Kampf,Matthias,Vogel,1990,5.443,M,10.09.2011,St.Wendel,3,False,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
@@ -462,7 +462,7 @@ LA Team Saar,10-Kampf,Simon,Schmidt,1991,3.799,M,07.05.2011,Homburg,9,False,7fc3
 LA Team Saar,10-Kampf,Johannes,Mathieu,1991,3.623,M,10.09.2011,St.Wendel,10,False,c346d078190145e14846baafb887cf18e39fc39f2fc7dbd95ce3e40fc63d9af9
 LA Team Saar,10-Kampf Ma.,Jonas,Strassberger,1990,9.559,M,10.09.2011,St.Wendel,1,True,0be6047f17b9d3f9cfe6f5fe34039745fc60f29f520765b73a9871059ac32cca
 LA Team Saar,10-Kampf Ma.,Johannes,Mathieu,1991,9.559,M,10.09.2011,St.Wendel,1,True,c346d078190145e14846baafb887cf18e39fc39f2fc7dbd95ce3e40fc63d9af9
-LA Team Saar,10-Kampf Ma.,Maximilian,Philippi,0,9.559,M,10.09.2011,St.Wendel,1,True,0829cf4f2d024889e43949aff3e85dbc43d5d7e9ca944d72f870bf58785a640c
+LA Team Saar,10-Kampf Ma.,Maximilian,Philippi,1991,9.559,M,10.09.2011,St.Wendel,1,True,7d3e12739a890367e9e67e5cc9ccd10995a2f5fa1028b9c73e37799148e2ebf3
 SV Schlau.Com Saar 05 SBR.,100 m Lauf,Lisa,Schorr,1982,"11,78",F,13.08.2011,Mannheim,1,False,e9012b7c36060bd4268b6f1411d4959822b83ef1b665f7f5e5c90b330a32a9f0
 LC Rehlingen,100 m Lauf,Bianca,Kappler,1977,"12,00",F,28.05.2011,Weinheim,2,False,0677f4ab3ad555f9b0337629eb86a3fd7ef893f4cab9d1f8f763c36d55325b2c
 SV Schlau.Com Saar 05 SBR.,100 m Lauf,Larissa,Kettenis,1982,"12,13",F,28.05.2011,Weinheim,3,False,e2f7391be820f26dcf2f80b13f1b9f497daeddb6e91b6f55ed98f28d788d00cd
@@ -545,7 +545,7 @@ SV Schlau.Com Saar 05 SBR.,10 km Str.,Susanne,Hahn,1978,33:39,F,10.09.2011,Oelde
 LG Saar 70,10 km Str.,Heike,Alaimo,1974,36:18,F,24.07.2011,Kaiserslautern,2,False,6a2d0d6774ef9ebcd6b45e44938634536fc396944336e041d3f7c92227df4f0d
 SV Schlau.Com Saar 05 SBR.,10 km Str.,Constance,Türk,1982,37:42,F,10.09.2011,Oelde,3,False,80ef67526871dccccece3142d923ecc548ebfcb3ffd7f8f7074a9b67c0c628dc
 Tri-Sport/Saar-Hochwald,10 km Str.,Nicole,Woysch,1976,38:03,F,02.06.2011,Schmelz,4,False,5cde89d7ae02305d367eb5020cd7d98b46f1c391045a6b60b9ae40aed61cb82f
-LA Team Saar,10 km Str.,Julia,Keck,1974,38:04,F,21.08.2011,Homburg,5,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,10 km Str.,Julia,Keck-Brengel,1974,38:04,F,21.08.2011,Homburg,5,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 SV Schlau.Com Saar 05 SBR.,10 km Str.,Marion,Jakobs,1970,38:14,F,24.07.2011,Kaiserslautern,6,False,c6b017d295d4334e2fe7c672687d85b9e068b1deb1d5e654797b2bf60abbd112
 LAZ Saarbrücken,10 km Str.,Sarah,Fladung,1988,38:28,F,27.11.2011,Saarbrücken,7,False,312bde3923d4334750627e05bd260492de91da3402f71225e9dedcc3af9f628b
 LTF Marpingen,10 km Str.,Tanja,Hooß,1967,38:39,F,24.07.2011,Kaiserslautern,8,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
@@ -560,21 +560,21 @@ SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Andrea,Karl,1976,2:00:41,F,10.09.2011,
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Ulrike,Hille,0,2:11:48,F,02.06.2011,Schmelz,3,True,e9ed96eca362306f991a2ccc70f128235a36c5d8f3390009fb7bbe398b7b4f25
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Susanne,Trenz,1969,2:11:48,F,02.06.2011,Schmelz,3,True,07445fda9ef83278305cdc50dad71b903347f9c2237919c3c9a674cb47598330
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Santina,Cuciuffo,0,2:11:48,F,02.06.2011,Schmelz,3,True,e29fcd1416aa73503e20d55bc5633baf2f6a06c4e1e990ebd201f5bf4ed4cfec
-LTF Marpingen,10 km Str. Ma.,Anne,Schu,0,2:13:14,F,02.06.2011,Schmelz,4,True,b776e25948b00b16874bd65eb378eb2a05535bdba1ac035303338c5277a2ffed
-LTF Marpingen,10 km Str. Ma.,Heike,Angel,0,2:13:14,F,02.06.2011,Schmelz,4,True,7c139a22b295b0ba445eb31a2752e08cb4c9260d198bf5857c75d0958c10c469
-LTF Marpingen,10 km Str. Ma.,Barbara,Wirbel,0,2:13:14,F,02.06.2011,Schmelz,4,True,61252ce4d41a234837c387383e7c9480e1fabc0d178ddf6c99c65d744ca8c864
+LTF Marpingen,10 km Str. Ma.,Anne,Schu,1968,2:13:14,F,02.06.2011,Schmelz,4,True,b9712427038c72392475f5bb68c14ac04b0e144100646ea4cf6e3048df8c5509
+LTF Marpingen,10 km Str. Ma.,Heike,Angel,1960,2:13:14,F,02.06.2011,Schmelz,4,True,2d63a07ab87fb7c5c3f0c9cabc98c2320dcf0188a6097e426c9c5c9028e5f674
+LTF Marpingen,10 km Str. Ma.,Barbara,Wirbel,1961,2:13:14,F,02.06.2011,Schmelz,4,True,fc113eadfa14dc6cf15d002c3fc5c817460048fe93a4584b606d5a4390c452ab
 TV Lebach,10 km Str. Ma.,Anja,Wallacher,1975,2:14:44,F,02.06.2011,Schmelz,5,True,91f1b6fdfd4b97867e5940164d50843b25461e97940c233b0576bcfc5253e7f2
-TV Lebach,10 km Str. Ma.,Sandra,Naudorf,0,2:14:44,F,02.06.2011,Schmelz,5,True,c4da45b0f5f644a45d1d881ea65bd6efda8a2cbbb2d980750713585446cddc6f
-TV Lebach,10 km Str. Ma.,Petra,Burger,0,2:14:44,F,02.06.2011,Schmelz,5,True,71b42d2396c33b1389778864d03f373e4b886d5c5890cf20bfde9f035fb2c018
+TV Lebach,10 km Str. Ma.,Sandra,Naudorf,1975,2:14:44,F,02.06.2011,Schmelz,5,True,e72830c9bf6369cff0a1de7a83d9949afd375c3b79eb7d792ef2056459ec093c
+TV Lebach,10 km Str. Ma.,Petra,Burger,1969,2:14:44,F,02.06.2011,Schmelz,5,True,7d94286e78462efaddbbbd69f6abd96d2bdfc2387476619c35eafd657f24d010
 LAG Saarbrücken,10 km Str. Ma.,Birgit,Zimmermann,1965,2:16:49,F,07.05.2011,Saarbrücken,6,True,bbd6029963eeb71ab113e9bbbd1a4c3052cef9c94c031affca3d4d9337f3aad7
 LAG Saarbrücken,10 km Str. Ma.,Sabine,Koenig,0,2:16:49,F,07.05.2011,Saarbrücken,6,True,5870917bce43da727c57abe6e38bc93f0ec4f461a79f758c2c6ef1de47a03098
 LAG Saarbrücken,10 km Str. Ma.,Manuela,Nohr,0,2:16:49,F,07.05.2011,Saarbrücken,6,True,200fcb23ac2e1b8220cf7e367ad0ff80a39276a4f73561a5d12c6f5298cd747e
 LTF Marpingen,10 km Str. Ma.,Tanja,Hooß,1967,2:17:46,F,27.11.2011,Saarbrücken,7,True,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
 LTF Marpingen,10 km Str. Ma.,Viola,Stras,0,2:17:46,F,27.11.2011,Saarbrücken,7,True,cade95b7a2eb0e100dd4eaf26a94af1024516ee4c00c124905a4eb0b4cbc4ebe
-LTF Marpingen,10 km Str. Ma.,Nicole,Kapitza,0,2:17:46,F,27.11.2011,Saarbrücken,7,True,e5309fa697dfbc6983379ceaa550924dccd4c4cc31e12b498ebe5a460d68e454
-"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Bärbel,Hartmann,0,2:18:45,F,27.11.2011,Saarbrücken,8,True,faa7a577ba30644cd08a39baa451d2bbd45ec60cb1ad3d1f86eefc4de1d4f62c
-"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Heidi,Hartmann,0,2:18:45,F,27.11.2011,Saarbrücken,8,True,3604a4503f26db84cb819eeb2a75489e423584c4a96d0bd488b29aa2abb9a7e1
-"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Sandra,Klehenz-Bühler,0,2:18:45,F,27.11.2011,Saarbrücken,8,True,c65ae4028667a537e632c95c33113a38cbd04bde0dbfc77678383b39ea8a8a3f
+LTF Marpingen,10 km Str. Ma.,Nicole,Kapitza,1972,2:17:46,F,27.11.2011,Saarbrücken,7,True,c622977481b38d1a3942493afdf9eafb671c346d4e88c460c365ce3f85e82059
+"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Bärbel,Hartmann,1964,2:18:45,F,27.11.2011,Saarbrücken,8,True,51cab75b5b45eaee12f2796ed24233a33dc27413024294b65b1be44ade98052c
+"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Heidi,Hartmann,1964,2:18:45,F,27.11.2011,Saarbrücken,8,True,2cc90a9745aef133203a0d10f6b0c426de3417e049e3e878d0d2f240f6b073bb
+"LT ""Fribi Funrunners"" Friedr.",10 km Str. Ma.,Sandra,Klehenz-Bühler,1973,2:18:45,F,27.11.2011,Saarbrücken,8,True,cf85a04d9f5e08b85ca4fdeb67f8125f52edf6422a86028f183a6771bfca2729
 LA Team Saar,10 km Str. Ma.,Katharina,Rausch,1986,2:19:46,F,27.11.2011,Saarbrücken,9,True,62397d333a05bfd00732bbdc9360838271a588f8545eb0cd21fe0f3ebd99dc67
 LA Team Saar,10 km Str. Ma.,Nina,Nowacka,0,2:19:46,F,27.11.2011,Saarbrücken,9,True,bb30b763e87820dfec9ad9e3b151204ae000ef3b97d3b45c24f6c095e02c2df1
 LA Team Saar,10 km Str. Ma.,Christine,Müller,0,2:19:46,F,27.11.2011,Saarbrücken,9,True,f9c583cdc2ad3662cbc265dc7a5f35d0d49435b7f9b745b74534f7d1d17499ac
@@ -587,7 +587,7 @@ SV Schlau.Com Saar 05 SBR.,Halbmarathon,Constance,Türk,1982,1:24:05,F,17.04.201
 LG Saar 70,Halbmarathon,Heike,Alaimo,1974,1:24:22,F,27.03.2011,Saarbrücken,4,False,6a2d0d6774ef9ebcd6b45e44938634536fc396944336e041d3f7c92227df4f0d
 LTF Marpingen,Halbmarathon,Tanja,Hooß,1967,1:24:26,F,29.05.2011,Saarlouis,5,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
 SV Schlau.Com Saar 05 SBR.,Halbmarathon,Karen,aus der Fünten,1972,1:25:11,F,17.04.2011,Griesheim,6,False,aa0bc5b3b83bfc7466ce4cbd56944d2415f9754992efe3a3ea65c15332b8975e
-LA Team Saar,Halbmarathon,Julia,Keck,1974,1:25:43,F,27.08.2011,Limbach,7,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,Halbmarathon,Julia,Keck-Brengel,1974,1:25:43,F,27.08.2011,Limbach,7,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 LA Team Saar,Halbmarathon,Katharina,Rausch,1986,1:25:43,F,18.09.2011,Saarbrücken,8,False,62397d333a05bfd00732bbdc9360838271a588f8545eb0cd21fe0f3ebd99dc67
 Tri-Sport/Saar-Hochwald,Halbmarathon,Nicole,Woysch,1976,1:25:44,F,29.05.2011,Saarlouis,9,False,5cde89d7ae02305d367eb5020cd7d98b46f1c391045a6b60b9ae40aed61cb82f
 Bisttal-Runners,Halbmarathon,Sabine,Rech,1968,1:26:09,F,29.05.2011,Saarlouis,10,False,578412223a9a2753848218be3028c55195717d6577418ed0439fbe2777702185
@@ -595,30 +595,30 @@ SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Susanne,Hahn,1978,4:00:32,F,17.04.20
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Marion,Jakobs,1970,4:00:32,F,17.04.2011,Griesheim,1,True,c6b017d295d4334e2fe7c672687d85b9e068b1deb1d5e654797b2bf60abbd112
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Constanze,Türk,0,4:00:32,F,17.04.2011,Griesheim,1,True,7656f24daea6140b9b87b72863885b3570e9edf0ce48e493d9fa5d55059a99da
 LTF Marpingen,Halbmarathon Ma.,Tanja,Hooß,1967,4:26:00,F,27.03.2011,Saarbrücken,2,True,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
-LTF Marpingen,Halbmarathon Ma.,Anne,Schu,0,4:26:00,F,27.03.2011,Saarbrücken,2,True,b776e25948b00b16874bd65eb378eb2a05535bdba1ac035303338c5277a2ffed
-LTF Marpingen,Halbmarathon Ma.,Heike,Angel,0,4:26:00,F,27.03.2011,Saarbrücken,2,True,7c139a22b295b0ba445eb31a2752e08cb4c9260d198bf5857c75d0958c10c469
+LTF Marpingen,Halbmarathon Ma.,Anne,Schu,1968,4:26:00,F,27.03.2011,Saarbrücken,2,True,b9712427038c72392475f5bb68c14ac04b0e144100646ea4cf6e3048df8c5509
+LTF Marpingen,Halbmarathon Ma.,Heike,Angel,1960,4:26:00,F,27.03.2011,Saarbrücken,2,True,2d63a07ab87fb7c5c3f0c9cabc98c2320dcf0188a6097e426c9c5c9028e5f674
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Karen,Aus der Fünten,0,4:26:27,F,17.04.2011,Griesheim,3,True,3f0e4d78c1f1a84f04783bb58a9f6fb72b2ec8fec3a9c3dea9f0950714e3674e
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Marion,Stras,1979,4:26:27,F,17.04.2011,Griesheim,3,True,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Heike,Brücker-Boghossian,0,4:26:27,F,17.04.2011,Griesheim,3,True,91efab20461c24809869c98547107b953d6899709e1276037827e4fff4e96831
 LAG Saarbrücken,Halbmarathon Ma.,Birgit,Zimmermann,1965,5:05:27,F,29.05.2011,Saarlouis,4,True,bbd6029963eeb71ab113e9bbbd1a4c3052cef9c94c031affca3d4d9337f3aad7
 LAG Saarbrücken,Halbmarathon Ma.,Ilse,Uhle,0,5:05:27,F,29.05.2011,Saarlouis,4,True,e9ef112a19373a6664b28619db6d2171286f54653b8618d5c4d9912e4713ff1a
 LAG Saarbrücken,Halbmarathon Ma.,Daniela,Lordt,0,5:05:27,F,29.05.2011,Saarlouis,4,True,8e5da369d7a81bf0b649951cf48d7a29e9dd5a34c5e320e61d0ca99b80bd9bfc
-LTF Marpingen,Halbmarathon Ma.,Daniela,Frank,0,5:05:36,F,27.03.2011,Saarbrücken,5,True,699ef9f6fc133f116b3afdf5c2881c24db9539ed2b4ff406550fa978508930b8
+LTF Marpingen,Halbmarathon Ma.,Daniela,Frank,1963,5:05:36,F,27.03.2011,Saarbrücken,5,True,0f5ace487de2655935ba8b08e7312e02fdca5a30f6348ea856d4f9c20101806a
 LTF Marpingen,Halbmarathon Ma.,Viola,Stras,0,5:05:36,F,27.03.2011,Saarbrücken,5,True,cade95b7a2eb0e100dd4eaf26a94af1024516ee4c00c124905a4eb0b4cbc4ebe
-LTF Marpingen,Halbmarathon Ma.,Barbara,Wirbel,0,5:05:36,F,27.03.2011,Saarbrücken,5,True,61252ce4d41a234837c387383e7c9480e1fabc0d178ddf6c99c65d744ca8c864
+LTF Marpingen,Halbmarathon Ma.,Barbara,Wirbel,1961,5:05:36,F,27.03.2011,Saarbrücken,5,True,fc113eadfa14dc6cf15d002c3fc5c817460048fe93a4584b606d5a4390c452ab
 LG Saar 70,Halbmarathon Ma.,Heike,Alaimo,1974,5:06:58,F,27.03.2011,Saarbrücken,6,True,6a2d0d6774ef9ebcd6b45e44938634536fc396944336e041d3f7c92227df4f0d
-LG Saar 70,Halbmarathon Ma.,Andrea,Henzmann,0,5:06:58,F,27.03.2011,Saarbrücken,6,True,60c585fdeabb75f010cecdeab9cfa80bd2f474b577ea377f94111fd52814674e
-LG Saar 70,Halbmarathon Ma.,Gerda,Diemon-Woll,0,5:06:58,F,27.03.2011,Saarbrücken,6,True,ed573bd03f49bcc3bc5c9e446b31434e281553a2e3c893f90a114f77d5cc5db5
+LG Saar 70,Halbmarathon Ma.,Andrea,Henzmann,1960,5:06:58,F,27.03.2011,Saarbrücken,6,True,f84afcec06a45cf12f6ba21fc24a68fd8867c712561b7bf92bdf6f9eecc669f3
+LG Saar 70,Halbmarathon Ma.,Gerda,Diemon-Woll,1967,5:06:58,F,27.03.2011,Saarbrücken,6,True,2eda6d435ac98ee03485593a08ab8b194acbd8a5202a9af7b7287eefef5aaf4c
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Susanne,Trenz,1969,5:11:47,F,27.03.2011,Saarbrücken,7,True,07445fda9ef83278305cdc50dad71b903347f9c2237919c3c9a674cb47598330
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Farjana,Haque-Blöcher,0,5:11:47,F,27.03.2011,Saarbrücken,7,True,a4bb8496706296f85650b3e56c2d902b261db1cabf23db78511936104321a16c
 SV Schlau.Com Saar 05 SBR.,Halbmarathon Ma.,Nicole,Frank,0,5:11:47,F,27.03.2011,Saarbrücken,7,True,c4fca593e2400e939e61e90542c475fea1712474fb3df6bf206608e2ce490629
 LTF Köllertal,Halbmarathon Ma.,Juliane,Raubuch,1962,5:13:33,F,27.03.2011,Saarbrücken,8,True,72ce761ec020e5939f19f3913abfcbbcac617250db91455c05c7782548aeb7ea
-LTF Köllertal,Halbmarathon Ma.,Anneli,Paul,0,5:13:33,F,27.03.2011,Saarbrücken,8,True,f141f813a3508832231274e7fd1a82c9db6883e62f1d837b97b815a2fbc87d59
+LTF Köllertal,Halbmarathon Ma.,Anneli,Paul,1958,5:13:33,F,27.03.2011,Saarbrücken,8,True,c9649f91e229cd260d7204fcdc9de79c2eb4d37f32e2c399516f9cdd74153e8e
 LTF Köllertal,Halbmarathon Ma.,Sarah,Trenz,0,5:13:33,F,27.03.2011,Saarbrücken,8,True,155e50393ce67212cad35e840410fda95058f63afbe86d28075ca942e815b94c
 Grojos LTF Elversberg,Halbmarathon Ma.,Kerstin,Bock,0,5:19:01,F,27.03.2011,Saarbrücken,9,True,efe083431fcda435b6e143cd12ee5acae86afaf1c33eaea4adaf8eff9b388f0c
 Grojos LTF Elversberg,Halbmarathon Ma.,Nicole,Veith,0,5:19:01,F,27.03.2011,Saarbrücken,9,True,159e9b108f95933a65dc327298b9a9e91d81194814c42da7ad3d8b4b03f62aea
-Grojos LTF Elversberg,Halbmarathon Ma.,Eva,Mossal,0,5:19:01,F,27.03.2011,Saarbrücken,9,True,427f7469591e47474e60ff389dc724a73384f78bdefed758ee6d00a140ec31eb
-LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Monika,Koblitz,0,5:21:05,F,29.05.2011,Saarlouis,10,True,c81f82a3f095da151cf85e40f6f30c3e2768dc94bf5e69bc00e6e37b77dd61d5
+Grojos LTF Elversberg,Halbmarathon Ma.,Eva,Mossal,1963,5:19:01,F,27.03.2011,Saarbrücken,9,True,4a12800d19e32897872bdae08acaf07a949b6ac5836e7d9d9d850fa9c60ebadf
+LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Monika,Koblitz,1964,5:21:05,F,29.05.2011,Saarlouis,10,True,ca42724f31b14f0c9d92ad3d0ce0d899cf95a3c355f253fb94a41975467a5d5b
 LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Sonja,Meisberger,0,5:21:05,F,29.05.2011,Saarlouis,10,True,2f70dca1b85bb5b358b41198a363af9690202a3374054daa159dc6dfd5a475ab
 LSG Schmelz-Hüttersdorf,Halbmarathon Ma.,Marita,Jericho,0,5:21:05,F,29.05.2011,Saarlouis,10,True,767b2aa72185bc56d73ccf1b7fc6dad6911aec8124925de65f0ff2fdb8dacc7f
 SV Schlau.Com Saar 05 SBR.,Marathon,Susanne,Hahn,1978,2:28:49,F,30.10.2011,Frankfurt,1,False,4c62a8b17f1c49595af0fba4bd24ae18853d393a1075e6ed4b5d42124736ba58
@@ -637,18 +637,18 @@ SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Marion,Stras,1979,9:07:53,F,22.05.2011,H
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Susanne,Trenz,1969,9:55:55,F,22.05.2011,Hamburg,2,True,07445fda9ef83278305cdc50dad71b903347f9c2237919c3c9a674cb47598330
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Heike,Brücker-Boghossian,0,9:55:55,F,22.05.2011,Hamburg,2,True,91efab20461c24809869c98547107b953d6899709e1276037827e4fff4e96831
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Andrea,Karl,1976,9:55:55,F,22.05.2011,Hamburg,2,True,faf40b83777fa84ef4d62c6ab26bdc2c8e66d97b780aea2c314b28b86d9bcfbb
-LTF Köllertal,Marathon Ma.,Daniela,Theis-Wieland,0,10:49:23,F,30.10.2011,Frankfurt,3,True,8694eeb1c335487afecf35580a4956f2f492291a4cca8e6b8ad5ba10172f06dd
+LTF Köllertal,Marathon Ma.,Daniela,Theis-Wieland,1965,10:49:23,F,30.10.2011,Frankfurt,3,True,a1485acd103f4002cbc4aa2e1aaa63452b93da57514280d2ea9d486e9fbe3023
 LTF Köllertal,Marathon Ma.,Katja,Blug,1979,10:49:23,F,30.10.2011,Frankfurt,3,True,cbc3bda40fcf66c6d7928db6950aa8bfe92313adab0426f1137372ba4f0969cd
 LTF Köllertal,Marathon Ma.,Ursula,Faber,0,10:49:23,F,30.10.2011,Frankfurt,3,True,fc8fb3ab6c4f42239c1001122ecce8dbf55e7bc64d9ee0422c571ed7b4e0f1fe
-LTF Marpingen,Marathon Ma.,Heike,Angel,0,11:28:11,F,04.09.2011,Merzig,4,True,7c139a22b295b0ba445eb31a2752e08cb4c9260d198bf5857c75d0958c10c469
-LTF Marpingen,Marathon Ma.,Daniela,Frank,0,11:28:11,F,04.09.2011,Merzig,4,True,699ef9f6fc133f116b3afdf5c2881c24db9539ed2b4ff406550fa978508930b8
+LTF Marpingen,Marathon Ma.,Heike,Angel,1960,11:28:11,F,04.09.2011,Merzig,4,True,2d63a07ab87fb7c5c3f0c9cabc98c2320dcf0188a6097e426c9c5c9028e5f674
+LTF Marpingen,Marathon Ma.,Daniela,Frank,1963,11:28:11,F,04.09.2011,Merzig,4,True,0f5ace487de2655935ba8b08e7312e02fdca5a30f6348ea856d4f9c20101806a
 LTF Marpingen,Marathon Ma.,Viola,Stras,0,11:28:11,F,04.09.2011,Merzig,4,True,cade95b7a2eb0e100dd4eaf26a94af1024516ee4c00c124905a4eb0b4cbc4ebe
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Heike,Sausen,0,11:28:36,F,22.05.2011,Hamburg,5,True,ccd5723e3453086cf8f8e59fb224319ef1307f4295faca22826f2e1cae9d616a
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Santina,Cuciuffo,0,11:28:36,F,22.05.2011,Hamburg,5,True,e29fcd1416aa73503e20d55bc5633baf2f6a06c4e1e990ebd201f5bf4ed4cfec
 SV Schlau.Com Saar 05 SBR.,Marathon Ma.,Rungtong,Hertel,0,11:28:36,F,22.05.2011,Hamburg,5,True,a40885acc509c9dd5806d9c11e7a8cab7227679b882cd3d1e6fd39b8626898f3
 LAG Saarbrücken,Marathon Ma.,Sita,Fuchs,1992,12:17:48,F,30.10.2011,Frankfurt,6,True,d6b98f182089d9f97cf7acb8ed749798d2c0f33857e2bee4f740168d76359ef9
 LAG Saarbrücken,Marathon Ma.,Daniela,Lordt,0,12:17:48,F,30.10.2011,Frankfurt,6,True,8e5da369d7a81bf0b649951cf48d7a29e9dd5a34c5e320e61d0ca99b80bd9bfc
-LAG Saarbrücken,Marathon Ma.,Christine,Kiemle-Schwindling,0,12:17:48,F,30.10.2011,Frankfurt,6,True,5bee39de49b81f888addd6e2f13178cc033bdaa2a7aedf563d623bb6faaab399
+LAG Saarbrücken,Marathon Ma.,Christine,Kiemle-Schwindling,1962,12:17:48,F,30.10.2011,Frankfurt,6,True,2961f9a2bf21b765e817bf4b9701d826c6d4b855bf5d68c877844504261fbd3c
 LTF Marpingen,100 km,Tanja,Hooß,1967,8:14:39,F,10.09.2011,Winschoten,1,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
 LSG Sbr.-Sulzbachtal,100 km,Anja,Gries,1969,10:51:49,F,30.04.2011,Jüterbog,2,False,e3a324a2378c6adf2cb54d32c757b96a74620d37a1df0fc5b001df6020eb2235
 TV Ludweiler,100 km,Margot Christa,Dilg,1951,16:31:37,F,01.07.2011,Ulm,3,False,5ae737d3030f5a36a3394890219fcfea141debe98dca32089f36c377ce454110
@@ -693,25 +693,25 @@ LSG Neunkirchen,4 x 100 m Staffel,Elisabeta,Fabian,0,"53,88",F,05.06.2011,St. We
 TV Bliesen,4 x 100 m Staffel,Anja,Gras,1990,"55,35",F,05.06.2011,St. Wendel,7,True,fe2c0c999c8d8a71d9236b5af2e8929c2389ccc0991d1d86a9e84a08dba7c57a
 TV Bliesen,4 x 100 m Staffel,Cathrine,Kunrath,1993,"55,35",F,05.06.2011,St. Wendel,7,True,7c256b11ce56eac22578d3d0f87af8bb88b25ae58c7d231eae45dec4ed64bc07
 TV Bliesen,4 x 100 m Staffel,Elena,Kirsch,1993,"55,35",F,05.06.2011,St. Wendel,7,True,45b86fbab9328740b87ee5ebb86d89adfa43a67a3fab9b9f1bb330e7475a1807
-TV Bliesen,4 x 100 m Staffel,Ronja,Anton,0,"55,35",F,05.06.2011,St. Wendel,7,True,4545641dd0883c89c41a255fb05b84a6272da630b412bedd80c00b3b44ffc793
+TV Bliesen,4 x 100 m Staffel,Ronja,Anton,1993,"55,35",F,05.06.2011,St. Wendel,7,True,8129d5b840df28a17f5c122b3a83c4ab4779c81cc2fc646f4217441c740ac636
 LG Saar 70,4 x 100 m Staffel,Stefanie,Genetsch,1990,"56,24",F,04.09.2011,Homburg,8,True,429bab6023532e7eda1a78e319c7c228070b555e0a29e8c0bbc05cd74f52e050
 LG Saar 70,4 x 100 m Staffel,Anika,Bick,0,"56,24",F,04.09.2011,Homburg,8,True,dc113623c16f18f024f64f6ec1b05e93d3f91580d0b081d5015a1c3fc0036b05
-LG Saar 70,4 x 100 m Staffel,Manuela,Fuchs,0,"56,24",F,04.09.2011,Homburg,8,True,ad20bd4adee96a8147d8ed1f374a6db985669dad7de5302243b3382203dbf53c
-LG Saar 70,4 x 100 m Staffel,Melanie,Theobald-Kornbrust,0,"56,24",F,04.09.2011,Homburg,8,True,4a2f662667120c8b728a0a2213da5a6030bd37e06a862a769cfc73c999a89ac2
+LG Saar 70,4 x 100 m Staffel,Manuela,Fuchs,1987,"56,24",F,04.09.2011,Homburg,8,True,d4046a7d4c79a898b3b859fb7367048311a98e180557bb63175841e695dd75a6
+LG Saar 70,4 x 100 m Staffel,Melanie,Theobald-Kornbrust,1973,"56,24",F,04.09.2011,Homburg,8,True,b368e41ce6ac35a144a85cac19f4f4baf77821674f90449698cf8cdc356a39fb
 LA Team Saar,4 x 100 m Staffel,Nicole,Loebens,0,"60,55",F,04.06.2011,Dillingen,9,True,fa96430c733179770bea15c30f291e9852bb7bf502d33cfd86e1f9f0a5813167
-LA Team Saar,4 x 100 m Staffel,Susanne,Krauhs,0,"60,55",F,04.06.2011,Dillingen,9,True,0b4659fd7e5ce6e061d5b02397963b08f71fb81998289edb6c861be2955f4b75
-LA Team Saar,4 x 100 m Staffel,Gisela,Schmidt,0,"60,55",F,04.06.2011,Dillingen,9,True,fb87755ac7a466509eae03cbce9cd91a582e5b5b29e55bb75048af8fa06b7aef
+LA Team Saar,4 x 100 m Staffel,Susanne,Krauhs,1968,"60,55",F,04.06.2011,Dillingen,9,True,365683c437f476ceac1811935052ac9c51ac5653128a4b8411352c3ac540e776
+LA Team Saar,4 x 100 m Staffel,Gisela,Schmidt,1968,"60,55",F,04.06.2011,Dillingen,9,True,1f690ad06baa72fa4b3f2045fc795f3bbb158feb7ad9d5dd98292ab8e30b4f18
 LA Team Saar,4 x 100 m Staffel,Barbara,Hannibal,0,"60,55",F,04.06.2011,Dillingen,9,True,24b6fea4a24b720675a2c1964435ec4253a5822912da055fb68782469405d0a0
-LC 72 Altenkessel,4 x 100 m Staffel,Christine,Schmidt,0,"65,09",F,21.05.2011,Friedrichsthal,10,True,0136bc7b5ce642e0c0807f0bee9479321d79f93a7afd0b1d1ae4e4d11ec196ca
+LC 72 Altenkessel,4 x 100 m Staffel,Christine,Schmidt,1965,"65,09",F,21.05.2011,Friedrichsthal,10,True,16b72c93acc24a1fbed7c8d8012507e9b30dafa3376077f81bdf57c79cd15f0d
 LC 72 Altenkessel,4 x 100 m Staffel,Dorothee,Dillo,0,"65,09",F,21.05.2011,Friedrichsthal,10,True,55ec96f6cc7de6047200a1db0e5cb7f16f202267f5334fa34a0699a4e9e45e36
-LC 72 Altenkessel,4 x 100 m Staffel,Angela,Kunzler,0,"65,09",F,21.05.2011,Friedrichsthal,10,True,711d0b8fe69afbadb78c7f37cbd0614f182fdc4041a284ab16e95748e431fbf8
-LC 72 Altenkessel,4 x 100 m Staffel,Monika,Kopp,0,"65,09",F,21.05.2011,Friedrichsthal,10,True,b65e9221ce4ed9bf4d67ed35857e9059d9c91e3e75afaa0615fbc333e6d07876
+LC 72 Altenkessel,4 x 100 m Staffel,Angela,Kunzler,1980,"65,09",F,21.05.2011,Friedrichsthal,10,True,ca9267688b3a6b80bbe20967527577c1701b17274375b02b219d7858f3b60d9d
+LC 72 Altenkessel,4 x 100 m Staffel,Monika,Kopp,1964,"65,09",F,21.05.2011,Friedrichsthal,10,True,88256b8bc45279617c35dd37178113861eead4437e403f6f043ebcb980154ab7
 LA Team Saar,4 x 400 m Staffel,Anna,Merscher,1991,"4:07,58",F,22.05.2011,St. Wendel,1,True,109cbe2a6ad8e349ef000dc48ad60b6983aba74fcb1a81866ff6ebc73f8414b0
 LA Team Saar,4 x 400 m Staffel,Theresia,Jakoby,1990,"4:07,58",F,22.05.2011,St. Wendel,1,True,2963c4b40c419367ae8d06ed16f2b3cfa352d4ef47744fb9259625f040aaf50c
 LA Team Saar,4 x 400 m Staffel,Svenja,Altmeyer,1988,"4:07,58",F,22.05.2011,St. Wendel,1,True,10ce7ee181c754ad35d8c592f9e9f39bc09cc32dd5c07a8aa71339c09f402156
 LA Team Saar,4 x 400 m Staffel,Katja,Rieck,1986,"4:07,58",F,22.05.2011,St. Wendel,1,True,5c37b374de8283b882d7d7f1e02979bc034ef32a1e9d2d37ce9f00f329f8caa1
 LC Rehlingen,4 x 400 m Staffel,Lara,Steinmann,1989,"4:19,42",F,20.07.2011,Friedrichsthal,2,True,f7957029a26849008efda0317fc5f8deb5c42f8895e343b8789f23aa670cfc69
-LC Rehlingen,4 x 400 m Staffel,Ann-Cathrine,Klein,0,"4:19,42",F,20.07.2011,Friedrichsthal,2,True,0866474d53c87cec21bc61dd7b390e5c997635d82ad9bb883d9ac66159935933
+LC Rehlingen,4 x 400 m Staffel,Ann-Cathrine,Klein,1991,"4:19,42",F,20.07.2011,Friedrichsthal,2,True,b6a70f6d4ca1bda0d71a987f4dcbfa475d59860c1180149a3a71dfbb9cb1a165
 LC Rehlingen,4 x 400 m Staffel,Maike,Mathis,1991,"4:19,42",F,20.07.2011,Friedrichsthal,2,True,fc0556ae1e157a45f7b71b7f2560826d7ddfcf1aa76b38bf93a75082a6aaf5a4
 LC Rehlingen,4 x 400 m Staffel,Christina,Wiesen,1984,"4:19,42",F,20.07.2011,Friedrichsthal,2,True,d8706c82fff4b4c48e5703ba10af8628baa1f0522471f16a8e8501f9cd04599e
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Sandra,Altmeyer,1972,"7:36,05",F,17.09.2011,Friedrichsthal,1,True,85bdfef40e853282a483e78c2bff9d66338af722eee302502233d33516645e53
@@ -725,7 +725,7 @@ SC Friedrichsthal,3 x 800 m Staffel,Kati,Klein,1993,"7:41,62",F,17.09.2011,Fried
 SC Friedrichsthal,3 x 800 m Staffel,Nina,Weil,1988,"7:41,62",F,17.09.2011,Friedrichsthal,3,True,aba04d743d3f6bbcc144507dc510ffbfe45bad2b9e641f1997b38d5f5a2c131f
 LTF Köllertal,3 x 800 m Staffel,Claudia,Maas,1973,"8:28,64",F,17.09.2011,Friedrichsthal,4,True,a3887b83f089398774a8add1b2f54ff5de9b00121a0afd65082f6d9f931bac13
 LTF Köllertal,3 x 800 m Staffel,Katja,Blug,1979,"8:28,64",F,17.09.2011,Friedrichsthal,4,True,cbc3bda40fcf66c6d7928db6950aa8bfe92313adab0426f1137372ba4f0969cd
-LTF Köllertal,3 x 800 m Staffel,Susanne,Roos,0,"8:28,64",F,17.09.2011,Friedrichsthal,4,True,d4659a1ac0e5152addb0d7d2ec27aa11c671dff8b0d46ad8540d7dd54229c3f4
+LTF Köllertal,3 x 800 m Staffel,Susanne,Roos,1971,"8:28,64",F,17.09.2011,Friedrichsthal,4,True,3285e4d8dc624432425557cbc2850381af930befa0e8b72579a3d235fc1af86d
 LA Team Saar,3 x 800 m Staffel,Svenja,Altmeyer,1988,"8:29,41",F,10.04.2011,Püttlingen,5,True,10ce7ee181c754ad35d8c592f9e9f39bc09cc32dd5c07a8aa71339c09f402156
 LA Team Saar,3 x 800 m Staffel,Theresia,Jakoby,1990,"8:29,41",F,10.04.2011,Püttlingen,5,True,2963c4b40c419367ae8d06ed16f2b3cfa352d4ef47744fb9259625f040aaf50c
 LA Team Saar,3 x 800 m Staffel,Vanessa,Klasen,1993,"8:29,41",F,10.04.2011,Püttlingen,5,True,cf3959a3a70b404b1ca72eea9aa004731d635cfe35bdb5f0cef4e0b973d85a69
@@ -733,7 +733,7 @@ LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Nicole,Bechtel,0,"9:35,98",F,25.08.2011,S
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Silvana,Calcagno,0,"9:35,98",F,25.08.2011,Saarbrücken,6,True,05b0d2090be753c866d9bc3d7ca96a42e8c1d96199f8052d1b3c5c5598d375c1
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Gabriela,Schumacher,1967,"9:35,98",F,25.08.2011,Saarbrücken,6,True,ef854557174155deeba088953230ca1e8b5f1ba9115f39d78159bddc2a4c37d1
 LA Team Saar,3 x 800 m Staffel,Ortrud,Tabellion,0,"10:07,45",F,10.04.2011,Püttlingen,7,True,3f994ba3ed3415d993fae61b99be59510944e0f14aa56ecb03b86874b9887404
-LA Team Saar,3 x 800 m Staffel,Annegret,Hämsch,0,"10:07,45",F,10.04.2011,Püttlingen,7,True,3d4097f63df502119f2469ee040b33f37fe8885b2983c695ea4ebc057f5bc67c
+LA Team Saar,3 x 800 m Staffel,Annegret,Hämsch,1968,"10:07,45",F,10.04.2011,Püttlingen,7,True,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
 LA Team Saar,3 x 800 m Staffel,Anne-Bärbel,Schwarz,1965,"10:07,45",F,10.04.2011,Püttlingen,7,True,e8e34cbbec1510fe8f7b909280946aa3fa09aac8ca3afe5b7ce2793e348810d2
 TV Ludweiler,5000 m Bahngehen,Nicole,Mathieu-Schaum,1968,"31:57,7",F,27.08.2011,Groß-Gerau,1,False,4741a97c5eae1e569988db1354149fd5379fb3a923dad119a5b34eea689df88b
 LA Team Saar,5000 m Bahngehen,Susanne,Blum,1986,"32:55,35",F,01.10.2011,Ludweiler,2,False,48ad6372f253a268ed02a78dc3c4e477c5868851109f850034677f3d48dd7b75
@@ -949,7 +949,7 @@ LA Team Saar,4 x 100 m Staffel,Lukas,Schmitz,1995,"47,34",MU20,29.05.2011,Hombur
 LA Team Saar,4 x 100 m Staffel,Sebastian,Jung,1992,"47,34",MU20,29.05.2011,Homburg,3,True,446078dc9fe6399cd2ef7010b6c7991db2a038e7d9c169209da6ab2f1bbe068c
 LG Saar 70,4 x 100 m Staffel,David,Naumann,1992,"47,40",MU20,19.06.2011,Saarbrücken,4,True,2caedea48b7fcaac532962a73c89fcf41cc0403603ff134b1526eeaa2bee54af
 LG Saar 70,4 x 100 m Staffel,Markus,Meiser,1993,"47,40",MU20,19.06.2011,Saarbrücken,4,True,c8f3c3559a03a47e809f921dabcdfcaf003132121bb9b211421da4be094392bd
-LG Saar 70,4 x 100 m Staffel,Kay-Uwe,Buschauer,0,"47,40",MU20,19.06.2011,Saarbrücken,4,True,8ccd147dee6169bad811521f22baecf9ced183e39ccd61a88fda4ce5e7b5b24a
+LG Saar 70,4 x 100 m Staffel,Kay-Uwe,Buschauer,1992,"47,40",MU20,19.06.2011,Saarbrücken,4,True,01e488383ed4ae0368ce5f1419ccf3e8940911b8d5c38def8991e6377d925dfb
 LG Saar 70,4 x 100 m Staffel,Simon,Schröder,1994,"47,40",MU20,19.06.2011,Saarbrücken,4,True,3d59d77f7fea0d8397440766af44e33319e46cd7bff3cceadae3be324df101c4
 TV Elm,4 x 100 m Staffel,Julian,Bastuck,1994,"49,78",MU20,29.05.2011,Homburg,5,True,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
 TV Elm,4 x 100 m Staffel,Magnus,Juckel,1995,"49,78",MU20,29.05.2011,Homburg,5,True,4cee4c9e2476142cd920a6220498807c61a8e4203d435931cdaa3290ba244b8c
@@ -958,7 +958,7 @@ TV Elm,4 x 100 m Staffel,Marcel,Hecker,0,"49,78",MU20,29.05.2011,Homburg,5,True,
 LC 72 Altenkessel,4 x 100 m Staffel,Maurice,Kopp,0,"50,00",MU20,29.05.2011,Homburg,6,True,66b6195c1dbe6e64abad6e57754a736560be22b5ea84c1fdf3f23840d02d7987
 LC 72 Altenkessel,4 x 100 m Staffel,Moritz,Brünjes,1993,"50,00",MU20,29.05.2011,Homburg,6,True,bba6f37a0227309313df03b51be2d9223722badda62790c105f5db2bdf2139e3
 LC 72 Altenkessel,4 x 100 m Staffel,Dean,Schacht,0,"50,00",MU20,29.05.2011,Homburg,6,True,f52c9719b2f13041819bda570791a3fc0350c648470c36daa74f9babce6a1fc4
-LC 72 Altenkessel,4 x 100 m Staffel,Kevin,Port,0,"50,00",MU20,29.05.2011,Homburg,6,True,621dff889461202c7442355840ee340313c36333dfd701a039617e28d5687de3
+LC 72 Altenkessel,4 x 100 m Staffel,Kevin,Port,1994,"50,00",MU20,29.05.2011,Homburg,6,True,98f815149ed27d7252df25a239f34e437a01a846924181c9af6ffd82a8734d02
 LAZ Saarbrücken,4 x 400 m Staffel,Mato,Glatt,1994,"3:35,30",MU20,25.08.2011,Saarbrücken,1,True,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
 LAZ Saarbrücken,4 x 400 m Staffel,Florian,Lauck,1993,"3:35,30",MU20,25.08.2011,Saarbrücken,1,True,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LAZ Saarbrücken,4 x 400 m Staffel,Jan-Lukas,Becker,1993,"3:35,30",MU20,25.08.2011,Saarbrücken,1,True,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
@@ -1138,7 +1138,7 @@ TV Bliesen,400 m Hürden 0.762m,Cathrine,Kunrath,1993,"72,25",WU20,17.05.2011,Re
 LAZ Saarbrücken,400 m Hürden 0.762m,Lina,Vogel,1992,"77,79",WU20,17.05.2011,Rehlingen,4,False,4a0e8b3eef62db2150eac1f80252af269b8ecee3b34183d841bada7aa1023dc8
 SC Friedrichsthal,4 x 100 m Staffel,Melanie,Monn,1994,"50,09",WU20,19.06.2011,Saarbrücken,1,True,e8131e1280de72d76408948114bae2811a830fb56354e55c7b279b0bf0a4fabb
 SC Friedrichsthal,4 x 100 m Staffel,Katharina,Döpp,1995,"50,09",WU20,19.06.2011,Saarbrücken,1,True,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
-SC Friedrichsthal,4 x 100 m Staffel,Annegret,Nehl,1995,"50,09",WU20,19.06.2011,Saarbrücken,1,True,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,4 x 100 m Staffel,Anni,Nehl,1995,"50,09",WU20,19.06.2011,Saarbrücken,1,True,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 SC Friedrichsthal,4 x 100 m Staffel,Kati,Klein,1993,"50,09",WU20,19.06.2011,Saarbrücken,1,True,cadafbadf1ccf2b81b898fcd249924c7a14cf30603842863bd8def556c9ce0db
 LA Team Saar,4 x 100 m Staffel,Vanessa,Klasen,1993,"51,45",WU20,29.05.2011,Homburg,2,True,cf3959a3a70b404b1ca72eea9aa004731d635cfe35bdb5f0cef4e0b973d85a69
 LA Team Saar,4 x 100 m Staffel,Jana,Schreiner,1992,"51,45",WU20,29.05.2011,Homburg,2,True,13ea32299eead46b24eb46670fab4be1932b2a201167f16caac1212b2aa87c8b
@@ -1191,7 +1191,7 @@ LAZ Saarbrücken,4 x 400 m Staffel,Katrin,Reim,1995,"4:24,26",WU20,25.08.2011,Sa
 SC Friedrichsthal,4 x 400 m Staffel,Melanie,Monn,1994,"4:24,50",WU20,22.05.2011,St. Wendel,5,True,e8131e1280de72d76408948114bae2811a830fb56354e55c7b279b0bf0a4fabb
 SC Friedrichsthal,4 x 400 m Staffel,Myriam,Fox,1993,"4:24,50",WU20,22.05.2011,St. Wendel,5,True,74a88255efae201b247dd35397af41ebc0c7ff79254151d752e7a86dac05afde
 SC Friedrichsthal,4 x 400 m Staffel,Anika,Zimmer,1993,"4:24,50",WU20,22.05.2011,St. Wendel,5,True,3df8364cbb1d3242a8ccf0f606483ba9db9176e94d330e198efd78a19f90c0f3
-SC Friedrichsthal,4 x 400 m Staffel,Annegret,Nehl,1995,"4:24,50",WU20,22.05.2011,St. Wendel,5,True,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,4 x 400 m Staffel,Anni,Nehl,1995,"4:24,50",WU20,22.05.2011,St. Wendel,5,True,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 TV Bliesen,4 x 400 m Staffel,Cathrine,Kunrath,1993,"4:26,31",WU20,22.05.2011,St. Wendel,6,True,7c256b11ce56eac22578d3d0f87af8bb88b25ae58c7d231eae45dec4ed64bc07
 TV Bliesen,4 x 400 m Staffel,Milena,Weis,1994,"4:26,31",WU20,22.05.2011,St. Wendel,6,True,97cda21160f56c60864f514a49a998fba59883d0266e3307a94d3024f50630e8
 TV Bliesen,4 x 400 m Staffel,Elena,Kirsch,1993,"4:26,31",WU20,22.05.2011,St. Wendel,6,True,45b86fbab9328740b87ee5ebb86d89adfa43a67a3fab9b9f1bb330e7475a1807
@@ -1417,8 +1417,8 @@ LA Team Saar,4 x 100 m Staffel,Jonas,Kolzau,1994,"45,31",MU18,04.09.2011,Homburg
 LA Team Saar,4 x 100 m Staffel,Sebastian,Mathieu,1995,"45,31",MU18,04.09.2011,Homburg,1,True,e94fa724aee57ed9f11812608bedf947a26eddcafd2358cc319d433f9261ae6b
 LA Team Saar,4 x 100 m Staffel,Niclas,Hoffmann,1994,"45,31",MU18,04.09.2011,Homburg,1,True,5be718a378ae7f8e26be8644afc6dcf07b429d4fa5a8b093c8205605ea39a1cc
 LG Bliestal,4 x 100 m Staffel,Sidney-Spike,Tregellis,1994,"47,69",MU18,05.06.2011,St. Wendel,2,True,9053cf03c175652f947671706412c2126d5a879a8c41fcd9ee262711f20610e3
-LG Bliestal,4 x 100 m Staffel,Michael,Schweitzer,0,"47,69",MU18,05.06.2011,St. Wendel,2,True,df1937f91fa8d08ac3f78657ba7084273aedebd28b0e7e817e9d785052058dfb
-LG Bliestal,4 x 100 m Staffel,Robin,Lück,0,"47,69",MU18,05.06.2011,St. Wendel,2,True,2114650e608ade3ec547a5a8dad56c99410265f91c0e60116ab5449e5ce6924d
+LG Bliestal,4 x 100 m Staffel,Michael,Schweitzer,1994,"47,69",MU18,05.06.2011,St. Wendel,2,True,8a3267e606308fd2d50c5fe06bb35f7e9d360e87992928aafd8c2fe7892ec10b
+LG Bliestal,4 x 100 m Staffel,Robin,Lück,1994,"47,69",MU18,05.06.2011,St. Wendel,2,True,a70684cbe9fcabdd9d33870dd372e0a9146ad59d83cfa9385c3906cdbb05e763
 LG Bliestal,4 x 100 m Staffel,Jan,Dorda,1994,"47,69",MU18,05.06.2011,St. Wendel,2,True,730571cea5c6c26231d4916f165e82927749a68d5265b1de37f983a9128ff02b
 LG Saar 70,4 x 100 m Staffel,Jan,Ternig,0,"47,74",MU18,05.06.2011,St. Wendel,3,True,bce321fac904cb418e28a9576382a2d3d11c3f49568270d7bb1a3f1ef15baec3
 LG Saar 70,4 x 100 m Staffel,Marvin,Bollinger,1996,"47,74",MU18,05.06.2011,St. Wendel,3,True,485726378d4b3aebf3f900476a062d0ad3bfc48284281566db4fcad62b4f16ee
@@ -1443,7 +1443,7 @@ LA Team Saar,3 x 1000 m Staffel,Simon,Kraus,0,"9:09,69",MU18,10.04.2011,Püttlin
 LA Team Saar,3 x 1000 m Staffel,Julian,Riedel,1995,"9:09,69",MU18,10.04.2011,Püttlingen,2,True,f2c239ec079784f90a7f46b46a6bdafd3bf5152af3df9bc1d6ba41f2517a8f53
 LA Team Saar,3 x 1000 m Staffel,David,Hartmann,1994,"9:09,69",MU18,10.04.2011,Püttlingen,2,True,a6870a90b7e66251f5a172126202ca16049008a368e8b526d97ff773b533e086
 LG Bliestal,3 x 1000 m Staffel,Sidney-Spike,Tregellis,1994,"9:43,64",MU18,25.08.2011,Saarbrücken,3,True,9053cf03c175652f947671706412c2126d5a879a8c41fcd9ee262711f20610e3
-LG Bliestal,3 x 1000 m Staffel,Robin,Lück,0,"9:43,64",MU18,25.08.2011,Saarbrücken,3,True,2114650e608ade3ec547a5a8dad56c99410265f91c0e60116ab5449e5ce6924d
+LG Bliestal,3 x 1000 m Staffel,Robin,Lück,1994,"9:43,64",MU18,25.08.2011,Saarbrücken,3,True,a70684cbe9fcabdd9d33870dd372e0a9146ad59d83cfa9385c3906cdbb05e763
 LG Bliestal,3 x 1000 m Staffel,Jan,Dorda,1994,"9:43,64",MU18,25.08.2011,Saarbrücken,3,True,730571cea5c6c26231d4916f165e82927749a68d5265b1de37f983a9128ff02b
 TV Ludweiler,5000 m Bahngehen,Maximilian,Duchene,1995,"38:33,51",MU18,01.10.2011,Ludweiler,1,False,61ed445b81a25792fec818f179e0657b1e5c49766a203f168ff9fff9ad1c1ac1
 LA Team Saar,Hochsprung,Lukas,Schmitz,1995,"1,84",MU18,29.05.2011,Homburg,1,False,b8e39a983e8d6a85420e723196bf743f47d2714a404f0166d6784ea2a4be2b83
@@ -1482,7 +1482,7 @@ LA Team Saar,Weitsprung,David,Hartmann,1994,"5,57",MU18,10.09.2011,St.Wendel,10,
 LSG Schmelz-Hüttersdorf,Dreisprung,Marvin,Brachmann,1995,"11,58",MU18,05.06.2011,St. Wendel,1,False,dfc855093548edfa6a04a18abc9210d06bf11c5636f96e7391a7a5f4f8da5e3c
 LSG Sbr.-Sulzbachtal,Dreisprung,Tobias,Blum,1995,"11,54",MU18,05.06.2011,St. Wendel,2,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LA Team Saar,Dreisprung,Tilman,Neises,1994,"11,17",MU18,05.06.2011,St. Wendel,3,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
-TV Niederwürzbach,Dreisprung,Sandro,Gradia,1994,"10,88",MU18,14.08.2011,Homburg,4,False,80d4c8e65cc85ef834800522ae87f3137726039602139f0ff037d30f5f6ae909
+TV Niederwürzbach,Dreisprung,Sandra,Gradia,1994,"10,88",MU18,14.08.2011,Homburg,4,False,cc880cffe07a13c372454d06adb607c7b924c1d12d2ebbb5a1c9d34eec30fa82
 LSG Sbr.-Sulzbachtal,Dreisprung,Felix,Buder,1994,"10,56",MU18,05.06.2011,St. Wendel,5,False,1f2a05971217d561a5cce99647b79b4b0fe0bdc9cca05738a6732faceeb8a6e0
 LSG Schmelz-Hüttersdorf,Dreisprung,Eric,Weyand,1995,"10,39",MU18,05.06.2011,St. Wendel,6,False,b9ed0f2b325fd4df72670cc286c3b42a61f7f65570db7b7761048ed85e36f449
 TV St. Wendel,Dreisprung,Jonas,Bäumchen,1995,"10,15",MU18,05.06.2011,St. Wendel,7,False,caf4a29165345166931f4cfdd27fa80e38a53f05c53e5d3ad21d6da84358478c
@@ -1556,7 +1556,7 @@ LSG Sbr.-Sulzbachtal,100 m Lauf,Laura,Müller,1995,"12,33",WU18,20.09.2011,Berli
 TV Germania 1910 Piesbach,100 m Lauf,Susen,Berg,1994,"12,42",WU18,10.07.2011,Dillingen,2,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
 SV Schlau.Com Saar 05 SBR.,100 m Lauf,Luisa,Valeske,1994,"12,48",WU18,08.06.2011,Saarbrücken,3,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
 SC Friedrichsthal,100 m Lauf,Katharina,Döpp,1995,"12,91",WU18,19.06.2011,Saarbrücken,4,False,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
-SC Friedrichsthal,100 m Lauf,Annegret,Nehl,1995,"12,92",WU18,30.08.2011,Rehlingen,5,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,100 m Lauf,Anni,Nehl,1995,"12,92",WU18,30.08.2011,Rehlingen,5,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 TV Homburg,100 m Lauf,Johanna,Friderich,1995,"13,03",WU18,30.08.2011,Rehlingen,6,False,06b96292b44ead2253784d07116e597cbe84ebd67ef61c156c44b93e70f500eb
 LC Rehlingen,100 m Lauf,Katrin,Schmidt,1995,"13,08",WU18,02.09.2011,Schweich,7,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
 SC Friedrichsthal,100 m Lauf,Melanie,Monn,1994,"13,14",WU18,02.06.2011,Koblenz,8,False,e8131e1280de72d76408948114bae2811a830fb56354e55c7b279b0bf0a4fabb
@@ -1565,7 +1565,7 @@ LSG Sbr.-Sulzbachtal,100 m Lauf,Anna,Hartung,1995,"13,42",WU18,10.09.2011,St.Wen
 SV Schlau.Com Saar 05 SBR.,200 m Lauf,Luisa,Valeske,1994,"25,11",WU18,02.06.2011,Koblenz,1,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
 LSG Sbr.-Sulzbachtal,200 m Lauf,Laura,Müller,1995,"25,54",WU18,13.08.2011,Friedrichsthal,2,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 TV Germania 1910 Piesbach,200 m Lauf,Susen,Berg,1994,"25,77",WU18,10.07.2011,Dillingen,3,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
-SC Friedrichsthal,200 m Lauf,Annegret,Nehl,1995,"26,40",WU18,05.06.2011,St. Wendel,4,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,200 m Lauf,Anni,Nehl,1995,"26,40",WU18,05.06.2011,St. Wendel,4,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 ATSV Saarbrücken,200 m Lauf,Tessa,Leutheuser,1996,"26,91",WU18,08.05.2011,Birkenfeld,5,False,611842c5204745a2451caf467c5062a10d45b9d639bf1d6d25e846be945663b6
 SC Friedrichsthal,200 m Lauf,Katharina,Döpp,1995,"27,00",WU18,05.06.2011,St. Wendel,6,False,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
 LC Rehlingen,200 m Lauf,Katrin,Schmidt,1995,"27,03",WU18,02.09.2011,Schweich,7,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
@@ -1573,7 +1573,7 @@ SC Friedrichsthal,200 m Lauf,Melanie,Monn,1994,"27,11",WU18,05.06.2011,St. Wende
 LAZ Saarbrücken,200 m Lauf,Katrin,Reim,1995,"28,17",WU18,05.06.2011,St. Wendel,9,False,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
 LA Team Saar,200 m Lauf,Maren,Linnenberger,1995,"28,75",WU18,05.06.2011,St. Wendel,10,False,8d79933195d747fada9f5b39a9e75de63083be03b8af8660e67276802616db8d
 SV Schlau.Com Saar 05 SBR.,400 m Lauf,Luisa,Valeske,1994,"56,60",WU18,19.06.2011,Saarbrücken,1,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
-SC Friedrichsthal,400 m Lauf,Annegret,Nehl,1995,"58,78",WU18,27.07.2011,Friedrichsthal,2,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,400 m Lauf,Anni,Nehl,1995,"58,78",WU18,27.07.2011,Friedrichsthal,2,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 LSG Sbr.-Sulzbachtal,400 m Lauf,Laura,Müller,1995,"59,60",WU18,30.08.2011,Rehlingen,3,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 TV Germania 1910 Piesbach,400 m Lauf,Susen,Berg,1994,"59,76",WU18,19.06.2011,Saarbrücken,4,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
 LC Rehlingen,400 m Lauf,Katrin,Schmidt,1995,"60,24",WU18,14.08.2011,Dillingen,5,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
@@ -1583,7 +1583,7 @@ LSG Sbr.-Sulzbachtal,400 m Lauf,Clara,Spengler,1996,"63,07",WU18,30.08.2011,Rehl
 LAZ Saarbrücken,400 m Lauf,Katrin,Reim,1995,"63,47",WU18,19.06.2011,Saarbrücken,9,False,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
 LSG Sbr.-Sulzbachtal,400 m Lauf,Regina,Dick,1994,"63,83",WU18,30.08.2011,Rehlingen,10,False,781e79cd62846cf30b05a8009df9c1091418ddfb8c83e7a9bfd0a0b12b61cb64
 LC Rehlingen,800 m Lauf,Michelle,Chasseur,1994,"2:21,11",WU18,13.06.2011,Rehlingen,1,False,fd83c3e078e0835f52222909fd20f269d16aa6d7ea75de9413909eab9d37158c
-SC Friedrichsthal,800 m Lauf,Annegret,Nehl,1995,"2:22,43",WU18,04.09.2011,Homburg,2,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,800 m Lauf,Anni,Nehl,1995,"2:22,43",WU18,04.09.2011,Homburg,2,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 SV Schlau.Com Saar 05 SBR.,800 m Lauf,Luisa,Valeske,1994,"2:23,48",WU18,13.05.2011,Saarbrücken,3,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
 LC Rehlingen,800 m Lauf,Katrin,Schmidt,1995,"2:24,63",WU18,08.06.2011,Saarbrücken,4,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
 LAZ Saarbrücken,800 m Lauf,Katrin,Reim,1995,"2:29,13",WU18,12.06.2011,Selters,5,False,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
@@ -1624,7 +1624,7 @@ LSG Sbr.-Sulzbachtal,100 m Hürden 0.762m,Regina,Dick,1994,"17,59",WU18,14.05.20
 LA Team Saar,100 m Hürden 0.762m,Franziska,Breininger,1994,"17,88",WU18,07.05.2011,Homburg,9,False,21df6f4567c03de0cebff206c4756d23449b0b1bf14e4e1aa0da19e1473cefe2
 LSG Sbr.-Sulzbachtal,100 m Hürden 0.762m,Clara,Spengler,1996,"18,01",WU18,10.09.2011,St.Wendel,10,False,3d6eebc0daa96fda168234f432f0a8206b6944a627aa1d98e862ba8128a3ab15
 SV Schlau.Com Saar 05 SBR.,400 m Hürden 0.762m,Luisa,Valeske,1994,"61,10",WU18,30.06.2011,Saarbrücken,1,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
-SC Friedrichsthal,400 m Hürden 0.762m,Annegret,Nehl,1995,"63,85",WU18,05.08.2011,Jena,2,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,400 m Hürden 0.762m,Anni,Nehl,1995,"63,85",WU18,05.08.2011,Jena,2,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 TV Germania 1910 Piesbach,400 m Hürden 0.762m,Susen,Berg,1994,"64,92",WU18,30.06.2011,Saarbrücken,3,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
 LC Rehlingen,400 m Hürden 0.762m,Katrin,Schmidt,1995,"65,97",WU18,05.08.2011,Jena,4,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
 LSG Sbr.-Sulzbachtal,400 m Hürden 0.762m,Marie- Sophie,Dieter,1995,"72,81",WU18,04.09.2011,Homburg,5,False,4b421a824ec1a9528fb127c1d825a54166c68cf9c17d23cd04255ee4c9d9337a
@@ -1636,7 +1636,7 @@ LAZ Saarbrücken,400 m Hürden 0.762m,Carol,Christ,1995,"77,62",WU18,17.05.2011,
 LC Rehlingen,1500 m Hindernis 0.762m,Michelle,Chasseur,1994,"5:23,08",WU18,22.05.2011,Pliezhausen,1,False,fd83c3e078e0835f52222909fd20f269d16aa6d7ea75de9413909eab9d37158c
 SC Friedrichsthal,4 x 100 m Staffel,Melanie,Monn,1994,"49,60",WU18,05.06.2011,St. Wendel,1,True,e8131e1280de72d76408948114bae2811a830fb56354e55c7b279b0bf0a4fabb
 SC Friedrichsthal,4 x 100 m Staffel,Katharina,Döpp,1995,"49,60",WU18,05.06.2011,St. Wendel,1,True,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
-SC Friedrichsthal,4 x 100 m Staffel,Annegret,Nehl,1995,"49,60",WU18,05.06.2011,St. Wendel,1,True,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,4 x 100 m Staffel,Anni,Nehl,1995,"49,60",WU18,05.06.2011,St. Wendel,1,True,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 SC Friedrichsthal,4 x 100 m Staffel,Katharina,Monzel,1994,"49,60",WU18,05.06.2011,St. Wendel,1,True,a4b07eb1a2d37ae72eaa20292cc10817abb486f469f635304b8174397d9857b2
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Clara,Spengler,1996,"50,95",WU18,20.08.2011,Forst,2,True,3d6eebc0daa96fda168234f432f0a8206b6944a627aa1d98e862ba8128a3ab15
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Laura,Müller,1995,"50,95",WU18,20.08.2011,Forst,2,True,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
@@ -1655,13 +1655,13 @@ LAZ Saarbrücken,4 x 100 m Staffel,Julia,Adam,1994,"54,50",WU18,05.06.2011,St. W
 LAZ Saarbrücken,4 x 100 m Staffel,Laura,Naumann,1994,"54,50",WU18,05.06.2011,St. Wendel,5,True,5430b1d41f98e709c855c721c67e90f371be04a79277062d56fbf58efbc2a30a
 LAZ Saarbrücken,4 x 100 m Staffel,Katrin,Reim,1995,"54,50",WU18,05.06.2011,St. Wendel,5,True,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
 SC Friedrichsthal,4 x 100 m Staffel,Allison,Weider,0,"56,89",WU18,13.08.2011,Friedrichsthal,6,True,249a4ddf3fa44f23b0457e27be9f9ad7e6d4e25b377eeafefb836d0223ad4af2
-SC Friedrichsthal,4 x 100 m Staffel,Jasmin,Barth,0,"56,89",WU18,13.08.2011,Friedrichsthal,6,True,6ad4f9770048c4c48471f08158b0cb110768c60ccb87d8a5c5c8686d13d41f11
+SC Friedrichsthal,4 x 100 m Staffel,Jasmin,Barth,1995,"56,89",WU18,13.08.2011,Friedrichsthal,6,True,37da8e5c5e170bde59a077c291b958e80122f9b1a974568eb6171287d5d0750b
 SC Friedrichsthal,4 x 100 m Staffel,Karolina,Quint,1995,"56,89",WU18,13.08.2011,Friedrichsthal,6,True,c06d21a2fab4074a25f7d2c28f00f6bf3306322b0e3431505635422240b77ab6
 SC Friedrichsthal,4 x 100 m Staffel,Isabel,Rojas-Künzler,0,"56,89",WU18,13.08.2011,Friedrichsthal,6,True,66f35c4099a6c19b17572419b85328dbeb5208021a665e8e1e4d5bdf7c1c720d
-TV Saarwellingen,4 x 100 m Staffel,Clara,Puhl,0,"57,35",WU18,05.06.2011,St. Wendel,7,True,b66a577bb5babc71c447f4078cb43d44ea25f970e46c68de4ac2cf37b1cf483b
+TV Saarwellingen,4 x 100 m Staffel,Clara,Puhl,1995,"57,35",WU18,05.06.2011,St. Wendel,7,True,4eb9f222e10caf2ab718e3aae283839d64eab9148738e5a766bc72eead9861f0
 TV Saarwellingen,4 x 100 m Staffel,Alina,Zanker,1994,"57,35",WU18,05.06.2011,St. Wendel,7,True,bb33ee7e3abc71a602dd60e0a8a7d0534c4482742cacf12578513239dd451f25
-TV Saarwellingen,4 x 100 m Staffel,Jessica,Jenal,0,"57,35",WU18,05.06.2011,St. Wendel,7,True,f23fc4bfb8811f3a15b57f62fad80123d26fe98700e5cd66023450f43751cffc
-TV Saarwellingen,4 x 100 m Staffel,Mandy,Becker,0,"57,35",WU18,05.06.2011,St. Wendel,7,True,1bca5fef4e851af997386b20c899ad6a4679c66cded991b8d073418ed420880e
+TV Saarwellingen,4 x 100 m Staffel,Jessica,Jenal,1994,"57,35",WU18,05.06.2011,St. Wendel,7,True,7efdf757d7771566de5c6c7b6cbe097830e4207555ad4e14be2381223eb0b1b3
+TV Saarwellingen,4 x 100 m Staffel,Mandy,Becker,1995,"57,35",WU18,05.06.2011,St. Wendel,7,True,1950aa4442966107e0f46351fea04d4f64d37f5a5b2e4994b21f7c0b476b5fcb
 LC Rehlingen,3 x 800 m Staffel,Laura,Scherer,1994,"7:33,96",WU18,10.07.2011,Eisenberg,1,True,3164f1143911526ca17ba82174e9fed2288635d992b8e91ce2bb8dfffb82adc4
 LC Rehlingen,3 x 800 m Staffel,Michelle,Chasseur,1994,"7:33,96",WU18,10.07.2011,Eisenberg,1,True,fd83c3e078e0835f52222909fd20f269d16aa6d7ea75de9413909eab9d37158c
 LC Rehlingen,3 x 800 m Staffel,Katrin,Schmidt,1995,"7:33,96",WU18,10.07.2011,Eisenberg,1,True,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
@@ -1672,8 +1672,8 @@ LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Anna,Hartung,1995,"8:31,45",WU18,25.08.20
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Sophie,Weiler,1995,"8:31,45",WU18,25.08.2011,Saarbrücken,3,True,30238b7d5fc6febd0776e42011b853e1134772adedfb99b7a30d002317b51851
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Marie- Sophie,Dieter,1995,"8:31,45",WU18,25.08.2011,Saarbrücken,3,True,4b421a824ec1a9528fb127c1d825a54166c68cf9c17d23cd04255ee4c9d9337a
 TV Saarwellingen,3 x 800 m Staffel,Alina,Zanker,1994,"8:54,94",WU18,06.09.2011,Rehlingen,4,True,bb33ee7e3abc71a602dd60e0a8a7d0534c4482742cacf12578513239dd451f25
-TV Saarwellingen,3 x 800 m Staffel,Helena,Rolinger,0,"8:54,94",WU18,06.09.2011,Rehlingen,4,True,5897ffa02af4003e7bfdfee05db8bcf5b8710ecbbd00bf7018891fb26b1dc0cc
-TV Saarwellingen,3 x 800 m Staffel,Jessica,Jenal,0,"8:54,94",WU18,06.09.2011,Rehlingen,4,True,f23fc4bfb8811f3a15b57f62fad80123d26fe98700e5cd66023450f43751cffc
+TV Saarwellingen,3 x 800 m Staffel,Helena,Rolinger,1995,"8:54,94",WU18,06.09.2011,Rehlingen,4,True,daa4c97030fbbc361c28d38977ea5327c878733efc067ce341e3c1160f406a67
+TV Saarwellingen,3 x 800 m Staffel,Jessica,Jenal,1994,"8:54,94",WU18,06.09.2011,Rehlingen,4,True,7efdf757d7771566de5c6c7b6cbe097830e4207555ad4e14be2381223eb0b1b3
 TV Ludweiler,3000 m Bahngehen,Hanna,Rouget,1994,"21:41,21",WU18,01.10.2011,Ludweiler,1,False,a655dcb9c372017d70e5c6cd72d82eff6088fe294b7f0146b4bdafe50a55aaa6
 TV Ludweiler,3000 m Bahngehen,Liane,Stähly,1994,"22:10,78",WU18,01.10.2011,Ludweiler,2,False,45e0097f44a4ebdd545c16c3c32d754a54bc2faf3a05e9d0c902f080c007e5e4
 TV Germania 1910 Piesbach,Hochsprung,Susen,Berg,1994,"1,63",WU18,26.08.2011,Vaterstetten,1,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
@@ -1695,7 +1695,7 @@ TV Germania 1910 Piesbach,Weitsprung,Susen,Berg,1994,"5,53",WU18,21.08.2011,Fors
 LSG Sbr.-Sulzbachtal,Weitsprung,Regina,Dick,1994,"5,26",WU18,13.08.2011,Friedrichsthal,3,False,781e79cd62846cf30b05a8009df9c1091418ddfb8c83e7a9bfd0a0b12b61cb64
 SC Friedrichsthal,Weitsprung,Katharina,Döpp,1995,"5,25",WU18,19.06.2011,Saarbrücken,4,False,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
 LSG Sbr.-Sulzbachtal,Weitsprung,Anna,Hartung,1995,"4,84",WU18,11.09.2011,St.Wendel,5,False,9750bac690bae0c3500f515ce8d5d82a72ad4514d0caad47d7ca2202dde08e0f
-SC Friedrichsthal,Weitsprung,Annegret,Nehl,1995,"4,81",WU18,04.09.2011,Homburg,6,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,Weitsprung,Anni,Nehl,1995,"4,81",WU18,04.09.2011,Homburg,6,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 LC Rehlingen,Weitsprung,Katrin,Schmidt,1995,"4,78",WU18,11.09.2011,St.Wendel,7,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
 LA Team Saar,Weitsprung,Meike,Albersmeyer,1995,"4,77",WU18,19.06.2011,Saarbrücken,8,False,5123801f58c3b753f970e128d2e94b6b8dc2cf243507325fba3346c8916b1d74
 SC Friedrichsthal,Weitsprung,Karolina,Quint,1995,"4,74",WU18,29.05.2011,Homburg,9,False,c06d21a2fab4074a25f7d2c28f00f6bf3306322b0e3431505635422240b77ab6
@@ -1760,13 +1760,13 @@ LA Team Saar,4-Kampf Ma.,Maren,Linnenberger,1995,9.273,WU18,07.05.2011,Homburg,1
 LAZ Saarbrücken,4-Kampf Ma.,Julia,Adam,1994,8.076,WU18,10.09.2011,St.Wendel,2,True,6aedfa050d578660be6adfea36cf11026232c052f2e67e476da6be2e60f997c1
 LAZ Saarbrücken,4-Kampf Ma.,Katja,Schilling,1995,8.076,WU18,10.09.2011,St.Wendel,2,True,92ae5cec26d7bf396d714fd05077d08e93cacc127be63b5375ef12634ca60102
 LAZ Saarbrücken,4-Kampf Ma.,Carol,Christ,1995,8.076,WU18,10.09.2011,St.Wendel,2,True,d7f4b1a83d2aefbfe28293e6fea600b002bc2eacb054a1b48dade712eb95c540
-LAZ Saarbrücken,4-Kampf Ma.,Victoria,Hemsing,0,8.076,WU18,10.09.2011,St.Wendel,2,True,25a7a6e381bc78017c6d2e53334582df7d4c67f1aaaf590a04c6e9a1a7518326
+LAZ Saarbrücken,4-Kampf Ma.,Victoria,Hemsing,1995,8.076,WU18,10.09.2011,St.Wendel,2,True,3c0c57dc9c5f2c953828030d4f018636e62fb82fdd52d1f40299b9df1dad742c
 LAZ Saarbrücken,4-Kampf Ma.,Katrin,Reim,1995,8.076,WU18,10.09.2011,St.Wendel,2,True,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
-TV Saarwellingen,4-Kampf Ma.,Clara,Puhl,0,6.002,WU18,14.05.2011,Dillingen,3,True,b66a577bb5babc71c447f4078cb43d44ea25f970e46c68de4ac2cf37b1cf483b
-TV Saarwellingen,4-Kampf Ma.,Jessica,Jenal,0,6.002,WU18,14.05.2011,Dillingen,3,True,f23fc4bfb8811f3a15b57f62fad80123d26fe98700e5cd66023450f43751cffc
+TV Saarwellingen,4-Kampf Ma.,Clara,Puhl,1995,6.002,WU18,14.05.2011,Dillingen,3,True,4eb9f222e10caf2ab718e3aae283839d64eab9148738e5a766bc72eead9861f0
+TV Saarwellingen,4-Kampf Ma.,Jessica,Jenal,1994,6.002,WU18,14.05.2011,Dillingen,3,True,7efdf757d7771566de5c6c7b6cbe097830e4207555ad4e14be2381223eb0b1b3
 TV Saarwellingen,4-Kampf Ma.,Alina,Zanker,1994,6.002,WU18,14.05.2011,Dillingen,3,True,bb33ee7e3abc71a602dd60e0a8a7d0534c4482742cacf12578513239dd451f25
-TV Saarwellingen,4-Kampf Ma.,Mandy,Becker,0,6.002,WU18,14.05.2011,Dillingen,3,True,1bca5fef4e851af997386b20c899ad6a4679c66cded991b8d073418ed420880e
-TV Saarwellingen,4-Kampf Ma.,Helena,Rolinger,0,6.002,WU18,14.05.2011,Dillingen,3,True,5897ffa02af4003e7bfdfee05db8bcf5b8710ecbbd00bf7018891fb26b1dc0cc
+TV Saarwellingen,4-Kampf Ma.,Mandy,Becker,1995,6.002,WU18,14.05.2011,Dillingen,3,True,1950aa4442966107e0f46351fea04d4f64d37f5a5b2e4994b21f7c0b476b5fcb
+TV Saarwellingen,4-Kampf Ma.,Helena,Rolinger,1995,6.002,WU18,14.05.2011,Dillingen,3,True,daa4c97030fbbc361c28d38977ea5327c878733efc067ce341e3c1160f406a67
 TV Germania 1910 Piesbach,7-Kampf,Susen,Berg,1994,4.545,WU18,14.05.2011,Dillingen,1,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
 LSG Sbr.-Sulzbachtal,7-Kampf,Anna,Hartung,1995,4.152,WU18,10.09.2011,St.Wendel,2,False,9750bac690bae0c3500f515ce8d5d82a72ad4514d0caad47d7ca2202dde08e0f
 LC Rehlingen,7-Kampf,Katrin,Schmidt,1995,3.706,WU18,10.09.2011,St.Wendel,3,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
@@ -1827,8 +1827,8 @@ LSG 98 Köllertal,4 x 100 m Staffel,Pedro,Costa,1998,"54,56",M15,03.05.2011,Püt
 LSG 98 Köllertal,4 x 100 m Staffel,Henri Lukas,Heß,1997,"54,56",M15,03.05.2011,Püttlingen,8,True,7c18ac5f4b8a30a267fceb6acc3bd37aaa91af19b57095de14c9287232cc35b4
 LSG 98 Köllertal,4 x 100 m Staffel,Peter,Köhn,1996,"54,56",M15,03.05.2011,Püttlingen,8,True,320385a61a0a74be90b628727195aa6b726b40b366a7cde2d3822fb0c93b79b1
 LSG 98 Köllertal,4 x 100 m Staffel,Jan,Bessoth,0,"54,56",M15,03.05.2011,Püttlingen,8,True,37526397af85eb6e4e575878110ebec3b8589fb9408def1750e2e758650285d4
-LG Berus,4 x 100 m Staffel,Karl,Weber,0,"60,72",M15,29.05.2011,Homburg,9,True,d24edd543fe9da5ddda07a7aec0db503e848e3493243af3fa83a90d31aeb589a
-LG Berus,4 x 100 m Staffel,Tim,Merten,0,"60,72",M15,29.05.2011,Homburg,9,True,9c7a94a9bc1c97c8686713c1098e2fab10f66c121b874a859967fc7a731a2ad3
+LG Berus,4 x 100 m Staffel,Karl,Weber,1998,"60,72",M15,29.05.2011,Homburg,9,True,f3907f18382497afa3be28d7849793ad7a0f1472b8a3f4cf6bb5067bcb2a2474
+LG Berus,4 x 100 m Staffel,Tim,Merten,1998,"60,72",M15,29.05.2011,Homburg,9,True,2152d199c26b1f159d41f7dd5b09c9640254ce3033bcdc4b912a3811c54f221b
 LG Berus,4 x 100 m Staffel,Alexander,Putze,0,"60,72",M15,29.05.2011,Homburg,9,True,8982c1551fbc4c72ac6883b1f3064727fb255902c48237353c3f6b07e621f8a3
 LG Berus,4 x 100 m Staffel,Maximilian,Wolf,0,"60,72",M15,29.05.2011,Homburg,9,True,5f5a4c67bd9bbf385455d57e2614da90576d6f5da60dcb138e93736b135e0f1f
 LC Rehlingen,3 x 1000 m Staffel,Simon,Gutwein,1996,"8:47,89",M15,17.09.2011,Friedrichsthal,1,True,6949ff59c86d9c17d603d2c02e01f694eb9be85b0d69b7fcaef3d7196a24ba0f
@@ -2150,7 +2150,7 @@ LG DJK Erbach-SG St. Ingbert,Stabhochsprung,Colin,Schüller,1997,"2,93",M14,27.0
 LAC Elm,Stabhochsprung,Tom,Spengler,1997,"2,83",M14,27.09.2011,Püttlingen,2,False,b3831c80f594e7fa36ef5c771598cd3d727293afb89066ca0d1ce371430ab921
 LG DJK Erbach-SG St. Ingbert,Stabhochsprung,Robin,Gutendorf,1997,"2,71",M14,04.09.2011,Homburg,3,False,442d573ef48dd5f3d3f132350db4bbe61a3d55f12bf9156aa83d7ea880934b72
 LG Saar 70,Stabhochsprung,Lars,Schwindling,1997,"2,70",M14,10.09.2011,St.Wendel,4,False,c7ff065ed98dd8c5d3a3c309ee39d7a60682a6351e487e027add2b4c8ca0aae0
-LAC Elm,Stabhochsprung,Yannik,Zimmer,1997,"2,53",M14,27.09.2011,Püttlingen,5,False,90f8d1fc695184c1de0d1bac423e6b1e0764366b7e252cf9504513f99104e56f
+LAC Elm,Stabhochsprung,Yannik Nicola,Zimmer,1997,"2,53",M14,27.09.2011,Püttlingen,5,False,c97a1e7029ffa5d72aa2d0c996f1fe7312745db16086d556914c60c372b0e848
 LSG Saarlouis,Stabhochsprung,Julian,Horf,1997,"2,43",M14,27.09.2011,Püttlingen,6,False,a9b58c97ad10adec8e9a7d031118b3be1b001f6d2ab4aaf61f8a6635a3e0fcfd
 LSG 98 Köllertal,Stabhochsprung,Henri Lukas,Heß,1997,"2,30",M14,10.09.2011,St.Wendel,7,False,7c18ac5f4b8a30a267fceb6acc3bd37aaa91af19b57095de14c9287232cc35b4
 LSG Schmelz-Hüttersdorf,Stabhochsprung,Jannik,Müller,1997,"2,20",M14,15.05.2011,Dillingen,8,False,c1b8708b1350f1525ad71e3e511802b9bfe0fb1a75d3e769a666ee93680e092f
@@ -2288,8 +2288,8 @@ LG Berus,4 x 100 m Staffel,Lena,Görg,1998,"54,77",W15,19.06.2011,Saarbrücken,8
 LG Berus,4 x 100 m Staffel,Anna,Meyer,1998,"54,77",W15,19.06.2011,Saarbrücken,8,True,444d83cdd0647d9d33a743b07cb7ce35170cb8ef4a433f8c26632f1f350290cf
 LG Berus,4 x 100 m Staffel,Sina,Vervin,1997,"54,77",W15,19.06.2011,Saarbrücken,8,True,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LG Berus,4 x 100 m Staffel,Lea,Adamy,1997,"54,77",W15,19.06.2011,Saarbrücken,8,True,d7988e05467f0b4d0b8e1dedab94314768ef63832af4409b0b7008dd4533e01f
-LAZ Saarbrücken,4 x 100 m Staffel,Roxana,Heidenreich,0,"55,11",W15,29.05.2011,Homburg,9,True,609295f04b724ad5e9b1cccaf85be49bd1f9e8adfb89fed2324fa98326c1f35b
-LAZ Saarbrücken,4 x 100 m Staffel,Emma,Buchheister,0,"55,11",W15,29.05.2011,Homburg,9,True,ff1e5778ad69496c98eea39303729bf4017e2a92a9c54b9a50d753d05b2d08f9
+LAZ Saarbrücken,4 x 100 m Staffel,Roxana,Heidenreich,1996,"55,11",W15,29.05.2011,Homburg,9,True,66f9876095f7069d2518580509cd9436a2f9fb4c16503d7b06dafb5d95609ebe
+LAZ Saarbrücken,4 x 100 m Staffel,Emma,Buchheister,1996,"55,11",W15,29.05.2011,Homburg,9,True,301e95ef9340987a7cda798234d1b2de50a20f69d420e918d978c6c659c83110
 LAZ Saarbrücken,4 x 100 m Staffel,Mara,Reitz,1996,"55,11",W15,29.05.2011,Homburg,9,True,e7ffbf9d7c0c69c1521e224cc5a769c11100b09c3307f4801aa783e8bd59d6cb
 LAZ Saarbrücken,4 x 100 m Staffel,Nadeje,Mang,1996,"55,11",W15,29.05.2011,Homburg,9,True,616ae54136654edac17af537096f909ec06182f5f9f9e5e7b0265aa401563a21
 TV Homburg,4 x 100 m Staffel,Svenja,Ranker,1996,"55,58",W15,27.07.2011,Friedrichsthal,10,True,c572c3d4754ac3530beea55f38a45cd9fb2d0a2587affb0b9ff2635ef4d56e88
@@ -2300,7 +2300,7 @@ LAZ Saarbrücken,3 x 800 m Staffel,Louisa,Becker,1996,"7:32,48",W15,17.09.2011,F
 LAZ Saarbrücken,3 x 800 m Staffel,Davina,Pfiffi,1997,"7:32,48",W15,17.09.2011,Friedrichsthal,1,True,f4e7c9f13683ab61332920fae6542f5dcbdd3483e035bf2529d4370b88da127b
 LAZ Saarbrücken,3 x 800 m Staffel,Mona,Schwarz,1996,"7:32,48",W15,17.09.2011,Friedrichsthal,1,True,173b9f35f10a9e1c0a8ab09e19c9906a2cd89efa04c2fe02e20cd12aaa2e1d69
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Charlotte,Voigt,0,"7:52,08",W15,17.09.2011,Friedrichsthal,2,True,5063b71d2a8c52e98648172009bc8207b08b3a780b62e01c56e23fb2fe0654f6
-LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Nina,Apushkinskaya,0,"7:52,08",W15,17.09.2011,Friedrichsthal,2,True,675ab36fec3a55bfb0dba3bb69063a5411d60e418c892b83897a3cb3ef0ebaff
+LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Nina,Apushkinskaya,1996,"7:52,08",W15,17.09.2011,Friedrichsthal,2,True,73e75c8ab3483a2be6f78f53863f36e483ab6387b802ed68aa39d3a120065512
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Clara,Spengler,1996,"7:52,08",W15,17.09.2011,Friedrichsthal,2,True,3d6eebc0daa96fda168234f432f0a8206b6944a627aa1d98e862ba8128a3ab15
 LC Rehlingen,3 x 800 m Staffel,Stella,Clemens,1997,"7:59,83",W15,10.05.2011,Rehlingen,3,True,d732b6da88b20ad7847c21c087a497dcadc7ae51e0d440d33b5299ea6fcfb86d
 LC Rehlingen,3 x 800 m Staffel,Manuela,Afane,1998,"7:59,83",W15,10.05.2011,Rehlingen,3,True,c0090515f0c6a2471acd1190a3fdd8c81c3b144976ef4eabcef85929fd7efbea
@@ -2324,7 +2324,7 @@ LG Berus,3 x 800 m Staffel,Sina,Vervin,1997,"8:43,99",W15,06.09.2011,Rehlingen,9
 LG Berus,3 x 800 m Staffel,Anna,Meyer,1998,"8:43,99",W15,06.09.2011,Rehlingen,9,True,444d83cdd0647d9d33a743b07cb7ce35170cb8ef4a433f8c26632f1f350290cf
 LG Berus,3 x 800 m Staffel,Lea,Adamy,1997,"8:43,99",W15,06.09.2011,Rehlingen,9,True,d7988e05467f0b4d0b8e1dedab94314768ef63832af4409b0b7008dd4533e01f
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Amelie,Kreis,1996,"9:11,15",W15,25.08.2011,Saarbrücken,10,True,bb4072f05f3ad2e05caca525d3deeb4c4b5b451587b2026cce3e232b25d916d7
-LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Anna,Jungmann,0,"9:11,15",W15,25.08.2011,Saarbrücken,10,True,ea64eb26e540aeed97635b4808a34d199069079bfb572e98edf60b1db49cda62
+LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Anna,Jungmann,1997,"9:11,15",W15,25.08.2011,Saarbrücken,10,True,dd9643da88eaef98b4c8edeac0e71b0ea65dcfc7113d01fc47735da7d016c772
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Joanna,Myszkowska,1996,"9:11,15",W15,25.08.2011,Saarbrücken,10,True,14aa42ec173803fab6c0fecdbcb303d4347e8ab40d37fec9dd56556c6ac53afa
 LG Saar 70,4-Kampf Ma.,Louisa,Grauvogel,1996,8.934,W15,07.05.2011,St.Wendel,1,True,21ea80c0b93204c8461f44f18b210d9e4fbf43fb48adf00b0c4d6bc0a2827fc9
 LG Saar 70,4-Kampf Ma.,Katharina,Recktenwald,1996,8.934,W15,07.05.2011,St.Wendel,1,True,3b8bd1cf8d499d1f9d1fa10a0c204fbb90d36a0dc839d346e4a58310899ce726
@@ -2348,8 +2348,8 @@ LG DJK Erbach-SG St. Ingbert,4-Kampf Ma.,Anna-Lena,Stief,1997,8.411,W15,10.09.20
 LG DJK Erbach-SG St. Ingbert,4-Kampf Ma.,Sophia,Kolzau,1996,8.411,W15,10.09.2011,St.Wendel,4,True,00dda0828c98c52b7efd7939c258e4d550c4a6b61f4959103a037527939297a2
 LAZ Saarbrücken,4-Kampf Ma.,Nadeje,Mang,1996,8.329,W15,10.09.2011,St.Wendel,5,True,616ae54136654edac17af537096f909ec06182f5f9f9e5e7b0265aa401563a21
 LAZ Saarbrücken,4-Kampf Ma.,Louisa,Becker,1996,8.329,W15,10.09.2011,St.Wendel,5,True,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
-LAZ Saarbrücken,4-Kampf Ma.,Emma,Buchheister,0,8.329,W15,10.09.2011,St.Wendel,5,True,ff1e5778ad69496c98eea39303729bf4017e2a92a9c54b9a50d753d05b2d08f9
-LAZ Saarbrücken,4-Kampf Ma.,Roxana,Heidenreich,0,8.329,W15,10.09.2011,St.Wendel,5,True,609295f04b724ad5e9b1cccaf85be49bd1f9e8adfb89fed2324fa98326c1f35b
+LAZ Saarbrücken,4-Kampf Ma.,Emma,Buchheister,1996,8.329,W15,10.09.2011,St.Wendel,5,True,301e95ef9340987a7cda798234d1b2de50a20f69d420e918d978c6c659c83110
+LAZ Saarbrücken,4-Kampf Ma.,Roxana,Heidenreich,1996,8.329,W15,10.09.2011,St.Wendel,5,True,66f9876095f7069d2518580509cd9436a2f9fb4c16503d7b06dafb5d95609ebe
 LAZ Saarbrücken,4-Kampf Ma.,Alice,Becker,1996,8.329,W15,10.09.2011,St.Wendel,5,True,9f83b8946eb5f468d51bca6759bb37ce3aaccd9f1280791647c2aa1b66d72205
 LG Berus,4-Kampf Ma.,Sina,Vervin,1997,8.254,W15,10.09.2011,St.Wendel,6,True,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LG Berus,4-Kampf Ma.,Anna,Meyer,1998,8.254,W15,10.09.2011,St.Wendel,6,True,444d83cdd0647d9d33a743b07cb7ce35170cb8ef4a433f8c26632f1f350290cf
@@ -2357,7 +2357,7 @@ LG Berus,4-Kampf Ma.,Lea,Adamy,1997,8.254,W15,10.09.2011,St.Wendel,6,True,d7988e
 LG Berus,4-Kampf Ma.,Katrin,Koszuszek,0,8.254,W15,10.09.2011,St.Wendel,6,True,edc325a3da231a1d8788e34a87f9037d594103af35b03fab79a97d764e34df62
 LG Berus,4-Kampf Ma.,Lena,Görg,1998,8.254,W15,10.09.2011,St.Wendel,6,True,b7fe8d531431f32704d099835de25f70402e79d36aa376629765d3c63a059d8a
 LG Reimsbach-Oppen,4-Kampf Ma.,Ayleen,Enzweiler,1996,8.011,W15,14.05.2011,Dillingen,7,True,79b514f0ce8d190192e725a58248afefdcfdf201ca1ebd68129453523e9821a1
-LG Reimsbach-Oppen,4-Kampf Ma.,Meike,Schneider,1997,8.011,W15,14.05.2011,Dillingen,7,True,ecb66d4e4abc770e805e6d48c06aeaed3c1f6429d70cebadeef20beb9b598120
+LG Reimsbach-Oppen,4-Kampf Ma.,Maike,Schneider,1997,8.011,W15,14.05.2011,Dillingen,7,True,33d0ba25dd6309a7a4dedd66403d0c03a4d262e7e2e63195a72d9160ef2256f0
 LG Reimsbach-Oppen,4-Kampf Ma.,Sarah,Selzer,1996,8.011,W15,14.05.2011,Dillingen,7,True,e8b594a0c7bd0be5927b48ece66778d52ab7bc33ca7a62f73552bc5115710d5f
 LG Reimsbach-Oppen,4-Kampf Ma.,Alissa,Dentinger,1998,8.011,W15,14.05.2011,Dillingen,7,True,53e38cf285fdc6d3edda992f821f1a18ea4fbbe5fe1c289a629567c89b9598a8
 LG Reimsbach-Oppen,4-Kampf Ma.,Carina,Bierle,1998,8.011,W15,14.05.2011,Dillingen,7,True,bfb97e23f559a78abd06c0672c2683845caf4e69d8a4113446d9e12fa456ad40
@@ -2414,8 +2414,8 @@ LG Saar 70,Block Mannschaft,Milena,Biesel,1997,11.324,W15,22.05.2011,St. Wendel,
 LAZ Saarbrücken,Block Mannschaft,Nadeje,Mang,1996,10.921,W15,22.05.2011,St. Wendel,3,True,616ae54136654edac17af537096f909ec06182f5f9f9e5e7b0265aa401563a21
 LAZ Saarbrücken,Block Mannschaft,Louisa,Becker,1996,10.921,W15,22.05.2011,St. Wendel,3,True,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
 LAZ Saarbrücken,Block Mannschaft,Alice,Becker,1996,10.921,W15,22.05.2011,St. Wendel,3,True,9f83b8946eb5f468d51bca6759bb37ce3aaccd9f1280791647c2aa1b66d72205
-LAZ Saarbrücken,Block Mannschaft,Emma,Buchheister,0,10.921,W15,22.05.2011,St. Wendel,3,True,ff1e5778ad69496c98eea39303729bf4017e2a92a9c54b9a50d753d05b2d08f9
-LAZ Saarbrücken,Block Mannschaft,Roxana,Heidenreich,0,10.921,W15,22.05.2011,St. Wendel,3,True,609295f04b724ad5e9b1cccaf85be49bd1f9e8adfb89fed2324fa98326c1f35b
+LAZ Saarbrücken,Block Mannschaft,Emma,Buchheister,1996,10.921,W15,22.05.2011,St. Wendel,3,True,301e95ef9340987a7cda798234d1b2de50a20f69d420e918d978c6c659c83110
+LAZ Saarbrücken,Block Mannschaft,Roxana,Heidenreich,1996,10.921,W15,22.05.2011,St. Wendel,3,True,66f9876095f7069d2518580509cd9436a2f9fb4c16503d7b06dafb5d95609ebe
 LG Reimsbach-Oppen,Block Mannschaft,Ayleen,Enzweiler,1996,10.160,W15,22.05.2011,St. Wendel,4,True,79b514f0ce8d190192e725a58248afefdcfdf201ca1ebd68129453523e9821a1
 LG Reimsbach-Oppen,Block Mannschaft,Isabel,Stachel,1997,10.160,W15,22.05.2011,St. Wendel,4,True,33449024857519cafaa11d7cec72add3d9157df2b23d7263c8a69b42a4e0aa6e
 LG Reimsbach-Oppen,Block Mannschaft,Maike,Schneider,1997,10.160,W15,22.05.2011,St. Wendel,4,True,33d0ba25dd6309a7a4dedd66403d0c03a4d262e7e2e63195a72d9160ef2256f0
@@ -2440,7 +2440,7 @@ LSG Sbr.-Sulzbachtal,Block Mannschaft,Clara,Spengler,1996,9.369,W15,22.05.2011,S
 LSG Sbr.-Sulzbachtal,Block Mannschaft,Joanna,Myszkowska,1996,9.369,W15,22.05.2011,St. Wendel,8,True,14aa42ec173803fab6c0fecdbcb303d4347e8ab40d37fec9dd56556c6ac53afa
 LSG Sbr.-Sulzbachtal,Block Mannschaft,Susannah,Reimer,1997,9.369,W15,22.05.2011,St. Wendel,8,True,03a49679dfcca095737b82fb679f258e628cb8b1b9229437dfa56cda83d858f5
 LSG Sbr.-Sulzbachtal,Block Mannschaft,Amelie,Kreis,1996,9.369,W15,22.05.2011,St. Wendel,8,True,bb4072f05f3ad2e05caca525d3deeb4c4b5b451587b2026cce3e232b25d916d7
-LSG Sbr.-Sulzbachtal,Block Mannschaft,Anna,Jungmann,0,9.369,W15,22.05.2011,St. Wendel,8,True,ea64eb26e540aeed97635b4808a34d199069079bfb572e98edf60b1db49cda62
+LSG Sbr.-Sulzbachtal,Block Mannschaft,Anna,Jungmann,1997,9.369,W15,22.05.2011,St. Wendel,8,True,dd9643da88eaef98b4c8edeac0e71b0ea65dcfc7113d01fc47735da7d016c772
 TV Homburg,Block Mannschaft,Isabella,Merloni,1997,8.873,W15,22.05.2011,St. Wendel,9,True,cc160e7aa083c791d5124e68760ba259f23b55accc29f0b4bb1e0b7f532b65e5
 TV Homburg,Block Mannschaft,Laura,Kosmalla,0,8.873,W15,22.05.2011,St. Wendel,9,True,2514f97e7ad896d791a136925a356c8359ed8d90a57323f99fbd1c49399ae399
 TV Homburg,Block Mannschaft,Therese,Bopp,1997,8.873,W15,22.05.2011,St. Wendel,9,True,92f64dc67c3a8253a41b73ee9c89e5c23877bd117910095fe91aeb57c4b0e402
@@ -2733,7 +2733,7 @@ TV St. Wendel,Weitsprung,Linda,Thompson,1997,"4,66",W14,25.09.2011,Ottweiler,6,F
 LSG Neunkirchen,Weitsprung,Agnes,Fabian,1997,"4,66",W14,25.09.2011,Ottweiler,7,False,5700ae24145850b83dfd37c3b09221fd47190080c84dd70eeb1b164928ecb2b5
 LG DJK Erbach-SG St. Ingbert,Weitsprung,Mara,Thommes,1998,"4,65",W14,05.06.2011,St. Wendel,8,False,bc835c0be461c268ab05b0ca1b6c35ea27662e951fc3529e9025af23df10c05a
 LG DJK Erbach-SG St. Ingbert,Weitsprung,Annetta,Gerb,1997,"4,63",W14,09.06.2011,Saarbrücken,9,False,66c2d87a3b0ebd2cccebe9b1631a37d6e2c47fb0aa52a2a95c3f9230dd75ba89
-LG Reimsbach-Oppen,Weitsprung,Meike,Schneider,1997,"4,62",W14,09.06.2011,Saarbrücken,10,False,ecb66d4e4abc770e805e6d48c06aeaed3c1f6429d70cebadeef20beb9b598120
+LG Reimsbach-Oppen,Weitsprung,Maike,Schneider,1997,"4,62",W14,09.06.2011,Saarbrücken,10,False,33d0ba25dd6309a7a4dedd66403d0c03a4d262e7e2e63195a72d9160ef2256f0
 LC Rehlingen,Kugelstoß 3 kg,Stella,Clemens,1997,"13,43",W14,30.08.2011,Rehlingen,1,False,d732b6da88b20ad7847c21c087a497dcadc7ae51e0d440d33b5299ea6fcfb86d
 LSG Neunkirchen,Kugelstoß 3 kg,Anna,Schlegel,1997,"11,17",W14,15.10.2011,Überherrn-A.,2,False,2743959885dce5d5e73f978cd250c53a04e8fa37e48f9d237ba24b4332292267
 LSG Schmelz-Hüttersdorf,Kugelstoß 3 kg,Isabelle,Bernarding,1997,"9,65",W14,14.05.2011,Dillingen,3,False,4f8454f3881ca9e7c4e733c12e3e2290be07c6c3046462c8c9e4ed69c1efafce
@@ -2843,7 +2843,7 @@ LC Rehlingen,4 x 75 m Staffel,Simon,Hauck,0,"44,87",M13,10.05.2011,Rehlingen,5,T
 LC Rehlingen,4 x 75 m Staffel,Philipp,Wilbois,1999,"44,87",M13,10.05.2011,Rehlingen,5,True,076d3f13af0f5220e0e3dc76106c3e53825777172d8a64c97b8a7fd375a3cee7
 LC Rehlingen,4 x 75 m Staffel,Tim,Hoffmann,1998,"44,87",M13,10.05.2011,Rehlingen,5,True,3230ba2ef263e9fe49be79b2bb83c3f97b4f9937db1125f6706ed9c170da3616
 TV Germania 1910 Piesbach,4 x 75 m Staffel,Raphael,Klaus,1998,"45,09",M13,03.09.2011,Saarlouis,6,True,08d46cd04105ac8e5638ab2ea728d21a0c70615e232e467b3ed534a93479e382
-TV Germania 1910 Piesbach,4 x 75 m Staffel,Noah,Wamsbach,0,"45,09",M13,03.09.2011,Saarlouis,6,True,5398c54c897360242fb018c0c7a5d7221000fc88f6fc077a879d29539438bded
+TV Germania 1910 Piesbach,4 x 75 m Staffel,Noah,Wamsbach,1999,"45,09",M13,03.09.2011,Saarlouis,6,True,61437d37be034d74d2874d080744a4811f5f3b4f7470a15b7980f94608c3dffe
 TV Germania 1910 Piesbach,4 x 75 m Staffel,Louis,Walesch,0,"45,09",M13,03.09.2011,Saarlouis,6,True,3768d3910a4ae64e634b5900303c64d5ce566127135723f5e88194e782e731cf
 TV Germania 1910 Piesbach,4 x 75 m Staffel,Christian,Neu,1998,"45,09",M13,03.09.2011,Saarlouis,6,True,9bb1e5470df77564b5dcbebb052d7cf1660061681d7b51d3f6b7ae52f3f8bc2d
 LV Merzig,4 x 75 m Staffel,Sascha,Junker,1998,"45,19",M13,20.08.2011,Rehlingen,7,True,1c8c4fb45280c25787ce36395202f9f4aed58ae0572ca53d5712a277a85033fc
@@ -2864,7 +2864,7 @@ LAZ Saarbrücken,3 x 1000 m Staffel,Fabian,Jäkel,1998,"10:14,97",M13,25.08.2011
 LC Rehlingen,3 x 1000 m Staffel,Matthias,Gerner,1999,"10:33,69",M13,06.09.2011,Rehlingen,2,True,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
 LC Rehlingen,3 x 1000 m Staffel,Manuel,Bettinger,1998,"10:33,69",M13,06.09.2011,Rehlingen,2,True,5befb38cb7ae0ca44a7bb2b237b46c1dcc6763d4049a46b0ccce307665d0616f
 LC Rehlingen,3 x 1000 m Staffel,Philipp,Wilbois,1999,"10:33,69",M13,06.09.2011,Rehlingen,2,True,076d3f13af0f5220e0e3dc76106c3e53825777172d8a64c97b8a7fd375a3cee7
-TV Saarwellingen,3 x 1000 m Staffel,Frederik,Broy,0,"10:39,06",M13,06.09.2011,Rehlingen,3,True,8e2914e2f61d473bf4400e195c34a38f7c2e4830d9e45e0014f2f13570c7c5bc
+TV Saarwellingen,3 x 1000 m Staffel,Frederik,Broy,2000,"10:39,06",M13,06.09.2011,Rehlingen,3,True,28a85816b905901acf017b80df92eb7e3a09eacb2f47a9bda79e49b36fd0c4e4
 TV Saarwellingen,3 x 1000 m Staffel,Jens,Philippi,1999,"10:39,06",M13,06.09.2011,Rehlingen,3,True,351a6f7b061363b7e15213a8df6a229551248003e0e42c5ba8536c1b8ed47a7f
 TV Saarwellingen,3 x 1000 m Staffel,Niklas,Müller,1999,"10:39,06",M13,06.09.2011,Rehlingen,3,True,784ae955322b882138d8d550797146625ac096bd67c98b994785435729cfcfb6
 LC Rehlingen,3 x 1000 m Staffel,Hagen,Scherer,1999,"11:28,73",M13,06.09.2011,Rehlingen,4,True,0103c0a8ab022d409b7ea3fc5e4b4fd8cc18871e42555130baea7a18ebca8f3a
@@ -2880,7 +2880,7 @@ TV Elm,3 x 1000 m Staffel,Eike-Sören,Dörr,1998,"11:55,67",M13,06.09.2011,Rehli
 TV Elm,3 x 1000 m Staffel,Lennart,Juckel,0,"11:55,67",M13,06.09.2011,Rehlingen,7,True,f12d7f5e0ef3f64e1a1ecae42116323f78591d36c6080e8da7c0c9f27fda8eb6
 TV Elm,3 x 1000 m Staffel,Sven,Martini,1999,"11:55,67",M13,06.09.2011,Rehlingen,7,True,94e9340f4b9e8825d186615b1ce244369919bd94f371a6b82e29c741a87a432e
 ATSV Saarbrücken,3 x 1000 m Staffel,Felix,Rausch,1999,"12:04,22",M13,25.08.2011,Saarbrücken,8,True,999712356406162669f69e14be6d092a2a5826c9c70e24af23bff2c8543c47be
-ATSV Saarbrücken,3 x 1000 m Staffel,David,Delwing,0,"12:04,22",M13,25.08.2011,Saarbrücken,8,True,0023f0b9774edab917d94337deb40fc0353b32401ce30003e5b3a8d307768749
+ATSV Saarbrücken,3 x 1000 m Staffel,David,Delwing,1999,"12:04,22",M13,25.08.2011,Saarbrücken,8,True,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 ATSV Saarbrücken,3 x 1000 m Staffel,Alexander,Gruhn,0,"12:04,22",M13,25.08.2011,Saarbrücken,8,True,7bd6de660167be52d53a8988fb2cdeeb176ebfb39cd901740bb33e77641eb3bf
 LSG 98 Köllertal,3 x 1000 m Staffel,Jan,Keidel,0,"12:33,19",M13,10.04.2011,Püttlingen,9,True,9bedec1dc69c79e3a98feb8a115950a5374714518d487c744eaf8d57ccd35a0f
 LSG 98 Köllertal,3 x 1000 m Staffel,Daniel,Schreder,0,"12:33,19",M13,10.04.2011,Püttlingen,9,True,70860ffd3c1ce08c8266aed85719d7c8a6f44a73aa6b2343b334cdbb5f5f170b
@@ -2912,7 +2912,7 @@ TV Germania 1910 Piesbach,3-Kampf Ma.,Christian,Neu,1998,5.673,M13,07.05.2011,Pi
 TV Germania 1910 Piesbach,3-Kampf Ma.,Raphael,Klaus,1998,5.673,M13,07.05.2011,Piesbach,5,True,08d46cd04105ac8e5638ab2ea728d21a0c70615e232e467b3ed534a93479e382
 TV Germania 1910 Piesbach,3-Kampf Ma.,Jan,Berg,1998,5.673,M13,07.05.2011,Piesbach,5,True,01b845006a249e6d1a0eb280447ed11c4651aa956c0027440513d3b5c040f31f
 TV Germania 1910 Piesbach,3-Kampf Ma.,Louis,Walesch,0,5.673,M13,07.05.2011,Piesbach,5,True,3768d3910a4ae64e634b5900303c64d5ce566127135723f5e88194e782e731cf
-TV Germania 1910 Piesbach,3-Kampf Ma.,Noah,Wamsbach,0,5.673,M13,07.05.2011,Piesbach,5,True,5398c54c897360242fb018c0c7a5d7221000fc88f6fc077a879d29539438bded
+TV Germania 1910 Piesbach,3-Kampf Ma.,Noah,Wamsbach,1999,5.673,M13,07.05.2011,Piesbach,5,True,61437d37be034d74d2874d080744a4811f5f3b4f7470a15b7980f94608c3dffe
 LV Merzig,3-Kampf Ma.,Nicolas,Warken,1998,5.407,M13,07.05.2011,Piesbach,6,True,9647b6552270c29362ef7361305069d6a2b40362583edf48914a615018551d3b
 LV Merzig,3-Kampf Ma.,Lars,Leinen,1998,5.407,M13,07.05.2011,Piesbach,6,True,9abbfa56a8ea3de76d9876660721ebc35a7ab5e72709fdf29668ab8a4d19e33e
 LV Merzig,3-Kampf Ma.,Fabian,Schon,1999,5.407,M13,07.05.2011,Piesbach,6,True,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
@@ -2925,8 +2925,8 @@ LSG 98 Köllertal,3-Kampf Ma.,Lukas,Schöpp,1999,5.397,M13,18.06.2011,Püttlinge
 LSG 98 Köllertal,3-Kampf Ma.,Tobias,Scherer,0,5.397,M13,18.06.2011,Püttlingen,7,True,ed0096b6e3e2370114db9f152c0153a7536dc9329d1b454e6aa27ba5fe214476
 TV Saarwellingen,3-Kampf Ma.,Niklas,Müller,1999,5.261,M13,18.09.2011,Saarlouis,8,True,784ae955322b882138d8d550797146625ac096bd67c98b994785435729cfcfb6
 TV Saarwellingen,3-Kampf Ma.,Jens,Philippi,1999,5.261,M13,18.09.2011,Saarlouis,8,True,351a6f7b061363b7e15213a8df6a229551248003e0e42c5ba8536c1b8ed47a7f
-TV Saarwellingen,3-Kampf Ma.,Frederik,Broy,0,5.261,M13,18.09.2011,Saarlouis,8,True,8e2914e2f61d473bf4400e195c34a38f7c2e4830d9e45e0014f2f13570c7c5bc
-TV Saarwellingen,3-Kampf Ma.,Sebastian,Johannes,0,5.261,M13,18.09.2011,Saarlouis,8,True,7f8c9d688452f1eba347bc1ad8427272ddcde49807a73c34e112f463edf4ceb7
+TV Saarwellingen,3-Kampf Ma.,Frederik,Broy,2000,5.261,M13,18.09.2011,Saarlouis,8,True,28a85816b905901acf017b80df92eb7e3a09eacb2f47a9bda79e49b36fd0c4e4
+TV Saarwellingen,3-Kampf Ma.,Sebastian,Johannes,1999,5.261,M13,18.09.2011,Saarlouis,8,True,7a37d63eb194429ef164bdf6b8fc17456e29a25a6dd70e8e12845827f5d31f90
 TV Saarwellingen,3-Kampf Ma.,Aaron,Löw,0,5.261,M13,18.09.2011,Saarlouis,8,True,694d4da5ffec2f91b7b15b4d525ce39e79c2b6d05a8c95b7af5a0500ca820e2e
 TV Elm,3-Kampf Ma.,Yannik,Fendel,1998,5.139,M13,07.05.2011,Piesbach,9,True,4351360c2914909fff4307d8f32c1f7eacf6439f1cc5ee7c9db7162956be87f0
 TV Elm,3-Kampf Ma.,Eugen,Mousichidis,1999,5.139,M13,07.05.2011,Piesbach,9,True,10d4a0e2bedfd60671dbefb3649aae751679059bd0f87e234874e0abcfdb2e94
@@ -2934,10 +2934,10 @@ TV Elm,3-Kampf Ma.,Eike-Sören,Dörr,1998,5.139,M13,07.05.2011,Piesbach,9,True,7
 TV Elm,3-Kampf Ma.,Sven,Martini,1999,5.139,M13,07.05.2011,Piesbach,9,True,94e9340f4b9e8825d186615b1ce244369919bd94f371a6b82e29c741a87a432e
 TV Elm,3-Kampf Ma.,Lennart,Juckel,0,5.139,M13,07.05.2011,Piesbach,9,True,f12d7f5e0ef3f64e1a1ecae42116323f78591d36c6080e8da7c0c9f27fda8eb6
 LAZ Saarbrücken,3-Kampf Ma.,Leon,Röll-Carrere,0,5.106,M13,18.09.2011,Saarlouis,10,True,9aa8b9145fd72939c936da9855d8c37230564ac180e1a18bc5b4e7aac3baf08a
-LAZ Saarbrücken,3-Kampf Ma.,Lars,Stöckel,0,5.106,M13,18.09.2011,Saarlouis,10,True,e1c062e21150a7c2e6d2e62374c79075d879967638bd213bfb94356432259b70
+LAZ Saarbrücken,3-Kampf Ma.,Lars,Stöckel,1998,5.106,M13,18.09.2011,Saarlouis,10,True,1c7a34e3a936bc0ff7b43a07e55f917d34089ad032954438725273cac430fceb
 LAZ Saarbrücken,3-Kampf Ma.,Florian,Nimmrichter,1999,5.106,M13,18.09.2011,Saarlouis,10,True,65277f714a5a3a4bd6e0453019099380624dc49b16a5b1dbd8c5c53069bc3e0f
 LAZ Saarbrücken,3-Kampf Ma.,Louis,Thiel,1998,5.106,M13,18.09.2011,Saarlouis,10,True,2ff615b31cebbf18c491a23da408bc17cb63f8656297f2ce46152d8fee6af78a
-LAZ Saarbrücken,3-Kampf Ma.,Jan,Schilling,0,5.106,M13,18.09.2011,Saarlouis,10,True,04fadcfcf0619b2de44e246d2e2f968faa49ced3968d434d289ce6a7d0e93b95
+LAZ Saarbrücken,3-Kampf Ma.,Jan,Schilling,1998,5.106,M13,18.09.2011,Saarlouis,10,True,c5647c3fe33306db85e638acdca758a2313d38fb4480cd74dc3d164ddddca9b3
 TV Homburg,4-Kampf Ma.,Max,Seyler,1998,8.654,M13,18.09.2011,Saarlouis,1,True,6209d20782f0812442c30b259fff199a5426490a517095404a177388c33cacf9
 TV Homburg,4-Kampf Ma.,Marcel,Treskanica,1998,8.654,M13,18.09.2011,Saarlouis,1,True,aa7b6f731ae578f2a58ad5c55f53dcd6198147aaa0310445a6d0a8823413661d
 TV Homburg,4-Kampf Ma.,Ferdinand,Bopp,1998,8.654,M13,18.09.2011,Saarlouis,1,True,c457eb30f8c134278cb0272338bff739c8fde6199d3acc9db41714ba1ba9c9ea
@@ -2957,7 +2957,7 @@ TV Germania 1910 Piesbach,4-Kampf Ma.,Christian,Neu,1998,7.480,M13,07.05.2011,Pi
 TV Germania 1910 Piesbach,4-Kampf Ma.,Raphael,Klaus,1998,7.480,M13,07.05.2011,Piesbach,4,True,08d46cd04105ac8e5638ab2ea728d21a0c70615e232e467b3ed534a93479e382
 TV Germania 1910 Piesbach,4-Kampf Ma.,Jan,Berg,1998,7.480,M13,07.05.2011,Piesbach,4,True,01b845006a249e6d1a0eb280447ed11c4651aa956c0027440513d3b5c040f31f
 TV Germania 1910 Piesbach,4-Kampf Ma.,Louis,Walesch,0,7.480,M13,07.05.2011,Piesbach,4,True,3768d3910a4ae64e634b5900303c64d5ce566127135723f5e88194e782e731cf
-TV Germania 1910 Piesbach,4-Kampf Ma.,Noah,Wamsbach,0,7.480,M13,07.05.2011,Piesbach,4,True,5398c54c897360242fb018c0c7a5d7221000fc88f6fc077a879d29539438bded
+TV Germania 1910 Piesbach,4-Kampf Ma.,Noah,Wamsbach,1999,7.480,M13,07.05.2011,Piesbach,4,True,61437d37be034d74d2874d080744a4811f5f3b4f7470a15b7980f94608c3dffe
 LV Merzig,4-Kampf Ma.,Nicolas,Warken,1998,7.258,M13,07.05.2011,Piesbach,5,True,9647b6552270c29362ef7361305069d6a2b40362583edf48914a615018551d3b
 LV Merzig,4-Kampf Ma.,Lars,Leinen,1998,7.258,M13,07.05.2011,Piesbach,5,True,9abbfa56a8ea3de76d9876660721ebc35a7ab5e72709fdf29668ab8a4d19e33e
 LV Merzig,4-Kampf Ma.,Fabian,Schon,1999,7.258,M13,07.05.2011,Piesbach,5,True,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
@@ -2986,7 +2986,7 @@ TV Homburg,Block Mannschaft,Yannik,Ranker,1999,10.392,M13,22.05.2011,St. Wendel,
 LAZ Saarbrücken,Block Mannschaft,Fabian,Jäkel,1998,9.333,M13,22.05.2011,St. Wendel,2,True,3db3855a994db559c0d4cb837ddabf23814b73998faedfe788010b092a6d67cd
 LAZ Saarbrücken,Block Mannschaft,Adrian,Bellmann,1999,9.333,M13,22.05.2011,St. Wendel,2,True,b95689aba2f79d17096a6bc5ef15027cffcc815c6fdafbc8808b819e87972c6c
 LAZ Saarbrücken,Block Mannschaft,Yann,Biehl,1998,9.333,M13,22.05.2011,St. Wendel,2,True,af59e81dd43375ac9183ac437ee902e37ba46bc000b545c5b40168543812bb5f
-LAZ Saarbrücken,Block Mannschaft,Torsten,Mahler,0,9.333,M13,22.05.2011,St. Wendel,2,True,d0afa3de6e4ee44715c837d60d54873413ba102c3adea6625d038e71ab3c2fcb
+LAZ Saarbrücken,Block Mannschaft,Torsten,Mahler,1998,9.333,M13,22.05.2011,St. Wendel,2,True,2538dc48f59ab4a49c33e6b2af90015589c8af6e24c2129a360b35acf98697c2
 LAZ Saarbrücken,Block Mannschaft,Louis,Thiel,1998,9.333,M13,22.05.2011,St. Wendel,2,True,2ff615b31cebbf18c491a23da408bc17cb63f8656297f2ce46152d8fee6af78a
 LC Rehlingen,Block Mannschaft,Justin,Magard,1998,9.088,M13,22.05.2011,St. Wendel,3,True,a78d930defc79e16047c7e02a64cfb913746325125d6dd58c2386418eeacd4ed
 LC Rehlingen,Block Mannschaft,Oliver,Jakob,1999,9.088,M13,22.05.2011,St. Wendel,3,True,cae66dd33ffc2f03a7e1a82eff2f79aabf7ae2bc315ba97952d8321d9264c848
@@ -3008,8 +3008,8 @@ TV Elm,Block Mannschaft,Eugen,Mousichidis,1999,7.716,M13,22.05.2011,St. Wendel,6
 TV Elm,Block Mannschaft,Eike,Dörr,0,7.716,M13,22.05.2011,St. Wendel,6,True,229999f2f091285ff8693362dd7c886c3b2f4890432072e5d02343754ebd1414
 TV Elm,Block Mannschaft,Lennart,Juckel,0,7.716,M13,22.05.2011,St. Wendel,6,True,f12d7f5e0ef3f64e1a1ecae42116323f78591d36c6080e8da7c0c9f27fda8eb6
 TV Elm,Block Mannschaft,Sven,Martini,1999,7.716,M13,22.05.2011,St. Wendel,6,True,94e9340f4b9e8825d186615b1ce244369919bd94f371a6b82e29c741a87a432e
-LAZ Saarbrücken,Block Mannschaft,Lars,Stöckel,0,7.026,M13,22.05.2011,St. Wendel,7,True,e1c062e21150a7c2e6d2e62374c79075d879967638bd213bfb94356432259b70
-LAZ Saarbrücken,Block Mannschaft,Jan,Schilling,0,7.026,M13,22.05.2011,St. Wendel,7,True,04fadcfcf0619b2de44e246d2e2f968faa49ced3968d434d289ce6a7d0e93b95
+LAZ Saarbrücken,Block Mannschaft,Lars,Stöckel,1998,7.026,M13,22.05.2011,St. Wendel,7,True,1c7a34e3a936bc0ff7b43a07e55f917d34089ad032954438725273cac430fceb
+LAZ Saarbrücken,Block Mannschaft,Jan,Schilling,1998,7.026,M13,22.05.2011,St. Wendel,7,True,c5647c3fe33306db85e638acdca758a2313d38fb4480cd74dc3d164ddddca9b3
 LAZ Saarbrücken,Block Mannschaft,Johannes,Neufang,1999,7.026,M13,22.05.2011,St. Wendel,7,True,cfc7c3c218fd7da5e493f4e5e5cff47a930fee6849b5345a8c0a93e68d4202b6
 LAZ Saarbrücken,Block Mannschaft,Florian,Nimmrichter,1999,7.026,M13,22.05.2011,St. Wendel,7,True,65277f714a5a3a4bd6e0453019099380624dc49b16a5b1dbd8c5c53069bc3e0f
 LAZ Saarbrücken,Block Mannschaft,Manuel,Vogel,0,7.026,M13,22.05.2011,St. Wendel,7,True,51f7e8df8da64595071922c62855bc6b5a91722501f61bd234425fb97f4f4050
@@ -3359,14 +3359,14 @@ SV Schlau.Com Saar 05 SBR.,4 x 75 m Staffel,Nora,Lesch,0,"42,00",W13,03.09.2011,
 TV Saarwellingen,4 x 75 m Staffel,Carolin,Rupp,1998,"42,45",W13,14.08.2011,Dillingen,5,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 TV Saarwellingen,4 x 75 m Staffel,Hannah,Czapla,1998,"42,45",W13,14.08.2011,Dillingen,5,True,b5d37688ab329fc65b47e7e00facc180096d6d313a8f7c211b2532d8c5c81a4b
 TV Saarwellingen,4 x 75 m Staffel,Louisa,Bommersbach,1999,"42,45",W13,14.08.2011,Dillingen,5,True,4df7fac54b41fc2e8f234db6b8d0eedf021bebda78743398bbdaa99bc99709dc
-TV Saarwellingen,4 x 75 m Staffel,Aline,Zöhler,0,"42,45",W13,14.08.2011,Dillingen,5,True,346a01dc9bcc930856445488a39c43e88618fd4135c94d12ffa9114a845a30d7
+TV Saarwellingen,4 x 75 m Staffel,Aline,Zöhler,1999,"42,45",W13,14.08.2011,Dillingen,5,True,bd7c461b34a9b545a52d80f71002b911142e87dfddee0222f1c33db903476bc5
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Mara,Thommes,1998,"42,54",W13,14.08.2011,Homburg,6,True,bc835c0be461c268ab05b0ca1b6c35ea27662e951fc3529e9025af23df10c05a
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Janina,Markwirth,0,"42,54",W13,14.08.2011,Homburg,6,True,ddbed2ff63fd8ab17c7760a966f008b2d15e23f1ccad48c2ddeeb17d470f7669
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Celine,Hoffmann,1998,"42,54",W13,14.08.2011,Homburg,6,True,25aa3134f48036a3ff477bec9d311e47e7a55b663de182e3d5f25c579a51811f
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Emely,Detzler,1998,"42,54",W13,14.08.2011,Homburg,6,True,25fb713593a5b6e5d4ae102add7bc42a1327b67aa19b1de63185d7535188263e
 LG Reimsbach-Oppen,4 x 75 m Staffel,Meike,Jakob,1999,"42,65",W13,03.09.2011,Saarlouis,7,True,e29d800659851769996f4010dd4b892cbbd745ecf98d405110cae073d3cd314c
 LG Reimsbach-Oppen,4 x 75 m Staffel,Selina,Wendels,1999,"42,65",W13,03.09.2011,Saarlouis,7,True,cd8c7d3af67a4d7d1cc21191f9f8f5170066c791e1b7da448ffb50fe6bdcc0ff
-LG Reimsbach-Oppen,4 x 75 m Staffel,Jana,Hammes,0,"42,65",W13,03.09.2011,Saarlouis,7,True,517d401cbfc639c3dcec0052e8aba210d9f1ecd24757c7e7c8f45c421fd9dd0b
+LG Reimsbach-Oppen,4 x 75 m Staffel,Jana,Hammes,1999,"42,65",W13,03.09.2011,Saarlouis,7,True,bf42ecc5964a9ada3fdf9477ea42ab6382eed612f39b7f6ddb0fa883f8a859a5
 LG Reimsbach-Oppen,4 x 75 m Staffel,Carina,Bierle,1998,"42,65",W13,03.09.2011,Saarlouis,7,True,bfb97e23f559a78abd06c0672c2683845caf4e69d8a4113446d9e12fa456ad40
 LSG Neunkirchen,4 x 75 m Staffel,Chiara,Gallo,1999,"42,71",W13,03.09.2011,Saarlouis,8,True,a556ebf50d9caf93335148555921837255545a3972afb0f43508b1ab43ee361f
 LSG Neunkirchen,4 x 75 m Staffel,Michelle,Euschen,1998,"42,71",W13,03.09.2011,Saarlouis,8,True,62692f721eaa4dcc95cc56c26ed4776e5439b88f7929c4b318b53c187a390633
@@ -3390,7 +3390,7 @@ SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Sarah-Christine,Müller,1998,"8:42,
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Nora,Lesch,0,"8:42,25",W13,25.08.2011,Saarbrücken,3,True,12bc417dde513f9fd987b27bd8f3863d5df971d24792261a9620771fbfe958d3
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Lara,Martin,1999,"8:42,25",W13,25.08.2011,Saarbrücken,3,True,9556d667991668c038b1a3efcce6918a99b4dfc2a2f63ecbdec07ae20a908032
 TV Saarwellingen,3 x 800 m Staffel,Paula,Weber,1999,"8:52,66",W13,06.09.2011,Rehlingen,4,True,4382f2e8408777963c2ea00a93b3159c88c67e1506bcb1f863db9f6e39304cfe
-TV Saarwellingen,3 x 800 m Staffel,Aline,Zöhler,0,"8:52,66",W13,06.09.2011,Rehlingen,4,True,346a01dc9bcc930856445488a39c43e88618fd4135c94d12ffa9114a845a30d7
+TV Saarwellingen,3 x 800 m Staffel,Aline,Zöhler,1999,"8:52,66",W13,06.09.2011,Rehlingen,4,True,bd7c461b34a9b545a52d80f71002b911142e87dfddee0222f1c33db903476bc5
 TV Saarwellingen,3 x 800 m Staffel,Carolin,Rupp,1998,"8:52,66",W13,06.09.2011,Rehlingen,4,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 LSG 98 Köllertal,3 x 800 m Staffel,Eva,Schroeder,0,"9:10,18",W13,10.04.2011,Püttlingen,5,True,e82f1b1b6ef9a8c2579f78851c2d921c4538672a7e7246935c05f53ca347d3ba
 LSG 98 Köllertal,3 x 800 m Staffel,Celina,Schweizer,1999,"9:10,18",W13,10.04.2011,Püttlingen,5,True,7823437abff759aa326920cf843e34cf28332cd88967e099c2ec399122f9dda8
@@ -3398,7 +3398,7 @@ LSG 98 Köllertal,3 x 800 m Staffel,Elisa,Busch,1999,"9:10,18",W13,10.04.2011,P�
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Teresa,Bubel,1999,"9:11,79",W13,25.08.2011,Saarbrücken,6,True,d62be61dc53b8745210daa945d1b7ac59df3fc4ebaa14f14a2e4bea0055f2423
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Kristina,Jost,1998,"9:11,79",W13,25.08.2011,Saarbrücken,6,True,7c25efd2bf8ef0afb69b81f9faa4b6baa3db6d9a9e4c4a1b729cdcbf359ec43e
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Florence,Grünewald,0,"9:11,79",W13,25.08.2011,Saarbrücken,6,True,b7394931f19ee5dc4c707ea24c953cb2c036460ea919b2bbe21f1d849af917a1
-LC Rehlingen,3 x 800 m Staffel,Anna,Klesen,0,"9:12,98",W13,06.09.2011,Rehlingen,7,True,aa66cdec12db9876aacab714b109b63efce1ee5c7982ce0ebfaf7ada84486922
+LC Rehlingen,3 x 800 m Staffel,Anna,Klesen,1999,"9:12,98",W13,06.09.2011,Rehlingen,7,True,df6b25082b3d02bb474d17add2a6f2ebd740fbf830dcf5c00ec51147ce07f942
 LC Rehlingen,3 x 800 m Staffel,Lara,Stiebel,0,"9:12,98",W13,06.09.2011,Rehlingen,7,True,caa83f7c9587296bbefc7610df1d912d284c6f70796f9ab1e582623e3878ba1a
 LC Rehlingen,3 x 800 m Staffel,Joline,Seiwert,0,"9:12,98",W13,06.09.2011,Rehlingen,7,True,0a8c9fa31d0e3230d40c8d965da4ab75a0b2738173cbb6efd8e78c660383f08b
 LSG 98 Köllertal,3 x 800 m Staffel,Franziska,Kramp,1998,"9:18,05",W13,10.04.2011,Püttlingen,8,True,c939acfec079185b5e147d7810fee42e1017b541ad3f8b558c6d9c566f457c2e
@@ -3420,7 +3420,7 @@ LC Rehlingen,3-Kampf Ma.,Silvana,Tinnes,1999,6.573,W13,07.05.2011,Piesbach,2,Tru
 LC Rehlingen,3-Kampf Ma.,Amelie,Klein,1998,6.573,W13,07.05.2011,Piesbach,2,True,0ba2b324ba65f6f8c70d0b05f3ccf0e21035237a5e9e7ab1bd95abc39b4cf585
 LC Rehlingen,3-Kampf Ma.,Lee,Wegener,1999,6.573,W13,07.05.2011,Piesbach,2,True,65b84e5725913d9e8e2f5384220b3911fa466855841c7a37ad1d5e2faf52c861
 LC Rehlingen,3-Kampf Ma.,Julie,Maas,1998,6.573,W13,07.05.2011,Piesbach,2,True,01fff7a2d1d7b7485e2085b0e56cb1d5fde91a39454802d817924b4dab51d760
-LG Reimsbach-Oppen,3-Kampf Ma.,Anna,Grünewald,0,6.236,W13,18.09.2011,Saarlouis,3,True,2dfa68069b185d0bb1a7055694c73b8e504979edf9a6396499cfa8976ed3b29f
+LG Reimsbach-Oppen,3-Kampf Ma.,Anna,Grünewald,1998,6.236,W13,18.09.2011,Saarlouis,3,True,6e0a7af9fee6f7b3d86fab73deeaeb95aa69e6dec07d187c75e613b24db5a2e0
 LG Reimsbach-Oppen,3-Kampf Ma.,Selina,Wendels,1999,6.236,W13,18.09.2011,Saarlouis,3,True,cd8c7d3af67a4d7d1cc21191f9f8f5170066c791e1b7da448ffb50fe6bdcc0ff
 LG Reimsbach-Oppen,3-Kampf Ma.,Carina,Bierle,1998,6.236,W13,18.09.2011,Saarlouis,3,True,bfb97e23f559a78abd06c0672c2683845caf4e69d8a4113446d9e12fa456ad40
 LG Reimsbach-Oppen,3-Kampf Ma.,Meike,Jakob,1999,6.236,W13,18.09.2011,Saarlouis,3,True,e29d800659851769996f4010dd4b892cbbd745ecf98d405110cae073d3cd314c
@@ -3448,7 +3448,7 @@ LSG Neunkirchen,3-Kampf Ma.,Jana,Fuhrmann,1999,6.138,W13,09.09.2011,Birkenfeld,7
 TV Saarwellingen,3-Kampf Ma.,Carolin,Rupp,1998,5.938,W13,07.05.2011,Piesbach,8,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 TV Saarwellingen,3-Kampf Ma.,Hannah,Czapla,1998,5.938,W13,07.05.2011,Piesbach,8,True,b5d37688ab329fc65b47e7e00facc180096d6d313a8f7c211b2532d8c5c81a4b
 TV Saarwellingen,3-Kampf Ma.,Paula,Weber,1999,5.938,W13,07.05.2011,Piesbach,8,True,4382f2e8408777963c2ea00a93b3159c88c67e1506bcb1f863db9f6e39304cfe
-TV Saarwellingen,3-Kampf Ma.,Aline,Zöhler,0,5.938,W13,07.05.2011,Piesbach,8,True,346a01dc9bcc930856445488a39c43e88618fd4135c94d12ffa9114a845a30d7
+TV Saarwellingen,3-Kampf Ma.,Aline,Zöhler,1999,5.938,W13,07.05.2011,Piesbach,8,True,bd7c461b34a9b545a52d80f71002b911142e87dfddee0222f1c33db903476bc5
 TV Saarwellingen,3-Kampf Ma.,Marine,Schorr,0,5.938,W13,07.05.2011,Piesbach,8,True,dadb09e59d77584059a618a9396e1e743d7465fc1e3ee6b0573d3e2a81acc32c
 LAZ Saarbrücken,3-Kampf Ma.,Paula,Lorson,1999,5.763,W13,18.09.2011,Saarlouis,9,True,faf3f75e01b9d39a9d396efc031c7cc7c2a1d1813c369665376e7908d8562e7d
 LAZ Saarbrücken,3-Kampf Ma.,Julia,Berke,1999,5.763,W13,18.09.2011,Saarlouis,9,True,f2846174c65fa27b61fdee10757103b9b2952b56a2b034a36251dc3e4506983a
@@ -3480,7 +3480,7 @@ LSG 98 Köllertal,4-Kampf Ma.,Kathrina,Witt,1998,8.103,W13,18.09.2011,Saarlouis,
 LSG 98 Köllertal,4-Kampf Ma.,Franziska,Kramp,1998,8.103,W13,18.09.2011,Saarlouis,4,True,c939acfec079185b5e147d7810fee42e1017b541ad3f8b558c6d9c566f457c2e
 LSG 98 Köllertal,4-Kampf Ma.,Kathrin,Loebens,1999,8.103,W13,18.09.2011,Saarlouis,4,True,222aa9e7ab18800079d3ccb1e074c72749c8e3d6bb49f0f68ed6cc67558f8084
 LSG 98 Köllertal,4-Kampf Ma.,Elisa,Busch,1999,8.103,W13,18.09.2011,Saarlouis,4,True,69b93659d8bf3cb711770cc3de8c87ab42cf489f8b0fd62bef31b9ee5e999c0b
-LG Reimsbach-Oppen,4-Kampf Ma.,Anna,Grünewald,0,7.888,W13,18.09.2011,Saarlouis,5,True,2dfa68069b185d0bb1a7055694c73b8e504979edf9a6396499cfa8976ed3b29f
+LG Reimsbach-Oppen,4-Kampf Ma.,Anna,Grünewald,1998,7.888,W13,18.09.2011,Saarlouis,5,True,6e0a7af9fee6f7b3d86fab73deeaeb95aa69e6dec07d187c75e613b24db5a2e0
 LG Reimsbach-Oppen,4-Kampf Ma.,Selina,Wendels,1999,7.888,W13,18.09.2011,Saarlouis,5,True,cd8c7d3af67a4d7d1cc21191f9f8f5170066c791e1b7da448ffb50fe6bdcc0ff
 LG Reimsbach-Oppen,4-Kampf Ma.,Isabel,Werner,1998,7.888,W13,18.09.2011,Saarlouis,5,True,f11c0b346d128959d5cbd35c660dba66d8595966c01d7fe80d88a085a337b534
 LG Reimsbach-Oppen,4-Kampf Ma.,Carina,Bierle,1998,7.888,W13,18.09.2011,Saarlouis,5,True,bfb97e23f559a78abd06c0672c2683845caf4e69d8a4113446d9e12fa456ad40
@@ -3493,7 +3493,7 @@ SV Schlau.Com Saar 05 SBR.,4-Kampf Ma.,Friederike,Imm,0,7.688,W13,18.09.2011,Saa
 TV Saarwellingen,4-Kampf Ma.,Carolin,Rupp,1998,7.588,W13,07.05.2011,Piesbach,7,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 TV Saarwellingen,4-Kampf Ma.,Hannah,Czapla,1998,7.588,W13,07.05.2011,Piesbach,7,True,b5d37688ab329fc65b47e7e00facc180096d6d313a8f7c211b2532d8c5c81a4b
 TV Saarwellingen,4-Kampf Ma.,Paula,Weber,1999,7.588,W13,07.05.2011,Piesbach,7,True,4382f2e8408777963c2ea00a93b3159c88c67e1506bcb1f863db9f6e39304cfe
-TV Saarwellingen,4-Kampf Ma.,Aline,Zöhler,0,7.588,W13,07.05.2011,Piesbach,7,True,346a01dc9bcc930856445488a39c43e88618fd4135c94d12ffa9114a845a30d7
+TV Saarwellingen,4-Kampf Ma.,Aline,Zöhler,1999,7.588,W13,07.05.2011,Piesbach,7,True,bd7c461b34a9b545a52d80f71002b911142e87dfddee0222f1c33db903476bc5
 TV Saarwellingen,4-Kampf Ma.,Marine,Schorr,0,7.588,W13,07.05.2011,Piesbach,7,True,dadb09e59d77584059a618a9396e1e743d7465fc1e3ee6b0573d3e2a81acc32c
 LSG Neunkirchen,4-Kampf Ma.,Meike,Schreiner,1998,7.322,W13,07.05.2011,St.Wendel,8,True,42c42afdfd34fb3fe79f0f0a9f358b5ee0851401fff1548cfde3f5791cc25f3e
 LSG Neunkirchen,4-Kampf Ma.,Juliette,Fabian,1999,7.322,W13,07.05.2011,St.Wendel,8,True,dd20124eeb5d0711130769f541f748825d0f6cfa026b709f610ae604a0077fb3
@@ -3543,7 +3543,7 @@ LG Saar 70,Block Mannschaft,Madeleine,Bäsel,0,9.066,W13,22.05.2011,St. Wendel,6
 TV Saarwellingen,Block Mannschaft,Carolin,Rupp,1998,8.604,W13,22.05.2011,St. Wendel,7,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 TV Saarwellingen,Block Mannschaft,Paula,Weber,1999,8.604,W13,22.05.2011,St. Wendel,7,True,4382f2e8408777963c2ea00a93b3159c88c67e1506bcb1f863db9f6e39304cfe
 TV Saarwellingen,Block Mannschaft,Hannah,Czapla,1998,8.604,W13,22.05.2011,St. Wendel,7,True,b5d37688ab329fc65b47e7e00facc180096d6d313a8f7c211b2532d8c5c81a4b
-TV Saarwellingen,Block Mannschaft,Marie,Schorr,0,8.604,W13,22.05.2011,St. Wendel,7,True,d7ee5d06ba00f438c33e4119468534e0b4c0dc180d81cc03f33a3fa7ebdfeb5e
+TV Saarwellingen,Block Mannschaft,Marie,Schorr,1998,8.604,W13,22.05.2011,St. Wendel,7,True,4c193ca1fa01e9ce304362d36bb842d22af45878511391d55091a464f58614b0
 TV Saarwellingen,Block Mannschaft,Lea,Dennemärker,1998,8.604,W13,22.05.2011,St. Wendel,7,True,b1f22b489e4babc36c176561c90cda069c2c25353a0673b23c32a7a2d91f514d
 LC Rehlingen,75 m Lauf,Manuella,Afane,1998,"9,95",W13,27.07.2011,Friedrichsthal,1,False,ae06968208ae3515cf6f12379e70f4dca64e8dddaa2df4d4c69668f877d72f88
 TV Saarwellingen,75 m Lauf,Carolin,Rupp,1998,"10,21",W13,14.08.2011,Dillingen,2,False,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
@@ -3592,7 +3592,7 @@ SV Schlau.Com Saar 05 SBR.,60 m Hürden 0.762m,Kristina,Jost,1998,"11,24",W13,03
 SV Schlau.Com Saar 05 SBR.,60 m Hürden 0.762m,Celina,Gorges,1998,"11,45",W13,14.08.2011,Rehlingen,8,False,b2d2fa1de6222289ea9be730d268c1af9ad33752cc9b2614cb91663eef0ac9ca
 TV Elm,60 m Hürden 0.762m,Nina,Habermann,1998,"11,53",W13,14.08.2011,Rehlingen,9,False,c9fb55c2871af30cdc5e3270882814ebc05c96edd69ff0eba47f05406e203569
 LSG Neunkirchen,60 m Hürden 0.762m,Meike,Schreiner,1998,"11,60",W13,03.09.2011,Saarlouis,10,False,42c42afdfd34fb3fe79f0f0a9f358b5ee0851401fff1548cfde3f5791cc25f3e
-TV Ludweiler,2000 m Bahngehen,Anna,Hermann,1998,"13:09,73",W13,01.10.2011,Ludweiler,1,False,e72c6c6f13836e03a3019d5c192772d0156e0d48a90e2bd5166a07892df605f9
+TV Ludweiler,2000 m Bahngehen,Anna,Herrmann,1998,"13:09,73",W13,01.10.2011,Ludweiler,1,False,ef3328dde2e1f62b3213b1a768bacbfe06a1dc1b3fde30e968f85cb4f6af4ae6
 TV Ludweiler,2000 m Bahngehen,Lara,Stähly,1998,"14:11,75",W13,01.10.2011,Ludweiler,2,False,64ec36a3aa8cc0ae85ed2ee4efb3532edb2455610cf7d60b73f91b6e4455c83a
 LG DJK Erbach-SG St. Ingbert,Hochsprung,Mara,Thommes,1998,"1,48",W13,18.09.2011,Saarlouis,1,False,bc835c0be461c268ab05b0ca1b6c35ea27662e951fc3529e9025af23df10c05a
 TV Germania 1910 Piesbach,Hochsprung,Lea-Marie,Stenglein,1998,"1,44",W13,07.05.2011,Piesbach,2,False,99bf1cb7cef81318bf620d128931b780c9645aed0ed44b78286c19634f356296
@@ -3660,7 +3660,7 @@ SV Schlau.Com Saar 05 SBR.,Schlagball 80g,Nina,Stier,1998,"43,00",W13,27.08.2011
 TV Saarwellingen,Schlagball 80g,Hannah,Czapla,1998,"41,50",W13,03.09.2011,Saarlouis,6,False,b5d37688ab329fc65b47e7e00facc180096d6d313a8f7c211b2532d8c5c81a4b
 LC 72 Altenkessel,Schlagball 80g,Svenja,Jakobs,1998,"40,00",W13,27.08.2011,Saarbrücken,7,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
 LV Merzig,Schlagball 80g,Arwen Lela,Conrath,1998,"40,00",W13,03.09.2011,Saarlouis,8,False,560cb1398704a020d0f38ac4a61add439aedcfda868a0385999f42b53c656cfb
-TV Völklingen,Schlagball 80g,Leah-Marie,Perschke,1998,"39,00",W13,30.04.2011,Saarlouis,9,False,3a3745fdb169c2f3007ceb30a1d79a6a63a42c6829e79eb77288c28c10f37a7c
+TV Völklingen,Schlagball 80g,Leah- Marie,Perschke,1998,"39,00",W13,30.04.2011,Saarlouis,9,False,42ef299fa12ed06ba043235cb2a391c4b0a4e57aa462286648ca296248f25438
 SV Schlau.Com Saar 05 SBR.,Schlagball 80g,Kristina,Jost,1998,"38,00",W13,14.08.2011,Rehlingen,10,False,7c25efd2bf8ef0afb69b81f9faa4b6baa3db6d9a9e4c4a1b729cdcbf359ec43e
 LC Rehlingen,3-Kampf,Manuella,Afane,1998,1.605,W13,30.04.2011,Saarlouis,1,False,ae06968208ae3515cf6f12379e70f4dca64e8dddaa2df4d4c69668f877d72f88
 SV Schlau.Com Saar 05 SBR.,3-Kampf,Nina,Stier,1998,1.445,W13,18.09.2011,Saarlouis,2,False,6aa9773d21675e0a6846199eee9cbe7c572ca3355bdb84b23f09e922549088c4
@@ -3741,7 +3741,7 @@ LSG Neunkirchen,2000 m Lauf,Jana,Fuhrmann,1999,"8:16,90",W12,02.04.2011,Rehlinge
 LSG 98 Köllertal,2000 m Lauf,Elisa,Busch,1999,"8:32,71",W12,27.08.2011,Saarbrücken,9,False,69b93659d8bf3cb711770cc3de8c87ab42cf489f8b0fd62bef31b9ee5e999c0b
 LG Reimsbach-Oppen,2000 m Lauf,Selina,Wendels,1999,"8:39,33",W12,02.04.2011,Rehlingen,10,False,cd8c7d3af67a4d7d1cc21191f9f8f5170066c791e1b7da448ffb50fe6bdcc0ff
 LV Merzig,5 km Str.,Jamina,Holbach,2000,22:15,W12,25.09.2011,Hilbringen,1,False,ae649468f9955352c814740e59aafe119dfdfbacb37ca18ce199c3d04f63b568
-LV Merzig,5 km Str.,Michelle,Kiefer,2000,24:27,W12,25.09.2011,Hilbringen,2,False,b080390fc016aaddf7add678cd23fc3b422c5c5f2ff7accecf928ae16d6d6f47
+LV Merzig,5 km Str.,Michelle Marie,Kiefer,2000,24:27,W12,25.09.2011,Hilbringen,2,False,5be2e5087bc08c134292323e6938e4b082e4c18859e7925158b17fc2d8df8794
 LAZ Saarbrücken,5 km Str.,Lana,Riebes,1999,24:55,W12,01.11.2011,Hockenheim,3,False,23db594d1f033136df1f6ed1dfaabfb7faa754b6b6073ee53836c959851dcd49
 ATSV Saarbrücken,5 km Str.,Franziska,Müller,2000,25:09,W12,02.10.2011,Saarlouis,4,False,de2effeec09dd1e713359b5cabbc8e1477b32df6882a6bb0272b5d791a301480
 TV 09 Jägersburg,5 km Str.,Sophia,Merloni,1999,27:04,W12,01.11.2011,Hockenheim,5,False,a9ee8eda8a7e679ceb412c8514d3a435ffd6d7b010073b49ade765e70831049d

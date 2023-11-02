@@ -195,7 +195,7 @@ LTF Köllertal,Marathon Ma.,Bernd,Gillet,1981,9:59:40,M,05.09.2010,Merzig,5,True
 LTF Köllertal,Marathon Ma.,Michael,Trenz,1967,9:59:40,M,05.09.2010,Merzig,5,True,31f18bf1276e9912d8c3fcb8dffa6ac762e0760946fa6f0acdebd6763828d800
 LTF Köllertal,Marathon Ma.,Klaus,Wieland,1962,9:59:40,M,05.09.2010,Merzig,5,True,2c42ca669e73f3ffc719f2f50042e474d3e286529d787f31c37bb315237cf884
 LV Merzig,Marathon Ma.,Holger,Salamon,1971,10:07:17,M,05.09.2010,Merzig,6,True,51d29ce16c25af0a20a17369c8eb4da7dadb868b12b32dede36e807335d54f6d
-LV Merzig,Marathon Ma.,Markus,Von bank,1973,10:07:17,M,05.09.2010,Merzig,6,True,4bd1a632e4ea682bebf08093876c8b0350b57610b4aca67ac7268b6446212c87
+LV Merzig,Marathon Ma.,Markus,Von Bank,1973,10:07:17,M,05.09.2010,Merzig,6,True,4a8edd95c6a6e94812a36875a8fad8b05783d6b26ad40a659829f131e0308a49
 LV Merzig,Marathon Ma.,Burkhard,Giersberg,1958,10:07:17,M,05.09.2010,Merzig,6,True,181f1b143712842111fb5044ceb38c0f7048967b2e40931ee11f3c7796c2c489
 LTF Marpingen,Marathon Ma.,Stefan,Feller,1968,10:15:36,M,05.09.2010,Merzig,7,True,134b01dd84b1607ac5eb202c3e6dd99e2f2a9c0b0978a59079459fee6ff8430e
 LTF Marpingen,Marathon Ma.,Hubertus,Eckert,1964,10:15:36,M,05.09.2010,Merzig,7,True,ce9f36673fb1e575930504b67dd575dc6075537992725999f621a6208af08849
@@ -264,8 +264,8 @@ LAC Saarlouis,4 x 100 m Staffel,Manuel,Keil,1979,"48,71",M,05.09.2010,Homburg,7,
 LAC Saarlouis,4 x 100 m Staffel,Moritz,Kajdi,1987,"48,71",M,05.09.2010,Homburg,7,True,5c91962e3011376f058a530f8fe6e90b2d749856042de8406c810f24096c3c19
 LAC Saarlouis,4 x 100 m Staffel,Oliver,Kirch,1978,"48,71",M,05.09.2010,Homburg,7,True,882fb423516602cac0de8609bd54b13f09db5fa5570e62e742187cc875a32988
 TV Mettlach,4 x 100 m Staffel,Stefan,Zenner,1959,"48,76",M,09.05.2010,Saarlouis,8,True,a9830e46c75515aa0bc9253e2daf4e3ccd91db4256d68ea3ead3ed2cc59742e3
-TV Mettlach,4 x 100 m Staffel,Stefan,Mathieu,1960,"48,76",M,09.05.2010,Saarlouis,8,True,9a2438dc139385a76f7b8f97d5d774917ce9ada982893786a0d87fe2d9b76b2f
-TV Mettlach,4 x 100 m Staffel,Tim,Zenner,1991,"48,76",M,09.05.2010,Saarlouis,8,True,7887d9d06a9c55fde038cc872b8e7ce7bea4e67bf087bce59dd72ec5ae0b2514
+TV Mettlach,4 x 100 m Staffel,Stephan,Mathieu,1960,"48,76",M,09.05.2010,Saarlouis,8,True,9bdaba7a61967ae16ff32f3c88dd65f6d580907dc3fa99097d9e5484674dcc8d
+TV Mettlach,4 x 100 m Staffel,Tim,Zenner,1990,"48,76",M,09.05.2010,Saarlouis,8,True,4c4e4c349b6d8683c6b5794e54e0527ec4a86f903ef73736b0a6780f128e8118
 TV Mettlach,4 x 100 m Staffel,Jens,Thielbeer,1981,"48,76",M,09.05.2010,Saarlouis,8,True,17a58deb3713d462cf4019ab066918ac81b687eb5984f93b8adf56cd9364bc46
 StG Saar Masters 09,4 x 100 m Staffel,Oliver,Schneider,1965,"49,40",M,11.09.2010,Bad Oeynhausen,9,True,cffd5e11636388394cde55c7d86d459265c6c316b7b36ab85483641205cc116c
 StG Saar Masters 09,4 x 100 m Staffel,Martin,Schumacher,1966,"49,40",M,11.09.2010,Bad Oeynhausen,9,True,b0051713e7013416a9cccdec8478059df4f64b0f6ab0b2bde2a3728b388a97a6
@@ -280,7 +280,7 @@ LC Rehlingen,4 x 400 m Staffel,Nils,Klein,1989,"3:22,47",M,22.08.2010,Schwäbisc
 LC Rehlingen,4 x 400 m Staffel,Thomas,Koch,1983,"3:22,47",M,22.08.2010,Schwäbisch Gmünd,1,True,976059561fe155a8d7b3f7fca909671c576933b9fbf5fba9e4e99d76adf508f5
 LC Rehlingen,4 x 400 m Staffel,Mike,Seewald,1986,"3:22,47",M,22.08.2010,Schwäbisch Gmünd,1,True,8b435adb7cad917a153584c177fb9b518386100cffc163531e46731941114eb5
 LG Saar 70,4 x 400 m Staffel,Oliver,Haas,1988,"3:39,44",M,26.08.2010,Saarbrücken,2,True,5dd545c4aabbe0789ad1cb57bfd05c03ab1e40416ee7a225b8fd1da0c401bdfd
-LG Saar 70,4 x 400 m Staffel,Daniel,Feuchtner,1987,"3:39,44",M,26.08.2010,Saarbrücken,2,True,6227d37727cd24c91d2ea520f86eeff9d55f2ebe071fecddfb0e95329d9e6b8b
+LG Saar 70,4 x 400 m Staffel,Daniel,Feuchtner,1988,"3:39,44",M,26.08.2010,Saarbrücken,2,True,a35c7f78249fcd0b42ba2453e35c39044071778fe85ff38e1a0dcd4c43b04c05
 LG Saar 70,4 x 400 m Staffel,Alexander,Schmidt,1988,"3:39,44",M,26.08.2010,Saarbrücken,2,True,c08be1a15831ee69eecf8b982dcb3e4a730e7aea98dcc48074edffaa525283df
 LG Saar 70,4 x 400 m Staffel,Kay-Uwe,Buschauer,1992,"3:39,44",M,26.08.2010,Saarbrücken,2,True,01e488383ed4ae0368ce5f1419ccf3e8940911b8d5c38def8991e6377d925dfb
 ATSV Saarbrücken,4 x 400 m Staffel,Stephan,Schaeidt,1964,"3:44,98",M,04.07.2010,Rehlingen,3,True,1ec135e581af87ab1c91a96e388e4e0ff403ac699c4d3f0667f9878401faad05
@@ -330,7 +330,7 @@ LSG Schmelz-Hüttersdorf,3 x 1000 m Staffel,Christian,D´Angelo,1987,"11:32,28",
 LSG Schmelz-Hüttersdorf,3 x 1000 m Staffel,Daniel,Sträßer,1990,"11:32,28",M,26.08.2010,Saarbrücken,10,True,d22f4c09b7957213a89808b3df161e1699d8e46b913ded037d9fefcdd8051b1d
 LSG Schmelz-Hüttersdorf,3 x 1000 m Staffel,Steve,Krotten,1987,"11:32,28",M,26.08.2010,Saarbrücken,10,True,aafcd933da4a6de0c086c17a66291b796e66599610d61bc500c16f6bbcbf9067
 TV Ludweiler,10.000 m Bahngehen,Christof,Hölle,1964,"57:51,64",M,25.09.2010,Ludweiler,1,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider,1947,"59:31,51",M,25.07.2010,St.Wendel,2,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider Dr.,1947,"59:31,51",M,25.07.2010,St.Wendel,2,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,10.000 m Bahngehen,Stefan,Nißl,1959,"64:13,3",M,28.08.2010,Groß-Gerau,3,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,10.000 m Bahngehen,Hans-Joachim,Dilg,1958,"68:38,00",M,25.09.2010,Ludweiler,4,False,576d2462240b09c5a51ba82807cd2ada6b17a43e365605e7d071dc5865173037
 LA Team Saar,10.000 m Bahngehen,Hans-Jürgen,Blum,1959,"70:03,18",M,25.09.2010,Ludweiler,5,False,67f0b306c572565ed5f91247461485a68267735682dbf3f1b1f267e372758a5a
@@ -348,7 +348,7 @@ SV Schlau.Com Saar 05 SBR.,Stabhochsprung,Amdan,Traore,1988,"5,20",M,15.08.2010,
 LAC Elm,Stabhochsprung,Lars,Albert,1982,"4,65",M,16.05.2010,Dillingen,2,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
 LA Team Saar,Stabhochsprung,Simon,Hechler,1988,"4,51",M,08.08.2010,Marburg,3,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
 SV Schlau.Com Saar 05 SBR.,Stabhochsprung,Clement,Hocq,1985,"4,05",M,16.05.2010,Dillingen,4,False,1cb5753df4718c91c231bea5c9c8a9a40f6f89fd02880b87d84f8ce4b67b7192
-TV Mettlach,Stabhochsprung,Stefan,Mathieu,1960,"3,60",M,27.06.2010,Püttlingen,5,False,9a2438dc139385a76f7b8f97d5d774917ce9ada982893786a0d87fe2d9b76b2f
+TV Mettlach,Stabhochsprung,Stephan,Mathieu,1960,"3,60",M,27.06.2010,Püttlingen,5,False,9bdaba7a61967ae16ff32f3c88dd65f6d580907dc3fa99097d9e5484674dcc8d
 LC Rehlingen,Stabhochsprung,Eric,Uder,1988,"3,40",M,05.09.2010,Homburg,6,False,c472ce92923471f2f6df2f299aba24a2dcb39b348fc6aee96a0f5fdc3fd17c6d
 TV Elm,Stabhochsprung,Dirk,Speicher,1980,"2,90",M,27.06.2010,Püttlingen,7,False,5db12773c0497d429cf9f98fef34804b73482ecf2ba8a5b4d89378b3b593df17
 LA Team Saar,Stabhochsprung,Jonas,Straßberger,1990,"2,80",M,15.05.2010,Hannover,8,False,4b2c479ac07be16e2d7bf56eb74c9d6d64371b33cabd84c0b9d73d6468537ce3
@@ -361,7 +361,7 @@ LC Rehlingen,Weitsprung,Jan,Uder,1988,"7,22",M,05.09.2010,Homburg,4,False,d2bff6
 LAC Elm,Weitsprung,Lars,Albert,1982,"7,03",M,15.05.2010,Dillingen,5,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
 LSG Saarlouis,Weitsprung,Sebastian,Slawik,1987,"6,84",M,20.06.2010,Saarbrücken,6,False,1e164074b5e90b5177af58aca6f2554f72dc338ab95052149059183b411bf0f2
 SV Schlau.Com Saar 05 SBR.,Weitsprung,Matthias,Vogel,1990,"6,64",M,15.05.2010,Dillingen,7,False,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
-LG Saar 70,Weitsprung,Matthias,Schöne,1990,"6,59",M,05.09.2010,Homburg,8,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Weitsprung,Matthias,Schmitt,1990,"6,59",M,05.09.2010,Homburg,8,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LSG Saarlouis,Weitsprung,Moritz,Ney,1986,"6,47",M,20.06.2010,Saarbrücken,9,False,3a51f1846c3cc07ffe7d05be25d9e95c56dcd7c5f69725409f3ae13993eda561
 SV Schlau.Com Saar 05 SBR.,Weitsprung,Clement,Hocq,1985,"6,43",M,15.05.2010,Dillingen,10,False,1cb5753df4718c91c231bea5c9c8a9a40f6f89fd02880b87d84f8ce4b67b7192
 LC Rehlingen,Dreisprung,Martin,Jasper,1989,"15,43",M,30.05.2010,Wesel,1,False,c4cfd325ba62eba35cd09ddf2d400729a8dcd926a56ab36be0d203b1824f1c6b
@@ -525,7 +525,7 @@ SV Schlau.Com Saar 05 SBR.,10 km Str.,Sabine,Busch,1971,39:20,F,28.08.2010,Limba
 SV Schlau.Com Saar 05 SBR.,10 km Str.,Karen,aus der Fünten,1972,39:39,F,11.09.2010,Ohrdruf,7,False,aa0bc5b3b83bfc7466ce4cbd56944d2415f9754992efe3a3ea65c15332b8975e
 SV Schlau.Com Saar 05 SBR.,10 km Str.,Gabriele,Duchstein,1964,39:40,F,15.05.2010,Neunkirchen,8,False,d02fafce528bacaeb02ecbf5928cdc53f7f8e6fd0aef42e6d99d5970d943e6cc
 SV Schlau.Com Saar 05 SBR.,10 km Str.,Heike,Brücker-Boghossian,1973,39:49,F,11.09.2010,Ohrdruf,9,False,01bf2cf9e23c5306158319ccc83126bb8414f09ec4263ea5286967caa01ce8d9
-LA Team Saar,10 km Str.,Julia,Keck,1974,40:16,F,27.06.2010,Zweibrücken,10,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,10 km Str.,Julia,Keck-Brengel,1974,40:16,F,27.06.2010,Zweibrücken,10,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Kerstin,Alaimo,1974,1:56:13,F,25.07.2010,Kaiserslautern,1,True,f812b2cea00b1cb6cd9a90cfd9e1d5a723ba44a7baa6703d5f22b44ad64db02d
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Marion,Jakobs,1970,1:56:13,F,25.07.2010,Kaiserslautern,1,True,c6b017d295d4334e2fe7c672687d85b9e068b1deb1d5e654797b2bf60abbd112
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Gabriele,Duchstein,1964,1:56:13,F,25.07.2010,Kaiserslautern,1,True,d02fafce528bacaeb02ecbf5928cdc53f7f8e6fd0aef42e6d99d5970d943e6cc
@@ -559,7 +559,7 @@ Bisttal-Runners,10 km Str. Ma.,Ursula,Trautz,1953,2:29:16,F,10.06.2010,Saarbrüc
 LG Saar 70,Halbmarathon,Heike,Alaimo,1974,1:19:09,F,18.04.2010,Bad Liebenzell,1,False,6a2d0d6774ef9ebcd6b45e44938634536fc396944336e041d3f7c92227df4f0d
 Tri-Sport/Saar-Hochwald,Halbmarathon,Nicole,Woysch,1976,1:23:30,F,14.03.2010,Saarbrücken,2,False,5cde89d7ae02305d367eb5020cd7d98b46f1c391045a6b60b9ae40aed61cb82f
 SV Schlau.Com Saar 05 SBR.,Halbmarathon,Marion,Jakobs,1970,1:24:33,F,18.04.2010,Bad Liebenzell,3,False,c6b017d295d4334e2fe7c672687d85b9e068b1deb1d5e654797b2bf60abbd112
-LA Team Saar,Halbmarathon,Julia,Keck,1974,1:24:51,F,14.03.2010,Saarbrücken,4,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,Halbmarathon,Julia,Keck-Brengel,1974,1:24:51,F,14.03.2010,Saarbrücken,4,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 Bisttal-Runners,Halbmarathon,Sabine,Rech,1968,1:24:59,F,30.05.2010,Saarlouis,5,False,578412223a9a2753848218be3028c55195717d6577418ed0439fbe2777702185
 SV Schlau.Com Saar 05 SBR.,Halbmarathon,Gabriele,Duchstein,1964,1:25:41,F,14.03.2010,Saarbrücken,6,False,d02fafce528bacaeb02ecbf5928cdc53f7f8e6fd0aef42e6d99d5970d943e6cc
 SV Schlau.Com Saar 05 SBR.,Halbmarathon,Marion,Stras,1979,1:25:49,F,14.03.2010,Saarbrücken,7,False,713ab14df3f15af481bed36f454aa10f4829017ace475e866cac1982f553421a
@@ -599,7 +599,7 @@ Grojos LTF Elversberg,Halbmarathon Ma.,Marika,Denig,1963,5:13:19,F,14.03.2010,Sa
 SV Schlau.Com Saar 05 SBR.,Marathon,Kerstin,Alaimo,1974,2:53:56,F,02.05.2010,St. Wendel,1,False,f812b2cea00b1cb6cd9a90cfd9e1d5a723ba44a7baa6703d5f22b44ad64db02d
 LTF Marpingen,Marathon,Tanja,Hooß,1967,2:59:26,F,02.05.2010,St. Wendel,2,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
 SV Schlau.Com Saar 05 SBR.,Marathon,Marion,Jakobs,1970,2:59:54,F,26.09.2010,Berlin,3,False,c6b017d295d4334e2fe7c672687d85b9e068b1deb1d5e654797b2bf60abbd112
-LA Team Saar,Marathon,Julia,Keck,1974,3:00:45,F,02.05.2010,St. Wendel,4,False,93c05a83ff5de64b5924f5e7f2e60daba745dad48c2f0a00603e287bd5b089d4
+LA Team Saar,Marathon,Julia,Keck-Brengel,1974,3:00:45,F,02.05.2010,St. Wendel,4,False,1c597412daab52f3ddc428fff71849f9e8e01e8524489c87ad3ded6d2ccafc27
 Bisttal-Runners,Marathon,Sabine,Rech,1968,3:02:55,F,28.08.2010,Simmern,5,False,578412223a9a2753848218be3028c55195717d6577418ed0439fbe2777702185
 SV Schlau.Com Saar 05 SBR.,Marathon,Gabriele,Duchstein,1964,3:04:05,F,26.09.2010,Berlin,6,False,d02fafce528bacaeb02ecbf5928cdc53f7f8e6fd0aef42e6d99d5970d943e6cc
 LC Rehlingen,Marathon,Gabriele,Celette,1956,3:04:11,F,09.05.2010,Mainz,7,False,7dc557c1141823357b051b6079d1fb7224657fdeb020ae75fe27cd65a42e9faa
@@ -659,14 +659,14 @@ LA Team Saar,4 x 100 m Staffel,Barbara,Hannibal,1965,"56,89",F,02.06.2010,Friedr
 LA Team Saar,4 x 100 m Staffel,Heidi,Schmitt,1963,"56,89",F,02.06.2010,Friedrichsthal,8,True,8a496cb23f4d4d6db849c2ab94628b64f0268afb87319695d87b9837872aa5e0
 LA Team Saar,4 x 100 m Staffel,Iris,Müller,1967,"56,89",F,02.06.2010,Friedrichsthal,8,True,ef7f80ee5ea000b7c3c2325745efc5940de4e86291ab860448f73adfa1f9acfa
 LA Team Saar,4 x 100 m Staffel,Christine,Petit,1969,"56,89",F,02.06.2010,Friedrichsthal,8,True,6de19a4efb5696aa4c457067125bea09f722a85133105968d49063bd00bd59c5
-LA Team Saar,4 x 100 m Staffel,Nicole,Loebens,1971,"61,27",F,02.06.2010,Friedrichsthal,9,True,a74cdb0020fc649d34ad605eb44965464af40aaeb99f0166cb4c9b22f51172e6
+LA Team Saar,4 x 100 m Staffel,Nicole,Loebebs,1971,"61,27",F,02.06.2010,Friedrichsthal,9,True,c06316b47cf086000336c12c4d04ebcfe32d5d3687e4c282ef0d6ad9d4c99e64
 LA Team Saar,4 x 100 m Staffel,Annegret,Hämsch,1968,"61,27",F,02.06.2010,Friedrichsthal,9,True,d8fe562c13fdf887405b855e93c18aeb52bf70014847305fb058421b3ce5f588
-LA Team Saar,4 x 100 m Staffel,Gisela,Schmitt,1968,"61,27",F,02.06.2010,Friedrichsthal,9,True,b116024b3e61349fc5be20450128619dc6990ab6d9f17c120679d3eb9774584f
+LA Team Saar,4 x 100 m Staffel,Gisela,Schmidt,1968,"61,27",F,02.06.2010,Friedrichsthal,9,True,1f690ad06baa72fa4b3f2045fc795f3bbb158feb7ad9d5dd98292ab8e30b4f18
 LA Team Saar,4 x 100 m Staffel,Anne-Bärbel,Schwarz,1965,"61,27",F,02.06.2010,Friedrichsthal,9,True,e8e34cbbec1510fe8f7b909280946aa3fa09aac8ca3afe5b7ce2793e348810d2
 LC 72 Altenkessel,4 x 100 m Staffel,Christine,Schmidt,1965,"61,88",F,05.09.2010,Homburg,10,True,16b72c93acc24a1fbed7c8d8012507e9b30dafa3376077f81bdf57c79cd15f0d
 LC 72 Altenkessel,4 x 100 m Staffel,Rita,Wilhelm,1958,"61,88",F,05.09.2010,Homburg,10,True,198fbe7c156659b2b85da07ce68b52a22ab8fa24f91d6611abdd8a8315f7e8b0
 LC 72 Altenkessel,4 x 100 m Staffel,Monika,Kopp,1964,"61,88",F,05.09.2010,Homburg,10,True,88256b8bc45279617c35dd37178113861eead4437e403f6f043ebcb980154ab7
-LC 72 Altenkessel,4 x 100 m Staffel,Nadine,Pauly-Kaltenbach,1981,"61,88",F,05.09.2010,Homburg,10,True,92ed774243cda8170a92616f0f596cd6c322f6e8cbece291f3531aaa1904a8aa
+LC 72 Altenkessel,4 x 100 m Staffel,Nadine,Pauly,1981,"61,88",F,05.09.2010,Homburg,10,True,e20823d33374376d8dc17f7e485a2dbf5b7e1a14d5f94bb9ace3679faa934732
 LA Team Saar,4 x 400 m Staffel,Kira,Hanschitz,1992,"4:07,15",F,07.07.2010,Friedrichsthal,1,True,bb816f8ecbb0bd68b95b5ad68a9f22384a09d8b13af5b060474dadede13738b6
 LA Team Saar,4 x 400 m Staffel,Charlotte,Ruffing,1992,"4:07,15",F,07.07.2010,Friedrichsthal,1,True,ddd23f570fbff62665b8596749d990dc4f9658f428b3688be845f4c5449ca2c9
 LA Team Saar,4 x 400 m Staffel,Anna,Merscher,1991,"4:07,15",F,07.07.2010,Friedrichsthal,1,True,109cbe2a6ad8e349ef000dc48ad60b6983aba74fcb1a81866ff6ebc73f8414b0
@@ -681,7 +681,7 @@ LA Team Saar,4 x 400 m Staffel,Heike,Backes,1965,"5:16,96",F,01.10.2010,Püttlin
 LA Team Saar,4 x 400 m Staffel,Anne-Bärbel,Schwarz,1965,"5:16,96",F,01.10.2010,Püttlingen,3,True,e8e34cbbec1510fe8f7b909280946aa3fa09aac8ca3afe5b7ce2793e348810d2
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Nadine,Hoff,1981,"5:57,08",F,26.08.2010,Saarbrücken,4,True,43a1983cfc5798c4076c91b74f2e3bc0f8b35283b7aba895c5f4d79dadc46b6b
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Ulrike,Riemer,1969,"5:57,08",F,26.08.2010,Saarbrücken,4,True,fb205889d62da1059686ff863a0070eb78214525e0fb799867a77182cf71b522
-LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Claudia,Finke-Straube,1966,"5:57,08",F,26.08.2010,Saarbrücken,4,True,4181faaabd67f0be7d3ee3870d0e7a28f8a5926dd799f7f9ec404e995f7a00c8
+LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Claudia,Fink-Straube,1966,"5:57,08",F,26.08.2010,Saarbrücken,4,True,fccce5679dd971afd21545dc6f0d3ce6ab91ab5fc48cf17a337c1709272d9f42
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,N.,Bechtel,1980,"5:57,08",F,26.08.2010,Saarbrücken,4,True,0923c2f067ac3b3af043805a75424e4b618c06b9a7d5e9311455c6fc0304d368
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Lisa,Schorr,1982,"7:08,13",F,26.08.2010,Saarbrücken,1,True,e9012b7c36060bd4268b6f1411d4959822b83ef1b665f7f5e5c90b330a32a9f0
 SV Schlau.Com Saar 05 SBR.,3 x 800 m Staffel,Tina,Kron,1981,"7:08,13",F,26.08.2010,Saarbrücken,1,True,fc30d90f2d0cab5f3cef3b1ae1947aa8675d84ed7d40f24b148e1ade7f0f3879
@@ -712,7 +712,7 @@ LTF Köllertal,3 x 800 m Staffel,Ursula,Faber,1958,"9:54,10",F,24.04.2010,Piesba
 LTF Köllertal,3 x 800 m Staffel,Petra,Behmer,1965,"9:54,10",F,24.04.2010,Piesbach,9,True,851f3ecbcdfa3392cbf973cfce605f1c27bc694f820cde48e00e0c9f1ed5ece1
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Nadine,Hoff,1981,"10:13,69",F,26.08.2010,Saarbrücken,10,True,43a1983cfc5798c4076c91b74f2e3bc0f8b35283b7aba895c5f4d79dadc46b6b
 LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Ulrike,Riemer,1969,"10:13,69",F,26.08.2010,Saarbrücken,10,True,fb205889d62da1059686ff863a0070eb78214525e0fb799867a77182cf71b522
-LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Claudia,Finke-Straube,1966,"10:13,69",F,26.08.2010,Saarbrücken,10,True,4181faaabd67f0be7d3ee3870d0e7a28f8a5926dd799f7f9ec404e995f7a00c8
+LSG Sbr.-Sulzbachtal,3 x 800 m Staffel,Claudia,Fink-Straube,1966,"10:13,69",F,26.08.2010,Saarbrücken,10,True,fccce5679dd971afd21545dc6f0d3ce6ab91ab5fc48cf17a337c1709272d9f42
 LA Team Saar,5000 m Bahngehen,Susanne,Blum,1986,"30:58,00",F,25.09.2010,Ludweiler,1,False,48ad6372f253a268ed02a78dc3c4e477c5868851109f850034677f3d48dd7b75
 TV Ludweiler,5000 m Bahngehen,Nicole,Schaum-Mathieu,1968,"32:01,26",F,25.07.2010,St.Wendel,2,False,95f87e2d850a0bacc5cc07b086e47eb9990c06889149b7770a3867b8fc32995b
 LA Team Saar,5000 m Bahngehen,Anne-Bärbel,Schwarz,1965,"32:56,09",F,25.09.2010,Ludweiler,3,False,e8e34cbbec1510fe8f7b909280946aa3fa09aac8ca3afe5b7ce2793e348810d2
@@ -920,7 +920,7 @@ LA Team Saar,4 x 400 m Staffel,David,Hartmann,1994,"3:43,68",Männliche Jugend A
 LA Team Saar,4 x 400 m Staffel,Yves,Becker,1992,"3:43,68",Männliche Jugend A,01.10.2010,Püttlingen,2,True,47ff4d97842029fe6862dd67f79d02f12dfac306efd9f4fa091837046085684d
 LA Team Saar,4 x 400 m Staffel,Jonas,Kolzau,1994,"3:43,68",Männliche Jugend A,01.10.2010,Püttlingen,2,True,4a2738bd6c770180098e003b1b8c347da4140c4fde203b27f1d751384dc3c578
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Mato,Glatt,1994,"3:44,19",Männliche Jugend A,26.08.2010,Saarbrücken,3,True,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
-LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Jan-Lukas,Becker,1993,"3:44,19",Männliche Jugend A,26.08.2010,Saarbrücken,3,True,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Jan Lukas,Becker,1993,"3:44,19",Männliche Jugend A,26.08.2010,Saarbrücken,3,True,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Florian,Lauck,1993,"3:44,19",Männliche Jugend A,26.08.2010,Saarbrücken,3,True,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LSG Sbr.-Sulzbachtal,4 x 400 m Staffel,Moritz,Zimmermann,1993,"3:44,19",Männliche Jugend A,26.08.2010,Saarbrücken,3,True,d104f2bb52d75df5dfa273d8bc5350eb1d932e7afb56d141efceeeacb043e3fa
 LC Rehlingen,4 x 400 m Staffel,Sebastian,Hilt,1993,"3:44,28",Männliche Jugend A,04.07.2010,Rehlingen,4,True,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
@@ -1268,13 +1268,13 @@ TV Elm,400 m Lauf,Julian,Bastuck,1994,"53,35",Männliche Jugend B,27.06.2010,Pü
 LC Rehlingen,400 m Lauf,Sebastian,Hilt,1993,"53,68",Männliche Jugend B,22.07.2010,Saarbrücken,4,False,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
 LG Reimsbach-Oppen,400 m Lauf,Sebastian,Speicher,1994,"54,77",Männliche Jugend B,20.06.2010,Saarbrücken,5,False,7b2ac3b3d128fdcf915c067b34154fc5b4428d2847b545295610d6685a355b66
 LG Saar 70,400 m Lauf,Kai,Heinrich,1993,"55,12",Männliche Jugend B,20.06.2010,Saarbrücken,6,False,11c473a6c5928256d5bdeb45791aab970457c60e43656dddfe84543ac84a5665
-LSG Sbr.-Sulzbachtal,400 m Lauf,Jan-Lukas,Becker,1993,"55,37",Männliche Jugend B,27.06.2010,Püttlingen,7,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,400 m Lauf,Jan Lukas,Becker,1993,"55,37",Männliche Jugend B,27.06.2010,Püttlingen,7,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,400 m Lauf,Florian,Lauck,1993,"55,91",Männliche Jugend B,27.06.2010,Püttlingen,8,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LSG Sbr.-Sulzbachtal,400 m Lauf,Mato,Glatt,1994,"56,03",Männliche Jugend B,26.06.2010,Püttlingen,9,False,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
 LA Team Saar,400 m Lauf,Niclas,Hoffmann,1994,"56,58",Männliche Jugend B,26.06.2010,Püttlingen,10,False,5be718a378ae7f8e26be8644afc6dcf07b429d4fa5a8b093c8205605ea39a1cc
 LA Team Saar,800 m Lauf,Jonas,Kolzau,1994,"1:58,80",Männliche Jugend B,04.07.2010,Freistett,1,False,4a2738bd6c770180098e003b1b8c347da4140c4fde203b27f1d751384dc3c578
 TV Elm,800 m Lauf,Julian,Bastuck,1994,"2:00,36",Männliche Jugend B,24.05.2010,Rehlingen,2,False,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
-LSG Sbr.-Sulzbachtal,800 m Lauf,Jan-Lukas,Becker,1993,"2:01,21",Männliche Jugend B,15.07.2010,Saarbrücken,3,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,800 m Lauf,Jan Lukas,Becker,1993,"2:01,21",Männliche Jugend B,15.07.2010,Saarbrücken,3,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,800 m Lauf,Florian,Lauck,1993,"2:01,9",Männliche Jugend B,06.06.2010,Rehlingen,4,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LC Rehlingen,800 m Lauf,Sebastian,Hilt,1993,"2:02,47",Männliche Jugend B,24.05.2010,Rehlingen,5,False,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
 LC Rehlingen,800 m Lauf,Mario,Cavelius,1993,"2:07,20",Männliche Jugend B,09.05.2010,Saarlouis,6,False,6a58aa67b93c9bd68f799e6e646f9d927b8e54f99884bd0eaf6566dd145d122d
@@ -1282,7 +1282,7 @@ LC Rehlingen,800 m Lauf,Christoph,Marx,1993,"2:08,3",Männliche Jugend B,06.06.2
 LSG Sbr.-Sulzbachtal,800 m Lauf,Tobias,Blum,1995,"2:13,18",Männliche Jugend B,08.08.2010,Schifflange,8,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
 LSG Sbr.-Sulzbachtal,800 m Lauf,Felix,Buder,1994,"2:15,80",Männliche Jugend B,09.05.2010,Saarlouis,9,False,1f2a05971217d561a5cce99647b79b4b0fe0bdc9cca05738a6732faceeb8a6e0
 TV Saarwellingen,800 m Lauf,Heiko,Lesch,1993,"2:16,6",Männliche Jugend B,06.06.2010,Rehlingen,10,False,480594d25fe4b1daf93644d66eddb62ea3cfe7767e5651bdce507024a2865a07
-LSG Sbr.-Sulzbachtal,1000 m Lauf,Jan-Lukas,Becker,1993,"2:37,63",Männliche Jugend B,22.07.2010,Saarbrücken,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,1000 m Lauf,Jan Lukas,Becker,1993,"2:37,63",Männliche Jugend B,22.07.2010,Saarbrücken,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,1000 m Lauf,Florian,Lauck,1993,"2:39,02",Männliche Jugend B,22.07.2010,Saarbrücken,2,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LC Rehlingen,1000 m Lauf,Sebastian,Hilt,1993,"2:40,67",Männliche Jugend B,16.05.2010,Pliezhausen,3,False,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
 TV Elm,1000 m Lauf,Julian,Bastuck,1994,"2:40,77",Männliche Jugend B,30.05.2010,Püttlingen,4,False,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
@@ -1292,7 +1292,7 @@ TV Homburg,1000 m Lauf,David,Piazolo,1994,"2:47,02",Männliche Jugend B,22.06.20
 LG Saar 70,1000 m Lauf,Kai,Heinrich,1993,"2:52,94",Männliche Jugend B,15.05.2010,Ottweiler,8,False,11c473a6c5928256d5bdeb45791aab970457c60e43656dddfe84543ac84a5665
 LSG Sbr.-Sulzbachtal,1000 m Lauf,Felix,Buder,1994,"2:53,04",Männliche Jugend B,22.06.2010,Saarbrücken,9,False,1f2a05971217d561a5cce99647b79b4b0fe0bdc9cca05738a6732faceeb8a6e0
 LA Team Saar,1000 m Lauf,Sebastian,May,1993,"2:57,14",Männliche Jugend B,22.06.2010,Saarbrücken,10,False,52d31a365440199dc39293d91cf2f7523d1f7701ffba2b092204fb99c9e42b56
-LSG Sbr.-Sulzbachtal,1500 m Lauf,Jan-Lukas,Becker,1993,"4:09,06",Männliche Jugend B,29.07.2010,Saarbrücken,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,1500 m Lauf,Jan Lukas,Becker,1993,"4:09,06",Männliche Jugend B,29.07.2010,Saarbrücken,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 TV Elm,1500 m Lauf,Julian,Bastuck,1994,"4:12,66",Männliche Jugend B,20.06.2010,Saarbrücken,2,False,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
 LSG Sbr.-Sulzbachtal,1500 m Lauf,Florian,Lauck,1993,"4:14,31",Männliche Jugend B,20.06.2010,Saarbrücken,3,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LC Rehlingen,1500 m Lauf,Sebastian,Hilt,1993,"4:22,63",Männliche Jugend B,20.06.2010,Saarbrücken,4,False,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
@@ -1302,7 +1302,7 @@ LSG Sbr.-Sulzbachtal,1500 m Lauf,Mato,Glatt,1994,"4:49,87",Männliche Jugend B,2
 TuS Ottenhausen,1500 m Lauf,Maximilian,Kemp,1993,"4:57,49",Männliche Jugend B,20.06.2010,Saarbrücken,8,False,53be8ea16a823d34af864aa374e6a8fafe7c7425d2169a33583970f98257cb6e
 LG Saar 70,1500 m Lauf,Jonathan,Anschütz,1994,"4:59,15",Männliche Jugend B,20.06.2010,Saarbrücken,9,False,595c0c9143f95539455c8339783f5d04474e2712d3ac7033f3f04e46ec89acd1
 LG Berus,1500 m Lauf,Tim,Schwarz,1993,"5:13,18",Männliche Jugend B,16.05.2010,Dillingen,10,False,6b9d076cc333ffb1c2504a99c8c4400cee9c9ea7154b7b68f26f96621028311c
-LSG Sbr.-Sulzbachtal,3000 m Lauf,Jan-Lukas,Becker,1993,"9:01,79",Männliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,3000 m Lauf,Jan Lukas,Becker,1993,"9:01,79",Männliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Florian,Lauck,1993,"9:23,03",Männliche Jugend B,29.07.2010,Saarbrücken,2,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 TV Elm,3000 m Lauf,Julian,Bastuck,1994,"9:41,91",Männliche Jugend B,17.04.2010,Rehlingen,3,False,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
 LC Rehlingen,3000 m Lauf,Sebastian,Hilt,1993,"9:57,63",Männliche Jugend B,17.04.2010,Rehlingen,4,False,1981c5124e9f64d07e098b4db9a6284c56aec148b010499ebc1ecd705d63633a
@@ -1312,9 +1312,9 @@ LC Rehlingen,3000 m Lauf,Mario,Cavelius,1993,"10:09,96",Männliche Jugend B,17.0
 LA Team Saar,3000 m Lauf,Jonas,Kolzau,1994,"10:18,64",Männliche Jugend B,17.04.2010,Rehlingen,8,False,4a2738bd6c770180098e003b1b8c347da4140c4fde203b27f1d751384dc3c578
 LA Team Saar,3000 m Lauf,Sebastian,May,1993,"10:38,45",Männliche Jugend B,22.05.2010,Krefeld,9,False,52d31a365440199dc39293d91cf2f7523d1f7701ffba2b092204fb99c9e42b56
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Philipp,Reuter,1994,"10:57,15",Männliche Jugend B,17.04.2010,Rehlingen,10,False,ad779f6c386760606aadac04f36a96d5a7bb7fadda6d07d3f952124189128ef1
-LSG Sbr.-Sulzbachtal,5000 m Lauf,Jan-Lukas,Becker,1993,"15:35,15",Männliche Jugend B,17.09.2010,Trier,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,5000 m Lauf,Jan Lukas,Becker,1993,"15:35,15",Männliche Jugend B,17.09.2010,Trier,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,5000 m Lauf,Philipp,Reuter,1994,"21:07,87",Männliche Jugend B,25.09.2010,Dillingen,2,False,ad779f6c386760606aadac04f36a96d5a7bb7fadda6d07d3f952124189128ef1
-LSG Sbr.-Sulzbachtal,10 km Str.,Jan-Lukas,Becker,1993,33:17,Männliche Jugend B,01.11.2010,Hockenheim,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,10 km Str.,Jan Lukas,Becker,1993,33:17,Männliche Jugend B,01.11.2010,Hockenheim,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LTF Marpingen,10 km Str.,Samuel,Schu,1993,35:05,Männliche Jugend B,18.09.2010,Ottweiler,2,False,b7715ad1f56c38e8d9a27be2fda576137aba90917cb5305a972c77d14c6a2f19
 LSG Sbr.-Sulzbachtal,10 km Str.,Florian,Lauck,1993,35:57,Männliche Jugend B,01.11.2010,Hockenheim,3,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LSG Sbr.-Sulzbachtal,10 km Str.,Tobias,Blum,1995,37:12,Männliche Jugend B,10.10.2010,Saarbrücken,4,False,2c4367a4024a0f5311f4bff4878580fab704dac86758146b83b04cbc822bf544
@@ -1338,11 +1338,11 @@ LA Team Saar,110 m Hürden 0.914m,Philippe,Herz,1994,"18,93",Männliche Jugend B
 LA Team Saar,110 m Hürden 0.914m,Tilman,Neises,1994,"19,82",Männliche Jugend B,27.06.2010,Püttlingen,9,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
 TV Dillingen,110 m Hürden 0.914m,Thomas,Bauer,1994,"20,03",Männliche Jugend B,01.08.2010,Dillingen,10,False,1e702d256cac369ce9fc46d6b352029f50d8958ba89dd93f2d59fe98d6e7e9f3
 LA Team Saar,400 m Hürden 0.840m,Jonas,Kolzau,1994,"58,18",Männliche Jugend B,15.05.2010,Ottweiler,1,False,4a2738bd6c770180098e003b1b8c347da4140c4fde203b27f1d751384dc3c578
-LSG Sbr.-Sulzbachtal,400 m Hürden 0.840m,Jan-Lukas,Becker,1993,"58,24",Männliche Jugend B,15.07.2010,Saarbrücken,2,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,400 m Hürden 0.840m,Jan Lukas,Becker,1993,"58,24",Männliche Jugend B,15.07.2010,Saarbrücken,2,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LG Reimsbach-Oppen,400 m Hürden 0.840m,Sebastian,Speicher,1994,"64,27",Männliche Jugend B,09.05.2010,Saarlouis,3,False,7b2ac3b3d128fdcf915c067b34154fc5b4428d2847b545295610d6685a355b66
 LG Saar 70,400 m Hürden 0.840m,Simon,Schröder,1994,"66,62",Männliche Jugend B,15.07.2010,Saarbrücken,4,False,3d59d77f7fea0d8397440766af44e33319e46cd7bff3cceadae3be324df101c4
 LA Team Saar,400 m Hürden 0.840m,Felix,Haas,1994,"68,68",Männliche Jugend B,22.05.2010,Krefeld,5,False,2b37f8856a0012a548a1ef82bdae26fbe9bb779f8e965a07f9b4518269627823
-LSG Sbr.-Sulzbachtal,2000 m Hindernis,Jan-Lukas,Becker,1993,"6:08,63",Männliche Jugend B,31.08.2010,Rehlingen,1,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,2000 m Hindernis,Jan Lukas,Becker,1993,"6:08,63",Männliche Jugend B,31.08.2010,Rehlingen,1,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,2000 m Hindernis,Florian,Lauck,1993,"6:42,39",Männliche Jugend B,31.08.2010,Rehlingen,2,False,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LC Rehlingen,2000 m Hindernis,Mario,Cavelius,1993,"6:56,74",Männliche Jugend B,16.05.2010,Pliezhausen,3,False,6a58aa67b93c9bd68f799e6e646f9d927b8e54f99884bd0eaf6566dd145d122d
 LSG Sbr.-Sulzbachtal,2000 m Hindernis,Felix,Buder,1994,"7:24,77",Männliche Jugend B,31.08.2010,Rehlingen,4,False,1f2a05971217d561a5cce99647b79b4b0fe0bdc9cca05738a6732faceeb8a6e0
@@ -1355,7 +1355,7 @@ LC Rehlingen,4 x 100 m Staffel,Julius,Rost,1993,"47,38",Männliche Jugend B,22.0
 LC Rehlingen,4 x 100 m Staffel,Julian,Zeimet,1994,"47,38",Männliche Jugend B,22.06.2010,Saarbrücken,2,True,7ee47bc1c780997a3725a402e6318e1cc2f5a5197eed7fd1c1db8a5434fcf9b9
 LC Rehlingen,4 x 100 m Staffel,Dennis,Herrmann,1994,"47,38",Männliche Jugend B,22.06.2010,Saarbrücken,2,True,3e4553f41ae2c4d3088b687378b70befa9c92947a71696680b27c94d57234762
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Mato,Glatt,1994,"47,38",Männliche Jugend B,05.09.2010,Homburg,3,True,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
-LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Jan-Lukas,Becker,1993,"47,38",Männliche Jugend B,05.09.2010,Homburg,3,True,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Jan Lukas,Becker,1993,"47,38",Männliche Jugend B,05.09.2010,Homburg,3,True,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Uli,Mathis,1995,"47,38",Männliche Jugend B,05.09.2010,Homburg,3,True,151b68ed517284a2692e9d490eaba50c39a4102bac53531fdd37a423c5261747
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Christian,Altpeter,1993,"47,38",Männliche Jugend B,05.09.2010,Homburg,3,True,f800cd0ce901be6a1fca270c2a62bb1e3fc74dedaec09f05774b07f7b4a5d4fe
 TV Homburg,4 x 100 m Staffel,Timo,Stucky,1993,"48,91",Männliche Jugend B,06.06.2010,Rehlingen,4,True,9498d20eb6aee0fa96632801c7ebea1d4f2255f03c94818c6c60b88101433331
@@ -1400,7 +1400,7 @@ LG Saar 70,Hochsprung,Dominic,Meiser,1993,"1,84",Männliche Jugend B,05.09.2010,
 LG Saar 70,Hochsprung,Markus,Meiser,1993,"1,76",Männliche Jugend B,05.09.2010,Homburg,2,False,c8f3c3559a03a47e809f921dabcdfcaf003132121bb9b211421da4be094392bd
 LSG Sbr.-Sulzbachtal,Hochsprung,Marian,Schmidt,1993,"1,76",Männliche Jugend B,21.09.2010,Berlin,3,False,0f2cc78fe1cf83fa62f117cdea8656c807c499b016c448b7995ba7161eefe05a
 TuS Ensdorf,Hochsprung,Lukas,Beiske,1993,"1,73",Männliche Jugend B,09.05.2010,Saarlouis,4,False,87163b4e87e82964685908a42916fe50a1329c5d281de146082d82a5618fddae
-LSG Sbr.-Sulzbachtal,Hochsprung,Jan-Lukas,Becker,1993,"1,72",Männliche Jugend B,27.06.2010,Püttlingen,5,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,Hochsprung,Jan Lukas,Becker,1993,"1,72",Männliche Jugend B,27.06.2010,Püttlingen,5,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 SV Schlau.Com Saar 05 SBR.,Hochsprung,Luca,Wieland,1994,"1,72",Männliche Jugend B,31.07.2010,Dillingen,6,False,aed8cef24038f8ab9737a7990f960f52bc92c4097b0bf0592359e5250f16e0af
 LSG Sbr.-Sulzbachtal,Hochsprung,Joshua,Gollub,1994,"1,70",Männliche Jugend B,09.05.2010,Saarlouis,7,False,5fceb8ee29049d308e5192381af5a967979781ab4486f5f4fd9040bd14d22c2f
 LA Team Saar,Hochsprung,Tobias,Neu,1993,"1,68",Männliche Jugend B,01.05.2010,Homburg,8,False,1fcad426be9a1e548272520b7689255cc1c76c4cd068e319f1320f963adecdba
@@ -1432,7 +1432,7 @@ LSG Sbr.-Sulzbachtal,Dreisprung,Joshua,Gollub,1994,"11,71",Männliche Jugend B,2
 LA Team Saar,Dreisprung,Tilman,Neises,1994,"10,65",Männliche Jugend B,09.05.2010,Homburg,3,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
 LSG Sbr.-Sulzbachtal,Dreisprung,Felix,Buder,1994,"10,52",Männliche Jugend B,22.05.2010,Krefeld,4,False,1f2a05971217d561a5cce99647b79b4b0fe0bdc9cca05738a6732faceeb8a6e0
 TV St. Wendel,Dreisprung,Christian,Hinz,1994,"10,51",Männliche Jugend B,16.05.2010,Ottweiler,5,False,7e458843bbaf448dda681502ca6d95d79f9e10dbb72f50971105cebd63c5ec81
-TV Niederwürzbach,Dreisprung,Sandro,Gradia,1994,"10,45",Männliche Jugend B,09.05.2010,Homburg,6,False,80d4c8e65cc85ef834800522ae87f3137726039602139f0ff037d30f5f6ae909
+TV Niederwürzbach,Dreisprung,Sandra,Gradia,1994,"10,45",Männliche Jugend B,09.05.2010,Homburg,6,False,cc880cffe07a13c372454d06adb607c7b924c1d12d2ebbb5a1c9d34eec30fa82
 TV Homburg,Dreisprung,Benedikt,Greiner,1994,"10,44",Männliche Jugend B,09.05.2010,Homburg,7,False,5493f4ffd289c5978f235375f88e4e23172df2c1692fd797d50ddcabf887d8c7
 TV Homburg,Dreisprung,Jan Oliver,Best,1994,"10,27",Männliche Jugend B,09.05.2010,Homburg,8,False,c70fbdd9ab1c3ba553487e52dfcea0f433b70e49327df06b563cf19af62d00e2
 LA Team Saar,Kugelstoss 5 kg,Marco,Brück,1993,"14,05",Männliche Jugend B,22.05.2010,Krefeld,1,False,09b4d37c0d9f7dfb0ae0dfeebce1f06d649df85ebc2dd571d4cfaa99ff69a51a
@@ -1482,7 +1482,7 @@ LA Team Saar,5-Kampf,Marco,Brück,1993,2.817,Männliche Jugend B,31.07.2010,Dill
 LSG Sbr.-Sulzbachtal,5-Kampf,Mato,Glatt,1994,2.810,Männliche Jugend B,27.06.2010,Püttlingen,5,False,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
 LA Team Saar,5-Kampf,Niclas,Hoffmann,1994,2.698,Männliche Jugend B,26.06.2010,Püttlingen,6,False,5be718a378ae7f8e26be8644afc6dcf07b429d4fa5a8b093c8205605ea39a1cc
 TV Elm,5-Kampf,Julian,Bastuck,1994,2.551,Männliche Jugend B,27.06.2010,Püttlingen,7,False,8115b0d44109acfd62dc5325f090e222cb9b6f67412f1fd65a6670c3c61bda59
-LSG Sbr.-Sulzbachtal,5-Kampf,Jan-Lukas,Becker,1993,2.456,Männliche Jugend B,27.06.2010,Püttlingen,8,False,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,5-Kampf,Jan Lukas,Becker,1993,2.456,Männliche Jugend B,27.06.2010,Püttlingen,8,False,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LA Team Saar,5-Kampf,David,Hartmann,1994,2.424,Männliche Jugend B,26.06.2010,Püttlingen,9,False,a6870a90b7e66251f5a172126202ca16049008a368e8b526d97ff773b533e086
 LG Saar 70,5-Kampf,Lukas,Schöne,1993,2.253,Männliche Jugend B,08.05.2010,St.Wendel,10,False,451d1af08fa7ee9e93dd30e84cdca03e44e1a0dd9b8ee3a07dceeceac38355a6
 LA Team Saar,5-Kampf Ma.,Jonas,Kolzau,1994,12.978,Männliche Jugend B,26.06.2010,Püttlingen,1,True,4a2738bd6c770180098e003b1b8c347da4140c4fde203b27f1d751384dc3c578
@@ -1491,7 +1491,7 @@ LA Team Saar,5-Kampf Ma.,Niclas,Hoffmann,1994,12.978,Männliche Jugend B,26.06.2
 LA Team Saar,5-Kampf Ma.,David,Hartmann,1994,12.978,Männliche Jugend B,26.06.2010,Püttlingen,1,True,a6870a90b7e66251f5a172126202ca16049008a368e8b526d97ff773b533e086
 LA Team Saar,5-Kampf Ma.,Tim,Hoffmann,1993,12.978,Männliche Jugend B,26.06.2010,Püttlingen,1,True,7ccedfbff64c5a220a09adb9746dc0007e375575f452459eb5ea383cdcc2e532
 LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Mato,Glatt,1994,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,e34853fec299032ac05f928564a2a826e0c49bc4a192a5ee4fa36609983b01f3
-LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Jan-Lukas,Becker,1993,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,dec46443076452497b65afb95eec36a4c4d0d72ba90cd524a7042792bbc3adfd
+LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Jan Lukas,Becker,1993,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,f9ce981f875a1de17d1a58024e2a97f73845c97f7acc6a6a2619cdfe3830e58a
 LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Florian,Lauck,1993,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,079a11ff7a4648afc76dc220281ad1c1cb2c21256ac57e52cb6c114c63a96338
 LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Joshua,Gollub,1994,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,5fceb8ee29049d308e5192381af5a967979781ab4486f5f4fd9040bd14d22c2f
 LSG Sbr.-Sulzbachtal,5-Kampf Ma.,Moritz,Zimmermann,1993,11.010,Männliche Jugend B,26.06.2010,Püttlingen,2,True,d104f2bb52d75df5dfa273d8bc5350eb1d932e7afb56d141efceeeacb043e3fa
@@ -1522,7 +1522,7 @@ SV Schlau.Com Saar 05 SBR.,200 m Lauf,Luisa,Valeske,1994,"25,13",Weibliche Jugen
 LSG Sbr.-Sulzbachtal,200 m Lauf,Laura,Müller,1995,"25,50",Weibliche Jugend B,08.08.2010,Ulm,2,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 SC Friedrichsthal,200 m Lauf,Kati,Klein,1993,"25,69",Weibliche Jugend B,22.08.2010,Schwäbisch Gmünd,3,False,cadafbadf1ccf2b81b898fcd249924c7a14cf30603842863bd8def556c9ce0db
 TV Germania 1910 Piesbach,200 m Lauf,Susen,Berg,1994,"25,93",Weibliche Jugend B,12.09.2010,Dillingen,4,False,fed28bc35c37d63030d5ed8fab14d2e6b0ce6bfc92fa403cfc82bf82a8308b8b
-SC Friedrichsthal,200 m Lauf,Annegret,Nehl,1995,"26,85",Weibliche Jugend B,08.05.2010,Friedrichsthal,5,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,200 m Lauf,Anni,Nehl,1995,"26,85",Weibliche Jugend B,08.05.2010,Friedrichsthal,5,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 SC Friedrichsthal,200 m Lauf,Katharina,Döpp,1995,"27,06",Weibliche Jugend B,08.05.2010,Friedrichsthal,6,False,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
 TV Elm,200 m Lauf,Tamara,Lutz,1993,"27,06",Weibliche Jugend B,13.06.2010,Saarbrücken,7,False,01a67ba6be619ba8ff97e89ba8358cc5647a7be340a5109b2bb794809230e648
 LA Team Saar,200 m Lauf,Sarah,Schmitt,1993,"27,22",Weibliche Jugend B,13.06.2010,Saarbrücken,8,False,638b83e100356ca61ba452ec590372599c37c9774cb75415014d21d4c32c9fbb
@@ -1569,7 +1569,7 @@ TV Germania 1910 Piesbach,100 m Hürden 0.762m,Susen,Berg,1994,"14,56",Weibliche
 LSG Sbr.-Sulzbachtal,100 m Hürden 0.762m,Laura,Müller,1995,"14,69",Weibliche Jugend B,06.06.2010,Rehlingen,2,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 TV Elm,100 m Hürden 0.762m,Tamara,Lutz,1993,"15,51",Weibliche Jugend B,15.05.2010,Dillingen,3,False,01a67ba6be619ba8ff97e89ba8358cc5647a7be340a5109b2bb794809230e648
 TV Dillingen,100 m Hürden 0.762m,Jana,Schmidt,1994,"15,92",Weibliche Jugend B,26.06.2010,Püttlingen,4,False,3f67cff98fcf3aac9f466ffae9bd95cf8825eaf217be2cd229631016253c7ba3
-SC Friedrichsthal,100 m Hürden 0.762m,Annegret,Nehl,1995,"16,27",Weibliche Jugend B,05.09.2010,Homburg,5,False,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,100 m Hürden 0.762m,Anni,Nehl,1995,"16,27",Weibliche Jugend B,05.09.2010,Homburg,5,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 LA Team Saar,100 m Hürden 0.762m,Johanna,Rupp,1993,"16,51",Weibliche Jugend B,22.05.2010,Krefeld,6,False,894f485ff897cc3048f964fd01c32f77a959a80b639ba5e137d3691af6a7d57a
 TV Ludweiler,100 m Hürden 0.762m,Vera,Nißl,1994,"16,58",Weibliche Jugend B,26.06.2010,Püttlingen,7,False,a2b9d53dc232bd7eb770a8279e54ade1b790f77d704fdbb6b20fefacf56ba089
 TV Bliesen,100 m Hürden 0.762m,Cathrine,Kunrath,1993,"16,78",Weibliche Jugend B,26.06.2010,Püttlingen,8,False,7c256b11ce56eac22578d3d0f87af8bb88b25ae58c7d231eae45dec4ed64bc07
@@ -1585,7 +1585,7 @@ TV Bliesen,400 m Hürden 0.762m,Elena,Kirsch,1993,"81,06",Weibliche Jugend B,15.
 LC Rehlingen,1500 m Hindernis 0.762m,Michelle,Chasseur,1994,"5:27,79",Weibliche Jugend B,16.05.2010,Pliezhausen,1,False,fd83c3e078e0835f52222909fd20f269d16aa6d7ea75de9413909eab9d37158c
 SC Friedrichsthal,4 x 100 m Staffel,Melanie,Monn,1994,"48,97",Weibliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,True,e8131e1280de72d76408948114bae2811a830fb56354e55c7b279b0bf0a4fabb
 SC Friedrichsthal,4 x 100 m Staffel,Katharina,Döpp,1995,"48,97",Weibliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,True,ee0fce32167e2c0533b16ebb58e912bf3a874973602da4aba99652ab26148236
-SC Friedrichsthal,4 x 100 m Staffel,Annegret,Nehl,1995,"48,97",Weibliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,True,06779f937d5fcf38eafa9c28f941fece4653d298969cf30025abbd997854ec95
+SC Friedrichsthal,4 x 100 m Staffel,Anni,Nehl,1995,"48,97",Weibliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,True,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 SC Friedrichsthal,4 x 100 m Staffel,Kati,Klein,1993,"48,97",Weibliche Jugend B,21.08.2010,Schwäbisch Gmünd,1,True,cadafbadf1ccf2b81b898fcd249924c7a14cf30603842863bd8def556c9ce0db
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Marie- Sophie,Dieter,1995,"51,18",Weibliche Jugend B,06.06.2010,Rehlingen,2,True,4b421a824ec1a9528fb127c1d825a54166c68cf9c17d23cd04255ee4c9d9337a
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Laura,Müller,1995,"51,18",Weibliche Jugend B,06.06.2010,Rehlingen,2,True,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602

@@ -274,7 +274,7 @@ LG Saar 70,4 x 400 m Staffel,Michael,Bratusa,1970,"4:20,74",M,15.09.2019,Ottweil
 LG Saar 70,4 x 400 m Staffel,Christian,Nesselberger,1973,"4:20,74",M,15.09.2019,Ottweiler,5,True,9d5910e12638414bbffcfbdfb29e8790968428b942ea6f485d024278291f0204
 LG Saar 70,4 x 400 m Staffel,Martin,Schedler,1980,"4:20,74",M,15.09.2019,Ottweiler,5,True,374c370aae0377fedfd0c0d6bc55561fcdb7f2ca0168911ae16863f820357665
 LG Saar 70,4 x 400 m Staffel,Marco,Sokoll,1982,"4:20,74",M,15.09.2019,Ottweiler,5,True,63cc8c6db0324dc8442bd7868aca4df5da5b2862112d2c16f78782c86bc0e61c
-LG Saar 70,4 x 400 m Staffel,Wolfgang,Schneider,1974,"4:31,82",M,15.09.2019,Ottweiler,6,True,0d788dcfa9c86fbdacff5dd031751bf65a7dcb915458d96647d5130664bfa793
+LG Saar 70,4 x 400 m Staffel,Wolfgang,Schneider,1972,"4:31,82",M,15.09.2019,Ottweiler,6,True,59dc2d5d43df7c977f246871bf3eb2066dbdd7a621fb204f25943af3df724ff3
 LG Saar 70,4 x 400 m Staffel,Sven,Gräser,1973,"4:31,82",M,15.09.2019,Ottweiler,6,True,e332b05b3687acccbcf8bcf5d9f39042477cc7cf96b730167397a74312e67220
 LG Saar 70,4 x 400 m Staffel,Markus,Hans,1964,"4:31,82",M,15.09.2019,Ottweiler,6,True,cb444cd01b80593a63ef4d12f823e0d9356372e713d0776533ebbf2b40cbb7a4
 LG Saar 70,4 x 400 m Staffel,Michael,Christ,1978,"4:31,82",M,15.09.2019,Ottweiler,6,True,0c1c25e3f3c0b89da7d3d53b8bde800481673893a86cc86b77a1db92719121a2
@@ -396,7 +396,7 @@ LSG Saarlouis,100 m Lauf,Carolin,Rupp,1998,"12,48",F,22.06.2019,Koblenz,5,False,
 LG Berus,100 m Lauf,Sina,Vervin,1997,"12,68",F,25.05.2019,Rehlingen,6,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LAZ Saarbrücken,100 m Lauf,Katharina,Jakob,1990,"12,88",F,12.05.2019,Saarlouis,7,False,4cca1b34f28929f0f6dfe4925ed42a1c55ed3748c4a463437210e9d4e1cb8d23
 TV St. Wendel,100 m Lauf,Annika,Schopper,1996,"13,07",F,15.08.2019,Saarbrücken,8,False,cdb62f54bdb4d780b8c7c7b5f2244a63c9ae7998ce02f79e00c06978e9fef538
-LAZ Saarbrücken,100 m Lauf,Marieke,Vagt,1996,"13,34",F,10.06.2019,Heidelberg,9,False,662ba7aaf3352670055a67f2e332bd82663fd61bb55ac0d0d02ed5c50fa30a3f
+LAZ Saarbrücken,100 m Lauf,Mareike,Vagt,1996,"13,34",F,10.06.2019,Heidelberg,9,False,0c79819d5dbfc30a2e32f4edd38efa491b364d49cd32ff09225c88a4e997f761
 LG Saar 70,100 m Lauf,Katharina,Recktenwald,1996,"13,36",F,22.06.2019,Ottweiler,10,False,3b8bd1cf8d499d1f9d1fa10a0c204fbb90d36a0dc839d346e4a58310899ce726
 LC Rehlingen,200 m Lauf,Laura,Müller,1995,"23,67",F,19.07.2019,Mannheim,1,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 SV schlau.com Saar 05 Sbr.,200 m Lauf,Abigail,Adjei,1997,"24,47",F,29.06.2019,Ratingen,2,False,621f15cffb2cea8b9d77315c2c0ed7f774497ec030bf5e1e3bcb8c1638e4575a
@@ -407,19 +407,19 @@ SV schlau.com Saar 05 Sbr.,200 m Lauf,Lea,Halmans,1999,"26,16",F,29.06.2019,Rati
 TV Dillingen,200 m Lauf,Dunja,Donner-Koglin,1990,"26,32",F,26.05.2019,Dillingen,7,False,d8f3bd2426a9e1eaa53f98133c8956429601b4b1561ef8eba448e89cca37dfbe
 LG Berus,200 m Lauf,Sina,Vervin,1997,"26,49",F,26.05.2019,Dillingen,8,False,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LSG Saarlouis,200 m Lauf,Carolin,Rupp,1998,"26,58",F,04.07.2019,Saarbrücken,9,False,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
-LAZ Saarbrücken,200 m Lauf,Marieke,Vagt,1996,"26,76",F,26.05.2019,Dillingen,10,False,662ba7aaf3352670055a67f2e332bd82663fd61bb55ac0d0d02ed5c50fa30a3f
+LAZ Saarbrücken,200 m Lauf,Mareike,Vagt,1996,"26,76",F,26.05.2019,Dillingen,10,False,0c79819d5dbfc30a2e32f4edd38efa491b364d49cd32ff09225c88a4e997f761
 LC Rehlingen,400 m Lauf,Laura,Müller,1995,"52,75",F,25.05.2019,Weinheim,1,False,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 LSG Saarlouis,400 m Lauf,Carolin,Rupp,1998,"59,07",F,18.07.2019,Saarbrücken,2,False,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 LAZ Saarbrücken,400 m Lauf,Mawoin,Beavogui,1989,"60,34",F,04.05.2019,Trier,3,False,2b3334037d3895473253fed34c369947ff7bf7a403d9b56aaf90672c52e7c442
 SV schlau.com Saar 05 Sbr.,400 m Lauf,Christina,Laubenstein,1997,"61,52",F,25.05.2019,Rehlingen,4,False,cd67fe01b84d0ece1d77b35053c849e7b6d33c5339629f3572d0ab648f709e73
-LAZ Saarbrücken,400 m Lauf,Marieke,Vagt,1996,"62,33",F,25.05.2019,Rehlingen,5,False,662ba7aaf3352670055a67f2e332bd82663fd61bb55ac0d0d02ed5c50fa30a3f
+LAZ Saarbrücken,400 m Lauf,Mareike,Vagt,1996,"62,33",F,25.05.2019,Rehlingen,5,False,0c79819d5dbfc30a2e32f4edd38efa491b364d49cd32ff09225c88a4e997f761
 LV Merzig,400 m Lauf,Laura-Helene,Kiefer,1997,"63,05",F,25.05.2019,Rehlingen,6,False,c6c54fe84b6b475a1faef4af209996c474b8dad895db67ab0a9c44fb1b14d2c6
 LAC Saarlouis,400 m Lauf,Tamara,Lutz,1993,"63,83",F,11.07.2019,Saarbrücken,7,False,01a67ba6be619ba8ff97e89ba8358cc5647a7be340a5109b2bb794809230e648
 LA Team Saar,400 m Lauf,Svenja,Jakobs,1998,"64,65",F,11.07.2019,Saarbrücken,8,False,30c0bd5feb9beaa4e77717a8d275c17d235c6a760a791d00ed50a8e2cc5c16dd
 TV Germania 1910 Piesbach,400 m Lauf,Vanessa,Braun,1998,"78,67",F,25.05.2019,Rehlingen,9,False,29311dfbdf9733456b61b14edaa2bd8ed671fe761876a43545eac52cacf238a7
 SV schlau.com Saar 05 Sbr.,400 m Lauf,Ute,Schweitzer,1948,"102,06",F,23.06.2019,Landau,10,False,f40f5266a2d1bdf3a61a29e3a9880af82daec96260cf46db86044dddaa62c7e0
 LAZ Saarbrücken,800 m Lauf,Mawoin,Beavogui,1989,"2:13,55",F,19.07.2019,Mannheim,1,False,2b3334037d3895473253fed34c369947ff7bf7a403d9b56aaf90672c52e7c442
-LC Rehlingen,800 m Lauf,Selma (FRA),Benfares,1999,"2:14,55",F,10.07.2019,St. Maur/FRA,2,False,23a59eb0fbdc525b920c87a95e0774cf2f9c2f30f600a869d4bf86d0acdbac03
+LC Rehlingen,800 m Lauf,Selma,Benfares,1999,"2:14,55",F,10.07.2019,St. Maur/FRA,2,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 SV schlau.com Saar 05 Sbr.,800 m Lauf,Christina,Laubenstein,1997,"2:16,64",F,30.06.2019,St. Wendel,3,False,cd67fe01b84d0ece1d77b35053c849e7b6d33c5339629f3572d0ab648f709e73
 LSG Sbr.-Sulzbachtal,800 m Lauf,Theresia,Jakoby,1990,"2:21,16",F,19.05.2019,Karlsruhe,4,False,2963c4b40c419367ae8d06ed16f2b3cfa352d4ef47744fb9259625f040aaf50c
 SV schlau.com Saar 05 Sbr.,800 m Lauf,Abigail,Adjei,1997,"2:22,05",F,30.06.2019,Ratingen,5,False,621f15cffb2cea8b9d77315c2c0ed7f774497ec030bf5e1e3bcb8c1638e4575a
@@ -428,7 +428,7 @@ LC Rehlingen,800 m Lauf,Martina,Schumacher,1976,"2:25,03",F,18.07.2019,Saarbrüc
 LC Rehlingen,800 m Lauf,Stella,Clemens,1997,"2:25,30",F,09.05.2019,Clovis/USA,8,False,d732b6da88b20ad7847c21c087a497dcadc7ae51e0d440d33b5299ea6fcfb86d
 LV Merzig,800 m Lauf,Lea,Sanwald,1996,"2:31,33",F,12.05.2019,Saarlouis,9,False,77c1a118c7ca188ee928baf16428c5b2259343a124888e77d345193560ff39a2
 SV schlau.com Saar 05 Sbr.,800 m Lauf,Lea,Halmans,1999,"2:31,40",F,11.08.2019,Bietigheim-Bissingen,10,False,4b262da166771bc8e35f25008b23e8f8095d349a7a3618a1774c8fc45dcb57b8
-LC Rehlingen,1500 m Lauf,Selma (FRA),Benfares,1999,"4:33,22",F,03.08.2019,Ninove/BEL,1,False,23a59eb0fbdc525b920c87a95e0774cf2f9c2f30f600a869d4bf86d0acdbac03
+LC Rehlingen,1500 m Lauf,Selma,Benfares,1999,"4:33,22",F,03.08.2019,Ninove/BEL,1,False,96005c1cdd67c28e401db0fa5c7dbb9d45aaf0718f2903af8029352e30378c74
 LC Rehlingen,1500 m Lauf,Martina,Schumacher,1976,"4:55,06",F,04.07.2019,Saarbrücken,2,False,dc8d882fffc126e6192b456f3ffa47ad079d5cd64dfb2cf733edddc2fc28b54a
 SC Friedrichsthal,1500 m Lauf,Anni,Nehl,1995,"4:59,01",F,07.05.2019,Rehlingen,3,False,34aa4c3b419fa111785b4421102758f68be8a976dcd8a6885275ef4fbe7347ed
 LSG Sbr.-Sulzbachtal,1500 m Lauf,Theresia,Jakoby,1990,"5:08,67",F,04.05.2019,Trier,4,False,2963c4b40c419367ae8d06ed16f2b3cfa352d4ef47744fb9259625f040aaf50c
@@ -501,7 +501,7 @@ Grojos LTF Elversberg,10 km Str. Ma.,Maike,Müller,1991,2:23:51,F,18.05.2019,Neu
 Grojos LTF Elversberg,10 km Str. Ma.,Anja,Schranz,1977,2:23:51,F,18.05.2019,Neunkirchen,4,True,5e39c993613b1edc779bcfc7544451c722d019eed74b9e3f14135274f684478a
 Grojos LTF Elversberg,10 km Str. Ma.,Simone,Schranz,1975,2:23:51,F,18.05.2019,Neunkirchen,4,True,297720250d69dc20ff84cb086a9c2a7597b8a81e2a5e83d2973676d22aec0e33
 LTF Theeltal,10 km Str. Ma.,Sarah,Kronberg,1986,2:26:06,F,28.06.2019,Lebach,5,True,9eb22deff6aba8bba7595bcf2cb146be499c0026f5a4452ccb474c8e6c5aed01
-LTF Theeltal,10 km Str. Ma.,Simone,Kerber,1999,2:26:06,F,28.06.2019,Lebach,5,True,4cdb3376862b0b700898c7061256ce62b5679339d046c9266c90e7d25f26a101
+LTF Theeltal,10 km Str. Ma.,Simone,Kerber,1992,2:26:06,F,28.06.2019,Lebach,5,True,d1d5d5c4bbbc71c9ce602eb21cc24bdd3abb043b88410500c55bef30cb7592b3
 LTF Theeltal,10 km Str. Ma.,Viola,Stras,1971,2:26:06,F,28.06.2019,Lebach,5,True,6b4c0dd523339a1b7b0c72f82240266534a2d4ff3149723dc9c80f2e1aec0594
 LAG Saarbrücken,10 km Str. Ma.,Sabine,König,1963,2:35:04,F,28.06.2019,Lebach,6,True,e33f4ed17ac7ef154d9e589ec79efb778a8f0b8736295f215bf732b8dabc1486
 LAG Saarbrücken,10 km Str. Ma.,Mariko,Masuda,1966,2:35:04,F,28.06.2019,Lebach,6,True,c76f31361dc986c33e3340e2365cf67de7480f0c3e537064f641c3e669430b6e
@@ -530,7 +530,7 @@ TV Kirkel,Halbmarathon,Claudia,Seel,1972,1:31:25,F,06.10.2019,Saarbrücken,9,Fal
 SV schlau.com Saar 05 Sbr.,Halbmarathon,Anna,Ferrante,1989,1:32:04,F,17.03.2019,Saarbrücken,10,False,9da4c1f4c1b0fa4ec07b9e4740e31f9bde62508f3d22ba670efc72b465aca041
 LA Team Saar,Halbmarathon Ma.,Katharina,Rausch,1986,4:32:25,F,17.03.2019,Saarbrücken,1,True,62397d333a05bfd00732bbdc9360838271a588f8545eb0cd21fe0f3ebd99dc67
 LA Team Saar,Halbmarathon Ma.,Isabell,Mayer,1992,4:32:25,F,17.03.2019,Saarbrücken,1,True,b5e85f482724cef98d5aef307376e9058eaaf6024ad5a1167243d2b8032ebc8f
-LA Team Saar,Halbmarathon Ma.,Franziska,Zimmer-Schönenberger,1983,4:32:25,F,17.03.2019,Saarbrücken,1,True,9111eebb4b6aca8cb416ce3725202b59d6e08bc7928f3c4b2a1d94264385a2c0
+LA Team Saar,Halbmarathon Ma.,Franziska,Zimmer-Schönenberger,1973,4:32:25,F,17.03.2019,Saarbrücken,1,True,f2c7eeebc01d5a10138dff76d3343c96a2c47dff357b2c91cb733108961c3ff9
 SV schlau.com Saar 05 Sbr.,Halbmarathon Ma.,Helen,Wiehr,1992,4:33:11,F,17.03.2019,Saarbrücken,2,True,9587bf9ba13d56cd250e4ce269f70363267adf9b5f684cbea5155380f405534e
 SV schlau.com Saar 05 Sbr.,Halbmarathon Ma.,Ann-Cathrine,Jülch,1989,4:33:11,F,17.03.2019,Saarbrücken,2,True,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
 SV schlau.com Saar 05 Sbr.,Halbmarathon Ma.,Anna,Ferrante,1989,4:33:11,F,17.03.2019,Saarbrücken,2,True,9da4c1f4c1b0fa4ec07b9e4740e31f9bde62508f3d22ba670efc72b465aca041
@@ -594,7 +594,7 @@ LSG Sbr.-Sulzbachtal,400 m Hürden 0.762m,Sophia Marie,Jansen,1999,"78,14",F,07.
 LC Rehlingen,3000 m Hindernis,Katrin,Marx,2001,"10:27,52",F,19.05.2019,Karlsruhe,1,False,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LAZ Saarbrücken,4 x 100 m Staffel,Julia,Schulligen,2003,"50,99",F,12.05.2019,Saarlouis,1,True,6f050711c34b7b8d3a4c924d12155cfcd56c947cbc2e1ebc017c931249071323
 LAZ Saarbrücken,4 x 100 m Staffel,Katharina,Jakob,1990,"50,99",F,12.05.2019,Saarlouis,1,True,4cca1b34f28929f0f6dfe4925ed42a1c55ed3748c4a463437210e9d4e1cb8d23
-LAZ Saarbrücken,4 x 100 m Staffel,Marieke,Vagt,1996,"50,99",F,12.05.2019,Saarlouis,1,True,662ba7aaf3352670055a67f2e332bd82663fd61bb55ac0d0d02ed5c50fa30a3f
+LAZ Saarbrücken,4 x 100 m Staffel,Mareike,Vagt,1996,"50,99",F,12.05.2019,Saarlouis,1,True,0c79819d5dbfc30a2e32f4edd38efa491b364d49cd32ff09225c88a4e997f761
 LAZ Saarbrücken,4 x 100 m Staffel,Lisa,Schuler,2001,"50,99",F,12.05.2019,Saarlouis,1,True,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LA Team Saar,4 x 100 m Staffel,Sally,Speicher,2001,"51,00",F,26.05.2019,Dillingen,2,True,5ca7eb49808d863bcf411df44ee488f8e5f5dec444756bf3b0948a199c574b6c
 LA Team Saar,4 x 100 m Staffel,Sophie Muriel,Herget,2001,"51,00",F,26.05.2019,Dillingen,2,True,98d2da48e4316824720fe6c3a70ebb1b6e60806e8668172dcde4f81f48beb2f2
@@ -603,7 +603,7 @@ LA Team Saar,4 x 100 m Staffel,Alina,Schmitt,2004,"51,00",F,26.05.2019,Dillingen
 LG Berus,4 x 100 m Staffel,Marie,Simon,2003,"52,19",F,24.08.2019,Friedrichsthal,3,True,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
 LG Berus,4 x 100 m Staffel,Anne-Sophie,Schosso,1998,"52,19",F,24.08.2019,Friedrichsthal,3,True,4b6e0bc8fa702e661fd88a3a065d55f85f618c98512a79dd84c9e5aac115f2ab
 LG Berus,4 x 100 m Staffel,Sina,Vervin,1997,"52,19",F,24.08.2019,Friedrichsthal,3,True,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
-LG Berus,4 x 100 m Staffel,Viviana,Criszenzo,2004,"52,19",F,24.08.2019,Friedrichsthal,3,True,3649c324e84a3fe8a1983702f301fd6e3f45db6affb68aff7321424c240a7b19
+LG Berus,4 x 100 m Staffel,Viviana,Criscenzo,2004,"52,19",F,24.08.2019,Friedrichsthal,3,True,d968f64a3602d7152adac33eda6fbcb7df0cbd92cd6846536afef82ecd1045e6
 LSG Saarlouis,4 x 100 m Staffel,Laura,Reinhardt,2000,"52,22",F,26.05.2019,Dillingen,4,True,cef4a0483daf3fc0a17d8a58df161d224caa09457ce659c62946cbad2226b368
 LSG Saarlouis,4 x 100 m Staffel,Carolin,Rupp,1998,"52,22",F,26.05.2019,Dillingen,4,True,4548207241b6054a29b1385f205477e243abcf73812dc2044bf6552656c8c67f
 LSG Saarlouis,4 x 100 m Staffel,Mascha,Hessedenz,2002,"52,22",F,26.05.2019,Dillingen,4,True,f264e78e59293cc20f9d8723e11c8f2beecf773a3b9a2ccde6276ec248e6d10f
@@ -631,7 +631,7 @@ LC 72 Altenkessel,4 x 100 m Staffel,Kristin,Hasper,1965,"70,06",F,30.05.2019,Pie
 SC Friedrichsthal,4 x 100 m Staffel,Dorothee,Hau,1962,"70,39",F,23.06.2019,Landau,10,True,2ed8792fcc7a5d767e63b7c3de596ad9ee6ec87b0e9ef27b477d37f9d85190d6
 SC Friedrichsthal,4 x 100 m Staffel,Monika,Honig,1968,"70,39",F,23.06.2019,Landau,10,True,b5d7c4b85ffb43c69b332a187874ffc9ee5f4518de0f3d05cbc2787c7843025e
 SC Friedrichsthal,4 x 100 m Staffel,Claudia,Lehberger,1968,"70,39",F,23.06.2019,Landau,10,True,de4fd9cf35f72544d28c9c5a2af80a6a5e26bc99c5f13aeb4aa9d437e737fcfa
-SC Friedrichsthal,4 x 100 m Staffel,Renate,Franz,1955,"70,39",F,23.06.2019,Landau,10,True,9e6525cb1c4d0e8beaae2abe9b9e694a8212937b3753d61da9141e8268fb908d
+SC Friedrichsthal,4 x 100 m Staffel,Renate,Franz,1960,"70,39",F,23.06.2019,Landau,10,True,dd0ac5077009720f975d4ef974fce3b16d6bc82b11c5abe199d775d5c3b6202c
 LG Saar 70,4 x 400 m Staffel,Jule,Woll,2001,"4:54,35",F,18.05.2019,Püttlingen,1,True,e3aba03c32207b72dd5a50624c483fb5a3f4ab0996376186fe601af1ab3fe2de
 LG Saar 70,4 x 400 m Staffel,Laura,Monz,1998,"4:54,35",F,18.05.2019,Püttlingen,1,True,e7d76abda989a7aa1e8cee9695bfd94ab6808aa77424d90e6008912b94e058ef
 LG Saar 70,4 x 400 m Staffel,Ines,Mohr,1996,"4:54,35",F,18.05.2019,Püttlingen,1,True,147335388ccc55c4913939930fa00245a3ce361403a5672f88bf39fc0ef43b46
@@ -887,22 +887,22 @@ LAZ Saarbrücken,200 m Lauf,Lisa,Schuler,2001,"26,92",WU20,15.06.2019,Püttlinge
 LA Team Saar,200 m Lauf,Anabel,Motsch,2001,"27,48",WU20,20.09.2019,Püttlingen,6,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 LSG Saarlouis,200 m Lauf,Annika,Glaub,2000,"28,12",WU20,18.07.2019,Saarbrücken,7,False,633282b296a1bb337da59880186cfe1c309896693983415eff0505dee6971f02
 LA Team Saar,200 m Lauf,Joelle,Schmidt,2001,"28,27",WU20,15.06.2019,Püttlingen,8,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
-LAZ Saarbrücken,200 m Lauf,Luana,Zawadzki,2001,"29,47",WU20,15.06.2019,Püttlingen,9,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,200 m Lauf,Luana,Zawatzki,2001,"29,47",WU20,15.06.2019,Püttlingen,9,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 LG Saar 70,200 m Lauf,Angelina,Stürmer,2001,"29,79",WU20,26.05.2019,Dillingen,10,False,3a46edb81ed491279aacbd55fbfc77ed0b2fe15fc8e68865298ca8f9723fb1e6
 LC Rehlingen,800 m Lauf,Katrin,Marx,2001,"2:11,96",WU20,09.06.2019,Rehlingen,1,False,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LC Rehlingen,800 m Lauf,Isabelle,Steffen,2000,"2:13,49",WU20,19.05.2019,Karlsruhe,2,False,bf6f591040e6802ac20e678b0740214fff58e55b3fa5c14014e8e0e76a6b29bb
 LC Rehlingen,800 m Lauf,Katharina,Welker,2000,"2:22,64",WU20,26.05.2019,Dillingen,3,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LA Team Saar,800 m Lauf,Anabel,Motsch,2001,"2:31,45",WU20,30.05.2019,Piesbach,4,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 LAZ Saarbrücken,800 m Lauf,Lisa,Schuler,2001,"2:42,15",WU20,16.06.2019,Püttlingen,5,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
-LAZ Saarbrücken,800 m Lauf,Luana,Zawadzki,2001,"2:49,81",WU20,16.06.2019,Püttlingen,6,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,800 m Lauf,Luana,Zawatzki,2001,"2:49,81",WU20,16.06.2019,Püttlingen,6,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 LA Team Saar,800 m Lauf,Joelle,Schmidt,2001,"2:52,74",WU20,16.06.2019,Püttlingen,7,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
 LG Berus,800 m Lauf,Laura,Fritzmann,2000,"2:57,87",WU20,30.05.2019,Piesbach,8,False,f7b2dfb7703e34f2c357406f56812190471007126c8cb974b6bd16d28f226785
 LG Saar 70,800 m Lauf,Janina,Triesch,2001,"3:05,86",WU20,16.06.2019,Püttlingen,9,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
-LC Rehlingen,1500 m Lauf,Sara (FRA),Benfares,2001,"4:17,57",WU20,03.08.2019,Ninove/BEL,1,False,b06f9c8cf257744d0466130d15082dbf3c372074aed6af01a10f192707f4a4d3
+LC Rehlingen,1500 m Lauf,Sara,Benfares,2001,"4:17,57",WU20,03.08.2019,Ninove/BEL,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
 LC Rehlingen,1500 m Lauf,Katrin,Marx,2001,"4:32,10",WU20,29.06.2019,St. Wendel,2,False,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LC Rehlingen,1500 m Lauf,Isabelle,Steffen,2000,"4:40,04",WU20,18.07.2019,Saarbrücken,3,False,bf6f591040e6802ac20e678b0740214fff58e55b3fa5c14014e8e0e76a6b29bb
 LC Rehlingen,1500 m Lauf,Katharina,Welker,2000,"4:54,69",WU20,25.05.2019,Rehlingen,4,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
-LC Rehlingen,3000 m Lauf,Sara (FRA),Benfares,2001,"9:37,02",WU20,05.05.2019,Pontoise/FRA,1,False,b06f9c8cf257744d0466130d15082dbf3c372074aed6af01a10f192707f4a4d3
+LC Rehlingen,3000 m Lauf,Sara,Benfares,2001,"9:37,02",WU20,05.05.2019,Pontoise/FRA,1,False,974c45e82dd9376bbdf90c78b7748ff82e231186beb17cf982b8cc18e5ea20c5
 LC Rehlingen,3000 m Lauf,Katrin,Marx,2001,"10:11,43",WU20,06.04.2019,Rehlingen,2,False,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LC Rehlingen,3000 m Lauf,Miriam,Marx,2001,"10:15,17",WU20,06.04.2019,Rehlingen,3,False,e6dfe65223850e70bb91dbfe53602706263d5a30ef1344ab94fa9b9cc0c84195
 LC Rehlingen,3000 m Lauf,Katharina,Welker,2000,"10:41,76",WU20,10.08.2019,Rehlingen,4,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
@@ -914,7 +914,7 @@ TV Oberbexbach 1894,10 km Str.,Esther,Seitz,2001,52:28,WU20,18.05.2019,Neunkirch
 LA Team Saar,100 m Hürden 0.838m,Joelle,Schmidt,2001,"16,39",WU20,15.06.2019,Püttlingen,1,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
 LAZ Saarbrücken,100 m Hürden 0.838m,Lisa,Schuler,2001,"17,07",WU20,15.06.2019,Püttlingen,2,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LG Saar 70,100 m Hürden 0.838m,Janina,Triesch,2001,"17,73",WU20,15.06.2019,Püttlingen,3,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
-LAZ Saarbrücken,100 m Hürden 0.838m,Luana,Zawadzki,2001,"19,96",WU20,15.06.2019,Püttlingen,4,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,100 m Hürden 0.838m,Luana,Zawatzki,2001,"19,96",WU20,15.06.2019,Püttlingen,4,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 LAZ Saarbrücken,400 m Hürden 0.762m,Lisa,Schuler,2001,"69,33",WU20,10.06.2019,Heidelberg,1,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LC Rehlingen,400 m Hürden 0.762m,Celina,Rolgeiser,2000,"70,31",WU20,07.05.2019,Rehlingen,2,False,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
 LC Rehlingen,400 m Hürden 0.762m,Anne,Kockler,2001,"76,85",WU20,07.05.2019,Rehlingen,3,False,873cd4c0a422565a459fd3317e238cb1483f798028238f4a038d605a016544ec
@@ -950,7 +950,7 @@ LAZ Saarbrücken,Hochsprung,Lisa,Schuler,2001,"1,53",WU20,15.06.2019,Püttlingen
 SC Friedrichsthal,Hochsprung,Louisa,Flachsland,2001,"1,52",WU20,24.08.2019,Friedrichsthal,6,False,7e1613afaad8763d60543d8d23773434d99ebc28f1c840f60473d2e5855a7441
 LA Team Saar,Hochsprung,Anabel,Motsch,2001,"1,41",WU20,06.09.2019,Püttlingen,7,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 LA Team Saar,Hochsprung,Sophie Muriel,Herget,2001,"1,38",WU20,06.09.2019,Püttlingen,8,False,98d2da48e4316824720fe6c3a70ebb1b6e60806e8668172dcde4f81f48beb2f2
-LAZ Saarbrücken,Hochsprung,Luana,Zawadzki,2001,"1,35",WU20,15.06.2019,Püttlingen,9,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,Hochsprung,Luana,Zawatzki,2001,"1,35",WU20,15.06.2019,Püttlingen,9,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 LG Saar 70,Hochsprung,Janina,Triesch,2001,"1,35",WU20,23.06.2019,Ottweiler,10,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
 SV schlau.com Saar 05 Sbr.,Weitsprung,Saskia,Woidy,2001,"6,16",WU20,25.05.2019,Weinheim,1,False,4f0f2411e768305c5a7be2eb20969f14c936edd78be1c35432189b47035dd6b0
 LA Team Saar,Weitsprung,Joelle,Schmidt,2001,"5,28",WU20,30.05.2019,Piesbach,2,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
@@ -1012,14 +1012,14 @@ TV Elm,Speerwurf 600 g,Annika,Fendel,2001,"23,75",WU20,13.04.2019,Diefflen,10,Fa
 LA Team Saar,4-Kampf,Joelle,Schmidt,2001,2.363,WU20,15.06.2019,Püttlingen,1,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
 LAZ Saarbrücken,4-Kampf,Lisa,Schuler,2001,2.323,WU20,15.06.2019,Püttlingen,2,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LG Saar 70,4-Kampf,Janina,Triesch,2001,1.734,WU20,15.06.2019,Püttlingen,3,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
-LAZ Saarbrücken,4-Kampf,Luana,Zawadzki,2001,1.596,WU20,15.06.2019,Püttlingen,4,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,4-Kampf,Luana,Zawatzki,2001,1.596,WU20,15.06.2019,Püttlingen,4,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 LA Team Saar,7-Kampf,Joelle,Schmidt,2001,3.861,WU20,15.06.2019,Püttlingen,1,False,cd8c79717cea07ec7aad5e0c2ee56bada12f07de4e2f9649812231b870e5b03b
 LAZ Saarbrücken,7-Kampf,Lisa,Schuler,2001,3.718,WU20,15.06.2019,Püttlingen,2,False,44e46d4d6b80b587875d5ddbb449a61c48bff2eb56fe13daf4398c867d6c65bb
 LG Saar 70,7-Kampf,Janina,Triesch,2001,2.857,WU20,15.06.2019,Püttlingen,3,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
-LAZ Saarbrücken,7-Kampf,Luana,Zawadzki,2001,2.694,WU20,15.06.2019,Püttlingen,4,False,1e7a2328fd4c2f69d2a51ef2849b7467284f87e9e3333d12013ca60faaf630a2
+LAZ Saarbrücken,7-Kampf,Luana,Zawatzki,2001,2.694,WU20,15.06.2019,Püttlingen,4,False,b440bbcb7132db5a30d8167c09e9d1e9075c2e8503c108f277da30ee30a563cd
 SC Friedrichsthal,100 m Lauf,Max,Tank,2002,"10,99",MU18,15.08.2019,Saarbrücken,1,False,4e6d0ed77fafcfedac48ad21166db37207d816e194b4a5ff64d59f17361ab92a
 LSG Sbr.-Sulzbachtal,100 m Lauf,Guy,Wolf,2002,"11,38",MU18,12.05.2019,Saarlouis,2,False,4bd3204643b2eaaa57a0aaac5ee8489f0ea17618c12cd56bbdb8e83fc1838f44
-LG Bliestal,100 m Lauf,Raphael,Motsch,2002,"11,59",MU18,25.05.2019,Rehlingen,3,False,ccef5a3ab5139c3b02f24cc89449c8fbabb949f76a12a6baa06896bbd5d45df4
+LG Bliestal,100 m Lauf,Raphael,Monak,2002,"11,59",MU18,25.05.2019,Rehlingen,3,False,92ba8acd7d4586f74cb967db6a3fd879265598d2a68e821064fc925c9812ae70
 LG Reimsbach-Oppen,100 m Lauf,Noah,Klauck,2002,"11,68",MU18,25.05.2019,Rehlingen,4,False,5856da4e7e931c5ec0b3a4e5280f6e7aa0b4467e00f1ea15de38b5ef7c158683
 LSG Sbr.-Sulzbachtal,100 m Lauf,Marcel,Park,2002,"11,71",MU18,12.05.2019,Saarlouis,5,False,0c004fe720250924c546704e5eb09cec16fef338899348f5afe5d8e383978946
 TV Bliesen,100 m Lauf,Lukas,Krauße,2003,"11,73",MU18,24.08.2019,Friedrichsthal,6,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
@@ -1034,7 +1034,7 @@ TV Bliesen,200 m Lauf,Matthias,Demuth,2002,"24,38",MU18,26.05.2019,Dillingen,4,F
 LSG Sbr.-Sulzbachtal,200 m Lauf,Fabian,Singh,2003,"24,47",MU18,26.05.2019,Dillingen,5,False,c3bf621e86a165215a183e1d553984a75007ca6a80b86ddb5349c68885c62c67
 TV St. Wendel,200 m Lauf,Nick,Holzhüter,2003,"24,47",MU18,22.06.2019,Ottweiler,6,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
 LC Rehlingen,200 m Lauf,Simon,Marion,2003,"24,57",MU18,12.05.2019,Saarlouis,7,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
-LG Bliestal,200 m Lauf,Raphael,Motsch,2002,"24,60",MU18,15.08.2019,Saarbrücken,8,False,ccef5a3ab5139c3b02f24cc89449c8fbabb949f76a12a6baa06896bbd5d45df4
+LG Bliestal,200 m Lauf,Raphael,Monak,2002,"24,60",MU18,15.08.2019,Saarbrücken,8,False,92ba8acd7d4586f74cb967db6a3fd879265598d2a68e821064fc925c9812ae70
 LSG Sbr.-Sulzbachtal,200 m Lauf,Marcel,Park,2002,"24,66",MU18,10.06.2019,Heidelberg,9,False,0c004fe720250924c546704e5eb09cec16fef338899348f5afe5d8e383978946
 TV Bliesen,200 m Lauf,Lukas,Krauße,2003,"24,86",MU18,10.08.2019,Rehlingen,10,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 SC Friedrichsthal,400 m Lauf,Max,Tank,2002,"48,36",MU18,26.07.2019,Ulm,1,False,4e6d0ed77fafcfedac48ad21166db37207d816e194b4a5ff64d59f17361ab92a
@@ -1151,7 +1151,7 @@ LSG Schmelz-Hüttersdorf,Stabhochsprung,Marlon,Brachmann,2002,"2,60",MU18,16.06.
 LA Team Saar,Stabhochsprung,Lukas,Mees,2003,"2,30",MU18,12.06.2019,Püttlingen,5,False,4016fe3121ef329f832f7206b4bb365e0af810270c4de9474201ea78532e1589
 LA Team Saar,Stabhochsprung,Felix,Klein,2003,"2,30",MU18,16.06.2019,Püttlingen,6,False,453ab720fedfa3e02807f02ae0367179d4178a6a2944a73558310ee5724b7ca2
 LA Team Saar,Stabhochsprung,Dennis,Baldauf,2003,"2,10",MU18,12.06.2019,Püttlingen,7,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
-LG Bliestal,Weitsprung,Raphael,Motsch,2002,"6,52",MU18,30.06.2019,St. Wendel,1,False,ccef5a3ab5139c3b02f24cc89449c8fbabb949f76a12a6baa06896bbd5d45df4
+LG Bliestal,Weitsprung,Raphael,Monak,2002,"6,52",MU18,30.06.2019,St. Wendel,1,False,92ba8acd7d4586f74cb967db6a3fd879265598d2a68e821064fc925c9812ae70
 SC Friedrichsthal,Weitsprung,Max,Tank,2002,"6,44",MU18,25.05.2019,Rehlingen,2,False,4e6d0ed77fafcfedac48ad21166db37207d816e194b4a5ff64d59f17361ab92a
 TV Bliesen,Weitsprung,Lukas,Krauße,2003,"6,08",MU18,11.05.2019,St. Wendel,3,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 TV St. Wendel,Weitsprung,Nick,Holzhüter,2003,"6,06",MU18,15.06.2019,Ottweiler,4,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
@@ -1162,7 +1162,7 @@ LC Rehlingen,Weitsprung,Paul,Jacobs,2002,"5,68",MU18,24.08.2019,Friedrichsthal,8
 LG Bliestal,Weitsprung,Tim,Wagner,2002,"5,52",MU18,25.05.2019,Rehlingen,9,False,0cf225854c25b29d2722ac53fcbfd1cffb4d156d1e768dab8b8860f427e3c8d7
 TV Bliesen,Weitsprung,Matthias,Demuth,2002,"5,44",MU18,15.06.2019,Püttlingen,10,False,90b397c8d5e0a619bf3fe0920651593ef89770ac4bc857145af838f022998004
 ATSV Saarbrücken,Dreisprung,Denni,Laketa,2002,"12,84",MU18,07.05.2019,Rehlingen,1,False,e699fe497f762bd8d281de84fb4fe93bf065a500bc5926c81fa32bfd0dbb70f0
-LG Bliestal,Dreisprung,Raphael,Motsch,2002,"12,60",MU18,30.06.2019,St. Wendel,2,False,ccef5a3ab5139c3b02f24cc89449c8fbabb949f76a12a6baa06896bbd5d45df4
+LG Bliestal,Dreisprung,Raphael,Monak,2002,"12,60",MU18,30.06.2019,St. Wendel,2,False,92ba8acd7d4586f74cb967db6a3fd879265598d2a68e821064fc925c9812ae70
 LG Saar 70,Dreisprung,Luca,Fischer,2002,"11,10",MU18,23.06.2019,Ottweiler,3,False,6bd27601112c0566aa8f25e7a85578090ec7ac060fdeeaf28c86af71390a8b0e
 LA Team Saar,Dreisprung,Dennis,Baldauf,2003,"10,98",MU18,18.05.2019,Püttlingen,4,False,fa1ebc4003a805147916d1c44b11d4ee439d4106de05ef8c2c0c6a7b8c9af070
 LG Saar 70,Dreisprung,Simon,Groß,2003,"10,88",MU18,15.09.2019,Ottweiler,5,False,e196c1e6a48f4e40467c31e6c9c6eed13446e1821587dc76812cdcf984b411e8
@@ -1321,7 +1321,7 @@ LA Team Saar,4 x 100 m Staffel,Inga,Böhm,2003,"55,22",WU18,24.08.2019,Friedrich
 LA Team Saar,4 x 100 m Staffel,Celine,Motsch,2004,"55,22",WU18,24.08.2019,Friedrichsthal,3,True,66a19988af85ac19fdf9d811fa0d460895f381a289b181bb673b6ac003e691fa
 LA Team Saar,4 x 100 m Staffel,Alina,Schmitt,2004,"55,22",WU18,24.08.2019,Friedrichsthal,3,True,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
 LG Saar 70,4 x 100 m Staffel,Vanessa,Gillmann,2002,"56,69",WU18,24.08.2019,Friedrichsthal,4,True,d50ddf405cb3cf3c762d9c382938ced8f4686d3e5d2dd18e9a384873d18c7509
-LG Saar 70,4 x 100 m Staffel,Lisa,Fuhrmann,2004,"56,69",WU18,24.08.2019,Friedrichsthal,4,True,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,4 x 100 m Staffel,Lisa Marie,Fuhrmann,2004,"56,69",WU18,24.08.2019,Friedrichsthal,4,True,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,4 x 100 m Staffel,Katrin,Groß,2005,"56,69",WU18,24.08.2019,Friedrichsthal,4,True,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
 LG Saar 70,4 x 100 m Staffel,Lara,Keller,2004,"56,69",WU18,24.08.2019,Friedrichsthal,4,True,fa4f0dd0144e88d3b80d59e3e4e3e6ec39297525b279bf004864bc2629a4bdac
 LG Saar 70,4 x 100 m Staffel,Laura,Bourquin,2003,"58,55",WU18,22.06.2019,Ottweiler,5,True,14aab3ef7c0972d33c2d7b32a1b5dd3d23dd9447717baea6792751a6f38408a9
@@ -1329,7 +1329,7 @@ LG Saar 70,4 x 100 m Staffel,Lea,Pfaff,2003,"58,55",WU18,22.06.2019,Ottweiler,5,
 LG Saar 70,4 x 100 m Staffel,Kristina,Meistrell,2003,"58,55",WU18,22.06.2019,Ottweiler,5,True,c7cb36ca8ebaaf32b3d3dd54edf63f4993fc4fdb114f402912818d75069fdcf5
 LG Saar 70,4 x 100 m Staffel,Paola,Heylmann,2002,"58,55",WU18,22.06.2019,Ottweiler,5,True,d5598311e1e58e25543eebca2d1b5bdac57ac194fd5af2cff2bf4aa95a53cce2
 LA Team Saar,4 x 100 m Staffel,Anna,Messner,2005,"58,98",WU18,20.09.2019,Püttlingen,6,True,c9b547230bd41613a08b9c8b93dd77b2dea55e82154329fbc10e4132de53c6d2
-LA Team Saar,4 x 100 m Staffel,Katharina,Kastriotis,2005,"58,98",WU18,20.09.2019,Püttlingen,6,True,b0455c593ea600564029086df0caeb71371d2f4f2c8484a894fa181271f047b0
+LA Team Saar,4 x 100 m Staffel,Katharina,Kastrotis,2005,"58,98",WU18,20.09.2019,Püttlingen,6,True,a9629e107142b1fe213c5dafef7d69de389c4af25bab9f907af8f6607710d10d
 LA Team Saar,4 x 100 m Staffel,Mara Sophie,Müller,2005,"58,98",WU18,20.09.2019,Püttlingen,6,True,a4b20f0e730b2b99434976b1e03269ea08ccd96854535a2ffee8df723463c75a
 LA Team Saar,4 x 100 m Staffel,Viktoria,Bauer,2003,"58,98",WU18,20.09.2019,Püttlingen,6,True,63931b5eb93607871734cc18fd7ea23f2e6479d636f250fc99829fe0dbaae0a1
 LC Rehlingen,3 x 800 m Staffel,Sarah,Laschinger,2002,"7:21,00",WU18,15.06.2019,Wetzlar,1,True,39b8b9dad92cb814e53c345276b9ec5fbed574783c77394936e46009803ad603
@@ -1442,7 +1442,7 @@ TV Homburg,100 m Lauf,Dennis,Homberg,2004,"11,76",M15,19.05.2019,Püttlingen,1,F
 TV Homburg,100 m Lauf,Lucas,Sommer,2004,"12,04",M15,20.07.2019,Mainz,2,False,b3d3d9583e20ccaf8d9dffdd5f0c96eed71ce65d504cdff8df95773f3fa61333
 LA Team Saar,100 m Lauf,Peter,Ecker,2004,"12,25",M15,25.05.2019,Rehlingen,3,False,1226a9377e113671ac4cfc056756e6c77148c14748cc0affecf46a10aadc6f83
 LSG Sbr.-Sulzbachtal,100 m Lauf,Lukas,Zubiller,2004,"12,33",M15,04.07.2019,Saarbrücken,4,False,086421debaaa086bbe9c5dc2292758624fea6525ea076b9bcb9a6e8b474740d9
-LC Rehlingen,100 m Lauf,Valentin,Kronenberger,2004,"12,36",M15,15.09.2019,Ottweiler,5,False,83780711d4417ced435ba57fc36156454bbd2861cdb0fda1f62e662da15c9e67
+LC Rehlingen,100 m Lauf,Valentin,Kronenberg,2004,"12,36",M15,15.09.2019,Ottweiler,5,False,090c7946fa542e5dba0cb6da059c25266e66513c190161112b3188bc3485e31d
 LA Team Saar,100 m Lauf,Piotr,Remiszewski,2004,"12,37",M15,15.09.2019,Ottweiler,6,False,98912814a4a0da1f88338983361f4e43c475fe3111035aa4acf8db7a078cf820
 TV Bliesen,100 m Lauf,Johannes,Demuth,2004,"12,52",M15,14.09.2019,Hechingen,7,False,5318ba425434dce3ecf5e73634803d40f0a61aff71bb497feaf232ab15dd6ee3
 LC Rehlingen,100 m Lauf,Jan,Flesch,2004,"12,62",M15,15.06.2019,Püttlingen,8,False,62223daefebdecccea6b8805f079b0e011eec77e680adac1d4f79f5e92249337
@@ -1534,7 +1534,7 @@ LA Team Saar,Kugelstoß 4 kg,Peter,Ecker,2004,"12,79",M15,15.06.2019,Püttlingen
 LA Team Saar,Kugelstoß 4 kg,Piotr,Remiszewski,2004,"11,60",M15,10.08.2019,Rehlingen,5,False,98912814a4a0da1f88338983361f4e43c475fe3111035aa4acf8db7a078cf820
 LA Team Saar,Kugelstoß 4 kg,Michael,Rosch,2004,"11,58",M15,30.05.2019,Piesbach,6,False,40ccb2726c92fb4fd2743f0b14121702136e0260675d8544bd9040a691e620fa
 LA Team Saar,Kugelstoß 4 kg,Florian,Schampel,2004,"10,64",M15,05.05.2019,Püttlingen,7,False,d24b6687eca0412c45e561c2f1bc52002aeb3ea70bc4f6801d63bae5b803da5b
-LC Rehlingen,Kugelstoß 4 kg,Valentin,Kronenberger,2004,"10,58",M15,15.09.2019,Ottweiler,8,False,83780711d4417ced435ba57fc36156454bbd2861cdb0fda1f62e662da15c9e67
+LC Rehlingen,Kugelstoß 4 kg,Valentin,Kronenberg,2004,"10,58",M15,15.09.2019,Ottweiler,8,False,090c7946fa542e5dba0cb6da059c25266e66513c190161112b3188bc3485e31d
 TV Homburg,Kugelstoß 4 kg,Lucas,Sommer,2004,"10,56",M15,15.06.2019,Püttlingen,9,False,b3d3d9583e20ccaf8d9dffdd5f0c96eed71ce65d504cdff8df95773f3fa61333
 TV Homburg,Kugelstoß 4 kg,Jonas,Sommer,2004,"10,33",M15,08.09.2019,Ludweiler,10,False,d31d411e4614e4acf95757325539296984cea3f0910f01dac3c3b2c472ba7eb9
 TuS 1860 Neunkirchen,Diskuswurf 1 kg,Luca,Vogel,2004,"47,63",M15,22.04.2019,Trier,1,False,6e118d38de1597a3c9e6ba1509ed5591103fc5d490af6672510155b94c959d5e
@@ -1609,7 +1609,7 @@ LSG Sbr.-Sulzbachtal,300 m Lauf,Leon,Glaub,2005,"43,03",M14,04.09.2019,Friedrich
 TV Ludweiler,300 m Lauf,Gil,Kunkel,2005,"43,32",M14,23.06.2019,Ottweiler,3,False,4c530895ba73e1ca3b1d0b0bcd2bd798b2b12ac2f709a7a785d13dd4f18e128f
 LAC Saarlouis,300 m Lauf,Benedikt,Schäfer,2005,"43,92",M14,04.09.2019,Friedrichsthal,4,False,65ac9d986a00d41124537f641af24923edb62d4253e0d1b8fe9b834f7eff636a
 LSG Sbr.-Sulzbachtal,300 m Lauf,Sebastian,Schneider,2005,"46,15",M14,04.09.2019,Friedrichsthal,5,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
-TV Ludweiler,300 m Lauf,Ricardo,Sosa Rosario,2005,"49,92",M14,10.08.2019,Rehlingen,6,False,04d9b372ab99ccd1e52d89dff004a767a1e77d2acc209fa03526eef987c2d2c2
+TV Ludweiler,300 m Lauf,Ricardo,Soso-Rosario,2005,"49,92",M14,10.08.2019,Rehlingen,6,False,9e519dc852cc918e211de1b3b57df5ed336fe1fd93cb3bb83d44d788c0cfd78c
 TV Ludweiler,300 m Lauf,Riccardo,Bachelier,2005,"53,62",M14,24.07.2019,Friedrichsthal,7,False,92427966634937062834cc715aa92518ac0f34d0285e260a01cbfa3ea02e13d0
 LSG Sbr.-Sulzbachtal,800 m Lauf,Leon,Glaub,2005,"2:14,19",M14,19.05.2019,Püttlingen,1,False,40f2c581732d3a5db2967031f9d5a12af5e4cb0e3cb7fe8d1ea4c8879a159acf
 LSG Schmelz-Hüttersdorf,800 m Lauf,Joshua,Trampert,2005,"2:25,86",M14,09.06.2019,Rehlingen,2,False,99fafe610e435c874fed9db055786cc9c2e738445fc243b4bf872f3c70a7b778
@@ -1632,7 +1632,7 @@ LSG Sbr.-Sulzbachtal,2000 m Lauf,Leon,Glaub,2005,"6:25,43",M14,21.08.2019,Wiesba
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Jan,Zaffuto,2005,"7:21,22",M14,20.09.2019,Trier,2,False,4131f5748f15622a0490f198baf74cb52a1230523423678b4dccb7c62858a164
 SV schlau.com Saar 05 Sbr.,2000 m Lauf,Max,Neumeier,2005,"7:49,54",M14,05.05.2019,Püttlingen,3,False,b16a39ed6b23387b8777372cf8b5c2e802de455562b6b22e01ca2710522c95a7
 TV Homburg,2000 m Lauf,Hendrik,Sauer,2005,"7:49,93",M14,05.05.2019,Püttlingen,4,False,c357efe2a42c1eec32b224c83a7dbad6bb8a444282584dced327a3e04de963ef
-LSG Sbr.-Sulzbachtal,2000 m Lauf,Elias Maximilia,Wissel,2005,"8:28,98",M14,05.05.2019,Püttlingen,5,False,48335abd1574c65bfb5136e76fa2ed9b26b86972e7cf74c20b812ce6f77abeed
+LSG Sbr.-Sulzbachtal,2000 m Lauf,Elias Maximilian,Wissel,2005,"8:28,98",M14,05.05.2019,Püttlingen,5,False,f4635f0095d5bad4a1ad22dbc4b05de67f862325ee158d9d65bf21f601b3fea8
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Sebastian,Schneider,2005,"8:55,92",M14,05.05.2019,Püttlingen,6,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
 LV Merzig,2000 m Lauf,Maximilian,Streit,2005,"9:04,43",M14,05.05.2019,Püttlingen,7,False,31c2da5cb495bec0eb34b195f886576d518a2a2bc56a447b1534c4cdf267f4ad
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Leon,Glaub,2005,"9:47,53",M14,18.07.2019,Saarbrücken,1,False,40f2c581732d3a5db2967031f9d5a12af5e4cb0e3cb7fe8d1ea4c8879a159acf
@@ -1656,7 +1656,7 @@ LG Berus,80 m Hürden 0.838m,Simon,Valeske,2005,"14,76",M14,19.05.2019,Püttling
 SV schlau.com Saar 05 Sbr.,80 m Hürden 0.838m,Max,Neumeier,2005,"14,87",M14,19.05.2019,Püttlingen,5,False,b16a39ed6b23387b8777372cf8b5c2e802de455562b6b22e01ca2710522c95a7
 LSG Sbr.-Sulzbachtal,80 m Hürden 0.838m,Sebastian,Schneider,2005,"15,08",M14,19.05.2019,Püttlingen,6,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
 AC Diefflen,80 m Hürden 0.838m,David,Gamrekeli,2005,"15,40",M14,05.05.2019,Püttlingen,7,False,8a9a9677d9db8d6bfca9c35a761b82e2f847e4f83e87e19c03bcd95ab3461cbc
-LSG Sbr.-Sulzbachtal,80 m Hürden 0.838m,Elias Maximilia,Wissel,2005,"16,14",M14,05.05.2019,Püttlingen,8,False,48335abd1574c65bfb5136e76fa2ed9b26b86972e7cf74c20b812ce6f77abeed
+LSG Sbr.-Sulzbachtal,80 m Hürden 0.838m,Elias Maximilian,Wissel,2005,"16,14",M14,05.05.2019,Püttlingen,8,False,f4635f0095d5bad4a1ad22dbc4b05de67f862325ee158d9d65bf21f601b3fea8
 TV Homburg,80 m Hürden 0.838m,Hendrik,Sauer,2005,"16,45",M14,05.05.2019,Püttlingen,9,False,c357efe2a42c1eec32b224c83a7dbad6bb8a444282584dced327a3e04de963ef
 LAC Elm,80 m Hürden 0.838m,Nick,Denner,2005,"16,85",M14,05.05.2019,Püttlingen,10,False,4fbd852c508e4f762adcd2a36d156e80f918e055832abe62d3a30097c497ebee
 LAC Saarlouis,300 m Hürden 0.838m,Benedikt,Schäfer,2005,"50,76",M14,07.05.2019,Rehlingen,1,False,65ac9d986a00d41124537f641af24923edb62d4253e0d1b8fe9b834f7eff636a
@@ -1718,10 +1718,10 @@ LG Berus,Speerwurf 600 g,Jonas,Kipp,2005,"24,16",M14,27.04.2019,Merzig,9,False,3
 LSG Schmelz-Hüttersdorf,Speerwurf 600 g,Joshua,Trampert,2005,"22,99",M14,16.06.2019,Püttlingen,10,False,99fafe610e435c874fed9db055786cc9c2e738445fc243b4bf872f3c70a7b778
 TV Ludweiler,Ballwurf 200g,Gil,Kunkel,2005,"65,00",M14,15.06.2019,Ottweiler,1,False,4c530895ba73e1ca3b1d0b0bcd2bd798b2b12ac2f709a7a785d13dd4f18e128f
 LG Reimsbach-Oppen,Ballwurf 200g,Leo,Rudnick,2005,"52,50",M14,23.09.2019,Berlin,2,False,65fc266b44fe89ae66ff17773863d0c620b1dcc5be1941a8b89094af7d7e22ec
-LG Saar 70,Ballwurf 200g,Felix Eric Edua,Ruffing,2005,"39,50",M14,15.06.2019,Ottweiler,3,False,99f89f867ac0b1cfe4c99215d5dd9d4b12314ce9d88722342c9b4af1770e2c06
+LG Saar 70,Ballwurf 200g,Felix Eric Eduard,Ruffing,2005,"39,50",M14,15.06.2019,Ottweiler,3,False,bb7434ac0e3b24c35b265bb09cdf7f16cfe8659bee13f574002de9726a656103
 SV schlau.com Saar 05 Sbr.,Ballwurf 200g,Max,Neumeier,2005,"30,50",M14,05.05.2019,Püttlingen,4,False,b16a39ed6b23387b8777372cf8b5c2e802de455562b6b22e01ca2710522c95a7
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Sebastian,Schneider,2005,"29,50",M14,05.05.2019,Püttlingen,5,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
-LSG Sbr.-Sulzbachtal,Ballwurf 200g,Elias Maximilia,Wissel,2005,"29,00",M14,05.05.2019,Püttlingen,6,False,48335abd1574c65bfb5136e76fa2ed9b26b86972e7cf74c20b812ce6f77abeed
+LSG Sbr.-Sulzbachtal,Ballwurf 200g,Elias Maximilian,Wissel,2005,"29,00",M14,05.05.2019,Püttlingen,6,False,f4635f0095d5bad4a1ad22dbc4b05de67f862325ee158d9d65bf21f601b3fea8
 TV Homburg,Ballwurf 200g,Hendrik,Sauer,2005,"29,00",M14,05.05.2019,Püttlingen,7,False,c357efe2a42c1eec32b224c83a7dbad6bb8a444282584dced327a3e04de963ef
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Jan,Zaffuto,2005,"22,00",M14,05.05.2019,Püttlingen,8,False,4131f5748f15622a0490f198baf74cb52a1230523423678b4dccb7c62858a164
 LV Merzig,Ballwurf 200g,Maximilian,Streit,2005,"20,50",M14,05.05.2019,Püttlingen,9,False,31c2da5cb495bec0eb34b195f886576d518a2a2bc56a447b1534c4cdf267f4ad
@@ -1743,7 +1743,7 @@ AC Diefflen,Block S/S,David,Gamrekeli,2005,1.746,M14,05.05.2019,Püttlingen,2,Fa
 SV schlau.com Saar 05 Sbr.,Block Lauf,Max,Neumeier,2005,1.914,M14,05.05.2019,Püttlingen,1,False,b16a39ed6b23387b8777372cf8b5c2e802de455562b6b22e01ca2710522c95a7
 TV Homburg,Block Lauf,Hendrik,Sauer,2005,1.857,M14,05.05.2019,Püttlingen,2,False,c357efe2a42c1eec32b224c83a7dbad6bb8a444282584dced327a3e04de963ef
 LSG Sbr.-Sulzbachtal,Block Lauf,Sebastian,Schneider,2005,1.783,M14,05.05.2019,Püttlingen,3,False,55488f3cafbd0de8dd02076fc309b694f3b240b8b5dbe6216aa1fc0c1b6bcfbc
-LSG Sbr.-Sulzbachtal,Block Lauf,Elias Maximilia,Wissel,2005,1.766,M14,05.05.2019,Püttlingen,4,False,48335abd1574c65bfb5136e76fa2ed9b26b86972e7cf74c20b812ce6f77abeed
+LSG Sbr.-Sulzbachtal,Block Lauf,Elias Maximilian,Wissel,2005,1.766,M14,05.05.2019,Püttlingen,4,False,f4635f0095d5bad4a1ad22dbc4b05de67f862325ee158d9d65bf21f601b3fea8
 LSG Sbr.-Sulzbachtal,Block Lauf,Jan,Zaffuto,2005,1.489,M14,05.05.2019,Püttlingen,5,False,4131f5748f15622a0490f198baf74cb52a1230523423678b4dccb7c62858a164
 LV Merzig,Block Lauf,Maximilian,Streit,2005,1.075,M14,05.05.2019,Püttlingen,6,False,31c2da5cb495bec0eb34b195f886576d518a2a2bc56a447b1534c4cdf267f4ad
 LG Berus,Block Wurf,Simon,Valeske,2005,2.006,M14,05.05.2019,Püttlingen,1,False,0f1aff25f211287bfb2e67e68e3a0f583e52aa96789497298579b022659d9f2b
@@ -1763,7 +1763,7 @@ TV Homburg,4 x 100 m Staffel,Elena,Denis,2005,"53,56",W15,30.05.2019,Piesbach,3,
 TV Homburg,4 x 100 m Staffel,Emely,Rothfuchs,2006,"53,56",W15,30.05.2019,Piesbach,3,True,d75e6f4b6c08d3be35922514d87e2a97bae1138bc10fab898f2cb83c8c976274
 TV Homburg,4 x 100 m Staffel,Ksenia,Helios,2005,"53,56",W15,30.05.2019,Piesbach,3,True,3b063919e66262418c133b6765210cadd63edee2dc5c31924f283686df018e9b
 LG Saar 70,4 x 100 m Staffel,Katrin,Groß,2005,"54,33",W15,15.09.2019,Ottweiler,4,True,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
-LG Saar 70,4 x 100 m Staffel,Lisa,Fuhrmann,2004,"54,33",W15,15.09.2019,Ottweiler,4,True,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,4 x 100 m Staffel,Lisa Marie,Fuhrmann,2004,"54,33",W15,15.09.2019,Ottweiler,4,True,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,4 x 100 m Staffel,Emely,Platz,2004,"54,33",W15,15.09.2019,Ottweiler,4,True,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LG Saar 70,4 x 100 m Staffel,Ann-Kathrin,Berwanger,2006,"54,33",W15,15.09.2019,Ottweiler,4,True,ebf2c1e8f569ba223bbf710d4a4cf14a23a07609d65bb299a9be2eb0d547394d
 StG St. Wendel-Bliesen,4 x 100 m Staffel,Marie,Schmitt,2004,"55,24",W15,22.06.2019,Ottweiler,5,True,9f42c80bb2af0af2617ab9e076fe8a5dd1f8125866e6f2b68ddbb7a64a589edb
@@ -1807,7 +1807,7 @@ LA Team Saar,4-Kampf Ma.,Katharina,Klein,2004,8.598,W15,15.06.2019,Püttlingen,2
 LA Team Saar,4-Kampf Ma.,Marie-Claire,Rohmkopf,2006,8.598,W15,15.06.2019,Püttlingen,2,True,d1f5c9bd6d7c6711f7e15d8948c27db9ded672a15d593f8608651667648aa3e1
 LA Team Saar,4-Kampf Ma.,Valentina,Maas,2006,8.598,W15,15.06.2019,Püttlingen,2,True,12feeb5c4099f431dbe3031d1956048e14efac89b868f318eae4a18c33376842
 LA Team Saar,4-Kampf Ma.,Celine,Motsch,2004,8.598,W15,15.06.2019,Püttlingen,2,True,66a19988af85ac19fdf9d811fa0d460895f381a289b181bb673b6ac003e691fa
-LG Saar 70,4-Kampf Ma.,Lisa,Fuhrmann,2004,7.849,W15,11.05.2019,St. Wendel,3,True,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,4-Kampf Ma.,Lisa Marie,Fuhrmann,2004,7.849,W15,11.05.2019,St. Wendel,3,True,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,4-Kampf Ma.,Emma Mae,Schäfer,2005,7.849,W15,11.05.2019,St. Wendel,3,True,51a1f216798cdaef9b9d71d3e5bb8d9fef9aff8a6b6d336cfdfa4a7429ee96b8
 LG Saar 70,4-Kampf Ma.,Emely,Platz,2004,7.849,W15,11.05.2019,St. Wendel,3,True,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LG Saar 70,4-Kampf Ma.,Katrin,Groß,2005,7.849,W15,11.05.2019,St. Wendel,3,True,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
@@ -1820,7 +1820,7 @@ LSG Sbr.-Sulzbachtal,4-Kampf Ma.,Emma,Dorfmüller,2005,6.817,W15,15.06.2019,Püt
 LC Rehlingen,7-Kampf Ma.,Jana,Berndt,2005,9.709,W15,15.06.2019,Püttlingen,1,True,c0aa12bc78615c3e86db5463dc9cf3ea277862ee18bcc5fa4c408ddc4fa0f4cd
 LC Rehlingen,7-Kampf Ma.,Katharina,Mehle,2004,9.709,W15,15.06.2019,Püttlingen,1,True,e955ad29a810969a21408aea776123513e3e846cfe6d8b4119bec0aab51d07ba
 LC Rehlingen,7-Kampf Ma.,Franka,Wilhelm,2005,9.709,W15,15.06.2019,Püttlingen,1,True,17cd7c520430429128466ce39a050bf985e8282b782e32e1092360df82288124
-LG Saar 70,7-Kampf Ma.,Lisa,Fuhrmann,2004,8.722,W15,11.05.2019,St. Wendel,2,True,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,7-Kampf Ma.,Lisa Marie,Fuhrmann,2004,8.722,W15,11.05.2019,St. Wendel,2,True,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,7-Kampf Ma.,Emma Mae,Schäfer,2005,8.722,W15,11.05.2019,St. Wendel,2,True,51a1f216798cdaef9b9d71d3e5bb8d9fef9aff8a6b6d336cfdfa4a7429ee96b8
 LG Saar 70,7-Kampf Ma.,Emely,Platz,2004,8.722,W15,11.05.2019,St. Wendel,2,True,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LC Rehlingen,7-Kampf Ma.,Anna,Mehle,2004,7.555,W15,15.06.2019,Püttlingen,3,True,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
@@ -1839,7 +1839,7 @@ LA Team Saar,Block Mannschaft,Celine,Motsch,2004,10.145,W15,05.05.2019,Püttling
 LA Team Saar,Block Mannschaft,Alina,Schmitt,2004,10.145,W15,05.05.2019,Püttlingen,2,True,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
 LA Team Saar,Block Mannschaft,Jule,Pfaff,2005,10.145,W15,05.05.2019,Püttlingen,2,True,65ee3b3ff09b2bbd2efe820fe99ead44989d87517e57e9640a5195a62b2e9212
 LA Team Saar,Block Mannschaft,Madlen,Arsamasow,2005,10.145,W15,05.05.2019,Püttlingen,2,True,710882ceb106549e2d498a91e74e5b1bb5d6f0805b8826493f3c12cc1695f701
-LG Saar 70,Block Mannschaft,Lisa,Fuhrmann,2004,9.608,W15,05.05.2019,Püttlingen,3,True,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Block Mannschaft,Lisa Marie,Fuhrmann,2004,9.608,W15,05.05.2019,Püttlingen,3,True,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,Block Mannschaft,Katrin,Groß,2005,9.608,W15,05.05.2019,Püttlingen,3,True,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
 LG Saar 70,Block Mannschaft,Emely,Platz,2004,9.608,W15,05.05.2019,Püttlingen,3,True,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LG Saar 70,Block Mannschaft,Mareike,Maurer,2004,9.608,W15,05.05.2019,Püttlingen,3,True,5e3c76837ec71568dfc746b4f8b63219ad33b9f2b94ab8a837058300fb1e74cc
@@ -1858,7 +1858,7 @@ LC Rehlingen,100 m Lauf,Laura,Freichel,2004,"13,43",W15,03.09.2019,Rehlingen,6,F
 ATSV Saarbrücken,100 m Lauf,Amelie,Ast,2004,"13,47",W15,19.05.2019,Püttlingen,7,False,86cb7b2c9aef410b45f3cd217be93a5e762e331e7790188da1e0b80a52bff382
 SV schlau.com Saar 05 Sbr.,100 m Lauf,Joline,Lambert,2004,"13,56",W15,05.05.2019,Püttlingen,8,False,e8fb0e3f652d985ee1e33ceadc171b1cefc005f454a03d81386b032b6cdb911a
 SV schlau.com Saar 05 Sbr.,100 m Lauf,Luca-Sophie,Escher,2004,"13,69",W15,15.06.2019,Püttlingen,9,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
-LG Saar 70,100 m Lauf,Lisa,Fuhrmann,2004,"13,74",W15,24.08.2019,Friedrichsthal,10,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,100 m Lauf,Lisa Marie,Fuhrmann,2004,"13,74",W15,24.08.2019,Friedrichsthal,10,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 SV schlau.com Saar 05 Sbr.,300 m Lauf,Maja,Schorr,2004,"39,43",W15,23.06.2019,Koblenz,1,False,c7598e6669e3a72a8a75c1e08b389dc1c8c9b38e10f8f44c50a2b82e7ee6eed0
 SV schlau.com Saar 05 Sbr.,300 m Lauf,Estelle,Seeliger,2004,"43,99",W15,04.09.2019,Friedrichsthal,2,False,40a1851223ccc4113556cfcf9d2667dfce209e223c0ac524098b0cf721177d26
 ATSV Saarbrücken,300 m Lauf,Amelie,Ast,2004,"44,73",W15,10.06.2019,Heidelberg,3,False,86cb7b2c9aef410b45f3cd217be93a5e762e331e7790188da1e0b80a52bff382
@@ -1867,7 +1867,7 @@ LC Rehlingen,300 m Lauf,Maya,Beyer,2004,"45,12",W15,19.05.2019,Püttlingen,5,Fal
 LC Rehlingen,300 m Lauf,Hannah,Rödel,2004,"46,45",W15,20.06.2019,Mörfelden,6,False,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
 ATSV Saarbrücken,300 m Lauf,Lara,Wiegmann,2004,"47,26",W15,10.06.2019,Heidelberg,7,False,31f7de89d82fdf9a0cc593bcdcf4964ba34ff964f621dd3eb707ab26d0554a4c
 LSG Sbr.-Sulzbachtal,300 m Lauf,Josephine,Siehr,2004,"47,54",W15,16.05.2019,Simmern,8,False,636c179efb5b65f3f06839ed4485f057ea6c8d21538dff2042369bfcf6a210dd
-LG Saar 70,300 m Lauf,Lisa,Fuhrmann,2004,"48,81",W15,23.06.2019,Ottweiler,9,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,300 m Lauf,Lisa Marie,Fuhrmann,2004,"48,81",W15,23.06.2019,Ottweiler,9,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LSG Sbr.-Sulzbachtal,300 m Lauf,Elina,Samid,2004,"48,92",W15,16.05.2019,Simmern,10,False,28e372148c5d9d9cf27e09e6b6ccbe9e78675495680fc7bc987ad2d24d51afd0
 SV schlau.com Saar 05 Sbr.,800 m Lauf,Maja,Schorr,2004,"2:18,64",W15,08.06.2019,Pfungstadt,1,False,c7598e6669e3a72a8a75c1e08b389dc1c8c9b38e10f8f44c50a2b82e7ee6eed0
 LC Rehlingen,800 m Lauf,Maya,Beyer,2004,"2:21,55",W15,19.05.2019,Karlsruhe,2,False,dcddeb8731d4d10dd279ac4c60c1039b68a3193bc72f2eec4fe47f5f791579b3
@@ -1881,7 +1881,7 @@ LA Team Saar,800 m Lauf,Celine,Motsch,2004,"2:46,52",W15,30.05.2019,Piesbach,9,F
 LSG Sbr.-Sulzbachtal,800 m Lauf,Alisha,Detemple,2004,"2:46,99",W15,04.09.2019,Friedrichsthal,10,False,e8a4830d9b7de424e0cf684d0b363b63c989f2d004571c8fc03d6372e3b63bb4
 LC Rehlingen,2000 m Lauf,Hannah,Rödel,2004,"6:42,73",W15,20.09.2019,Trier,1,False,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Josephine,Siehr,2004,"6:49,34",W15,20.09.2019,Trier,2,False,636c179efb5b65f3f06839ed4485f057ea6c8d21538dff2042369bfcf6a210dd
-LC Rehlingen,2000 m Lauf,Sofia (FRA),Benfares,2004,"6:50,60",W15,01.06.2019,Bondy/FRA,3,False,adabc928f7f5ce5643659c6cbec48958da5d8132584893715f6c6235593361ec
+LC Rehlingen,2000 m Lauf,Sofia,Benfares,2004,"6:50,60",W15,01.06.2019,Bondy/FRA,3,False,e8fdfd4b72ace20996e5fa1b8c95f8b7d4ce11a3b1f40ed539a70bb123e72946
 LC Rehlingen,2000 m Lauf,Merle,Biehler,2004,"7:34,12",W15,23.06.2019,Koblenz,4,False,54087f68eedc10c19fa9163ae1c5abc18cbd1b394027360dbbbeeccee20c7366
 LC Rehlingen,2000 m Lauf,Anna,Mehle,2004,"7:39,47",W15,23.06.2019,Koblenz,5,False,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
 LV Merzig,2000 m Lauf,Cosima,Frank,2004,"7:40,43",W15,20.09.2019,Trier,6,False,bc397cc70da6a68103793995c482eefda9b47e237a7d16d050bf326f4a046cad
@@ -1926,7 +1926,7 @@ TV Elm,Hochsprung,Cosa,Schäfer,2004,"1,51",W15,19.05.2019,Püttlingen,1,False,f
 LA Team Saar,Hochsprung,Katharina,Klein,2004,"1,50",W15,15.06.2019,Püttlingen,2,False,c0891ea8baf57464b8e527252d196ea4e9f81ca5a198abbcaf9a748efb3eacd4
 SV schlau.com Saar 05 Sbr.,Hochsprung,Luca-Sophie,Escher,2004,"1,48",W15,19.05.2019,Püttlingen,3,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
 SV schlau.com Saar 05 Sbr.,Hochsprung,Joline,Lambert,2004,"1,48",W15,19.05.2019,Püttlingen,4,False,e8fb0e3f652d985ee1e33ceadc171b1cefc005f454a03d81386b032b6cdb911a
-LG Saar 70,Hochsprung,Lisa,Fuhrmann,2004,"1,47",W15,30.05.2019,Piesbach,5,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Hochsprung,Lisa Marie,Fuhrmann,2004,"1,47",W15,30.05.2019,Piesbach,5,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Bliestal,Hochsprung,Elly,Merkl,2004,"1,45",W15,19.05.2019,Püttlingen,6,False,e6ec07aa2b415bb140ce443a7ebcc9ee12f013a14f6b3a14c2d2a3ebf1741fb6
 LC Rehlingen,Hochsprung,Kasia,Lorson,2004,"1,44",W15,30.05.2019,Piesbach,7,False,67caea8e70bbcf269a6675b630c764b198fda2e32da6317d6d4207e8b10fa20f
 LG Reimsbach-Oppen,Hochsprung,Anna,Becker,2004,"1,44",W15,04.06.2019,Saarbrücken,8,False,a63c72591761d22bc4bb6e159a2505c60740576fd81496dbb71f52752cf9128c
@@ -1939,7 +1939,7 @@ SV schlau.com Saar 05 Sbr.,Weitsprung,Maja,Schorr,2004,"5,54",W15,22.06.2019,Kob
 LA Team Saar,Weitsprung,Alina,Schmitt,2004,"5,42",W15,22.06.2019,Koblenz,2,False,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
 SV schlau.com Saar 05 Sbr.,Weitsprung,Joline,Lambert,2004,"5,37",W15,25.05.2019,Rehlingen,3,False,e8fb0e3f652d985ee1e33ceadc171b1cefc005f454a03d81386b032b6cdb911a
 TV Elm,Weitsprung,Cosa,Schäfer,2004,"4,88",W15,19.05.2019,Püttlingen,4,False,fc2196a1cf6caac22c7cc07ce75b7ecc44126d74da447cbf97cb423dacdf5cc7
-LG Saar 70,Weitsprung,Lisa,Fuhrmann,2004,"4,86",W15,24.07.2019,Friedrichsthal,5,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Weitsprung,Lisa Marie,Fuhrmann,2004,"4,86",W15,24.07.2019,Friedrichsthal,5,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LAC Elm,Weitsprung,Elena,Anschütz,2004,"4,85",W15,04.09.2019,Friedrichsthal,6,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
 LA Team Saar,Weitsprung,Katharina,Klein,2004,"4,70",W15,15.06.2019,Püttlingen,7,False,c0891ea8baf57464b8e527252d196ea4e9f81ca5a198abbcaf9a748efb3eacd4
 LAC Saarlouis,Weitsprung,Anja,Schäfer,2004,"4,70",W15,10.08.2019,Rehlingen,8,False,edc8854300f1e6027134dbba420b5f53faede64b96f25c9da878c41e724638d3
@@ -1949,7 +1949,7 @@ LA Team Saar,Dreisprung,Alina,Schmitt,2004,"10,31",W15,18.05.2019,Püttlingen,1,
 LA Team Saar,Dreisprung,Katharina,Klein,2004,"9,86",W15,19.05.2019,Püttlingen,2,False,c0891ea8baf57464b8e527252d196ea4e9f81ca5a198abbcaf9a748efb3eacd4
 LAC Saarlouis,Dreisprung,Anja,Schäfer,2004,"9,65",W15,03.08.2019,Konz,3,False,edc8854300f1e6027134dbba420b5f53faede64b96f25c9da878c41e724638d3
 LG Saar 70,Dreisprung,Katrin,Groß,2005,"9,45",W15,19.05.2019,Püttlingen,4,False,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
-LG Saar 70,Dreisprung,Lisa,Fuhrmann,2004,"9,25",W15,15.09.2019,Ottweiler,5,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Dreisprung,Lisa Marie,Fuhrmann,2004,"9,25",W15,15.09.2019,Ottweiler,5,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,Dreisprung,Emely,Platz,2004,"9,19",W15,23.06.2019,Ottweiler,6,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LA Team Saar,Dreisprung,Celine,Motsch,2004,"9,10",W15,18.05.2019,Püttlingen,7,False,66a19988af85ac19fdf9d811fa0d460895f381a289b181bb673b6ac003e691fa
 LA Team Saar,Dreisprung,Mara Sophie,Müller,2005,"9,10",W15,18.05.2019,Püttlingen,8,False,a4b20f0e730b2b99434976b1e03269ea08ccd96854535a2ffee8df723463c75a
@@ -1959,14 +1959,14 @@ LC Rehlingen,Kugelstoß 3 kg,Katharina,Mehle,2004,"11,25",W15,07.05.2019,Rehling
 LAC Elm,Kugelstoß 3 kg,Elena,Anschütz,2004,"10,49",W15,17.08.2019,Merzig,2,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
 SV schlau.com Saar 05 Sbr.,Kugelstoß 3 kg,Joline,Lambert,2004,"10,02",W15,23.09.2019,Berlin,3,False,e8fb0e3f652d985ee1e33ceadc171b1cefc005f454a03d81386b032b6cdb911a
 LG Saar 70,Kugelstoß 3 kg,Mareike,Maurer,2004,"9,35",W15,22.04.2019,Trier,4,False,5e3c76837ec71568dfc746b4f8b63219ad33b9f2b94ab8a837058300fb1e74cc
-LG Saar 70,Kugelstoß 3 kg,Lisa,Fuhrmann,2004,"8,53",W15,24.09.2019,Saarbrücken,5,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Kugelstoß 3 kg,Lisa Marie,Fuhrmann,2004,"8,53",W15,24.09.2019,Saarbrücken,5,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LV Merzig,Kugelstoß 3 kg,Anna,Roth,2004,"8,34",W15,21.09.2019,Überherrn-Altf.,6,False,5f5a5561fb10a465db5500117dc49c528d240fb2d68e6ea3078afa0ad919d3ea
 TV Elm,Kugelstoß 3 kg,Cosa,Schäfer,2004,"8,17",W15,19.05.2019,Püttlingen,7,False,fc2196a1cf6caac22c7cc07ce75b7ecc44126d74da447cbf97cb423dacdf5cc7
 LAC Saarlouis,Kugelstoß 3 kg,Anja,Schäfer,2004,"8,03",W15,21.09.2019,Überherrn-Altf.,8,False,edc8854300f1e6027134dbba420b5f53faede64b96f25c9da878c41e724638d3
 LG Saar 70,Kugelstoß 3 kg,Anna Katharina,Busch,2004,"7,95",W15,22.06.2019,Ottweiler,9,False,2e4ba7a913f03612a33901eeda6249295deb1c5f2197d0f25454857cc10da5b4
 SV schlau.com Saar 05 Sbr.,Kugelstoß 3 kg,Luca-Sophie,Escher,2004,"7,89",W15,05.05.2019,Püttlingen,10,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
 LAC Elm,Diskuswurf 1 kg,Elena,Anschütz,2004,"31,36",W15,18.05.2019,Püttlingen,1,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
-LG Saar 70,Diskuswurf 1 kg,Lisa,Fuhrmann,2004,"23,59",W15,05.05.2019,Püttlingen,2,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Diskuswurf 1 kg,Lisa Marie,Fuhrmann,2004,"23,59",W15,05.05.2019,Püttlingen,2,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LV Merzig,Diskuswurf 1 kg,Emma,Hübsch,2004,"21,78",W15,21.09.2019,Überherrn-Altf.,3,False,8b3cc23d04052062a53fad5c39c10eb6f371b9998c920603c9e9db67bef84b01
 LV Merzig,Diskuswurf 1 kg,Anna,Roth,2004,"21,61",W15,21.09.2019,Überherrn-Altf.,4,False,5f5a5561fb10a465db5500117dc49c528d240fb2d68e6ea3078afa0ad919d3ea
 LG Saar 70,Diskuswurf 1 kg,Mareike,Maurer,2004,"20,63",W15,16.02.2019,Saarlouis,5,False,5e3c76837ec71568dfc746b4f8b63219ad33b9f2b94ab8a837058300fb1e74cc
@@ -1975,7 +1975,7 @@ LG Saar 70,Diskuswurf 1 kg,Emely,Platz,2004,"19,29",W15,06.04.2019,Idar-Oberstei
 LSG Sbr.-Sulzbachtal,Diskuswurf 1 kg,Tabea,König,2004,"18,03",W15,18.05.2019,Püttlingen,8,False,b4e6e673849df65088017a75b8dfbf65ae6c764238f4436eeac369e84589720c
 TV Elm,Diskuswurf 1 kg,Michelle,Deßloch,2004,"16,77",W15,04.05.2019,Rehlingen,9,False,1fed355492d7e7e941254873244b2bea4fd998e17580662bbdfc32138d5fa277
 LG Saar 70,Diskuswurf 1 kg,Anna Katharina,Busch,2004,"16,44",W15,22.04.2019,Trier,10,False,2e4ba7a913f03612a33901eeda6249295deb1c5f2197d0f25454857cc10da5b4
-LG Saar 70,Hammerwurf 3 kg,Lisa,Fuhrmann,2004,"42,28",W15,21.09.2019,Überherrn-Altf.,1,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Hammerwurf 3 kg,Lisa Marie,Fuhrmann,2004,"42,28",W15,21.09.2019,Überherrn-Altf.,1,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,Hammerwurf 3 kg,Mareike,Maurer,2004,"36,35",W15,16.02.2019,Saarlouis,2,False,5e3c76837ec71568dfc746b4f8b63219ad33b9f2b94ab8a837058300fb1e74cc
 LV Merzig,Hammerwurf 3 kg,Emma,Hübsch,2004,"31,18",W15,22.06.2019,Koblenz,3,False,8b3cc23d04052062a53fad5c39c10eb6f371b9998c920603c9e9db67bef84b01
 LG Saar 70,Hammerwurf 3 kg,Anna Katharina,Busch,2004,"25,77",W15,19.05.2019,Püttlingen,4,False,2e4ba7a913f03612a33901eeda6249295deb1c5f2197d0f25454857cc10da5b4
@@ -1988,7 +1988,7 @@ LG Saar 70,Speerwurf 500 g,Mareike,Maurer,2004,"28,46",W15,17.02.2019,Saarbrück
 LAC Saarlouis,Speerwurf 500 g,Anja,Schäfer,2004,"27,98",W15,13.04.2019,Diefflen,4,False,edc8854300f1e6027134dbba420b5f53faede64b96f25c9da878c41e724638d3
 LG Saar 70,Speerwurf 500 g,Emely,Platz,2004,"26,49",W15,05.06.2019,Saarbrücken,5,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 TV Elm,Speerwurf 500 g,Cosa,Schäfer,2004,"26,24",W15,05.05.2019,Püttlingen,6,False,fc2196a1cf6caac22c7cc07ce75b7ecc44126d74da447cbf97cb423dacdf5cc7
-LG Saar 70,Speerwurf 500 g,Lisa,Fuhrmann,2004,"25,99",W15,10.08.2019,Rehlingen,7,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Speerwurf 500 g,Lisa Marie,Fuhrmann,2004,"25,99",W15,10.08.2019,Rehlingen,7,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,Speerwurf 500 g,Anna Katharina,Busch,2004,"24,56",W15,25.05.2019,Rehlingen,8,False,2e4ba7a913f03612a33901eeda6249295deb1c5f2197d0f25454857cc10da5b4
 LV Merzig,Speerwurf 500 g,Anna,Roth,2004,"22,47",W15,21.09.2019,Überherrn-Altf.,9,False,5f5a5561fb10a465db5500117dc49c528d240fb2d68e6ea3078afa0ad919d3ea
 LV Merzig,Speerwurf 500 g,Emma,Hübsch,2004,"21,04",W15,27.04.2019,Merzig,10,False,8b3cc23d04052062a53fad5c39c10eb6f371b9998c920603c9e9db67bef84b01
@@ -2007,7 +2007,7 @@ LA Team Saar,4-Kampf,Alina,Schmitt,2004,1.926,W15,15.06.2019,Püttlingen,2,False
 SV schlau.com Saar 05 Sbr.,4-Kampf,Luca-Sophie,Escher,2004,1.887,W15,15.06.2019,Püttlingen,3,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
 LC Rehlingen,4-Kampf,Katharina,Mehle,2004,1.876,W15,15.06.2019,Püttlingen,4,False,e955ad29a810969a21408aea776123513e3e846cfe6d8b4119bec0aab51d07ba
 LAC Elm,4-Kampf,Elena,Anschütz,2004,1.847,W15,15.06.2019,Püttlingen,5,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
-LG Saar 70,4-Kampf,Lisa,Fuhrmann,2004,1.835,W15,15.06.2019,Püttlingen,6,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,4-Kampf,Lisa Marie,Fuhrmann,2004,1.835,W15,15.06.2019,Püttlingen,6,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LA Team Saar,4-Kampf,Katharina,Klein,2004,1.769,W15,15.06.2019,Püttlingen,7,False,c0891ea8baf57464b8e527252d196ea4e9f81ca5a198abbcaf9a748efb3eacd4
 LAC Saarlouis,4-Kampf,Anja,Schäfer,2004,1.683,W15,15.06.2019,Püttlingen,8,False,edc8854300f1e6027134dbba420b5f53faede64b96f25c9da878c41e724638d3
 LG Saar 70,4-Kampf,Emely,Platz,2004,1.632,W15,11.05.2019,St. Wendel,9,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
@@ -2016,7 +2016,7 @@ SV schlau.com Saar 05 Sbr.,7-Kampf,Joline,Lambert,2004,3.258,W15,15.06.2019,Püt
 LAC Elm,7-Kampf,Elena,Anschütz,2004,3.255,W15,15.06.2019,Püttlingen,2,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
 LC Rehlingen,7-Kampf,Katharina,Mehle,2004,3.249,W15,15.06.2019,Püttlingen,3,False,e955ad29a810969a21408aea776123513e3e846cfe6d8b4119bec0aab51d07ba
 SV schlau.com Saar 05 Sbr.,7-Kampf,Luca-Sophie,Escher,2004,3.225,W15,15.06.2019,Püttlingen,4,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
-LG Saar 70,7-Kampf,Lisa,Fuhrmann,2004,3.061,W15,11.05.2019,St. Wendel,5,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,7-Kampf,Lisa Marie,Fuhrmann,2004,3.061,W15,11.05.2019,St. Wendel,5,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LA Team Saar,7-Kampf,Katharina,Klein,2004,2.959,W15,15.06.2019,Püttlingen,6,False,c0891ea8baf57464b8e527252d196ea4e9f81ca5a198abbcaf9a748efb3eacd4
 LA Team Saar,7-Kampf,Celine,Motsch,2004,2.782,W15,15.06.2019,Püttlingen,7,False,66a19988af85ac19fdf9d811fa0d460895f381a289b181bb673b6ac003e691fa
 LG Saar 70,7-Kampf,Emely,Platz,2004,2.769,W15,11.05.2019,St. Wendel,8,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
@@ -2039,7 +2039,7 @@ LA Team Saar,Block Lauf,Mara,Roverati,2004,1.356,W15,05.05.2019,Püttlingen,8,Fa
 LAC Elm,Block Wurf,Elena,Anschütz,2004,2.490,W15,29.05.2019,Eppingen,1,False,fd778e1d6161c5914c1da7c6177f527680d1e41035c036056681f2901736b781
 SV schlau.com Saar 05 Sbr.,Block Wurf,Joline,Lambert,2004,2.401,W15,05.05.2019,Püttlingen,2,False,e8fb0e3f652d985ee1e33ceadc171b1cefc005f454a03d81386b032b6cdb911a
 SV schlau.com Saar 05 Sbr.,Block Wurf,Luca-Sophie,Escher,2004,2.312,W15,05.05.2019,Püttlingen,3,False,c686847efbe464e89495b2cd86632ede5400d43dc5094755aa4c1cf1fb8db9dc
-LG Saar 70,Block Wurf,Lisa,Fuhrmann,2004,2.172,W15,05.05.2019,Püttlingen,4,False,3c49f32f5996f7894380941b1262c1026d816e235471728cbdb2dba74d0c54a1
+LG Saar 70,Block Wurf,Lisa Marie,Fuhrmann,2004,2.172,W15,05.05.2019,Püttlingen,4,False,f98989b01527a0f2d51813aa8bafb19372747521aea6d2625224518f5bf8bd8b
 LG Saar 70,Block Wurf,Emely,Platz,2004,1.872,W15,05.05.2019,Püttlingen,5,False,36338e1fa3684b25b09dbc7c759651a71ef2ff04f470e62f0e3a89a0cae481a4
 LG Saar 70,Block Wurf,Mareike,Maurer,2004,1.802,W15,05.05.2019,Püttlingen,6,False,5e3c76837ec71568dfc746b4f8b63219ad33b9f2b94ab8a837058300fb1e74cc
 LC Rehlingen,100 m Lauf,Frieda,Schulz,2006,"13,15",W14,15.09.2019,Ottweiler,1,False,c6d8a59f9e788e0e2102fe839ef5949394ec0684569c614e43c54e361341e2a2
@@ -2187,7 +2187,7 @@ LV Merzig,7-Kampf,Emily,Kohlwey,2005,2.680,W14,15.06.2019,Püttlingen,5,False,5b
 LG Saar 70,7-Kampf,Katrin,Groß,2005,2.622,W14,15.06.2019,Püttlingen,6,False,b4d7c5eae08f6876b4cde2122e828a49024faa00c1d89daa354cfd85c7c06977
 LC Rehlingen,7-Kampf,Kelly,Stiefken-Achu,2005,2.476,W14,15.06.2019,Püttlingen,7,False,846600e4ceb8598b05201e277a74a5cc9af47fa6e17e0c9ca842fb6201a30fd5
 LC Rehlingen,7-Kampf,Emma,Nickels,2005,2.386,W14,15.06.2019,Püttlingen,8,False,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
-LV Merzig,7-Kampf,Maylin,Gantner,2006,2.361,W14,15.06.2019,Püttlingen,9,False,b095d104762448b7bbaa0c175551ef0e8f79c288d38c1bb9eb892c2c37b09f64
+LV Merzig,7-Kampf,Maylin,Gartner,2006,2.361,W14,15.06.2019,Püttlingen,9,False,c06a2bcebfa4d61794fad49587ff44eb4894bfddcef90edb99d51951f89585a1
 LC Rehlingen,Block S/S,Jana,Berndt,2005,2.332,W14,05.05.2019,Püttlingen,1,False,c0aa12bc78615c3e86db5463dc9cf3ea277862ee18bcc5fa4c408ddc4fa0f4cd
 LC Rehlingen,Block S/S,Franka,Wilhelm,2005,2.322,W14,05.05.2019,Püttlingen,2,False,17cd7c520430429128466ce39a050bf985e8282b782e32e1092360df82288124
 TV Homburg,Block S/S,Ksenia,Helios,2005,2.281,W14,05.05.2019,Püttlingen,3,False,3b063919e66262418c133b6765210cadd63edee2dc5c31924f283686df018e9b
@@ -2215,7 +2215,7 @@ LA Team Saar,4 x 75 m Staffel,Noah,Walter,2006,"43,46",M13,24.08.2019,Friedrichs
 LA Team Saar,4 x 75 m Staffel,David,Bäumchen,2006,"43,46",M13,24.08.2019,Friedrichsthal,2,True,d974638e8aeff123313a806f8987da93c12ebebc899d9a87e62ec4a13cf43b66
 LA Team Saar,4 x 75 m Staffel,Aaron,Hoffmann,2007,"43,46",M13,24.08.2019,Friedrichsthal,2,True,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 LA Team Saar,4 x 75 m Staffel,Elias,Günter,2007,"43,46",M13,24.08.2019,Friedrichsthal,2,True,35bdb9800f89679b4a76e73960e3247d579a5803495825286d1a6ee77dd24750
-LG Bliestal,4 x 75 m Staffel,Robin,Blumenauer,2006,"44,04",M13,19.05.2019,Püttlingen,3,True,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,4 x 75 m Staffel,Robin Luca,Blumenauer,2006,"44,04",M13,19.05.2019,Püttlingen,3,True,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 LG Bliestal,4 x 75 m Staffel,Torben,Grieser,2006,"44,04",M13,19.05.2019,Püttlingen,3,True,9fe95bc548a03fb86d54024b68b9b73bcd823bb35ab9531c86e368f822cbe951
 LG Bliestal,4 x 75 m Staffel,Nils,Lippmann,2006,"44,04",M13,19.05.2019,Püttlingen,3,True,5ffa04f41562d00b419d546bec202f6b1316e569cb52f008310b168ffeb62cc7
 LG Bliestal,4 x 75 m Staffel,Jonathan,Nomine,2007,"44,04",M13,19.05.2019,Püttlingen,3,True,c58275e59298a354245a4f1417564d0da52ec083bf919aade1f81f6adf933c90
@@ -2291,7 +2291,7 @@ LA Team Saar,Block Mannschaft,Noah,Walter,2006,8.448,M13,05.05.2019,Püttlingen,
 LA Team Saar,Block Mannschaft,Luca,Hartmann,2007,8.448,M13,05.05.2019,Püttlingen,2,True,9043ae6bfdf1bb7f70e842a96505225a9a2b21458c1842d7af9d1b90c18c6713
 LA Team Saar,Block Mannschaft,Timo,Gebhardt,2006,8.448,M13,05.05.2019,Püttlingen,2,True,7ee23fe2171a1454d5f54c8c4894ea9d51d588101231fe2a25d49e4728cd4999
 TV St. Wendel,75 m Lauf,Samuel,Sleet,2006,"9,28",M13,24.08.2019,Friedrichsthal,1,False,ae9c901ad4a40ebdb2f280657b457bc3ce96a552746cccc47d1ff2694fa53902
-LG Bliestal,75 m Lauf,Robin,Blumenauer,2006,"9,68",M13,05.05.2019,Püttlingen,2,False,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,75 m Lauf,Robin Luca,Blumenauer,2006,"9,68",M13,05.05.2019,Püttlingen,2,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 AC Diefflen,75 m Lauf,Jonas,Fröhlich,2006,"9,76",M13,19.05.2019,Püttlingen,3,False,64bd9ac0e4d91c3ecdfa41e745bfcab6c15b28d9210b42effe08045793635782
 LG Saar 70,75 m Lauf,Kevin,Lickes,2006,"9,84",M13,23.06.2019,Ottweiler,4,False,90c6cd65b09eff5ff6390b8d482d7ec9fe2c8c249409fe11252d030cf7a7dcb0
 SV schlau.com Saar 05 Sbr.,75 m Lauf,Jannis,Brunschön,2006,"10,04",M13,19.05.2019,Püttlingen,5,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
@@ -2327,19 +2327,19 @@ TV Kirkel,5 km Str.,Joshua,Fey,2006,22:14,M13,01.11.2019,Hockenheim,4,False,a966
 LSG Sbr.-Sulzbachtal,5 km Str.,Timo,König,2006,22:49,M13,29.09.2019,Saarlouis,5,False,c0627233358bd971d73e9238a77c7257895c2ea12a5efd98d43e8fcf23b7bddc
 ATSV Saarbrücken,5 km Str.,Florian,Didie,2006,22:56,M13,06.10.2019,Saarbrücken,6,False,7ef6cb59cedb9388d2f251eb54bab235313f02f3e8c5cb9b1eb9892c1d3b8564
 LC Rehlingen,5 km Str.,Simon,Harig,2006,23:04,M13,29.09.2019,Saarlouis,7,False,682e035050337ea70db05880a652d8c8890a283c06932c676689b0293999aa16
-ATSV Saarbrücken,5 km Str.,Leon Tim,Wiegmann,2006,26:38,M13,06.10.2019,Saarbrücken,8,False,fca40bcda8f979c0a1101bcd3f5f1732ed47fef5a4dd7e5f8106257a64da6cf4
+ATSV Saarbrücken,5 km Str.,Leon,Wiegmann,2006,26:38,M13,06.10.2019,Saarbrücken,8,False,35c37d154e932d56279402c276133a35722ef0787e6b461af4468c8ea34afe8b
 TV St. Wendel,60 m Hürden 0.762m,Samuel,Sleet,2006,"10,36",M13,05.05.2019,Püttlingen,1,False,ae9c901ad4a40ebdb2f280657b457bc3ce96a552746cccc47d1ff2694fa53902
 TV Elm,60 m Hürden 0.762m,Felix,Becker,2006,"10,45",M13,19.05.2019,Püttlingen,2,False,90ef2c884e76e8486f8701807891f3d3dbc5f4fb52a0d8c73adfd381064e3c39
 AC Diefflen,60 m Hürden 0.762m,Jonas,Fröhlich,2006,"10,45",M13,19.05.2019,Püttlingen,3,False,64bd9ac0e4d91c3ecdfa41e745bfcab6c15b28d9210b42effe08045793635782
 ATSV Saarbrücken,60 m Hürden 0.762m,Florian,Didie,2006,"10,90",M13,05.05.2019,Püttlingen,4,False,7ef6cb59cedb9388d2f251eb54bab235313f02f3e8c5cb9b1eb9892c1d3b8564
-LG Bliestal,60 m Hürden 0.762m,Robin,Blumenauer,2006,"11,34",M13,05.05.2019,Püttlingen,5,False,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,60 m Hürden 0.762m,Robin Luca,Blumenauer,2006,"11,34",M13,05.05.2019,Püttlingen,5,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 TV Elm,60 m Hürden 0.762m,Alexander,Krauß,2006,"11,53",M13,05.05.2019,Püttlingen,6,False,6772ecb06dd1135ae0d9cb6458e1aa213af69f1953a350704196c50b967f5e21
 TV Homburg,60 m Hürden 0.762m,Nicolas,Gab,2006,"11,58",M13,05.05.2019,Püttlingen,7,False,37e611b044abca82f3f5585f2ad1c61c900ae3edece442cd6b9737198581ec6e
 SV schlau.com Saar 05 Sbr.,60 m Hürden 0.762m,Jannis,Brunschön,2006,"11,76",M13,05.05.2019,Püttlingen,8,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
 LSG Sbr.-Sulzbachtal,60 m Hürden 0.762m,Philipp,Petschick,2006,"11,80",M13,05.05.2019,Püttlingen,9,False,0fd192cb7450eb09084cdafd86cd8d82fc4188d34548e9e7688250c07b472f04
 LA Team Saar,60 m Hürden 0.762m,David,Bäumchen,2006,"11,94",M13,05.05.2019,Püttlingen,10,False,d974638e8aeff123313a806f8987da93c12ebebc899d9a87e62ec4a13cf43b66
 TV St. Wendel,Hochsprung,Samuel,Sleet,2006,"1,62",M13,01.09.2019,Saarlouis,1,False,ae9c901ad4a40ebdb2f280657b457bc3ce96a552746cccc47d1ff2694fa53902
-LG Bliestal,Hochsprung,Robin,Blumenauer,2006,"1,52",M13,19.05.2019,Püttlingen,2,False,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,Hochsprung,Robin Luca,Blumenauer,2006,"1,52",M13,19.05.2019,Püttlingen,2,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 LG Saar 70,Hochsprung,Kevin,Lickes,2006,"1,52",M13,23.06.2019,Ottweiler,3,False,90c6cd65b09eff5ff6390b8d482d7ec9fe2c8c249409fe11252d030cf7a7dcb0
 AC Diefflen,Hochsprung,Jonas,Fröhlich,2006,"1,49",M13,19.05.2019,Püttlingen,4,False,64bd9ac0e4d91c3ecdfa41e745bfcab6c15b28d9210b42effe08045793635782
 LG Saar 70,Hochsprung,Finn,Schröder,2006,"1,48",M13,15.09.2019,Ottweiler,5,False,6a5e2ee754a4d333be8930223dbdd7c5f3e316e17f0e0ee1bf1b57ad42140537
@@ -2352,7 +2352,7 @@ LA Team Saar,Stabhochsprung,David,Bäumchen,2006,"1,70",M13,12.06.2019,Püttling
 TV St. Wendel,Weitsprung,Samuel,Sleet,2006,"5,36",M13,23.06.2019,Ottweiler,1,False,ae9c901ad4a40ebdb2f280657b457bc3ce96a552746cccc47d1ff2694fa53902
 AC Diefflen,Weitsprung,Jonas,Fröhlich,2006,"5,33",M13,08.09.2019,Dillingen,2,False,64bd9ac0e4d91c3ecdfa41e745bfcab6c15b28d9210b42effe08045793635782
 LG Saar 70,Weitsprung,Kevin,Lickes,2006,"4,94",M13,01.09.2019,Saarlouis,3,False,90c6cd65b09eff5ff6390b8d482d7ec9fe2c8c249409fe11252d030cf7a7dcb0
-LG Bliestal,Weitsprung,Robin,Blumenauer,2006,"4,89",M13,05.05.2019,Püttlingen,4,False,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,Weitsprung,Robin Luca,Blumenauer,2006,"4,89",M13,05.05.2019,Püttlingen,4,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 SV schlau.com Saar 05 Sbr.,Weitsprung,Jannis,Brunschön,2006,"4,81",M13,19.05.2019,Püttlingen,5,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
 LG Reimsbach-Oppen,Weitsprung,Luca,Schönberger,2006,"4,78",M13,19.05.2019,Püttlingen,6,False,a4c69c6e095a56b99e244c988aff32188b81f9202024b851c544f8c4586bfc1a
 TV St. Wendel,Weitsprung,Finn,Menrath,2006,"4,72",M13,23.06.2019,Ottweiler,7,False,ae4cc5454bbedab59780fcae8895e5c369294b8afd8fd553ebdf1b70fd2548f2
@@ -2432,7 +2432,7 @@ AC Diefflen,Block S/S,Jonas,Fröhlich,2006,2.126,M13,05.05.2019,Püttlingen,3,Fa
 AC Diefflen,Block S/S,Elias,Jung,2006,1.444,M13,05.05.2019,Püttlingen,4,False,89c8998abdfd9f775ec4ce81f95cc11ed16ccf7b7a8b0af11314c55dba237ef7
 AC Diefflen,Block S/S,Noah,Schmidt,2006,1.320,M13,05.05.2019,Püttlingen,5,False,08a0b387a5d07c3be8a346980ae02a792b891e0dd3b20c40c3b03f66d857e5d1
 LA Team Saar,Block S/S,Sebastian,Mathieu,2006,1.214,M13,05.05.2019,Püttlingen,6,False,801d3593704a24aaf0763ccad851d6df33da6ab4ac7cd31098e22ebf098b16df
-LG Bliestal,Block Lauf,Robin,Blumenauer,2006,2.043,M13,05.05.2019,Püttlingen,1,False,698cbb9275c20af1a5e51a6d80e1fa23a5630d91925a92592b5696804173b329
+LG Bliestal,Block Lauf,Robin Luca,Blumenauer,2006,2.043,M13,05.05.2019,Püttlingen,1,False,b803a781011171b6d182c7054a9999b912721edc9e455b1f1f0fbd274de5a247
 SV schlau.com Saar 05 Sbr.,Block Lauf,Jannis,Brunschön,2006,1.966,M13,05.05.2019,Püttlingen,2,False,175d5d4e55577347232c0b3c3155452dad93aacf853b97ff4664d1d8afed71ed
 ATSV Saarbrücken,Block Lauf,Florian,Didie,2006,1.937,M13,05.05.2019,Püttlingen,3,False,7ef6cb59cedb9388d2f251eb54bab235313f02f3e8c5cb9b1eb9892c1d3b8564
 LA Team Saar,Block Lauf,David,Bäumchen,2006,1.837,M13,05.05.2019,Püttlingen,4,False,d974638e8aeff123313a806f8987da93c12ebebc899d9a87e62ec4a13cf43b66
@@ -2441,7 +2441,7 @@ TV Elm,Block Lauf,Alexander,Krauß,2006,1.722,M13,05.05.2019,Püttlingen,6,False
 LA Team Saar,Block Lauf,Noah,Walter,2006,1.644,M13,05.05.2019,Püttlingen,7,False,0f16fef9e4f6584d8b4a194d8b0ae6e1266bcdcb8b00c6e2c12d3ae9de871b39
 TV Kirkel,Block Lauf,Joshua,Fey,2006,1.639,M13,05.05.2019,Püttlingen,8,False,a966abbf862501306e9d1608e0642fc1f26b767c2029e9e109248291209981ed
 LSG Sbr.-Sulzbachtal,Block Lauf,Jeremy,Jochum,2006,1.591,M13,05.05.2019,Püttlingen,9,False,477aabdca6b35810d53edbd71acb3d7583b600b60b57f0333812bbcc461331b6
-ATSV Saarbrücken,Block Lauf,Leon Tim,Wiegmann,2006,1.575,M13,05.05.2019,Püttlingen,10,False,fca40bcda8f979c0a1101bcd3f5f1732ed47fef5a4dd7e5f8106257a64da6cf4
+ATSV Saarbrücken,Block Lauf,Leon,Wiegmann,2006,1.575,M13,05.05.2019,Püttlingen,10,False,35c37d154e932d56279402c276133a35722ef0787e6b461af4468c8ea34afe8b
 TV Homburg,Block Wurf,Nicolas,Gab,2006,2.339,M13,05.05.2019,Püttlingen,1,False,37e611b044abca82f3f5585f2ad1c61c900ae3edece442cd6b9737198581ec6e
 LG Saar 70,Block Wurf,Finn,Schröder,2006,1.699,M13,05.05.2019,Püttlingen,2,False,6a5e2ee754a4d333be8930223dbdd7c5f3e316e17f0e0ee1bf1b57ad42140537
 TV Mettlach,Block Wurf,Nicolas,Kiefer,2006,1.382,M13,05.05.2019,Püttlingen,3,False,7e123f2efcf614f2b26f433e85d73138ec1059190d6bbbd94df3dc2881abe1b2
@@ -2458,7 +2458,7 @@ LC Rehlingen,75 m Lauf,Jakob,Thieme,2007,"11,55",M12,03.09.2019,Rehlingen,10,Fal
 Tri-Sport/Saar-Hochwald,800 m Lauf,Abie,Hensgen,2007,"2:39,43",M12,19.05.2019,Püttlingen,1,False,ed2fc6a37530a80cf802565a090b87ef190294288244998624d5bc0b01bb53ef
 TV St. Wendel,800 m Lauf,Konstantin,Schmitt,2007,"2:41,29",M12,09.06.2019,Rehlingen,2,False,27e3d6d625267689e32bccd1345733a4985b63bd6b405a9d37267d19a4b582b9
 LSG Sbr.-Sulzbachtal,800 m Lauf,Konstantin,Schulz,2007,"2:44,54",M12,09.06.2019,Rehlingen,3,False,1c7a307d8b09b19e48ee0b11059b085876a3e320371ad7e062ed6191cab2fccc
-LC Rehlingen,800 m Lauf,Tom,Reuter,2007,"2:47,43",M12,03.09.2019,Rehlingen,4,False,46355f9adca2bfb6c2000e12a2abb2ed7cb001976294d4f1faf883b0e7d4f1ff
+LC Rehlingen,800 m Lauf,Tom,Reuter,2008,"2:47,43",M12,03.09.2019,Rehlingen,4,False,8449ddf8bc4884ba981664a11d97beb52cde56260157a2e5c6eab5d8f6bb06f2
 LA Team Saar,800 m Lauf,Aaron,Hoffmann,2007,"2:52,63",M12,19.05.2019,Püttlingen,5,False,b5c0e6302eda6e824916133db3a3e095e8f3125f8fa94784ffb3a6ec2992a8b6
 LSG Sbr.-Sulzbachtal,800 m Lauf,Julian,Schneider,2007,"2:55,29",M12,05.05.2019,Püttlingen,6,False,3a043c3f2f550d13968fa86ee168e5d02a6b786ee84e4ca86de3237797131297
 LSG Sbr.-Sulzbachtal,800 m Lauf,Jonathan,Neymann,2007,"2:55,97",M12,15.08.2019,Saarbrücken,7,False,ea24c6f8e992ab7a97d25ad12b99e5d5f1a40deea35ad43f97f8b4d4f710b93d
@@ -2603,7 +2603,7 @@ LG Saar 70,4 x 75 m Staffel,Ann-Kathrin,Berwanger,2006,"42,22",W13,15.06.2019,Ot
 ATSV Saarbrücken,4 x 75 m Staffel,Jule,Neufang,2007,"42,40",W13,24.08.2019,Friedrichsthal,5,True,5875b0b79d7f62f62ee244d706130f926054555486a7673776fb9e9ccd8e6826
 ATSV Saarbrücken,4 x 75 m Staffel,Finnja,Wahlen,2007,"42,40",W13,24.08.2019,Friedrichsthal,5,True,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 ATSV Saarbrücken,4 x 75 m Staffel,Ava,Offermanns,2006,"42,40",W13,24.08.2019,Friedrichsthal,5,True,87f2c8a68faf5cfde44ea0c0306853616d6c1a99912c35d8b708f07b47bc07d0
-ATSV Saarbrücken,4 x 75 m Staffel,Luna,Rothfuchs-Galan,2007,"42,40",W13,24.08.2019,Friedrichsthal,5,True,3a465ecb96fc9ace92ec248efe3e10297a8bdb671a157ac36930e24fe0fff807
+ATSV Saarbrücken,4 x 75 m Staffel,Luna,Rothfuchs Galan,2007,"42,40",W13,24.08.2019,Friedrichsthal,5,True,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 TV Elm,4 x 75 m Staffel,Emely,Klein,2006,"44,51",W13,19.05.2019,Püttlingen,6,True,4f01bbe3948218aaa134079e3ef22a01eaa85f108db528bfeccb7f5a9b2ea91e
 TV Elm,4 x 75 m Staffel,Jolina,Altmeyer,2006,"44,51",W13,19.05.2019,Püttlingen,6,True,09dc835a93983623fe9f4bb09d2343e635f60a6fdb80110ae73a74e9649ba42e
 TV Elm,4 x 75 m Staffel,Casey,Kerr,2006,"44,51",W13,19.05.2019,Püttlingen,6,True,728409529f0597a7d7d83d533ad5379bbca81d0e7ef47a4ac418d244e49a1766
@@ -2653,8 +2653,8 @@ TV Bliesen,3-Kampf Ma.,Katharina,Demuth,2006,6.415,W13,11.05.2019,St. Wendel,1,T
 LV Merzig,3-Kampf Ma.,Julia,Roth,2007,6.080,W13,22.06.2019,Piesbach,2,True,3dbb7a8843b2caeaf9a8ae833eaef54d51878a3c62787b6170366a9d3a8e2e06
 LV Merzig,3-Kampf Ma.,Laura,Steuer,2006,6.080,W13,22.06.2019,Piesbach,2,True,77b1e05c55fd2d49ed5641cf88b6b1302036d950713b7b4e91a9140271c361cc
 LV Merzig,3-Kampf Ma.,Annika,Latz,2007,6.080,W13,22.06.2019,Piesbach,2,True,2bf9dd92f555abc604166056c1ee70afa93cb06eb75a081b3e38a4e4664951eb
-LV Merzig,3-Kampf Ma.,Eva,Pangoub Heuntang,2006,6.080,W13,22.06.2019,Piesbach,2,True,1b5fdf2f1dd9a1c2a4609d62a95f72aeb8ee7280fc91175bd94d7ea2a305c061
-LV Merzig,3-Kampf Ma.,Maylin,Gantner,2006,6.080,W13,22.06.2019,Piesbach,2,True,b095d104762448b7bbaa0c175551ef0e8f79c288d38c1bb9eb892c2c37b09f64
+LV Merzig,3-Kampf Ma.,Eva,Pangoup Heuntang,2006,6.080,W13,22.06.2019,Piesbach,2,True,dbf77482fe37ee2d023160b19c58f532cf9f2d3a8d01d2ce7b367cc547dc4fb5
+LV Merzig,3-Kampf Ma.,Maylin,Gartner,2006,6.080,W13,22.06.2019,Piesbach,2,True,c06a2bcebfa4d61794fad49587ff44eb4894bfddcef90edb99d51951f89585a1
 ATSV Saarbrücken,3-Kampf Ma.,Henriette,Dubois,2007,5.821,W13,01.09.2019,Saarlouis,3,True,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
 ATSV Saarbrücken,3-Kampf Ma.,Finnja,Wahlen,2007,5.821,W13,01.09.2019,Saarlouis,3,True,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 ATSV Saarbrücken,3-Kampf Ma.,Clara,Schneppendahl,2007,5.821,W13,01.09.2019,Saarlouis,3,True,335b0f269a802d3a161d60b029e60ca27f6b2eda84e827e9ca6ed0c613c1a565
@@ -2726,7 +2726,7 @@ TV Bliesen,Block Mannschaft,Anna,Wagner,2006,9.789,W13,05.05.2019,Püttlingen,1,
 TV Bliesen,Block Mannschaft,Katharina,Demuth,2006,9.789,W13,05.05.2019,Püttlingen,1,True,4448aa2ac47893d9e7cc0d1ff98b6443b908a11c32f9596a9f70b6a4466eef80
 TV Bliesen,Block Mannschaft,Julia,Jeziorowski,2007,9.789,W13,05.05.2019,Püttlingen,1,True,52b781811fc35fe8dd8f5288fe314ab2ea12183d3e696a7902ee24b30febf12e
 ATSV Saarbrücken,Block Mannschaft,Ava,Offermanns,2006,9.604,W13,05.05.2019,Püttlingen,2,True,87f2c8a68faf5cfde44ea0c0306853616d6c1a99912c35d8b708f07b47bc07d0
-ATSV Saarbrücken,Block Mannschaft,Luna,Rothfuchs Galau,2007,9.604,W13,05.05.2019,Püttlingen,2,True,8b4e646ecfb3a2694d59f77f71df97b85d0fad26a24a3664b5c3d82755467834
+ATSV Saarbrücken,Block Mannschaft,Luna,Rothfuchs Galan,2007,9.604,W13,05.05.2019,Püttlingen,2,True,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 ATSV Saarbrücken,Block Mannschaft,Clara,Schneppendahl,2007,9.604,W13,05.05.2019,Püttlingen,2,True,335b0f269a802d3a161d60b029e60ca27f6b2eda84e827e9ca6ed0c613c1a565
 ATSV Saarbrücken,Block Mannschaft,Finnja,Wahlen,2007,9.604,W13,05.05.2019,Püttlingen,2,True,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 ATSV Saarbrücken,Block Mannschaft,Jule,Neufang,2007,9.604,W13,05.05.2019,Püttlingen,2,True,5875b0b79d7f62f62ee244d706130f926054555486a7673776fb9e9ccd8e6826
@@ -2759,7 +2759,7 @@ TV Homburg,800 m Lauf,Emely,Rothfuchs,2006,"2:45,08",W13,05.05.2019,Püttlingen,
 Athletic Orscholz,800 m Lauf,Aimee,Dillschneider,2006,"2:47,19",W13,19.05.2019,Püttlingen,7,False,95499827e443765d5bd610a46d1a82f34c786e61e98f9368cd91ccdf77964635
 LSG Sbr.-Sulzbachtal,800 m Lauf,Petra,Detska,2006,"2:56,07",W13,19.05.2019,Püttlingen,8,False,7c1af00be081fe1f0d7f7f8d5ad59f69b45bf20ceeac79ad3de3fc5c2f74ebb0
 LA Team Saar,800 m Lauf,Luna,Neibecker,2006,"2:59,46",W13,30.05.2019,Piesbach,9,False,f11d05f448fb4c62092a624f42324424102605f1d1043bf235ccb8856d945696
-LV Merzig,800 m Lauf,Maylin,Gantner,2006,"3:00,11",W13,04.06.2019,Saarbrücken,10,False,b095d104762448b7bbaa0c175551ef0e8f79c288d38c1bb9eb892c2c37b09f64
+LV Merzig,800 m Lauf,Maylin,Gartner,2006,"3:00,11",W13,04.06.2019,Saarbrücken,10,False,c06a2bcebfa4d61794fad49587ff44eb4894bfddcef90edb99d51951f89585a1
 LC Rehlingen,2000 m Lauf,Frieda,Schulz,2006,"7:34,02",W13,06.04.2019,Rehlingen,1,False,c6d8a59f9e788e0e2102fe839ef5949394ec0684569c614e43c54e361341e2a2
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Hannah,Jung,2006,"7:34,35",W13,06.04.2019,Rehlingen,2,False,748b5f26c2c3a02155d031d55a1c440da2e4bb113c16f5718327c058f1694b3e
 LC Rehlingen,2000 m Lauf,Elena,Sierra Cujko,2006,"8:13,22",W13,06.04.2019,Rehlingen,3,False,9a7d206be2a62e720ff61ec7b05ef79fbd2395046f1397d54a18509153a18227
@@ -2841,7 +2841,7 @@ SV schlau.com Saar 05 Sbr.,Hammerwurf 2 kg,Amelie,Lambert,2006,"31,07",W13,19.05
 LC Rehlingen,Hammerwurf 2 kg,Angelina,Egner,2006,"27,32",W13,17.08.2019,Merzig,2,False,5fed994ae9e167b02b5f71b3952c47ace1b3668343422d0eee74af13ee606023
 LG Saar 70,Hammerwurf 2 kg,Ann-Kathrin,Berwanger,2006,"24,37",W13,29.09.2019,Trier,3,False,ebf2c1e8f569ba223bbf710d4a4cf14a23a07609d65bb299a9be2eb0d547394d
 LV Merzig,Hammerwurf 2 kg,Laura,Steuer,2006,"24,32",W13,29.09.2019,Trier,4,False,77b1e05c55fd2d49ed5641cf88b6b1302036d950713b7b4e91a9140271c361cc
-LV Merzig,Hammerwurf 2 kg,Maylin,Gantner,2006,"17,83",W13,06.06.2019,Merzig,5,False,b095d104762448b7bbaa0c175551ef0e8f79c288d38c1bb9eb892c2c37b09f64
+LV Merzig,Hammerwurf 2 kg,Maylin,Gartner,2006,"17,83",W13,06.06.2019,Merzig,5,False,c06a2bcebfa4d61794fad49587ff44eb4894bfddcef90edb99d51951f89585a1
 LC Rehlingen,Speerwurf 400 g,Frieda,Schulz,2006,"31,11",W13,21.09.2019,Überherrn-Altf.,1,False,c6d8a59f9e788e0e2102fe839ef5949394ec0684569c614e43c54e361341e2a2
 LG Saar 70,Speerwurf 400 g,Leonie,Davidshöfer,2006,"27,87",W13,22.06.2019,Ottweiler,2,False,a196bbd703420119fcaf01910935cb2672edddd4795b7ce353a528c75c56202f
 TV Bliesen,Speerwurf 400 g,Chiara,Rein,2006,"27,38",W13,08.09.2019,Ludweiler,3,False,1d0df51b910fd55f8c78ca43ba6f3b12783c89f307d63add7384ec9b42939a93
@@ -2903,7 +2903,7 @@ LG Saar 70,Block Wurf,Leonie,Davidshöfer,2006,1.789,W13,05.05.2019,Püttlingen,
 TV Bliesen,Block Wurf,Katharina,Demuth,2006,1.735,W13,05.05.2019,Püttlingen,4,False,4448aa2ac47893d9e7cc0d1ff98b6443b908a11c32f9596a9f70b6a4466eef80
 LAC Elm,Block Wurf,Sophie,Speicher,2006,1.604,W13,05.05.2019,Püttlingen,5,False,c457d4a7b47a40c98ea94ce16d6b8bd387c2a2fc883fdd3293e63a46a29a0342
 LSG Sbr.-Sulzbachtal,Block Wurf,Eva,John,2006,1.547,W13,05.05.2019,Püttlingen,6,False,9c19380b6f47775fa9fc45ccb9c9614336904c40060aa57550289095bb89d182
-ATSV Saarbrücken,75 m Lauf,Luna,Rothfuchs-Galan,2007,"10,39",W12,23.09.2019,Berlin,1,False,3a465ecb96fc9ace92ec248efe3e10297a8bdb671a157ac36930e24fe0fff807
+ATSV Saarbrücken,75 m Lauf,Luna,Rothfuchs Galan,2007,"10,39",W12,23.09.2019,Berlin,1,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 LA Team Saar,75 m Lauf,Mara,Focht,2007,"10,91",W12,15.09.2019,Ottweiler,2,False,f719e18ce5050d55c6d567602102f15aa82cb1263e20a836ac4a57ab9aa069ab
 TV Germania 1910 Piesbach,75 m Lauf,Julie,Wamsbach,2007,"10,95",W12,01.09.2019,Saarlouis,3,False,0394792319d255f226b4e3aa6a2de117907969e06baa67d36e37cbcbb9a19ee0
 LAZ Saarbrücken,75 m Lauf,Luisa,Jose,2007,"10,96",W12,19.05.2019,Püttlingen,4,False,ff1098eb6f11a081a298bbbddbe0f55aa2159796a59f8ebb356ac2ebc638982f
@@ -2945,14 +2945,14 @@ LV Merzig,60 m Hürden 0.762m,Annika,Latz,2007,"11,17",W12,19.05.2019,Püttlinge
 ATSV Saarbrücken,60 m Hürden 0.762m,Finnja,Wahlen,2007,"11,83",W12,19.05.2019,Püttlingen,6,False,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 LAC Saarlouis,60 m Hürden 0.762m,Helena,Emanuel,2007,"12,02",W12,19.05.2019,Püttlingen,7,False,d2d9221ab95f53f103dbebc4715ab4713f45d21c7d88b480db7249b92321971a
 TV Ludweiler,60 m Hürden 0.762m,Lisa,Tabari,2008,"12,20",W12,03.09.2019,Rehlingen,8,False,e9942b4da9a580a27b4919738885fab928f5f3e909949975118b50b469065521
-LAZ Saarbrücken,60 m Hürden 0.762m,Pauline,Handschik,2007,"12,25",W12,19.05.2019,Püttlingen,9,False,b6a61584298e0cf3a7496dbfc3939637b5dcddf568dc843c0c46592704c2b9f0
+LAZ Saarbrücken,60 m Hürden 0.762m,Pauline,Handschick,2007,"12,25",W12,19.05.2019,Püttlingen,9,False,9b4c0e79097a158ce0c2d1d05a26a2e924bf7690ffee142969c1b7667ac62364
 ATSV Saarbrücken,60 m Hürden 0.762m,Henriette,Dubois,2007,"12,48",W12,05.05.2019,Püttlingen,10,False,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
 LA Team Saar,Hochsprung,Olivia,Krawczuk,2007,"1,41",W12,01.09.2019,Saarlouis,1,False,6b2871a95e1cad4c1ef219c63c056cb9efddea2b5d7bb6e936b4b2a0b1d1b524
 LA Team Saar,Hochsprung,Mara,Focht,2007,"1,36",W12,15.09.2019,Ottweiler,2,False,f719e18ce5050d55c6d567602102f15aa82cb1263e20a836ac4a57ab9aa069ab
 TV Germania 1910 Piesbach,Hochsprung,Julie,Wamsbach,2007,"1,35",W12,01.09.2019,Saarlouis,3,False,0394792319d255f226b4e3aa6a2de117907969e06baa67d36e37cbcbb9a19ee0
 ATSV Saarbrücken,Hochsprung,Clara,Schneppendahl,2007,"1,32",W12,01.09.2019,Saarlouis,4,False,335b0f269a802d3a161d60b029e60ca27f6b2eda84e827e9ca6ed0c613c1a565
 ATSV Saarbrücken,Hochsprung,Josephine,Euler,2007,"1,29",W12,01.09.2019,Saarlouis,5,False,7ede54bf4d91cdc09b125b18adfa01517f6725b5cae981b4dda4ec219905b4a3
-ATSV Saarbrücken,Hochsprung,Luna,Rothfuchs-Galan,2007,"1,27",W12,23.09.2019,Berlin,6,False,3a465ecb96fc9ace92ec248efe3e10297a8bdb671a157ac36930e24fe0fff807
+ATSV Saarbrücken,Hochsprung,Luna,Rothfuchs Galan,2007,"1,27",W12,23.09.2019,Berlin,6,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 LG Berus,Hochsprung,Selina,Rech,2007,"1,26",W12,17.08.2019,Merzig,7,False,551ceb3f4f2056121eda8cd81956287b376f4648b998c5c8853b0e255162c382
 TV Ludweiler,Hochsprung,Lisa,Tabari,2008,"1,26",W12,01.09.2019,Saarlouis,8,False,e9942b4da9a580a27b4919738885fab928f5f3e909949975118b50b469065521
 LG Saar 70,Hochsprung,Leni,Jung,2007,"1,24",W12,15.06.2019,Ottweiler,9,False,c40bf3888047c647651b4410ee96ed0d45e59e1d24e379ed9c52ead3ef551fec
@@ -2990,11 +2990,11 @@ LV Merzig,Diskuswurf 750 g,Julia,Roth,2007,"20,11",W12,21.09.2019,Überherrn-Alt
 LG Berus,Diskuswurf 750 g,Selina,Rech,2007,"16,77",W12,21.09.2019,Überherrn-Altf.,2,False,551ceb3f4f2056121eda8cd81956287b376f4648b998c5c8853b0e255162c382
 LG Berus,Diskuswurf 750 g,Jade,Hoarau,2008,"15,28",W12,21.09.2019,Überherrn-Altf.,3,False,98a42453c75c20b4534b5c8c03c6d085e64ecfbbe6aadddbf9d007e63bdebab7
 LAC Saarlouis,Diskuswurf 750 g,Helena,Emanuel,2007,"14,74",W12,21.09.2019,Überherrn-Altf.,4,False,d2d9221ab95f53f103dbebc4715ab4713f45d21c7d88b480db7249b92321971a
-LV Merzig,Diskuswurf 750 g,Joena,Gantener,2007,"13,95",W12,18.05.2019,Püttlingen,5,False,48183f9ce1380c7109c09a511e12b46c5ce2a1862d8ed6e5f1c6dbdae32e1006
+LV Merzig,Diskuswurf 750 g,Joena,Gartner,2007,"13,95",W12,18.05.2019,Püttlingen,5,False,4ad7ecd4648431a5ccd4dff81b73fe82f909b249f242a509a90dcba8f5e4e6b5
 LSG Schmelz-Hüttersdorf,Diskuswurf 750 g,Elena,Engstler,2007,"10,23",W12,13.04.2019,Diefflen,6,False,fb3138fc0c3175eb7c98a8b4c2c57fe84d855eee7d4ca06b6534e3aef33d7685
 AC Diefflen,Diskuswurf 750 g,Lea-Malin,Kasper,2007,"10,03",W12,13.04.2019,Diefflen,7,False,90b08724dc3f43a8121f8a4764c3099971a213523b9e055e9aec378b54215eb2
 LG Berus,Hammerwurf 2 kg,Selina,Rech,2007,"19,78",W12,21.09.2019,Überherrn-Altf.,1,False,551ceb3f4f2056121eda8cd81956287b376f4648b998c5c8853b0e255162c382
-LV Merzig,Hammerwurf 2 kg,Joena,Gantner,2007,"16,41",W12,06.06.2019,Merzig,2,False,1073d45929bd7192c3f2591d7e7deb86e05fb5325c9252ee8be7e920194e9542
+LV Merzig,Hammerwurf 2 kg,Joena,Gartner,2007,"16,41",W12,06.06.2019,Merzig,2,False,4ad7ecd4648431a5ccd4dff81b73fe82f909b249f242a509a90dcba8f5e4e6b5
 LV Merzig,Hammerwurf 2 kg,Julia,Roth,2007,"14,14",W12,21.09.2019,Überherrn-Altf.,3,False,3dbb7a8843b2caeaf9a8ae833eaef54d51878a3c62787b6170366a9d3a8e2e06
 LA Team Saar,Hammerwurf 2 kg,Charlotte,Ziegler,2007,"12,33",W12,19.05.2019,Püttlingen,4,False,4c9c92d5b417aae235ac0bbbef2068c4c41e5ff70bac287560db8e68c84595bf
 ATSV Saarbrücken,Speerwurf 400 g,Henriette,Dubois,2007,"27,04",W12,18.05.2019,Püttlingen,1,False,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
@@ -3003,7 +3003,7 @@ LV Merzig,Speerwurf 400 g,Annika,Latz,2007,"20,86",W12,21.09.2019,Überherrn-Alt
 ATSV Saarbrücken,Speerwurf 400 g,Finnja,Wahlen,2007,"19,96",W12,08.09.2019,Ludweiler,4,False,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 LAC Saarlouis,Speerwurf 400 g,Helena,Emanuel,2007,"18,11",W12,21.09.2019,Überherrn-Altf.,5,False,d2d9221ab95f53f103dbebc4715ab4713f45d21c7d88b480db7249b92321971a
 LA Team Saar,Speerwurf 400 g,Mara,Focht,2007,"13,30",W12,05.05.2019,Püttlingen,6,False,f719e18ce5050d55c6d567602102f15aa82cb1263e20a836ac4a57ab9aa069ab
-ATSV Saarbrücken,Speerwurf 400 g,Luna,Rothfuchs Galau,2007,"12,80",W12,05.05.2019,Püttlingen,7,False,8b4e646ecfb3a2694d59f77f71df97b85d0fad26a24a3664b5c3d82755467834
+ATSV Saarbrücken,Speerwurf 400 g,Luna,Rothfuchs Galan,2007,"12,80",W12,05.05.2019,Püttlingen,7,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 ATSV Saarbrücken,Speerwurf 400 g,Josephine,Euler,2007,"12,50",W12,05.05.2019,Püttlingen,8,False,7ede54bf4d91cdc09b125b18adfa01517f6725b5cae981b4dda4ec219905b4a3
 AC Diefflen,Speerwurf 400 g,Lea-Malin,Kasper,2007,"11,71",W12,13.04.2019,Diefflen,9,False,90b08724dc3f43a8121f8a4764c3099971a213523b9e055e9aec378b54215eb2
 ATSV Saarbrücken,Speerwurf 400 g,Clara,Schneppendahl,2007,"11,64",W12,05.05.2019,Püttlingen,10,False,335b0f269a802d3a161d60b029e60ca27f6b2eda84e827e9ca6ed0c613c1a565
@@ -3037,17 +3037,17 @@ LV Merzig,4-Kampf,Annika,Latz,2007,1.550,W12,22.06.2019,Piesbach,7,False,2bf9dd9
 TV Ludweiler,4-Kampf,Lisa,Tabari,2008,1.530,W12,01.09.2019,Saarlouis,8,False,e9942b4da9a580a27b4919738885fab928f5f3e909949975118b50b469065521
 LG Berus,4-Kampf,Selina,Rech,2007,1.471,W12,22.06.2019,Piesbach,9,False,551ceb3f4f2056121eda8cd81956287b376f4648b998c5c8853b0e255162c382
 LA Team Saar,4-Kampf,Emma,Wagner,2008,1.449,W12,01.09.2019,Saarlouis,10,False,5f75ff50307f2f8273420cf5b775c072d9cf432279f0f8417f051df40449a05e
-ATSV Saarbrücken,Block S/S,Luna,Rothfuchs Galau,2007,1.973,W12,05.05.2019,Püttlingen,1,False,8b4e646ecfb3a2694d59f77f71df97b85d0fad26a24a3664b5c3d82755467834
+ATSV Saarbrücken,Block S/S,Luna,Rothfuchs Galan,2007,1.973,W12,05.05.2019,Püttlingen,1,False,7a880fb56c9726770af990668f961496d553595f5211130b58d76d721305bb54
 ATSV Saarbrücken,Block S/S,Clara,Schneppendahl,2007,1.901,W12,05.05.2019,Püttlingen,2,False,335b0f269a802d3a161d60b029e60ca27f6b2eda84e827e9ca6ed0c613c1a565
 LA Team Saar,Block S/S,Mara,Focht,2007,1.866,W12,05.05.2019,Püttlingen,3,False,f719e18ce5050d55c6d567602102f15aa82cb1263e20a836ac4a57ab9aa069ab
 ATSV Saarbrücken,Block S/S,Henriette,Dubois,2007,1.860,W12,05.05.2019,Püttlingen,4,False,2293a42609a7c8f35d149f4672307c38b53836440e779fcdecaa616dee3c001a
 ATSV Saarbrücken,Block S/S,Josephine,Euler,2007,1.679,W12,05.05.2019,Püttlingen,5,False,7ede54bf4d91cdc09b125b18adfa01517f6725b5cae981b4dda4ec219905b4a3
 LA Team Saar,Block S/S,Wirsawia,Arsamasow,2007,1.638,W12,05.05.2019,Püttlingen,6,False,b9a11e7851cb772d641bf4d1f4ab43a58fe47a5afed2f84eaf53b0856aa1de3f
 TV Bliesen,Block S/S,Vanessa,Stoll,2007,1.281,W12,05.05.2019,Püttlingen,7,False,894ac4c4ad23c17b10992796995da1e19351ab604c9bc81d1887d70f9bffbb98
-ATSV Saarbrücken,Block Lauf,Finja,Wahlen,2007,1.888,W12,05.05.2019,Püttlingen,1,False,49a8ab0fc03d27e36762c9f2e6975aeac2fe132ae01a86614972fbf49366876e
+ATSV Saarbrücken,Block Lauf,Finnja,Wahlen,2007,1.888,W12,05.05.2019,Püttlingen,1,False,54b4ea903fd39388ceccecf7d04e8814829718fe34f61fb15642f28e4c8976ac
 TV Kirkel,Block Lauf,Clara,Seel,2007,1.866,W12,05.05.2019,Püttlingen,2,False,b8cc2acc6381ab5253d06a5df3f7f4929dee6347d86176ebd78642b6d9361ece
 ATSV Saarbrücken,Block Lauf,Jule,Neufang,2007,1.861,W12,05.05.2019,Püttlingen,3,False,5875b0b79d7f62f62ee244d706130f926054555486a7673776fb9e9ccd8e6826
-LAZ Saarbrücken,Block Lauf,Pauline,Handschik,2007,1.733,W12,05.05.2019,Püttlingen,4,False,b6a61584298e0cf3a7496dbfc3939637b5dcddf568dc843c0c46592704c2b9f0
+LAZ Saarbrücken,Block Lauf,Pauline,Handschick,2007,1.733,W12,05.05.2019,Püttlingen,4,False,9b4c0e79097a158ce0c2d1d05a26a2e924bf7690ffee142969c1b7667ac62364
 TV Bliesen,Block Lauf,Julia,Jeziorowski,2007,1.681,W12,05.05.2019,Püttlingen,5,False,52b781811fc35fe8dd8f5288fe314ab2ea12183d3e696a7902ee24b30febf12e
 LA Team Saar,Block Lauf,Charlotte,Ziegler,2007,1.679,W12,05.05.2019,Püttlingen,6,False,4c9c92d5b417aae235ac0bbbef2068c4c41e5ff70bac287560db8e68c84595bf
 LA Team Saar,Block Lauf,Hannah,Bossung,2007,1.228,W12,05.05.2019,Püttlingen,7,False,480046aebbda7012cd0a3a925eba9c7d13f386210ce2c89f51113422f154586b

@@ -192,7 +192,7 @@ LSG Schmelz-Hüttersdorf,Marathon Ma.,Rudi,Krämer,1957,9:05:24,M,01.09.2013,Mer
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Alois,Holz,1965,9:05:24,M,01.09.2013,Merzig,4,True,f49720bc470c65a3aa103036b8031476eb66de3b0273881f85e627299b2d3a29
 LSG Schmelz-Hüttersdorf,Marathon Ma.,Stefan,Klein,1963,9:05:24,M,01.09.2013,Merzig,4,True,568d9e179e4c1f2a7c44323470969b65bdc0bc38115233457d54c6c4319e564b
 LV Merzig,Marathon Ma.,Tobias,Kawerau,1985,9:49:46,M,01.09.2013,Merzig,5,True,e4584665a2c7e7ecc4ea09c09e07cf046ccd159d72a997d48f6217e4417ea367
-LV Merzig,Marathon Ma.,Dan,Stranen,1964,9:49:46,M,01.09.2013,Merzig,5,True,bafbb4b399733a96e54110d3c029bc7363711502cadb1ee9352919477723fd64
+LV Merzig,Marathon Ma.,Dân,Stranen,1964,9:49:46,M,01.09.2013,Merzig,5,True,f3269a40a0a320b804dd6032c5c77c3d13986d03db99df98e3b3d548479c8165
 LV Merzig,Marathon Ma.,Bernhard,Kleber,1951,9:49:46,M,01.09.2013,Merzig,5,True,e1557b59ea1cab07f01f96bb9480ab073a8d94a38cdbd9b9714cc3e527d7cdfd
 LAG Saarbrücken,Marathon Ma.,Steffen,Gulden,1971,9:57:26,M,27.10.2013,Frankfurt,6,True,59f7b60041cd8db52c23a2e5e7d3c5f82c481f00206ef32c2de0cc7ea443c000
 LAG Saarbrücken,Marathon Ma.,Martin,Simon,1962,9:57:26,M,27.10.2013,Frankfurt,6,True,9ea625a793a7518d38838b463be26fb3569221fc95d45deadc261c95847f18ac
@@ -245,7 +245,7 @@ SV Schlau.Com Saar 05 SBR.,4 x 100 m Staffel,Sven-Uwe,Deininger,1991,"43,48",M,1
 SV Schlau.Com Saar 05 SBR.,4 x 100 m Staffel,Hagen,Maurer,1991,"43,48",M,10.07.2013,Friedrichsthal,3,True,da43a78c941eb8d7e2037bb55d012e8c6ab6eeb2e9fa296093da2366532108ee
 SV Schlau.Com Saar 05 SBR.,4 x 100 m Staffel,Eric,Uder,1988,"43,48",M,10.07.2013,Friedrichsthal,3,True,c472ce92923471f2f6df2f299aba24a2dcb39b348fc6aee96a0f5fdc3fd17c6d
 LG Saar 70,4 x 100 m Staffel,Michael,Christ,1978,"45,60",M,26.05.2013,Dillingen,4,True,0c1c25e3f3c0b89da7d3d53b8bde800481673893a86cc86b77a1db92719121a2
-LG Saar 70,4 x 100 m Staffel,Matthias,Schöne,1990,"45,60",M,26.05.2013,Dillingen,4,True,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,4 x 100 m Staffel,Matthias,Schmitt,1990,"45,60",M,26.05.2013,Dillingen,4,True,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LG Saar 70,4 x 100 m Staffel,Matthias,Schmitt,1990,"45,60",M,26.05.2013,Dillingen,4,True,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LG Saar 70,4 x 100 m Staffel,Oliver,Haas,1988,"45,60",M,26.05.2013,Dillingen,4,True,5dd545c4aabbe0789ad1cb57bfd05c03ab1e40416ee7a225b8fd1da0c401bdfd
 TV Dillingen,4 x 100 m Staffel,Thomas,Bauer,1994,"46,64",M,09.06.2013,St.Wendel,5,True,1e702d256cac369ce9fc46d6b352029f50d8958ba89dd93f2d59fe98d6e7e9f3
@@ -323,11 +323,11 @@ LAZ Saarbrücken,3 x 1000 m Staffel,Christian,Schwarz,1985,"13:03,35",M,27.04.20
 LAZ Saarbrücken,3 x 1000 m Staffel,Marius,Adler,1994,"13:03,35",M,27.04.2013,Sulzbach,10,True,15b28731fb0b62461356615d1a4e8f45c85db47af49bbd22ce31d30978e5d9dd
 LAZ Saarbrücken,3 x 1000 m Staffel,Daniel,Sträßer,1990,"13:03,35",M,27.04.2013,Sulzbach,10,True,d22f4c09b7957213a89808b3df161e1699d8e46b913ded037d9fefcdd8051b1d
 TV Ludweiler,10.000 m Bahngehen,Christof,Hölle,1964,"55:07,42",M,01.06.2013,Thaleischweiler,1,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider,1947,"58:03,0",M,10.03.2013,Sarreguemines/FRA,2,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,10.000 m Bahngehen,Rainer,Lorscheider Dr.,1947,"58:03,0",M,10.03.2013,Sarreguemines/FRA,2,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,10.000 m Bahngehen,Stefan,Nißl,1959,"61:09,51",M,29.09.2013,Ludweiler,3,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,10.000 m Bahngehen,Hans-Joachim,Dilg,1958,"69:40,50",M,01.06.2013,Thaleischweiler,4,False,576d2462240b09c5a51ba82807cd2ada6b17a43e365605e7d071dc5865173037
 TV Ludweiler,20km Str.Gehen,Christof,Hölle,1964,1:52:41,M,20.04.2013,Biberach,1,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider,1947,1:59:18,M,28.04.2013,Naumburg,2,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider Dr.,1947,1:59:18,M,28.04.2013,Naumburg,2,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,20km Str.Gehen,Stefan,Nißl,1959,2:08:03,M,28.04.2013,Naumburg,3,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,20km Str.Gehen,Hans-Joachim,Dilg,1958,2:34:58,M,16.06.2013,Breitenbrunn,4,False,576d2462240b09c5a51ba82807cd2ada6b17a43e365605e7d071dc5865173037
 TV Ludweiler,20km Str.Gehen Ma.,Christof,Hölle,1964,7:01:24,M,16.06.2013,Breitenbrunn,1,True,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
@@ -339,7 +339,7 @@ LA Team Saar,Hochsprung,Simon,Hechler,1988,"1,92",M,27.07.2013,Chula Vista/USA,3
 TV Dillingen,Hochsprung,Marco,Philippe,1991,"1,85",M,09.06.2013,St.Wendel,4,False,78c0f892cf96e63dbee70bf8f6dcd6772b07b9a0e678bdbc41b461976ca1a69b
 LAC Elm,Hochsprung,Lars,Albert,1982,"1,85",M,24.08.2013,Lage,5,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
 LAC Saarlouis,Hochsprung,Martin,Schumacher,1966,"1,81",M,14.07.2013,Mönchengladbach,6,False,b0051713e7013416a9cccdec8478059df4f64b0f6ab0b2bde2a3728b388a97a6
-LG Saar 70,Hochsprung,Matthias,Schöne,1990,"1,79",M,21.04.2013,Ottweiler,7,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Hochsprung,Matthias,Schmitt,1990,"1,79",M,21.04.2013,Ottweiler,7,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LAZ Saarbrücken,Hochsprung,Adrian,Fritz,1990,"1,73",M,09.06.2013,St.Wendel,8,False,c0394aac277bf17335423bd14e96de4149bb8f357ac5ddb39274a38bb1b51e8f
 TV St. Wendel,Hochsprung,Jonas,Gillen,1990,"1,72",M,01.06.2013,Püttlingen,9,False,ca57d55322dd0c148dd78529acc6db0dd4cf05be4d98be52fa2681882b5c20c3
 LAZ Saarbrücken,Hochsprung,Martin,Vogel,1959,"1,70",M,07.09.2013,Hamburg,10,False,e0bcbf25d1c9c92dd0cc008babca881cc6ce62773ef99c966cab1e3d4b05b49e
@@ -350,7 +350,7 @@ LA Team Saar,Stabhochsprung,Simon,Hechler,1988,"4,70",M,09.05.2013,Mörfelden,4,
 SV Schlau.Com Saar 05 SBR.,Stabhochsprung,Amdan,Traore,1988,"4,70",M,08.06.2013,Ingelheim,5,False,17f268b0817878906c880fb42255a2a4455b11aed7a799bb825fcddebcb55153
 LAZ Saarbrücken,Stabhochsprung,Sven,Felder,1991,"3,70",M,26.05.2013,Dillingen,6,False,bfbacdc85bba93dc97bfa4dbe260209fb59b0d785cd54be9598a3324bcaca1ca
 LAZ Saarbrücken,Stabhochsprung,Martin,Vogel,1959,"3,20",M,13.07.2013,Mönchengladbach,7,False,e0bcbf25d1c9c92dd0cc008babca881cc6ce62773ef99c966cab1e3d4b05b49e
-TV Mettlach,Stabhochsprung,Stefan,Mathieu,1960,"3,10",M,11.08.2013,Dillingen,8,False,9a2438dc139385a76f7b8f97d5d774917ce9ada982893786a0d87fe2d9b76b2f
+TV Mettlach,Stabhochsprung,Stephan,Mathieu,1960,"3,10",M,11.08.2013,Dillingen,8,False,9bdaba7a61967ae16ff32f3c88dd65f6d580907dc3fa99097d9e5484674dcc8d
 LAC Elm,Stabhochsprung,Andreas,Jakob,1984,"3,00",M,02.06.2013,Püttlingen,9,False,464e65fd75b6afd76163c1f4737a4f2c38f1e9e937ec8620ad6733b9f1abf329
 LG Saar 70,Stabhochsprung,Oliver,Haas,1988,"2,60",M,05.05.2013,St.Wendel,10,False,5dd545c4aabbe0789ad1cb57bfd05c03ab1e40416ee7a225b8fd1da0c401bdfd
 LC Rehlingen,Weitsprung,Christian,Reif,1984,"8,27",M,15.06.2013,Bad Langensalza,1,False,68835e030f1d33716b91375255ccb811d5456727bbcc213ae5b7a46dfe87f30a
@@ -359,7 +359,7 @@ LC Rehlingen,Weitsprung,Martin,Jasper,1989,"7,65",M,02.08.2013,Weinheim,3,False,
 LA Team Saar,Weitsprung,Simon,Hechler,1988,"7,60",M,30.05.2013,Wesel,4,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
 LC Rehlingen,Weitsprung,Jonas,Lotz,1993,"7,17",M,08.06.2013,St.Wendel,5,False,5dd0b51c6eedcbe704a30ad785cf53d21c5042b72fb2fd803a8b111308a996e5
 LC Rehlingen,Weitsprung,Roland,Schwarzl,1980,"7,00",M,10.07.2013,Friedrichsthal,6,False,518a0ab80083c76e18fd9d7c6223fe786f63c75ec241d11c66190b4a060c683f
-LG Saar 70,Weitsprung,Matthias,Schöne,1990,"6,99",M,21.04.2013,Ottweiler,7,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Weitsprung,Matthias,Schmitt,1990,"6,99",M,21.04.2013,Ottweiler,7,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 TV St. Wendel,Weitsprung,Jonas,Gillen,1990,"6,94",M,08.06.2013,St.Wendel,8,False,ca57d55322dd0c148dd78529acc6db0dd4cf05be4d98be52fa2681882b5c20c3
 LAC Elm,Weitsprung,Lars,Albert,1982,"6,93",M,24.08.2013,Lage,9,False,76ba7afdaf9b3b74121b12367e85037340fbda5c11485d0efe819b66c090244e
 LAZ Saarbrücken,Weitsprung,Rouven,Christ,1988,"6,87",M,01.09.2013,Ludweiler,10,False,a5dcce3a944033439f0d92a16442ebf4e40d0867a1afc79abd92b17c52b04d2f
@@ -389,7 +389,7 @@ LAC Elm,Diskuswurf 2 kg,Lars,Albert,1982,"43,70",M,09.05.2013,Kaiserslautern,3,F
 SV Schlau.Com Saar 05 SBR.,Diskuswurf 2 kg,Eric,Uder,1988,"42,07",M,09.06.2013,St.Wendel,4,False,c472ce92923471f2f6df2f299aba24a2dcb39b348fc6aee96a0f5fdc3fd17c6d
 LAC Saarlouis,Diskuswurf 2 kg,Stefan,Hessling,1969,"41,95",M,06.04.2013,Merzig,5,False,039330fb9b29961cd15e4ef45ade5f34c407a3be602be919d6e980f4e5288798
 LA Team Saar,Diskuswurf 2 kg,Simon,Hechler,1988,"41,23",M,21.04.2013,Wehrheim,6,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
-LG Saar 70,Diskuswurf 2 kg,Matthias,Schöne,1990,"40,75",M,09.06.2013,St.Wendel,7,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Diskuswurf 2 kg,Matthias,Schmitt,1990,"40,75",M,09.06.2013,St.Wendel,7,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 TV Mettlach,Diskuswurf 2 kg,Christopher,Lackas,1992,"38,63",M,05.05.2013,Ludweiler,8,False,5e909059f9c47a9959573b7d3c7d80441275401d99564ced885e806c1ee26326
 LV Merzig,Diskuswurf 2 kg,Mike,Schneider,1976,"37,76",M,12.07.2013,Grevenmacher/LUX,9,False,21a57f93af3506b61229a98b6790ece318a07f3f65a1200687438d1b804b3dbd
 LC Rehlingen,Diskuswurf 2 kg,Stefan,Welsch,1988,"37,09",M,01.09.2013,Ludweiler,10,False,50d9e4bbe2349a46821d431742ce6afe87881616e1c3e09862f26761a6f8ad6f
@@ -557,7 +557,7 @@ SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Marion,Stras,1979,2:09:24,F,13.06.2013
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Evi,Schmelzer,1968,2:09:24,F,13.06.2013,Saarbrücken,3,True,d0ef9879c01a589fce667c1a030f5006cdd520fcbd6b2d449006f4b3a03c4667
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Sybille,Becker-Oehm,1979,2:09:24,F,13.06.2013,Saarbrücken,3,True,3d6af5baaa4c00e4b5adda3e686da6586a76c51c8ef40469b320a61c1d51ce58
 LAG Saarbrücken,10 km Str. Ma.,Theresia,Herrlein,1982,2:19:44,F,08.12.2013,Saarbrücken,4,True,dadc1bc7d3a3e794754656efa7697885751ceb5ad3ab388e932fdbc74d2d9068
-LAG Saarbrücken,10 km Str. Ma.,Martina,Lindemann,1985,2:19:44,F,08.12.2013,Saarbrücken,4,True,17d4743c87e0c34fa9a726c9ec087b9919d82fd02ea8214b341148dcf110b3d3
+LAG Saarbrücken,10 km Str. Ma.,Marlene,Lindemann,1985,2:19:44,F,08.12.2013,Saarbrücken,4,True,1fcb71018c070394756c03714cf9214659fa377f30393e623d635225676ab4bd
 LAG Saarbrücken,10 km Str. Ma.,Sylvia,Zeh,1961,2:19:44,F,08.12.2013,Saarbrücken,4,True,7e53f9fc67380c5ed7375b99dfe76581375a359ffc9418e558037558e36b8c3a
 LTF Köllertal,10 km Str. Ma.,Claudia,Maas,1973,2:19:59,F,13.06.2013,Saarbrücken,5,True,a3887b83f089398774a8add1b2f54ff5de9b00121a0afd65082f6d9f931bac13
 LTF Köllertal,10 km Str. Ma.,Anneli,Paul,1958,2:19:59,F,13.06.2013,Saarbrücken,5,True,c9649f91e229cd260d7204fcdc9de79c2eb4d37f32e2c399516f9cdd74153e8e
@@ -566,7 +566,7 @@ SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Heike,Brücker-Boghossian,1973,2:21:07
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Sabine,Köhler,1970,2:21:07,F,08.09.2013,Rehlingen,6,True,9ee59f6b9c6bf21df982e94607d50fddc25441ea849d9705a4223e19bfbfd3e2
 SV Schlau.Com Saar 05 SBR.,10 km Str. Ma.,Rungtong,Hertel,1970,2:21:07,F,08.09.2013,Rehlingen,6,True,1f2ca9c3f70f573ed67a47b6b2d9c9831f18a736959bed1c7479a8d6eb984927
 LV Merzig,10 km Str. Ma.,Bettina,Wiesen,1983,2:22:06,F,22.09.2013,Hilbringen,7,True,8d2fb8211fc65e0649b73826179cfe8bab0d3d00a85f451195cf898753d02e9d
-LV Merzig,10 km Str. Ma.,Natascha,Freudenreich,1984,2:22:06,F,22.09.2013,Hilbringen,7,True,c24b716bbf073ccc177705f81eaf9613114bb1ba05c8d0b4501eb7346e4fe343
+LV Merzig,10 km Str. Ma.,Natascha,Freudenreich,1986,2:22:06,F,22.09.2013,Hilbringen,7,True,6c3d0e36344685d33b5e17e8f115515f7fd8ec963bc08e2b53ca4058aafc6c0b
 LV Merzig,10 km Str. Ma.,Silke,Mertes,1975,2:22:06,F,22.09.2013,Hilbringen,7,True,d04d64a90a159c87f11272d082a76d7bc1c2e740c8e8fcee03ed56c1af0da144
 TV Lebach,10 km Str. Ma.,Anja,Wallacher,1975,2:25:35,F,08.09.2013,Rehlingen,8,True,91f1b6fdfd4b97867e5940164d50843b25461e97940c233b0576bcfc5253e7f2
 TV Lebach,10 km Str. Ma.,Valérie,Bultel,1992,2:25:35,F,08.09.2013,Rehlingen,8,True,184f5e5541c46781b9dfffbf8161eb8b1a630b816cde27953513b0f8929aaa4b
@@ -1050,7 +1050,7 @@ LC Rehlingen,3000 m Lauf,Michelle,Chasseur,1994,"11:11,02",WU20,20.04.2013,Piesb
 LAZ Saarbrücken,3000 m Lauf,Larissa,Haefner,1995,"11:17,86",WU20,09.05.2013,Kaiserslautern,3,False,515a7aeeb34653165b75a54ba9660e51680f9cfc971ed8cfaeb915f1a9b42ae3
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Julia,Klees,1995,"12:24,04",WU20,06.07.2013,Saarlouis,4,False,b9e5b199d1d405636f493b4cdccff26d221447e57ad7d4370b45c0e908bb8828
 LAZ Saarbrücken,3000 m Lauf,Luisa,Faber,1994,"13:13,05",WU20,25.07.2013,Saarbrücken,5,False,53255bb64f06a83110c30ece30d2487a450b48e4ed0ee49c2e982dce7fc21fe7
-LAZ Saarbrücken,3000 m Lauf,Maren,Nattermann,1995,"14:46,53",WU20,11.05.2013,Saarbrücken,6,False,5f9fdb0d6da26b3ea28ab36beafc36014a62bda87c58af450a5e9417e7bc5598
+LAZ Saarbrücken,3000 m Lauf,Maren,Nattenmann,1995,"14:46,53",WU20,11.05.2013,Saarbrücken,6,False,86626fda6898c21efeb48a5b482b6487050fbc123403532bd4320e6044db227e
 LAZ Saarbrücken,5000 m Lauf,Lisa,Sewohl,1994,"19:37,94",WU20,18.07.2013,Saarbrücken,1,False,ff27d1bd8bf7fcd4277bec05af5f06bbe9ca9e5edaad1967bd934e5f66b3d244
 LC Rehlingen,5000 m Lauf,Lena,Herrmann,1996,"20:29,59",WU20,18.07.2013,Saarbrücken,2,False,9dc7db51df834c2bddcc15c60fcdfb8b94c75e1ce6c16ad509075922b1099c12
 TV Homburg,5000 m Lauf,Isabella,Merloni,1997,"20:43,35",WU20,13.09.2013,Trier,3,False,cc160e7aa083c791d5124e68760ba259f23b55accc29f0b4bb1e0b7f532b65e5
@@ -1073,7 +1073,7 @@ LSG Sbr.-Sulzbachtal,100 m Hürden 0.838m,Marie- Sophie,Dieter,1995,"18,79",WU20
 LA Team Saar,100 m Hürden 0.838m,Meike,Albersmeyer,1995,"19,05",WU20,14.09.2013,Homburg,6,False,5123801f58c3b753f970e128d2e94b6b8dc2cf243507325fba3346c8916b1d74
 TV Bliesen,100 m Hürden 0.838m,Lina,Stoll,1994,"19,56",WU20,04.05.2013,St.Wendel,7,False,646235081e045228a93bf95f5cd6f652f130ae1bfd2c84cb5326212d6cbad7aa
 LV Merzig,100 m Hürden 0.838m,Lisa,Meyer,1995,"19,57",WU20,14.09.2013,Homburg,8,False,8d4bf66a26c013eb40fcb61c7c6be926abeb3e9862155eac3877725671c2d848
-LAZ Saarbrücken,100 m Hürden 0.838m,Maren,Nattermann,1995,"20,00",WU20,11.05.2013,Saarbrücken,9,False,5f9fdb0d6da26b3ea28ab36beafc36014a62bda87c58af450a5e9417e7bc5598
+LAZ Saarbrücken,100 m Hürden 0.838m,Maren,Nattenmann,1995,"20,00",WU20,11.05.2013,Saarbrücken,9,False,86626fda6898c21efeb48a5b482b6487050fbc123403532bd4320e6044db227e
 AC Diefflen,100 m Hürden 0.838m,Lisa,Labouvie,1995,"20,04",WU20,14.09.2013,Homburg,10,False,eccbfa221c04d27cbb8699f604e02e879336054753a0fe87b129f94a4eb5a613
 SV Schlau.Com Saar 05 SBR.,400 m Hürden 0.762m,Luisa,Valeske,1994,"58,66",WU20,30.06.2013,Mannheim,1,False,b719a6edc95b1dcfc4874a5c3472e5d8a6d5f7c22c06878aa7b32ab3c522e6ba
 LC Rehlingen,400 m Hürden 0.762m,Katrin,Schmidt,1995,"61,94",WU20,28.07.2013,Rostock,2,False,e6c3750a2509c9750aa99599939c1dfe37354a15852a484e6e292f29d3d358e3
@@ -1092,14 +1092,14 @@ TV St. Wendel,4 x 100 m Staffel,Lena,Volz,1997,"53,54",WU20,08.06.2013,St.Wendel
 TV St. Wendel,4 x 100 m Staffel,Carolin,Stein,1998,"53,54",WU20,08.06.2013,St.Wendel,3,True,dddb5f7ece486b1e8e3b7669a49c9d2267e19144ddc7af0f2668e15f663d9f37
 TV St. Wendel,4 x 100 m Staffel,Tamara,Hahnenberg,1996,"53,54",WU20,08.06.2013,St.Wendel,3,True,c311d4daa9e4cfed31fe61022f55c8acb81e89d3fa5c3c120a57cb4b1b287501
 TV St. Wendel,4 x 100 m Staffel,Jasmin,Wirges,1994,"53,54",WU20,08.06.2013,St.Wendel,3,True,98b7709071ee54487f101c21d07391e8f20ec826aab23680680ea334f819f857
-LAZ Saarbrücken,4 x 100 m Staffel,Maren,Nattermann,1995,"56,83",WU20,11.05.2013,Saarbrücken,4,True,5f9fdb0d6da26b3ea28ab36beafc36014a62bda87c58af450a5e9417e7bc5598
+LAZ Saarbrücken,4 x 100 m Staffel,Maren,Nattenmann,1995,"56,83",WU20,11.05.2013,Saarbrücken,4,True,86626fda6898c21efeb48a5b482b6487050fbc123403532bd4320e6044db227e
 LAZ Saarbrücken,4 x 100 m Staffel,Katrin,Reim,1995,"56,83",WU20,11.05.2013,Saarbrücken,4,True,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
 LAZ Saarbrücken,4 x 100 m Staffel,Julia,Adam,1994,"56,83",WU20,11.05.2013,Saarbrücken,4,True,6aedfa050d578660be6adfea36cf11026232c052f2e67e476da6be2e60f997c1
 LAZ Saarbrücken,4 x 100 m Staffel,Victoria,Hemsing,1995,"56,83",WU20,11.05.2013,Saarbrücken,4,True,3c0c57dc9c5f2c953828030d4f018636e62fb82fdd52d1f40299b9df1dad742c
 LAZ Saarbrücken,4 x 400 m Staffel,Lilly,Preuße,1997,"4:15,83",WU20,30.05.2013,Friedrichsthal,1,True,eb46e5a38ec570f33deb765e7d90385928aedd0a24f8465e31b781b48bf96e34
 LAZ Saarbrücken,4 x 400 m Staffel,Laura,Müller,1995,"4:15,83",WU20,30.05.2013,Friedrichsthal,1,True,f582511a9a9790e2c69d4cf6aa57c6a1bff33ee88948e27ef79211545d4ea602
 LAZ Saarbrücken,4 x 400 m Staffel,Katrin,Reim,1995,"4:15,83",WU20,30.05.2013,Friedrichsthal,1,True,6033bb70f6c7a619b49b866bb0ff6fd3d7598841dc0f70ef814cceb1d03b6922
-LAZ Saarbrücken,4 x 400 m Staffel,Maren,Nattermann,1995,"4:15,83",WU20,30.05.2013,Friedrichsthal,1,True,5f9fdb0d6da26b3ea28ab36beafc36014a62bda87c58af450a5e9417e7bc5598
+LAZ Saarbrücken,4 x 400 m Staffel,Maren,Nattenmann,1995,"4:15,83",WU20,30.05.2013,Friedrichsthal,1,True,86626fda6898c21efeb48a5b482b6487050fbc123403532bd4320e6044db227e
 LAZ Saarbrücken,4 x 400 m Staffel,Sandra,Schick,1996,"4:30,35",WU20,30.05.2013,Friedrichsthal,2,True,affdc2cf263faa6a5eb0c35727fa148225aae197feb1e42a8e0d67d426827587
 LAZ Saarbrücken,4 x 400 m Staffel,Nikola,Westenburger,1996,"4:30,35",WU20,30.05.2013,Friedrichsthal,2,True,7697947f8a74e497d469ad1728f8d7aca757ed1d7b2e1b73c1b32a67deba3bf7
 LAZ Saarbrücken,4 x 400 m Staffel,Louisa,Becker,1996,"4:30,35",WU20,30.05.2013,Friedrichsthal,2,True,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
@@ -1918,7 +1918,7 @@ LSG Sbr.-Sulzbachtal,800 m Lauf,Marius,Mang,1999,"2:24,82",M14,06.07.2013,Saarlo
 LC Rehlingen,800 m Lauf,Yannick,Lenschow,1999,"2:27,27",M14,20.05.2013,Rehlingen,7,False,a1f35e8d3d33262ffd4543e15753fc4c91b13b7b970f26382c8ea9c625b9bb70
 LC Rehlingen,800 m Lauf,Matthias,Gerner,1999,"2:28,38",M14,20.05.2013,Rehlingen,8,False,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
 LC Rehlingen,800 m Lauf,Philipp,Wilbois,1999,"2:29,39",M14,03.08.2013,Merzig,9,False,076d3f13af0f5220e0e3dc76106c3e53825777172d8a64c97b8a7fd375a3cee7
-ATSV Saarbrücken,800 m Lauf,David,Delwig,1999,"2:31,96",M14,23.06.2013,Ottweiler,10,False,d75c697f3a81f7bcba00b82288be3cbe6cc19fe438867403746a036a0bf20a2b
+ATSV Saarbrücken,800 m Lauf,David,Delwing,1999,"2:31,96",M14,23.06.2013,Ottweiler,10,False,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 SC Friedrichsthal,1000 m Lauf,Nico,Eiden,1999,"3:02,17",M14,13.04.2013,Sulzbach,1,False,0a65ee3d346456d3bdc6cd1f424be7595468b52d1e4792025bad484315b02f4a
 LAZ Saarbrücken,1000 m Lauf,Nils,Johann,1999,"3:05,01",M14,15.09.2013,Homburg,2,False,2ef4c8d0c4308fdf707474b3e9c35366ca3933cf2e37ec9a2bd2e4485342d282
 LC Rehlingen,1000 m Lauf,Fabian,Schon,1999,"3:06,16",M14,13.04.2013,Sulzbach,3,False,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
@@ -1926,13 +1926,13 @@ LAZ Saarbrücken,1000 m Lauf,Adrian,Bellmann,1999,"3:08,71",M14,15.09.2013,Hombu
 LC Rehlingen,1000 m Lauf,Matthias,Gerner,1999,"3:09,84",M14,15.09.2013,Homburg,5,False,b1263b03ac87c014d743f78105082ffca7ad11f810dc2ddca65dd88402d8e9ce
 TuS 1860 Neunkirchen,1000 m Lauf,Tomas,Schlegel,1999,"3:12,61",M14,18.08.2013,Bernhausen,6,False,52a2b5b42903e467770e7b242940edcda342f56126ea091322930be7d4a9fb57
 AC Diefflen,1000 m Lauf,Tobias,Sogorski,1999,"3:19,09",M14,15.09.2013,Homburg,7,False,b93d7fe7cee023e48935178e1bf23330ebe97956d9152e1682a32321e0b92e94
-ATSV Saarbrücken,1000 m Lauf,David,Delwig,1999,"3:23,04",M14,01.05.2013,Saarbrücken,8,False,d75c697f3a81f7bcba00b82288be3cbe6cc19fe438867403746a036a0bf20a2b
+ATSV Saarbrücken,1000 m Lauf,David,Delwing,1999,"3:23,04",M14,01.05.2013,Saarbrücken,8,False,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 LG Saar 70,1000 m Lauf,Julian,Kornbrust,1999,"3:25,28",M14,05.05.2013,St.Wendel,9,False,cbc9c400464e30c403c99269870e70ad364b238302443a24fb06571a0bbfbf61
 TV Elm,1000 m Lauf,Eugen,Mousichidis,1999,"3:28,21",M14,15.09.2013,Homburg,10,False,10d4a0e2bedfd60671dbefb3649aae751679059bd0f87e234874e0abcfdb2e94
 SC Friedrichsthal,2000 m Lauf,Nico,Eiden,1999,"6:35,82",M14,30.05.2013,Landau,1,False,0a65ee3d346456d3bdc6cd1f424be7595468b52d1e4792025bad484315b02f4a
 LC Rehlingen,2000 m Lauf,Fabian,Schon,1999,"6:42,42",M14,13.09.2013,Trier,2,False,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
 LC Rehlingen,2000 m Lauf,Philipp,Wilbois,1999,"6:43,54",M14,25.08.2013,St.Wendel,3,False,076d3f13af0f5220e0e3dc76106c3e53825777172d8a64c97b8a7fd375a3cee7
-ATSV Saarbrücken,2000 m Lauf,David,Delwig,1999,"6:48,70",M14,21.09.2013,Dillingen,4,False,d75c697f3a81f7bcba00b82288be3cbe6cc19fe438867403746a036a0bf20a2b
+ATSV Saarbrücken,2000 m Lauf,David,Delwing,1999,"6:48,70",M14,21.09.2013,Dillingen,4,False,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 LC Rehlingen,2000 m Lauf,Oliver,Jakob,1999,"7:02,35",M14,25.08.2013,St.Wendel,5,False,cae66dd33ffc2f03a7e1a82eff2f79aabf7ae2bc315ba97952d8321d9264c848
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Marius,Mang,1999,"7:20,29",M14,25.08.2013,St.Wendel,6,False,4639c360acb032187fcbdc9f54422f519960aa4677a8ac6fd33b29405f98421b
 LSG Sbr.-Sulzbachtal,2000 m Lauf,Marek,Winter,1999,"7:22,31",M14,01.06.2013,Thaleischweiler,7,False,0a11079e7936e69b5d091063b9012c8b18f536e5c312c7100e78050f2a3aee3f
@@ -1942,7 +1942,7 @@ SC Friedrichsthal,3000 m Lauf,Nico,Eiden,1999,"10:31,69",M14,20.04.2013,Piesbach
 LC Rehlingen,3000 m Lauf,Oliver,Jakob,1999,"10:37,74",M14,20.04.2013,Piesbach,3,False,cae66dd33ffc2f03a7e1a82eff2f79aabf7ae2bc315ba97952d8321d9264c848
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Marek,Winter,1999,"11:04,29",M14,25.07.2013,Saarbrücken,4,False,0a11079e7936e69b5d091063b9012c8b18f536e5c312c7100e78050f2a3aee3f
 LG DJK Erbach-SG St. Ingbert,3000 m Lauf,Felix,Schwarz,1999,"11:04,97",M14,20.04.2013,Piesbach,5,False,a9a27cabee448cf5bb50ecf86dc9c5e88901cb3c7318c2f6b869a03a44b0dcc8
-ATSV Saarbrücken,3000 m Lauf,David,Delwig,1999,"11:13,97",M14,20.04.2013,Piesbach,6,False,d75c697f3a81f7bcba00b82288be3cbe6cc19fe438867403746a036a0bf20a2b
+ATSV Saarbrücken,3000 m Lauf,David,Delwing,1999,"11:13,97",M14,20.04.2013,Piesbach,6,False,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 LC Rehlingen,3000 m Lauf,Philipp,Wilbois,1999,"11:15,08",M14,20.04.2013,Piesbach,7,False,076d3f13af0f5220e0e3dc76106c3e53825777172d8a64c97b8a7fd375a3cee7
 LSG Sbr.-Sulzbachtal,3000 m Lauf,Marius,Mang,1999,"11:46,40",M14,20.04.2013,Piesbach,8,False,4639c360acb032187fcbdc9f54422f519960aa4677a8ac6fd33b29405f98421b
 LAZ Saarbrücken,3000 m Lauf,Felix,Rausch,1999,"12:07,93",M14,20.04.2013,Piesbach,9,False,999712356406162669f69e14be6d092a2a5826c9c70e24af23bff2c8543c47be
@@ -1953,7 +1953,7 @@ LG DJK Erbach-SG St. Ingbert,5 km Str.,Felix,Schwarz,1999,18:30,M14,14.12.2013,O
 Tri-Sport/Saar-Hochwald,5 km Str.,Tobias,Zenner,1999,18:47,M14,14.12.2013,Ottweiler,4,False,e9279bfb17b29027cf1217148fd6255cb71b9ee6b327734375e85545375dc537
 LG Saar 70,5 km Str.,Bela,Steinsch,1999,18:53,M14,14.12.2013,Ottweiler,5,False,d0ef8d0586c40f6487eb8a1e2afb17a299aac9f1ae5b4047008b094a6c74013a
 LC Rehlingen,5 km Str.,Oliver,Jakob,1999,19:14,M14,31.12.2013,Trier,6,False,cae66dd33ffc2f03a7e1a82eff2f79aabf7ae2bc315ba97952d8321d9264c848
-ATSV Saarbrücken,5 km Str.,David,Delwig,1999,19:15,M14,29.09.2013,Saarlouis,7,False,d75c697f3a81f7bcba00b82288be3cbe6cc19fe438867403746a036a0bf20a2b
+ATSV Saarbrücken,5 km Str.,David,Delwing,1999,19:15,M14,29.09.2013,Saarlouis,7,False,e56983f0c0a10778c3c77234f4656e912e218719d09398ed868bd40e35350c0c
 TV Germania 1910 Piesbach,5 km Str.,Christian,Birk,1999,19:31,M14,22.09.2013,Hilbringen,8,False,862296f15e2fd92f613d7679731e337095ddb28030a989446effa85da8c02dbf
 LSG Sbr.-Sulzbachtal,5 km Str.,Marek,Winter,1999,19:55,M14,23.06.2013,Dudweiler,9,False,0a11079e7936e69b5d091063b9012c8b18f536e5c312c7100e78050f2a3aee3f
 LAZ Saarbrücken,5 km Str.,Felix,Rausch,1999,21:49,M14,22.09.2013,Hilbringen,10,False,999712356406162669f69e14be6d092a2a5826c9c70e24af23bff2c8543c47be
@@ -2418,11 +2418,11 @@ TV Homburg,2000 m Lauf,Miriam,Seitz,1999,"8:25,53",W14,31.08.2013,Saarbrücken,5
 TV Homburg,2000 m Lauf,Sophia,Merloni,1999,"8:29,69",W14,13.09.2013,Trier,6,False,a9ee8eda8a7e679ceb412c8514d3a435ffd6d7b010073b49ade765e70831049d
 LC Rehlingen,2000 m Lauf,Joline,Seiwert,1999,"8:49,67",W14,20.04.2013,Piesbach,7,False,beb89f17f536651a84b0a3fd3d00121be571d04c90d095d5c3eea5ab92908eff
 TV Limbach,2000 m Lauf,Julia,Moock,1999,"9:01,21",W14,25.08.2013,St.Wendel,8,False,d9c57f9c86be0a03175935102441a5deb7573541d576e546155b3d0b19b61547
-LSG Sbr.-Sulzbachtal,2000 m Lauf,Jacqueline,Karmann,1999,"9:21,13",W14,20.04.2013,Piesbach,9,False,4c4d0c6c00459b49fde16d15479c8f2c71719b0049702d49cae108728468caa5
+LSG Sbr.-Sulzbachtal,2000 m Lauf,Jaqueline,Karmann,1999,"9:21,13",W14,20.04.2013,Piesbach,9,False,5d091847ccfbd85f55853a4e708dbe51f8eae83d42e6d8b97717aee2e02d17c7
 TV Homburg,5 km Str.,Miriam,Seitz,1999,23:10,W14,12.09.2013,Homburg,1,False,f21e036d71d89ea2041e38472f0614449956e55fbff935bda5ae945c1f2f17e7
 LSG 98 Köllertal,5 km Str.,Elisa,Busch,1999,24:36,W14,29.09.2013,Saarlouis,2,False,69b93659d8bf3cb711770cc3de8c87ab42cf489f8b0fd62bef31b9ee5e999c0b
 LC Rehlingen,5 km Str.,Joline,Seiwert,1999,26:06,W14,08.09.2013,Rehlingen,3,False,beb89f17f536651a84b0a3fd3d00121be571d04c90d095d5c3eea5ab92908eff
-LSG Sbr.-Sulzbachtal,5 km Str.,Jacqueline,Karmann,1999,29:46,W14,29.09.2013,Saarlouis,4,False,4c4d0c6c00459b49fde16d15479c8f2c71719b0049702d49cae108728468caa5
+LSG Sbr.-Sulzbachtal,5 km Str.,Jaqueline,Karmann,1999,29:46,W14,29.09.2013,Saarlouis,4,False,5d091847ccfbd85f55853a4e708dbe51f8eae83d42e6d8b97717aee2e02d17c7
 TV St. Wendel,80 m Hürden 0.762m,Hanna,Schopper,1999,"12,56",W14,18.08.2013,Bernhausen,1,False,005d34152a9d765e49609aeec3f4fe3e756e7025a3058f6b108ae16f10df47f3
 LSG 98 Köllertal,80 m Hürden 0.762m,Celina,Schweizer,1999,"12,62",W14,25.08.2013,St.Wendel,2,False,7823437abff759aa326920cf843e34cf28332cd88967e099c2ec399122f9dda8
 LC Rehlingen,80 m Hürden 0.762m,Silvana,Tinnes,1999,"12,64",W14,11.05.2013,Saarbrücken,3,False,b2b2db9216df01e2ce9771a2b063357ae26186729fee545a12113e927d9d22d1
@@ -2511,7 +2511,7 @@ LC Rehlingen,Ballwurf 200g,Silvana,Tinnes,1999,"38,50",W14,25.08.2013,St.Wendel,
 TuS 1860 Neunkirchen,Ballwurf 200g,Isabelle,Schmolzi,1999,"37,00",W14,25.08.2013,St.Wendel,6,False,a1b6099c74c8c99a4969bbb7ecef54cf0ccf89cf82d5f33d49c421b49a2ec58b
 TuS 1860 Neunkirchen,Ballwurf 200g,Jana,Fuhrmann,1999,"36,00",W14,11.06.2013,Saarbrücken,7,False,0ed239350520fd3d12f7dcbc07facf4da404c291248109af67e9b1538f55d702
 TV Homburg,Ballwurf 200g,Sophia,Merloni,1999,"31,00",W14,25.08.2013,St.Wendel,8,False,a9ee8eda8a7e679ceb412c8514d3a435ffd6d7b010073b49ade765e70831049d
-LSG Sbr.-Sulzbachtal,Ballwurf 200g,Jacqueline,Karmann,1999,"26,50",W14,25.08.2013,St.Wendel,9,False,4c4d0c6c00459b49fde16d15479c8f2c71719b0049702d49cae108728468caa5
+LSG Sbr.-Sulzbachtal,Ballwurf 200g,Jaqueline,Karmann,1999,"26,50",W14,25.08.2013,St.Wendel,9,False,5d091847ccfbd85f55853a4e708dbe51f8eae83d42e6d8b97717aee2e02d17c7
 TV Limbach,Ballwurf 200g,Julia,Moock,1999,"25,50",W14,25.08.2013,St.Wendel,10,False,d9c57f9c86be0a03175935102441a5deb7573541d576e546155b3d0b19b61547
 TV St. Wendel,4-Kampf,Hanna,Schopper,1999,2.115,W14,04.05.2013,St.Wendel,1,False,005d34152a9d765e49609aeec3f4fe3e756e7025a3058f6b108ae16f10df47f3
 LSG 98 Köllertal,4-Kampf,Celina,Schweizer,1999,2.109,W14,14.09.2013,Homburg,2,False,7823437abff759aa326920cf843e34cf28332cd88967e099c2ec399122f9dda8
@@ -2549,7 +2549,7 @@ TV Germania 1910 Piesbach,Block Lauf,Hannah,Andres,1999,2.235,W14,25.08.2013,St.
 TuS 1860 Neunkirchen,Block Lauf,Isabelle,Schmolzi,1999,2.096,W14,25.08.2013,St.Wendel,4,False,a1b6099c74c8c99a4969bbb7ecef54cf0ccf89cf82d5f33d49c421b49a2ec58b
 TV Homburg,Block Lauf,Sophia,Merloni,1999,1.824,W14,25.08.2013,St.Wendel,5,False,a9ee8eda8a7e679ceb412c8514d3a435ffd6d7b010073b49ade765e70831049d
 TV Limbach,Block Lauf,Julia,Moock,1999,1.689,W14,25.08.2013,St.Wendel,6,False,d9c57f9c86be0a03175935102441a5deb7573541d576e546155b3d0b19b61547
-LSG Sbr.-Sulzbachtal,Block Lauf,Jacqueline,Karmann,1999,1.677,W14,25.08.2013,St.Wendel,7,False,4c4d0c6c00459b49fde16d15479c8f2c71719b0049702d49cae108728468caa5
+LSG Sbr.-Sulzbachtal,Block Lauf,Jaqueline,Karmann,1999,1.677,W14,25.08.2013,St.Wendel,7,False,5d091847ccfbd85f55853a4e708dbe51f8eae83d42e6d8b97717aee2e02d17c7
 TV St. Wendel,Block Wurf,Hanna,Schopper,1999,2.623,W14,25.08.2013,St.Wendel,1,False,005d34152a9d765e49609aeec3f4fe3e756e7025a3058f6b108ae16f10df47f3
 TV Limbach,Block Wurf,Franziska,Zott,1999,2.094,W14,25.08.2013,St.Wendel,2,False,ed78b94e3b8aca6172ce0b2dd34a3a6e266bcb94139a41de1882fac8cd4255ff
 TV Limbach,Block Wurf,Katharina,Zott,1999,2.082,W14,25.08.2013,St.Wendel,3,False,c59dcb84a64a48f7a131cfd81fdd544578928a4cc79c03ba0c5cbfc109500f66
@@ -2625,7 +2625,7 @@ LSG 98 Köllertal,3 x 800 m Staffel,Jan-Luca,Ludwig,2001,"9:15,11",M13,13.04.201
 LSG 98 Köllertal,3 x 800 m Staffel,Florian,Knaf,2001,"9:15,11",M13,13.04.2013,Püttlingen,8,True,ea863de558575ba6e1c170f865e66223d8f51e0ada2e6c6b6058c7070ea8e904
 LSG 98 Köllertal,3 x 800 m Staffel,Yanick,Prianon,2001,"9:15,11",M13,13.04.2013,Püttlingen,8,True,ff690588f2668befbfb2650a3eb461b2380c63b0960dc3a11db67e9b5f937906
 TV Homburg,3-Kampf Ma.,Björn,Ritter,2000,5.677,M13,08.09.2013,Piesbach,1,True,34d5c2226cae7f0eb467c29f4390c661bf84cfd2b87bbf1988e564bece78c4eb
-TV Homburg,3-Kampf Ma.,Maximilian,Reichhardt,2000,5.677,M13,08.09.2013,Piesbach,1,True,1d91f56b1fb5b088a023521ed4f2ebbbe39a7ea52554bc98ce8361d2417a0621
+TV Homburg,3-Kampf Ma.,Maximilian,Reichhart,2000,5.677,M13,08.09.2013,Piesbach,1,True,f499d1ebdf8c91ad1d17d6021fce93181b35a8c52a5e1d54adf3c9b713064360
 TV Homburg,3-Kampf Ma.,Jan Hendrik,Bothen,2000,5.677,M13,08.09.2013,Piesbach,1,True,c28a5e48d1ed5ad583e6e2b79fed041e8c8d4886eef97b7f4521f6b8e1da19bd
 TV Homburg,3-Kampf Ma.,Nils,Sauer,2000,5.677,M13,08.09.2013,Piesbach,1,True,7e059191a927207da180c1a3b5e75fd2b6f87b9b22759953c742c42c31920c44
 TV Homburg,3-Kampf Ma.,Jonah,Feindel,2001,5.677,M13,08.09.2013,Piesbach,1,True,ffe6c89e0501e350008a9b0211a9db8e0ee7c1e58f17c98136ac0acbf9cf8a42
@@ -2643,7 +2643,7 @@ LG Saar 70,3-Kampf Ma.,Tilman,Schmidt,2000,5.448,M13,04.05.2013,St.Wendel,4,True
 LG Saar 70,3-Kampf Ma.,Jonas,Sander,2000,5.448,M13,04.05.2013,St.Wendel,4,True,1c5a55301b435733ea7e7311e8c164bf8d0b8212d8700e71a87bb6ab2860247a
 LG Saar 70,3-Kampf Ma.,Niels,Diehl,2001,5.448,M13,04.05.2013,St.Wendel,4,True,5b1ad22e577d9192d6202f0ff68fc1672b354ce763e6a5c3b6d9241436a67c91
 LG Saar 70,3-Kampf Ma.,Jules,Loginoff,2000,5.448,M13,04.05.2013,St.Wendel,4,True,6912b05742f1bdcd7b28c9991315b3cc2824cc8aa5f93ee7e0601d75be55d620
-LG Saar 70,3-Kampf Ma.,Jan,Schmitt,2001,5.448,M13,04.05.2013,St.Wendel,4,True,40356213a700b714a25e08e0779f383ebaf228461de37cb08ff3a8bf0ca3cf22
+LG Saar 70,3-Kampf Ma.,Jan Philip,Schmitt,2001,5.448,M13,04.05.2013,St.Wendel,4,True,07fe804d37098cbd3b6c106a0fd909958cda56414c5ac5b772ff4950b01f7565
 TV Saarwellingen,3-Kampf Ma.,Jonas,Czapla,2001,5.141,M13,08.09.2013,Piesbach,5,True,0a9e9817f6636fc4bd6f7bca346d53a1951e2c2ae5efc9897c82f6a399c9bd05
 TV Saarwellingen,3-Kampf Ma.,Aaron,Loew,2000,5.141,M13,08.09.2013,Piesbach,5,True,8ea256ead18ca14777b5f9c4a3e4e1f79b35abdfebd8d5adc8f8592b187af72d
 TV Saarwellingen,3-Kampf Ma.,Xavio,Leanza,2001,5.141,M13,08.09.2013,Piesbach,5,True,35b7004a7f4e9ba99e171bf145bf1fe1fbcc9b110d3c95bf9b200ef052dae257
@@ -2667,12 +2667,12 @@ LSG 98 Köllertal,3-Kampf Ma.,Andreas,Funke,2001,4.620,M13,29.06.2013,Schmelz,8,
 TV Homburg,4-Kampf Ma.,Björn,Ritter,2000,7.637,M13,08.09.2013,Piesbach,1,True,34d5c2226cae7f0eb467c29f4390c661bf84cfd2b87bbf1988e564bece78c4eb
 TV Homburg,4-Kampf Ma.,Jonah,Feindel,2001,7.637,M13,08.09.2013,Piesbach,1,True,ffe6c89e0501e350008a9b0211a9db8e0ee7c1e58f17c98136ac0acbf9cf8a42
 TV Homburg,4-Kampf Ma.,Nils,Sauer,2000,7.637,M13,08.09.2013,Piesbach,1,True,7e059191a927207da180c1a3b5e75fd2b6f87b9b22759953c742c42c31920c44
-TV Homburg,4-Kampf Ma.,Maximilian,Reichhardt,2000,7.637,M13,08.09.2013,Piesbach,1,True,1d91f56b1fb5b088a023521ed4f2ebbbe39a7ea52554bc98ce8361d2417a0621
+TV Homburg,4-Kampf Ma.,Maximilian,Reichhart,2000,7.637,M13,08.09.2013,Piesbach,1,True,f499d1ebdf8c91ad1d17d6021fce93181b35a8c52a5e1d54adf3c9b713064360
 TV Homburg,4-Kampf Ma.,Jan Hendrik,Bothen,2000,7.637,M13,08.09.2013,Piesbach,1,True,c28a5e48d1ed5ad583e6e2b79fed041e8c8d4886eef97b7f4521f6b8e1da19bd
 LG Saar 70,4-Kampf Ma.,Tilman,Schmidt,2000,7.312,M13,08.09.2013,Piesbach,2,True,b75da21bae1d4d358fef38f61fc6b58c34200b56dba264b820095d7c491dcd4f
 LG Saar 70,4-Kampf Ma.,Jonas,Sander,2000,7.312,M13,08.09.2013,Piesbach,2,True,1c5a55301b435733ea7e7311e8c164bf8d0b8212d8700e71a87bb6ab2860247a
 LG Saar 70,4-Kampf Ma.,Niels,Diehl,2001,7.312,M13,08.09.2013,Piesbach,2,True,5b1ad22e577d9192d6202f0ff68fc1672b354ce763e6a5c3b6d9241436a67c91
-LG Saar 70,4-Kampf Ma.,Jan,Schmitt,2001,7.312,M13,08.09.2013,Piesbach,2,True,40356213a700b714a25e08e0779f383ebaf228461de37cb08ff3a8bf0ca3cf22
+LG Saar 70,4-Kampf Ma.,Jan Philip,Schmitt,2001,7.312,M13,08.09.2013,Piesbach,2,True,07fe804d37098cbd3b6c106a0fd909958cda56414c5ac5b772ff4950b01f7565
 LG Saar 70,4-Kampf Ma.,Jules,Loginoff,2000,7.312,M13,08.09.2013,Piesbach,2,True,6912b05742f1bdcd7b28c9991315b3cc2824cc8aa5f93ee7e0601d75be55d620
 LAZ Saarbrücken,4-Kampf Ma.,Felix,Greifenberg,2000,7.310,M13,08.09.2013,Piesbach,3,True,173c7fb36ae0654a9af6f6c35a4cfb4eba580c0e860c165c2d2e55fd94c4b908
 LAZ Saarbrücken,4-Kampf Ma.,Nico Flavio,Tausch,2000,7.310,M13,08.09.2013,Piesbach,3,True,9882cf7d9af8cd2a2bdf485726cb021a50abef43771266727b71cf56c055a408
@@ -2883,14 +2883,14 @@ LAZ Saarbrücken,2000 m Lauf,Nils,Raab,2001,"7:34,78",M12,20.04.2013,Piesbach,5,
 LAZ Saarbrücken,2000 m Lauf,Malte,Schuh,2001,"7:42,64",M12,20.04.2013,Piesbach,6,False,38b22c939f452e9488c2f0693065d020d6f12a2207962b763747c7a050ca26fc
 LG Saar 70,2000 m Lauf,Paul,Honecker,2001,"7:47,51",M12,20.04.2013,Piesbach,7,False,63c9e8a0d084627dc746744d79361b0c1b8cf5f759c84325d87ba2330231cd93
 LV Merzig,2000 m Lauf,Tim,Dax,2001,"7:49,34",M12,20.04.2013,Piesbach,8,False,2fbabe5de10c316d5fdc589fb768dc34a6239b4180930ac77d6c5d1b5209b9f7
-ATSV Saarbrücken,2000 m Lauf,Jakob,Delwing,2001,"7:51,19",M12,20.04.2013,Piesbach,9,False,66a3682b27d23b6128d1064847f39002a6416caf1501a2149e6ef7fd95525cd9
+ATSV Saarbrücken,2000 m Lauf,Jacob,Delwing,2001,"7:51,19",M12,20.04.2013,Piesbach,9,False,7ce37a9e163406448871e706c3b418d5c0e2b2d3fd1a4c0bbd222f33cc709d8f
 SV Schlau.Com Saar 05 SBR.,2000 m Lauf,Tom,Niesporek,2001,"7:52,57",M12,31.08.2013,Saarbrücken,10,False,7f6bca6fe373879885df2422b0d56736a51239ff1ffee44824c4f00d10e7a9d4
 LG Saar 70,5 km Str.,Paul,Honecker,2001,20:20,M12,22.09.2013,Hilbringen,1,False,63c9e8a0d084627dc746744d79361b0c1b8cf5f759c84325d87ba2330231cd93
 LG Saar 70,5 km Str.,Philipp,Oehling,2001,20:22,M12,22.09.2013,Hilbringen,2,False,a68d3aaf50f30e9586174c451f9247a65315b2c87c9236ac0b56a381710b1d21
 LAZ Saarbrücken,5 km Str.,Fynn,Mengele,2001,20:31,M12,14.12.2013,Ottweiler,3,False,6f67add94302a46e2cb848a8ad17f2a9103c9e3872d194034ddb463060a1a36f
 LAZ Saarbrücken,5 km Str.,Nils,Raab,2001,20:33,M12,31.12.2013,Trier,4,False,80755971bc18fda3e0454a440add7f1a4eea95167dbfa2da8530099604a21f5a
 LAZ Saarbrücken,5 km Str.,Malte Laurin,Schuh,2001,20:46,M12,31.12.2013,Trier,5,False,feb6c9e72dac4c9e801bfae5c35935526289668fce723f39a571adb3c2b2e1c3
-ATSV Saarbrücken,5 km Str.,Jakob,Delwing,2001,21:27,M12,29.09.2013,Saarlouis,6,False,66a3682b27d23b6128d1064847f39002a6416caf1501a2149e6ef7fd95525cd9
+ATSV Saarbrücken,5 km Str.,Jacob,Delwing,2001,21:27,M12,29.09.2013,Saarlouis,6,False,7ce37a9e163406448871e706c3b418d5c0e2b2d3fd1a4c0bbd222f33cc709d8f
 Tri-Sport/Saar-Hochwald,5 km Str.,Noah,Thösen,2001,21:36,M12,31.12.2013,Trier,7,False,0bf692da19024f3b22cc40ee3d6bc5939564bde974d83ac2e5cb8e27780da12e
 LG Saar 70,5 km Str.,Paul,Jung,2001,21:55,M12,29.09.2013,Saarlouis,8,False,f2ed178b05a9469c56ce51e48f64301acff5105fba4da489f26476b3f04cd243
 TV Limbach,5 km Str.,Lucas,Imbsweiler,2002,21:56,M12,12.09.2013,Homburg,9,False,3d39888978b7c1bff1f71362637521222fd09844bf78a7a9d65a54fbca044e36
@@ -2908,7 +2908,7 @@ TV Saarwellingen,60 m Hürden 0.762m,Jonas,Czapla,2001,"12,85",M12,25.08.2013,St
 SC Friedrichsthal,Hochsprung,Tobias,Hau,2001,"1,44",M12,08.09.2013,Piesbach,1,False,0e0e999bca7aac6fecb05bccd0019f264f1aca49cb789b3b4397999d73c83703
 LG DJK Erbach-SG St. Ingbert,Hochsprung,Robin,Herrmann,2001,"1,40",M12,12.06.2013,Saarbrücken,2,False,294a6ce05bd8688cfb584962a56b7f715b2ec9429f5e6e9988c5213ba7610b65
 TV Homburg,Hochsprung,Jonah,Feindel,2001,"1,40",M12,08.09.2013,Piesbach,3,False,ffe6c89e0501e350008a9b0211a9db8e0ee7c1e58f17c98136ac0acbf9cf8a42
-LG Saar 70,Hochsprung,Jan,Schmitt,2001,"1,35",M12,01.09.2013,Ottweiler,4,False,40356213a700b714a25e08e0779f383ebaf228461de37cb08ff3a8bf0ca3cf22
+LG Saar 70,Hochsprung,Jan Philip,Schmitt,2001,"1,35",M12,01.09.2013,Ottweiler,4,False,07fe804d37098cbd3b6c106a0fd909958cda56414c5ac5b772ff4950b01f7565
 LG Saar 70,Hochsprung,Niels,Diehl,2001,"1,34",M12,21.04.2013,Ottweiler,5,False,5b1ad22e577d9192d6202f0ff68fc1672b354ce763e6a5c3b6d9241436a67c91
 LC Rehlingen,Hochsprung,Tim,Donate,2001,"1,32",M12,11.05.2013,Saarlouis,6,False,6ce61aacfbf106c06ce268d642d735377d6569a7d22c3d75b890737c1c8a1e12
 LC Rehlingen,Hochsprung,Paul,Schläfer,2002,"1,32",M12,31.08.2013,Saarlouis,7,False,85563f3b4a1081f5c9b9c389b021dfd4dc5f600d797bf767b127f473a764da42
@@ -3048,16 +3048,16 @@ LV Merzig,3 x 800 m Staffel,Miriam,Marx,2001,"7:48,22",W13,09.06.2013,St.Wendel,
 LV Merzig,3 x 800 m Staffel,Jamina,Holbach,2000,"7:48,22",W13,09.06.2013,St.Wendel,2,True,ae649468f9955352c814740e59aafe119dfdfbacb37ca18ce199c3d04f63b568
 LV Merzig,3 x 800 m Staffel,Katrin,Marx,2001,"7:48,22",W13,09.06.2013,St.Wendel,2,True,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LC Rehlingen,3 x 800 m Staffel,Michelle,Nitschmann,2000,"8:24,17",W13,09.06.2013,St.Wendel,3,True,51adef80138d5c0d87e5367e7a5da36746cb9db99aaf703eefa90357fec7ebcd
-LC Rehlingen,3 x 800 m Staffel,Lisa-Marie,Wilbois,2001,"8:24,17",W13,09.06.2013,St.Wendel,3,True,e9fdb9bf8bde584bcbd1d7bb32dcf098df12d0273c94206cbf5abe2564d8c999
+LC Rehlingen,3 x 800 m Staffel,Lisa,Wilbois,2001,"8:24,17",W13,09.06.2013,St.Wendel,3,True,b9fffda1ec80afb4b93145fcb28e1f7713b112b60e342951b93c54e5264c6457
 LC Rehlingen,3 x 800 m Staffel,Noémie,Vion,2000,"8:24,17",W13,09.06.2013,St.Wendel,3,True,729ab001a0a5d16469b944c2e65c784e03aa2c5ef7f608c4a8fac29109d4b1a2
 TV Homburg,3 x 800 m Staffel,Dilara,Camyurdu,2001,"8:31,85",W13,09.06.2013,St.Wendel,4,True,f063bfb9bdd0231fd40ebe7316029c4c378e92f9c703201d82808dc36467803b
 TV Homburg,3 x 800 m Staffel,Greta,Panter,2001,"8:31,85",W13,09.06.2013,St.Wendel,4,True,27c2b9aa2ee03852c61c2dea9d0c8e2c9b6148a3d29dfb91d005524400cee83e
 TV Homburg,3 x 800 m Staffel,Ilayda,Camyurdu,2000,"8:31,85",W13,09.06.2013,St.Wendel,4,True,ae7a9548a07706c5ba027b9212a222251cc01357418092aebd15a0673aaa9806
 LC Rehlingen,3 x 800 m Staffel,Mona,Bickelmann,2000,"8:32,40",W13,09.06.2013,St.Wendel,5,True,03085d28217bbd1c297d6a5422f45e2a95da210f6c9d62ca3f79cc8d988e882f
-LC Rehlingen,3 x 800 m Staffel,Annalena,Auweiler,2000,"8:32,40",W13,09.06.2013,St.Wendel,5,True,17c3c6abc67ac4968839d0b8aa4e2196341a68555d0f32b71899c63d82035f7a
+LC Rehlingen,3 x 800 m Staffel,Anna Lena,Auweiler,2000,"8:32,40",W13,09.06.2013,St.Wendel,5,True,06581b80e4ec0b173be6eb4df68429ec927979b1ab02cba2c4d5e7aa14222371
 LC Rehlingen,3 x 800 m Staffel,Annika,Petto,2001,"8:32,40",W13,09.06.2013,St.Wendel,5,True,ec79db20fbf8d1a1a3e5ac0674b268098137da04188fcfd41234734f085380c0
 LG Saar 70,3 x 800 m Staffel,Nicole,Miller,2000,"8:39,26",W13,09.06.2013,St.Wendel,6,True,d9d675285235270ec0ea36c4430e13f3fe8521481e1f59881037ba66b0cc4234
-LG Saar 70,3 x 800 m Staffel,Nele,Broschardt,2002,"8:39,26",W13,09.06.2013,St.Wendel,6,True,b1f97243587f3c48c2644d97785a166b42df56ffe8185d13341f0546940add80
+LG Saar 70,3 x 800 m Staffel,Neele,Broschardt,2002,"8:39,26",W13,09.06.2013,St.Wendel,6,True,aac874c1b4b5118dcf180558cb502aa4c888cee18554fa0af5bd9e6467583374
 LG Saar 70,3 x 800 m Staffel,Paula,Heinz,2000,"8:39,26",W13,09.06.2013,St.Wendel,6,True,e0567501c9a2805b912d19f2fc2a7126989bb85bb73dda648acc5c8aaf66bb5a
 LSG 98 Köllertal,3 x 800 m Staffel,Sophie,Annel,2000,"8:41,13",W13,13.04.2013,Püttlingen,7,True,9110d781066682a780cc7b2248dc93a2db554092c7d1ee42c140843a46a8273d
 LSG 98 Köllertal,3 x 800 m Staffel,Anabel,Motsch,2001,"8:41,13",W13,13.04.2013,Püttlingen,7,True,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
@@ -3175,7 +3175,7 @@ LC Rehlingen,Block Mannschaft,Lara,Latz,2000,10.533,W13,25.08.2013,St.Wendel,1,T
 LC Rehlingen,Block Mannschaft,Carola,Lorang,2001,10.533,W13,25.08.2013,St.Wendel,1,True,53a7d29dc5e5c4f1a5d109f88a221a9cdce83f8540176ca4ae331fa377e22862
 LC Rehlingen,Block Mannschaft,Mona,Bickelmann,2000,10.533,W13,25.08.2013,St.Wendel,1,True,03085d28217bbd1c297d6a5422f45e2a95da210f6c9d62ca3f79cc8d988e882f
 LC Rehlingen,Block Mannschaft,Michelle,Nitschmann,2000,10.533,W13,25.08.2013,St.Wendel,1,True,51adef80138d5c0d87e5367e7a5da36746cb9db99aaf703eefa90357fec7ebcd
-LC Rehlingen,Block Mannschaft,Lisa-Marie,Wilbois,2001,10.533,W13,25.08.2013,St.Wendel,1,True,e9fdb9bf8bde584bcbd1d7bb32dcf098df12d0273c94206cbf5abe2564d8c999
+LC Rehlingen,Block Mannschaft,Lisa,Wilbois,2001,10.533,W13,25.08.2013,St.Wendel,1,True,b9fffda1ec80afb4b93145fcb28e1f7713b112b60e342951b93c54e5264c6457
 LSG 98 Köllertal,Block Mannschaft,Nele,Kaufmann,2000,10.051,W13,25.08.2013,St.Wendel,2,True,d42fd91595e1a7482b33e58bba88f4a05c68f87e857d0030d7035c93e36d8041
 LSG 98 Köllertal,Block Mannschaft,Sally,Speicher,2001,10.051,W13,25.08.2013,St.Wendel,2,True,5ca7eb49808d863bcf411df44ee488f8e5f5dec444756bf3b0948a199c574b6c
 LSG 98 Köllertal,Block Mannschaft,Sophie,Herget,2001,10.051,W13,25.08.2013,St.Wendel,2,True,f2abacd327a237f5582b5981e189ac15184b2476fabd00552c97b9c91fd7fa94
@@ -3205,7 +3205,7 @@ LSG 98 Köllertal,75 m Lauf,Nele,Kaufmann,2000,"10,52",W13,25.08.2013,St.Wendel,
 LAZ Saarbrücken,75 m Lauf,Katharina,Welker,2000,"10,61",W13,10.07.2013,Friedrichsthal,7,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LSG Saarlouis,75 m Lauf,Laura,Reinhardt,2000,"10,62",W13,23.06.2013,Ottweiler,8,False,cef4a0483daf3fc0a17d8a58df161d224caa09457ce659c62946cbad2226b368
 TV Homburg,75 m Lauf,Maxi,Dupre,2000,"10,65",W13,10.07.2013,Friedrichsthal,9,False,76f901637972aec410f5ba1646f3ac84848c04b4991354301f54e9cba92099bf
-LC Rehlingen,75 m Lauf,Annalena,Auweiler,2000,"10,66",W13,31.08.2013,Saarlouis,10,False,17c3c6abc67ac4968839d0b8aa4e2196341a68555d0f32b71899c63d82035f7a
+LC Rehlingen,75 m Lauf,Anna Lena,Auweiler,2000,"10,66",W13,31.08.2013,Saarlouis,10,False,06581b80e4ec0b173be6eb4df68429ec927979b1ab02cba2c4d5e7aa14222371
 LAZ Saarbrücken,800 m Lauf,Katharina,Welker,2000,"2:26,75",W13,04.08.2013,Schifflange/LUX,1,False,2a14bc248d8df8f0b784bfa47a9586c588f82ec9a144304d3cc5b3e2833154ca
 LSG 98 Köllertal,800 m Lauf,Sophie,Annel,2000,"2:31,60",W13,23.06.2013,Ottweiler,2,False,9110d781066682a780cc7b2248dc93a2db554092c7d1ee42c140843a46a8273d
 LAZ Saarbrücken,800 m Lauf,Romina,Kroll,2000,"2:32,41",W13,04.08.2013,Schifflange/LUX,3,False,28377f39d11c426da87c96068b150b294b1e929daca50648af709d4801ef1ba3
@@ -3363,7 +3363,7 @@ LV Merzig,800 m Lauf,Miriam,Marx,2001,"2:36,13",W12,23.06.2013,Ottweiler,2,False
 LAZ Saarbrücken,800 m Lauf,Jana,Berger,2002,"2:39,55",W12,30.06.2013,Kaiserslautern,3,False,5da3e697c1e620a139a5e4377ac1fa57d381c71740afb3aa54a0702b0ae71b43
 LSG 98 Köllertal,800 m Lauf,Anabel,Motsch,2001,"2:42,61",W12,31.08.2013,Saarlouis,4,False,d6f0f42a197ae3ae867643ad5e76e738d7d6592adc57e8a35bc1a68a11f9a1c3
 TuS Ensdorf,800 m Lauf,Svenja,Schumacher,2001,"2:42,77",W12,23.06.2013,Ottweiler,5,False,d4fcea1e02cd55d6a5a44f87b0f00c17f0cbbce29f20d70e458347b2c58a360e
-LC Rehlingen,800 m Lauf,Lisa-Marie,Wilbois,2001,"2:43,17",W12,20.05.2013,Rehlingen,6,False,e9fdb9bf8bde584bcbd1d7bb32dcf098df12d0273c94206cbf5abe2564d8c999
+LC Rehlingen,800 m Lauf,Lisa,Wilbois,2001,"2:43,17",W12,20.05.2013,Rehlingen,6,False,b9fffda1ec80afb4b93145fcb28e1f7713b112b60e342951b93c54e5264c6457
 TV Homburg,800 m Lauf,Dilara,Camyurdu,2001,"2:43,35",W12,07.08.2013,Friedrichsthal,7,False,f063bfb9bdd0231fd40ebe7316029c4c378e92f9c703201d82808dc36467803b
 LAF Merchweiler,800 m Lauf,Joanna,Mauer,2001,"2:45,28",W12,23.06.2013,Ottweiler,8,False,0b0620e112d209d66ddd6bedc2ce05c885de5cb5e93a350c4b3aa6bcb337a564
 LC Rehlingen,800 m Lauf,Annika,Petto,2001,"2:45,88",W12,12.06.2013,Saarbrücken,9,False,ec79db20fbf8d1a1a3e5ac0674b268098137da04188fcfd41234734f085380c0
@@ -3374,7 +3374,7 @@ LAZ Saarbrücken,2000 m Lauf,Jana,Berger,2002,"7:50,24",W12,01.06.2013,Thaleisch
 TuS Ensdorf,2000 m Lauf,Svenja,Schumacher,2001,"8:09,23",W12,20.04.2013,Piesbach,4,False,d4fcea1e02cd55d6a5a44f87b0f00c17f0cbbce29f20d70e458347b2c58a360e
 TV Homburg,2000 m Lauf,Esther,Seitz,2001,"8:10,91",W12,31.08.2013,Saarbrücken,5,False,de88b459d01fcb1afd7df8df7f8f710b19b71e55cd91642c35c95fe4baaab6b3
 TV Homburg,2000 m Lauf,Dilara,Camyurdu,2001,"8:12,90",W12,20.04.2013,Piesbach,6,False,f063bfb9bdd0231fd40ebe7316029c4c378e92f9c703201d82808dc36467803b
-LC Rehlingen,2000 m Lauf,Lisa-Marie,Wilbois,2001,"8:14,08",W12,20.04.2013,Piesbach,7,False,e9fdb9bf8bde584bcbd1d7bb32dcf098df12d0273c94206cbf5abe2564d8c999
+LC Rehlingen,2000 m Lauf,Lisa,Wilbois,2001,"8:14,08",W12,20.04.2013,Piesbach,7,False,b9fffda1ec80afb4b93145fcb28e1f7713b112b60e342951b93c54e5264c6457
 SC Friedrichsthal,2000 m Lauf,Louisa,Flachsland,2001,"8:16,56",W12,20.04.2013,Piesbach,8,False,7e1613afaad8763d60543d8d23773434d99ebc28f1c840f60473d2e5855a7441
 LAF Merchweiler,2000 m Lauf,Julia,Threm,2001,"8:29,96",W12,20.04.2013,Piesbach,9,False,32549b292512fe825478578b4a7f9654ba147d1fcdf1a2fa59f0fe4467847dec
 LC Rehlingen,2000 m Lauf,Tara,Bour,2002,"8:31,51",W12,20.04.2013,Piesbach,10,False,6de82ce81099f790f5e85b8270a6247670978d269b9dd21a07100e0a1d179f86

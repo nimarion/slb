@@ -202,7 +202,7 @@ LV Merzig,Marathon Ma.,Christoph,Werner,1963,10:05:14,M,19.04.2015,St. Wendel,7,
 LV Merzig,Marathon Ma.,Stefan,Müller,1968,10:05:14,M,19.04.2015,St. Wendel,7,True,0e37ef21f72405aa03b11a25746ba147522025f907d86cde8cf8965ebf26e19f
 LLG Wustweiler,Marathon Ma.,Daniel,Weber,1988,10:05:41,M,19.04.2015,St. Wendel,8,True,a23447c7157e7896883aa469405dd889be5ce338d4c1216455fb3ea66a2d7f85
 LLG Wustweiler,Marathon Ma.,Manfred,Busche,1961,10:05:41,M,19.04.2015,St. Wendel,8,True,17d77f181aeb355eead377b63dbd19d465cc4e3cfa3b23b6af312f4eb8192e34
-LLG Wustweiler,Marathon Ma.,Heiko,Scheidt,1950,10:05:41,M,19.04.2015,St. Wendel,8,True,0da113fe1b481ff8f5ae86ab36a35f618de00d77c25ed125edf4d348320096b0
+LLG Wustweiler,Marathon Ma.,Heiko,Scheidt,1983,10:05:41,M,19.04.2015,St. Wendel,8,True,cb6d2d590e6a54fa5a5163d68c9ec53d9c17cce2e2fc9ddb3bdbcc71fbc5f154
 LSG Sbr.-Sulzbachtal,Marathon Ma.,Kilian,Fröhlich,1990,10:06:17,M,25.10.2015,Frankfurt,9,True,6c7ae693bda4b70f3d29d43455bb05adcd0981ebd08d5366c89b8b06203754aa
 LSG Sbr.-Sulzbachtal,Marathon Ma.,Gerald,Reimer,1957,10:06:17,M,25.10.2015,Frankfurt,9,True,bd395d90d71957d03b5572af169b2b4dac6734cd4b2b65f11b03d576428d6421
 LSG Sbr.-Sulzbachtal,Marathon Ma.,Herbert,Paffrath,1950,10:06:17,M,25.10.2015,Frankfurt,9,True,8dafdac1b5119a3582fe289f62a7cce9e6ca41f770b0cbfbd8b8736d1c4fbf7e
@@ -254,7 +254,7 @@ LA Team Saar,4 x 100 m Staffel,Lennart,Korn,1997,"48,30",M,17.05.2015,Stuttgart,
 LA Team Saar,4 x 100 m Staffel,Colin,Schüller,1997,"48,30",M,17.05.2015,Stuttgart,6,True,6fd7cd49c4b6cf90fa77286f9d79dda73e63224cf17c1914c563ec3ffb54f0b2
 LA Team Saar,4 x 100 m Staffel,Marco,Brück,1993,"48,30",M,17.05.2015,Stuttgart,6,True,09b4d37c0d9f7dfb0ae0dfeebce1f06d649df85ebc2dd571d4cfaa99ff69a51a
 LG Saar 70,4 x 100 m Staffel,Frederik,Blaser,1993,"48,57",M,09.05.2015,Ludweiler,7,True,45a101f46613d61db5f7618150ae186eadc7a488bab1cbb58221bd9c0f0791b3
-LG Saar 70,4 x 100 m Staffel,Matthias,Schöne,1990,"48,57",M,09.05.2015,Ludweiler,7,True,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,4 x 100 m Staffel,Matthias,Schmitt,1990,"48,57",M,09.05.2015,Ludweiler,7,True,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LG Saar 70,4 x 100 m Staffel,Lukas,Schöne,1993,"48,57",M,09.05.2015,Ludweiler,7,True,451d1af08fa7ee9e93dd30e84cdca03e44e1a0dd9b8ee3a07dceeceac38355a6
 LG Saar 70,4 x 100 m Staffel,René,Berwanger,1980,"48,57",M,09.05.2015,Ludweiler,7,True,0629a3804427a6a43486509e38782cd6129c26fb851eeaad87e49451d01644a9
 LSG Sbr.-Sulzbachtal,4 x 100 m Staffel,Thomas,Wirbel,1973,"50,53",M,09.05.2015,Ludweiler,8,True,b62a3a69b4357a513a21e8845cc2b9a3413f89314c499c91857b9988bcc1abb8
@@ -317,10 +317,10 @@ LSG Sbr.-Sulzbachtal,3 x 1000 m Staffel,Henok,Tewelde,1995,"9:45,45",M,17.04.201
 LTF Köllertal,3 x 1000 m Staffel,Felix,Schario,1962,"10:56,36",M,17.04.2015,Sulzbach,8,True,71080ffb9db980ade2afd1d13fb6d2142d83ea903fd5cf9123793268080c77d0
 LTF Köllertal,3 x 1000 m Staffel,Jörg,Latz,1964,"10:56,36",M,17.04.2015,Sulzbach,8,True,43965bc113dbbe5055a7499deae2c9df104108a316e12ba2b068a0d6690394e0
 LTF Köllertal,3 x 1000 m Staffel,Hans,Reimann,1955,"10:56,36",M,17.04.2015,Sulzbach,8,True,d9902b3f4ba59553cb9c33726c4c310e42c3018ec73d09250c4e744a4a8ca89d
-TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider,1947,2:00:51,M,19.04.2015,Naumburg,1,False,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,20km Str.Gehen,Rainer,Lorscheider Dr.,1947,2:00:51,M,19.04.2015,Naumburg,1,False,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,20km Str.Gehen,Stefan,Nißl,1959,2:09:45,M,19.04.2015,Naumburg,2,False,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,20km Str.Gehen,Christof,Hölle,1964,2:13:28,M,19.04.2015,Naumburg,3,False,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
-TV Ludweiler,20km Str.Gehen Ma.,Rainer,Lorscheider,1947,6:24:04,M,19.04.2015,Naumburg,1,True,391f0b71633bc7ce9ac677018392c0919e31b43fa85d1edbca1f4f699486803d
+TV Ludweiler,20km Str.Gehen Ma.,Rainer,Lorscheider Dr.,1947,6:24:04,M,19.04.2015,Naumburg,1,True,04a2d9f0674bededeb032bb485e0f858e2dd113cceccb9ae1d6eeca253b56f7e
 TV Ludweiler,20km Str.Gehen Ma.,Stefan,Nißl,1959,6:24:04,M,19.04.2015,Naumburg,1,True,7b8d07940b969756cfa23991a4f4c960a718288a9d88c0f8472aaf67fdc2e0ac
 TV Ludweiler,20km Str.Gehen Ma.,Christof,Hölle,1964,6:24:04,M,19.04.2015,Naumburg,1,True,831fecc318a74d9aa445322c408e1ad8d1e55e464fbd88d730832310a18a1132
 SV Schlau.Com Saar 05 SBR.,Hochsprung,Luca,Wieland,1994,"2,05",M,15.05.2015,East Lansing/USA,1,False,aed8cef24038f8ab9737a7990f960f52bc92c4097b0bf0592359e5250f16e0af
@@ -339,7 +339,7 @@ LA Team Saar,Stabhochsprung,Richard,Möcks,1981,"4,45",M,24.06.2015,Forbach/FRA,
 LA Team Saar,Stabhochsprung,Simon,Hechler,1988,"4,25",M,24.06.2015,Forbach/FRA,4,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
 LA Team Saar,Stabhochsprung,Tilman,Neises,1994,"3,70",M,20.06.2015,Rehlingen,5,False,aa4b9babe018bebf617df1fb56dd373da51609c6905b36ec444c038fef8b123b
 LAZ Saarbrücken,Stabhochsprung,Adrian,Fritz,1990,"3,40",M,19.07.2015,Püttlingen,6,False,c0394aac277bf17335423bd14e96de4149bb8f357ac5ddb39274a38bb1b51e8f
-TV Mettlach,Stabhochsprung,Stefan,Mathieu,1960,"3,40",M,06.08.2015,Lyon/FRA,7,False,9a2438dc139385a76f7b8f97d5d774917ce9ada982893786a0d87fe2d9b76b2f
+TV Mettlach,Stabhochsprung,Stephan,Mathieu,1960,"3,40",M,06.08.2015,Lyon/FRA,7,False,9bdaba7a61967ae16ff32f3c88dd65f6d580907dc3fa99097d9e5484674dcc8d
 LAZ Saarbrücken,Stabhochsprung,Bernhard,Lang,1994,"3,20",M,20.06.2015,Rehlingen,8,False,08bf000a0bfff91ed2bfc2b1192de3982d8b1bf4bd72c6bb7b05701beeeddb91
 LAZ Saarbrücken,Stabhochsprung,Martin,Vogel,1959,"3,00",M,20.06.2015,Rehlingen,9,False,e0bcbf25d1c9c92dd0cc008babca881cc6ce62773ef99c966cab1e3d4b05b49e
 LG Bliestal,Stabhochsprung,Sidney-Spike,Tregellis,1994,"2,80",M,19.07.2015,Püttlingen,10,False,9053cf03c175652f947671706412c2126d5a879a8c41fcd9ee262711f20610e3
@@ -351,7 +351,7 @@ TV St. Wendel,Weitsprung,Jonas,Gillen,1990,"6,65",M,13.06.2015,Saarbrücken,5,Fa
 LAZ Saarbrücken,Weitsprung,Adrian,Fritz,1990,"6,49",M,18.07.2015,Püttlingen,6,False,c0394aac277bf17335423bd14e96de4149bb8f357ac5ddb39274a38bb1b51e8f
 LC Rehlingen,Weitsprung,Fabian,Feld,1994,"6,40",M,16.05.2015,Saarlouis,7,False,4795c6ffc9f0a9fbc1ed1836d6e5265f5dd2c4738520c42ecea5b910b29bf827
 LV Merzig,Weitsprung,Thomas,Bleistein,1990,"6,31",M,16.05.2015,Saarlouis,8,False,7e7043a042eddf227dd0f662d937c9f84bb2a0e51fc8500c2983b08eb1ac3c83
-LG Saar 70,Weitsprung,Matthias,Schöne,1990,"6,28",M,09.05.2015,Ludweiler,9,False,fa4f2aa79140c3079fd0566075f40f21a8ffa5e1671cbc5d3f8586772c5db66c
+LG Saar 70,Weitsprung,Matthias,Schmitt,1990,"6,28",M,09.05.2015,Ludweiler,9,False,cec1ea6c1f2c9ce4e12493af29fadaabcf4f86583caf94c6bd7ef5fc9744816e
 LAZ Saarbrücken,Weitsprung,Matthias,Vogel,1990,"6,23",M,30.05.2015,Püttlingen,10,False,9ea8069b4c4c2a262b0a9a95a7f6ef4087a753fa3d89ce23f66f9229b035ccbb
 TV Dillingen,Dreisprung,Sebastian,Slawik,1987,"13,68",M,21.06.2015,Rehlingen,1,False,1e164074b5e90b5177af58aca6f2554f72dc338ab95052149059183b411bf0f2
 LC Rehlingen,Dreisprung,Jonas,Lotz,1993,"13,48",M,22.08.2015,Rehlingen,2,False,5dd0b51c6eedcbe704a30ad785cf53d21c5042b72fb2fd803a8b111308a996e5
@@ -392,7 +392,7 @@ LC Rehlingen,Hammerwurf 7.26kg,Carsten,Gantner,1976,"36,59",M,05.09.2015,Merzig,
 LC Rehlingen,Hammerwurf 7.26kg,Holger,Hoffmann,1969,"36,45",M,11.07.2015,Haßloch,7,False,5f7e3cbf3d7fd74ee713f71134d1db18cc465081e36ba55e7dc315d7acf5474e
 LA Team Saar,Hammerwurf 7.26kg,Dominic,Mura,1995,"33,33",M,17.05.2015,Stuttgart,8,False,51cd7a02d3391d6c65916d87a74d551005926d40f7843165c8d3d9d473fa4af3
 ATSV Saarbrücken,Hammerwurf 7.26kg,Karl-Heinz,Werner,1960,"29,74",M,13.10.2015,Saarbrücken,9,False,66611e8e4fd2d0433e9a42047cfbecadac167078a68f0b1612e18d3334e9d235
-LAZ Saarbrücken,Hammerwurf 7.26kg,Yanick,Wagner,1993,"29,53",M,11.10.2015,Überherrn-A.,10,False,86ce4a02d62f158afd13ab76daf8462a553f0613c2237e2bea2af45463cf8231
+LAZ Saarbrücken,Hammerwurf 7.26kg,Yannick,Wagner,1993,"29,53",M,11.10.2015,Überherrn-A.,10,False,110559558263c72f23e9aea9fd46ee76f7c1cba7538fb7c53937630298f2a9a0
 SV Schlau.Com Saar 05 SBR.,Speerwurf 800 g,Johannes,Vetter,1993,"85,40",M,31.05.2015,Jena,1,False,34294e6e6fa8ad3c1cf84748fc059c1f97d3b0f7adbc6af9937b9cd0fe8a759a
 SV Schlau.Com Saar 05 SBR.,Speerwurf 800 g,Eric,Uder,1988,"71,00",M,18.07.2015,Achern,2,False,c472ce92923471f2f6df2f299aba24a2dcb39b348fc6aee96a0f5fdc3fd17c6d
 LA Team Saar,Speerwurf 800 g,Simon,Hechler,1988,"59,09",M,17.05.2015,Stuttgart,3,False,5db87e576b330f9bdd6ae1c16aa877c051ef9b281e94bf9c67a432164d15e024
@@ -1674,10 +1674,10 @@ TV Homburg,4 x 100 m Staffel,Björn,Ritter,2000,"50,16",M15,23.05.2015,Piesbach,
 TV Homburg,4 x 100 m Staffel,Jonah,Feindel,2001,"50,16",M15,23.05.2015,Piesbach,4,True,ffe6c89e0501e350008a9b0211a9db8e0ee7c1e58f17c98136ac0acbf9cf8a42
 TV Homburg,4 x 100 m Staffel,Maximilian,Reichhart,2000,"50,16",M15,23.05.2015,Piesbach,4,True,f499d1ebdf8c91ad1d17d6021fce93181b35a8c52a5e1d54adf3c9b713064360
 TV Homburg,4 x 100 m Staffel,Jan Hendrik,Bothen,2000,"50,16",M15,23.05.2015,Piesbach,4,True,c28a5e48d1ed5ad583e6e2b79fed041e8c8d4886eef97b7f4521f6b8e1da19bd
-LAZ Saarbrücken,4 x 100 m Staffel,Julian,Laporte,2001,"52,14",M15,23.05.2015,Piesbach,5,True,44482a77b32e43309de2e27dcfe9067ad0963e344f99c5ede4840ed6492da318
+LAZ Saarbrücken,4 x 100 m Staffel,Julien,Laporte,2001,"52,14",M15,23.05.2015,Piesbach,5,True,2425b845e43a4a8c25761abd90e991b1e5d19b7afbfc1daa733bc6adad877431
 LAZ Saarbrücken,4 x 100 m Staffel,Jakob,Rausch,2000,"52,14",M15,23.05.2015,Piesbach,5,True,219d884cb83fd595ef5590cb8e70926543540fbd57e25ffe67169eff59f5ff1a
 LAZ Saarbrücken,4 x 100 m Staffel,Philipp,Kögel,2000,"52,14",M15,23.05.2015,Piesbach,5,True,2f0c95d0773f140ff4098d914a6c537f0b531a2609fea1d467eb22773628db09
-LAZ Saarbrücken,4 x 100 m Staffel,Valentin,Schmitt,2000,"52,14",M15,23.05.2015,Piesbach,5,True,3346683c83bba47dce6de170dcbaa2e783144eff41d0cb846c7c692f1fd1b75d
+LAZ Saarbrücken,4 x 100 m Staffel,Valentin,Schmidt,2000,"52,14",M15,23.05.2015,Piesbach,5,True,e46348e393aabc2b0f2999e52ab0a8dd744fedfc49b8ef4fdbb1fc8b53afb089
 LSG 98 Köllertal,4 x 100 m Staffel,Florian,Knaf,2001,"53,49",M15,06.09.2015,Püttlingen,6,True,ea863de558575ba6e1c170f865e66223d8f51e0ada2e6c6b6058c7070ea8e904
 LSG 98 Köllertal,4 x 100 m Staffel,Luca Bernhard,Kammer,2000,"53,49",M15,06.09.2015,Püttlingen,6,True,0b656251d99f2d1bf848db5ec25722b7bc89a0069292fb7fc3ef712b0a261b41
 LSG 98 Köllertal,4 x 100 m Staffel,Yannick,Prianon,2001,"53,49",M15,06.09.2015,Püttlingen,6,True,43e3196da715f5bc19ec79e88f169513305491c1f46fb83fb334cec2b801cde3
@@ -1757,7 +1757,7 @@ LC Rehlingen,800 m Lauf,Marius,Kneip,2000,"2:10,51",M15,23.07.2015,Saarbrücken,
 LV Merzig,800 m Lauf,Florian,Hoffeld,2000,"2:11,52",M15,05.09.2015,Merzig,3,False,5ac6f82b5daf01f0d6eb7369b62e3605bcebb37ee6ad259202a77f79db9154e4
 LAZ Saarbrücken,800 m Lauf,Juliano Kurt,Frahs Arguello,2000,"2:12,40",M15,14.06.2015,Püttlingen,4,False,344a6b7a549691b438cb10cb82a7e5698d6a112c98aa85b5a7035bf6c00c2590
 SV Schlau.Com Saar 05 SBR.,800 m Lauf,Alex,Oroszi,2000,"2:13,40",M15,21.09.2015,Berlin,5,False,a8e2ca6763314c8a3cdeb49746749b887865c0dded0c87c086da86204ece55b9
-LAZ Saarbrücken,800 m Lauf,Valentin,Schmitt,2000,"2:14,14",M15,14.06.2015,Püttlingen,6,False,3346683c83bba47dce6de170dcbaa2e783144eff41d0cb846c7c692f1fd1b75d
+LAZ Saarbrücken,800 m Lauf,Valentin,Schmidt,2000,"2:14,14",M15,14.06.2015,Püttlingen,6,False,e46348e393aabc2b0f2999e52ab0a8dd744fedfc49b8ef4fdbb1fc8b53afb089
 ATSV Saarbrücken,800 m Lauf,Adrian,Gutschow,2000,"2:14,43",M15,14.06.2015,Püttlingen,7,False,d3cb6943650404d130c6d543d41cc7b048f22412a7d89dc2133b41d360bbdea4
 LC Rehlingen,800 m Lauf,Michel,Ludewig,2000,"2:16,18",M15,25.05.2015,Rehlingen,8,False,8273abfc719594b4c4ad9def5250378614e554ce9d43a4a5cf4dd2c9314326dd
 LC Rehlingen,800 m Lauf,Simon,Altmeyer,2000,"2:17,19",M15,25.05.2015,Rehlingen,9,False,a762f25669a5f49eb651e2eb8e499d63cf05e5be98d3f3b72a5be732acd9d903
@@ -2178,7 +2178,7 @@ LV Merzig,7-Kampf Ma.,Miriam,Marx,2001,9.209,W15,18.08.2015,Püttlingen,3,True,e
 LV Merzig,7-Kampf Ma.,Annika,Petto,2001,9.209,W15,18.08.2015,Püttlingen,3,True,ec79db20fbf8d1a1a3e5ac0674b268098137da04188fcfd41234734f085380c0
 LC Rehlingen,7-Kampf Ma.,Svenja,Schumacher,2001,9.088,W15,18.08.2015,Püttlingen,4,True,d4fcea1e02cd55d6a5a44f87b0f00c17f0cbbce29f20d70e458347b2c58a360e
 LC Rehlingen,7-Kampf Ma.,Kristin,Stickdorn,2000,9.088,W15,18.08.2015,Püttlingen,4,True,b527e6ab8b39bf29979f66f3f642411817b838fcd0effcbb8f4a4ac779ebe757
-LC Rehlingen,7-Kampf Ma.,Lisa-Marie,Wilbois,2001,9.088,W15,18.08.2015,Püttlingen,4,True,e9fdb9bf8bde584bcbd1d7bb32dcf098df12d0273c94206cbf5abe2564d8c999
+LC Rehlingen,7-Kampf Ma.,Lisa,Wilbois,2001,9.088,W15,18.08.2015,Püttlingen,4,True,b9fffda1ec80afb4b93145fcb28e1f7713b112b60e342951b93c54e5264c6457
 TV Homburg,7-Kampf Ma.,Ilayda,Camyurdu,2000,8.755,W15,18.08.2015,Püttlingen,5,True,ae7a9548a07706c5ba027b9212a222251cc01357418092aebd15a0673aaa9806
 TV Homburg,7-Kampf Ma.,Maxi,Düpre,2000,8.755,W15,18.08.2015,Püttlingen,5,True,bf48548db13ce6ec45a05d6711e067fbebfac90e80c00fd6af095b3047b7e3c3
 TV Homburg,7-Kampf Ma.,Kathrin,Kalinger,2000,8.755,W15,18.08.2015,Püttlingen,5,True,52d333e645c15969865abbf96f68551153a7bb9c64c5d4376274c6634169cc1a
@@ -2489,7 +2489,7 @@ TV Germania 1910 Piesbach,Diskuswurf 1 kg,Elisa,Stenglein,2001,"18,17",W14,10.10
 LSG Sbr.-Sulzbachtal,Diskuswurf 1 kg,Dana,Müller,2001,"17,52",W14,31.05.2015,Ludweiler,9,False,93964f15a53eb326fc61881b3094046829a0b97e504f68317c3103c5330e5578
 LG Saar 70,Diskuswurf 1 kg,Janina,Triesch,2001,"16,79",W14,29.06.2015,Ottweiler,10,False,47cef11a63d2fb12d05ac0eff33d8ba6797ba4a8d80d65231b1a85651710286a
 LV Merzig,Hammerwurf 3 kg,Magdalena,Behr,2001,"41,96",W14,20.06.2015,Ensdorf,1,False,23fd96258ed3ad48bc23051a825ff560177cd57cbefe94fa5eeae2f005e5efa2
-LAC Saarlouis,Hammerwurf 3 kg,Lorena-Chiara,Hessling,2002,"31,82",W14,08.11.2015,Nussdorf,2,False,a4517e0b0534e475d66fd49299fe3adf47f1b6cfa5a42a61bd240efdaba4a0fb
+LAC Saarlouis,Hammerwurf 3 kg,Lorena,Hessling,2002,"31,82",W14,08.11.2015,Nussdorf,2,False,ae84bc6284876ae3a1730ea4ae188a8a1896efd96532db5b30b63e7182dffc6b
 LG Saar 70,Hammerwurf 3 kg,Jule,Woll,2001,"24,26",W14,10.10.2015,Überherrn-A.,3,False,e3aba03c32207b72dd5a50624c483fb5a3f4ab0996376186fe601af1ab3fe2de
 LSG Sbr.-Sulzbachtal,Hammerwurf 3 kg,Dana,Müller,2001,"16,29",W14,13.06.2015,Püttlingen,4,False,93964f15a53eb326fc61881b3094046829a0b97e504f68317c3103c5330e5578
 LG Saar 70,Speerwurf 500 g,Jule,Woll,2001,"40,66",W14,17.10.2015,Püttlingen,1,False,e3aba03c32207b72dd5a50624c483fb5a3f4ab0996376186fe601af1ab3fe2de
@@ -2563,7 +2563,7 @@ LC Rehlingen,4 x 75 m Staffel,Fabrizio,Mattina,2002,"42,86",M13,14.06.2015,Pütt
 LC Rehlingen,4 x 75 m Staffel,Paul,Schläfer,2002,"42,86",M13,14.06.2015,Püttlingen,1,True,85563f3b4a1081f5c9b9c389b021dfd4dc5f600d797bf767b127f473a764da42
 LG Saar 70,4 x 75 m Staffel,Luca,Bourquin,2004,"43,34",M13,14.06.2015,Püttlingen,2,True,6452b521b450bf094be93d49157ddc10b1220746ebd50a4a80b0e02d8bee31a0
 LG Saar 70,4 x 75 m Staffel,Luca,Fischer,2002,"43,34",M13,14.06.2015,Püttlingen,2,True,6bd27601112c0566aa8f25e7a85578090ec7ac060fdeeaf28c86af71390a8b0e
-LG Saar 70,4 x 75 m Staffel,Simon,Gross,2003,"43,34",M13,14.06.2015,Püttlingen,2,True,7d2d8a447dcc2106edfd5a0e23f07506882b854eb0925b084e5f0173e5cc75c5
+LG Saar 70,4 x 75 m Staffel,Simon,Groß,2003,"43,34",M13,14.06.2015,Püttlingen,2,True,e196c1e6a48f4e40467c31e6c9c6eed13446e1821587dc76812cdcf984b411e8
 LG Saar 70,4 x 75 m Staffel,Erwin,Holzhauser,2002,"43,34",M13,14.06.2015,Püttlingen,2,True,931d4fa9754b0e62a933b333baef1eb9e53f903743c205a5160e05051fc50192
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Joshua,Reitz,2003,"44,53",M13,14.06.2015,Püttlingen,3,True,041ea86d83d647ea96b8eb8da2057aa4fdec359b06f0b0f1276e7fc725c2c504
 LG DJK Erbach-SG St. Ingbert,4 x 75 m Staffel,Marco,Alaimo,2003,"44,53",M13,14.06.2015,Püttlingen,3,True,8ff12e7398d9b73f147e8dfd19a26654d4acd8c67d3042d58419f6ec916b097c
@@ -2641,7 +2641,7 @@ LG Saar 70,4-Kampf Ma.,Erwin,Holzhauser,2002,7.003,M13,28.06.2015,Saarlouis,2,Tr
 LG Saar 70,4-Kampf Ma.,Simon,Mohr,2004,7.003,M13,28.06.2015,Saarlouis,2,True,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
 LG Saar 70,4-Kampf Ma.,Luca,Fischer,2002,7.003,M13,28.06.2015,Saarlouis,2,True,6bd27601112c0566aa8f25e7a85578090ec7ac060fdeeaf28c86af71390a8b0e
 LG Saar 70,4-Kampf Ma.,Luca,Bourquin,2004,7.003,M13,28.06.2015,Saarlouis,2,True,6452b521b450bf094be93d49157ddc10b1220746ebd50a4a80b0e02d8bee31a0
-LG Saar 70,4-Kampf Ma.,Simon,Gross,2003,7.003,M13,28.06.2015,Saarlouis,2,True,7d2d8a447dcc2106edfd5a0e23f07506882b854eb0925b084e5f0173e5cc75c5
+LG Saar 70,4-Kampf Ma.,Simon,Groß,2003,7.003,M13,28.06.2015,Saarlouis,2,True,e196c1e6a48f4e40467c31e6c9c6eed13446e1821587dc76812cdcf984b411e8
 LC Rehlingen,4-Kampf Ma.,Fabrizio,Mattina,2002,6.911,M13,31.05.2015,Dillingen,3,True,a3dfec434214a3a6fc3247c0bb50541893b4693a8dc6f73fe1e82b199653be1e
 LC Rehlingen,4-Kampf Ma.,Paul,Schläfer,2002,6.911,M13,31.05.2015,Dillingen,3,True,85563f3b4a1081f5c9b9c389b021dfd4dc5f600d797bf767b127f473a764da42
 LC Rehlingen,4-Kampf Ma.,Simon,Marion,2003,6.911,M13,31.05.2015,Dillingen,3,True,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
@@ -2837,14 +2837,14 @@ LG Saar 70,75 m Lauf,Luca,Bourquin,2004,"11,09",M12,28.06.2015,Saarlouis,7,False
 TV Elm,75 m Lauf,Julian,Becker,2003,"11,22",M12,14.06.2015,Püttlingen,8,False,411aab3eace70bc831b32fa19a4ff80d033b52742b6307ac5156cb087d33201c
 LG Saar 70,75 m Lauf,Simon,Groß,2003,"11,28",M12,14.06.2015,Püttlingen,9,False,e196c1e6a48f4e40467c31e6c9c6eed13446e1821587dc76812cdcf984b411e8
 SV Schlau.Com Saar 05 SBR.,75 m Lauf,Fabian,Neurohr,2004,"11,38",M12,13.06.2015,Saarbrücken,10,False,6fe101a92dc61270767e9d7922cc9d0683dac7a91090a4ae13c6eca2b0b099fb
-LSG Sbr.-Sulzbachtal,75 m Lauf,Luk Elias,Schmidtpeter,2003,"11,38",M12,14.06.2015,Püttlingen,10,False,a6f6fb0df8d748b9c2f0288af8126a367b579c56b347778b13be4afd33ae4041
+LSG Sbr.-Sulzbachtal,75 m Lauf,Luk,Schmidtpeter,2003,"11,38",M12,14.06.2015,Püttlingen,10,False,7978832ef6419b61ff498f3e6fbb03c9c0ab0bbf149dd3cce5c2fc7fd7229666
 LAZ Saarbrücken,800 m Lauf,Benjamin,Nimako,2003,"2:32,22",M12,18.07.2015,Saarbrücken,1,False,9f199fb6677848b0cf9a66547ec58363d836ede36f251254e61403c3e440253c
 ATSV Saarbrücken,800 m Lauf,Bendakir,Taha,2003,"2:32,76",M12,14.06.2015,Püttlingen,2,False,7556c7a63abe6ad14c6801165d88b208d747541ffaee17901b053104b367cf95
 LG DJK Erbach-SG St. Ingbert,800 m Lauf,Charles,Okai,2003,"2:33,37",M12,14.06.2015,Püttlingen,3,False,e4a67dc9df7a2853f668e64cbe97960e5fa5803bdb687cb64ee83f1e7be5ed4a
 LC Rehlingen,800 m Lauf,Max,Müller,2003,"2:34,35",M12,07.07.2015,Saarbrücken,4,False,ed629e862c62961d40f29598900cf9d7165597cfc78e8450f1bdc8d438c29b7c
 LC Rehlingen,800 m Lauf,Tom,Schönwetter,2003,"2:34,47",M12,14.06.2015,Püttlingen,5,False,000e8bf556a6e612cc0cae8360e4d681e07759ca330f29c222264f40472f3ea9
 TV Ludweiler,800 m Lauf,Tobias,Schmitt,2004,"2:41,35",M12,06.06.2015,Dillingen,6,False,4a815812ac0cea2fac7d6645dd8cdaf6c3c49b517c10d822715807e72d0baf16
-TV Homburg,800 m Lauf,Lukas,Sommer,2004,"2:42,84",M12,18.07.2015,Saarbrücken,7,False,b31d82317abe1b05e300c75d5568ea49fe91ad3c10be1665c02dba84117569ea
+TV Homburg,800 m Lauf,Lucas,Sommer,2004,"2:42,84",M12,18.07.2015,Saarbrücken,7,False,b3d3d9583e20ccaf8d9dffdd5f0c96eed71ce65d504cdff8df95773f3fa61333
 LC Rehlingen,800 m Lauf,Jonas,Klasen,2003,"2:45,65",M12,07.07.2015,Saarbrücken,8,False,eca4b25ea2e37cffc4dbac24fe08fb73435081842b77e047b95d3795b8fbd9e6
 TV Homburg,800 m Lauf,Jonas,Sommer,2004,"2:47,24",M12,18.07.2015,Saarbrücken,9,False,d31d411e4614e4acf95757325539296984cea3f0910f01dac3c3b2c472ba7eb9
 TV St. Wendel,800 m Lauf,Paul Konrad,Bittmann,2003,"2:47,36",M12,31.05.2015,Ottweiler,10,False,e9cd7705e71010ac1e909c740b372637cdbfbd38144d8a05c2f26a3153f60fc5
@@ -2864,14 +2864,14 @@ LC Rehlingen,5 km Str.,Hanno,Wortmann,2003,21:55,M12,31.12.2015,Trier,4,False,26
 LV Merzig,5 km Str.,Kyrill,Quesada,2003,24:05,M12,04.10.2015,Saarlouis,5,False,57652c09005ad946b36ce6c0b713205cf1929f5e8a5d375b817b803482546317
 TV Lebach,5 km Str.,Fabian,Folz,2003,25:53,M12,26.06.2015,Lebach,6,False,a600fee9b4bf303d6136e84732d7267ae073173e04791c8246bc5264aba2d4ce
 LTF Köllertal,5 km Str.,Jason,Corica,2003,25:53,M12,04.10.2015,Saarlouis,7,False,f1722a175dd7c0595d9358b04e86344142850217607a921c879c984f5027f7e5
-LSG Sbr.-Sulzbachtal,5 km Str.,Benjamin,Stumm,2004,26:39,M12,04.10.2015,Saarlouis,8,False,4c2c1a4155796e805afc13a38a26c1a1721c25ac7984452621aafc736e81ce59
+LSG Sbr.-Sulzbachtal,5 km Str.,Benjamin,Stumm,2006,26:39,M12,04.10.2015,Saarlouis,8,False,eb685e390a7c0953a0a40fb6da9cbb320b0d62258196af02dde9d67054b3c377
 LSG Sbr.-Sulzbachtal,5 km Str.,Dominik,Janes,2004,27:42,M12,21.06.2015,Dudweiler,9,False,1fd4ce40be2ba7d28db9eb01085834f43422f52c78d321c92ec15e4187efc5c7
 ATSV Saarbrücken,5 km Str.,Timo,Menzenbach,2004,28:24,M12,04.10.2015,Saarlouis,10,False,5e590a1867c69e9c79e8ff440516c8dc0a342c79e352b294fef3062d7ea42739
 TV St. Wendel,60 m Hürden 0.762m,Nick,Holzhüter,2003,"11,71",M12,14.06.2015,Püttlingen,1,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
 LAC Elm,60 m Hürden 0.762m,Niclas,Tomm,2004,"11,7",M12,02.05.2015,Saarlouis,2,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LC Rehlingen,60 m Hürden 0.762m,Simon,Marion,2003,"12,77",M12,17.05.2015,St.Wendel,3,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 TV St. Wendel,60 m Hürden 0.762m,Paul Konrad,Bittmann,2003,"12,90",M12,14.06.2015,Püttlingen,4,False,e9cd7705e71010ac1e909c740b372637cdbfbd38144d8a05c2f26a3153f60fc5
-LSG Sbr.-Sulzbachtal,60 m Hürden 0.762m,Luk Elias,Schmidtpeter,2003,"13,15",M12,30.05.2015,Püttlingen,5,False,a6f6fb0df8d748b9c2f0288af8126a367b579c56b347778b13be4afd33ae4041
+LSG Sbr.-Sulzbachtal,60 m Hürden 0.762m,Luk,Schmidtpeter,2003,"13,15",M12,30.05.2015,Püttlingen,5,False,7978832ef6419b61ff498f3e6fbb03c9c0ab0bbf149dd3cce5c2fc7fd7229666
 LG DJK Erbach-SG St. Ingbert,60 m Hürden 0.762m,Charles,Okai,2003,"13,32",M12,06.06.2015,Blieskastel,6,False,e4a67dc9df7a2853f668e64cbe97960e5fa5803bdb687cb64ee83f1e7be5ed4a
 TV Elm,60 m Hürden 0.762m,Valentin,Robert,2003,"13,89",M12,17.05.2015,St.Wendel,7,False,d957e1c74d4d34df4963c61a23b79217f2da30841a791918bf516f5bd6566f45
 ATSV Saarbrücken,60 m Hürden 0.762m,Bendakir,Taha,2003,"13,95",M12,17.05.2015,St.Wendel,8,False,7556c7a63abe6ad14c6801165d88b208d747541ffaee17901b053104b367cf95
@@ -2882,7 +2882,7 @@ TV St. Wendel,Hochsprung,Nick,Holzhüter,2003,"1,28",M12,02.05.2015,St.Wendel,2,
 LC Rehlingen,Hochsprung,Simon,Marion,2003,"1,28",M12,28.06.2015,Saarlouis,3,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LAC Elm,Hochsprung,Niclas,Tomm,2004,"1,28",M12,28.06.2015,Saarlouis,4,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LG Saar 70,Hochsprung,Simon,Mohr,2004,"1,24",M12,28.06.2015,Saarlouis,5,False,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
-TV Bliesen,Hochsprung,Lukas,Krause,2003,"1,24",M12,28.06.2015,Saarlouis,6,False,a0685368566382329555140af422e4fadb7422a0999111271d09b07e4c915503
+TV Bliesen,Hochsprung,Lukas,Krauße,2003,"1,24",M12,28.06.2015,Saarlouis,6,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 LG DJK Erbach-SG St. Ingbert,Hochsprung,Marco,Alaimo,2003,"1,24",M12,28.06.2015,Saarlouis,7,False,8ff12e7398d9b73f147e8dfd19a26654d4acd8c67d3042d58419f6ec916b097c
 LV Merzig,Hochsprung,Kilian,Petto,2004,"1,20",M12,31.05.2015,Dillingen,8,False,68e3a4e72d6d7aa79e8ee835363e1a8402ff6364e2de119f840194609f95e2c0
 ATSV Saarbrücken,Hochsprung,Paul,Berberich,2003,"1,20",M12,28.06.2015,Saarlouis,9,False,168e17a0ac66c4ead3a3c8ec7dabbd6eb4285c47845e0e8a907ffd10468a5a24
@@ -2893,7 +2893,7 @@ ATSV Saarbrücken,Weitsprung,Manuel,Lauermann,2003,"4,93",M12,18.07.2015,Saarbr�
 TV St. Wendel,Weitsprung,Nick,Holzhüter,2003,"4,44",M12,31.05.2015,Ottweiler,2,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
 LAC Elm,Weitsprung,Niclas,Tomm,2004,"4,41",M12,02.05.2015,Saarlouis,3,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LG DJK Erbach-SG St. Ingbert,Weitsprung,Charles,Okai,2003,"4,37",M12,06.06.2015,Blieskastel,4,False,e4a67dc9df7a2853f668e64cbe97960e5fa5803bdb687cb64ee83f1e7be5ed4a
-TV Bliesen,Weitsprung,Lukas,Krause,2003,"4,27",M12,28.06.2015,Saarlouis,5,False,a0685368566382329555140af422e4fadb7422a0999111271d09b07e4c915503
+TV Bliesen,Weitsprung,Lukas,Krauße,2003,"4,27",M12,28.06.2015,Saarlouis,5,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 LG Saar 70,Weitsprung,Simon,Mohr,2004,"4,26",M12,28.06.2015,Saarlouis,6,False,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
 LG Saar 70,Weitsprung,Simon,Groß,2003,"4,25",M12,31.05.2015,Ottweiler,7,False,e196c1e6a48f4e40467c31e6c9c6eed13446e1821587dc76812cdcf984b411e8
 LG DJK Erbach-SG St. Ingbert,Weitsprung,Marco,Alaimo,2003,"4,25",M12,06.06.2015,Blieskastel,8,False,8ff12e7398d9b73f147e8dfd19a26654d4acd8c67d3042d58419f6ec916b097c
@@ -2928,15 +2928,15 @@ LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Yannick,Gemenig,2003,"25,71",M12,10.10.2015
 LAC Elm,Speerwurf 400 g,Niclas,Tomm,2004,"24,30",M12,29.09.2015,Elm,4,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LG Saar 70,Speerwurf 400 g,Matthias,Pfeil,2003,"23,75",M12,13.06.2015,Püttlingen,5,False,ec07fc033eef6588d2d77a871b26f9ec44d811904896a20107b14aa4d5a28fa1
 LC Rehlingen,Speerwurf 400 g,Florian,Stickdorn,2003,"22,20",M12,03.10.2015,Diefflen,6,False,1a2fa5e85eed4f031ed94b7104f2833a1d43e2092d1316f2d19e3a2159ab7ff5
-LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Luk Elias,Schmidtpeter,2003,"22,13",M12,31.05.2015,Ludweiler,7,False,a6f6fb0df8d748b9c2f0288af8126a367b579c56b347778b13be4afd33ae4041
-LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Paul,Meiser,2004,"21,58",M12,10.10.2015,Überherrn-A.,8,False,59a29459962e71ae2bd28827f15e16c9a0ad57ed86740d793cb1d03099fd7695
+LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Luk,Schmidtpeter,2003,"22,13",M12,31.05.2015,Ludweiler,7,False,7978832ef6419b61ff498f3e6fbb03c9c0ab0bbf149dd3cce5c2fc7fd7229666
+LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Paul Robin,Meiser,2004,"21,58",M12,10.10.2015,Überherrn-A.,8,False,96096f6a7f6d40004f6a6fa309c99d78ec822b94f228d1d8c128097e35ec3022
 TV St. Wendel,Speerwurf 400 g,Paul Konrad,Bittmann,2003,"21,43",M12,30.05.2015,Ottweiler,9,False,e9cd7705e71010ac1e909c740b372637cdbfbd38144d8a05c2f26a3153f60fc5
 LSG Sbr.-Sulzbachtal,Speerwurf 400 g,Lukas,Zubiller,2004,"21,30",M12,10.10.2015,Überherrn-A.,10,False,086421debaaa086bbe9c5dc2292758624fea6525ea076b9bcb9a6e8b474740d9
 LG Saar 70,Ballwurf 200g,Simon,Mohr,2004,"41,50",M12,09.05.2015,Ludweiler,1,False,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
 LG Saar 70,Ballwurf 200g,Matthias,Pfeil,2003,"41,50",M12,14.06.2015,Püttlingen,2,False,ec07fc033eef6588d2d77a871b26f9ec44d811904896a20107b14aa4d5a28fa1
 LG DJK Erbach-SG St. Ingbert,Ballwurf 200g,Joshua,Reitz,2003,"41,00",M12,14.06.2015,Püttlingen,3,False,041ea86d83d647ea96b8eb8da2057aa4fdec359b06f0b0f1276e7fc725c2c504
 LSG Sbr.-Sulzbachtal,Ballwurf 200g,Yannick,Gemenig,2003,"40,00",M12,14.06.2015,Püttlingen,4,False,520574df4c49690e3ff3c092306ba562196f8b3c741150669a2135be904b4bb5
-TV Bliesen,Ballwurf 200g,Lukas,Krause,2003,"39,00",M12,28.06.2015,Saarlouis,5,False,a0685368566382329555140af422e4fadb7422a0999111271d09b07e4c915503
+TV Bliesen,Ballwurf 200g,Lukas,Krauße,2003,"39,00",M12,28.06.2015,Saarlouis,5,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 LC Rehlingen,Ballwurf 200g,Simon,Marion,2003,"37,00",M12,28.06.2015,Saarlouis,6,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 ATSV Saarbrücken,Ballwurf 200g,Bendakir,Taha,2003,"36,50",M12,28.06.2015,Saarlouis,7,False,7556c7a63abe6ad14c6801165d88b208d747541ffaee17901b053104b367cf95
 TuS Riegelsberg,Ballwurf 200g,Erik,Carl,2003,"36,50",M12,13.09.2015,Rockershausen,8,False,10f75e45f149eb970614aae78abbc20fa7b3555c761ef80d20fd6e22378d2bbd
@@ -2945,7 +2945,7 @@ LSG Sbr.-Sulzbachtal,Ballwurf 200g,Andrej,Pfeil,2003,"35,50",M12,14.06.2015,Püt
 TV St. Wendel,3-Kampf,Nick,Holzhüter,2003,1.139,M12,02.05.2015,St.Wendel,1,False,b3d7ba5ca0730879ebf6830182c55b13f09423914e53544c5ccf7d95e0d8cfe2
 LAC Elm,3-Kampf,Niclas,Tomm,2004,1.132,M12,28.06.2015,Saarlouis,2,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LG Saar 70,3-Kampf,Simon,Mohr,2004,1.109,M12,28.06.2015,Saarlouis,3,False,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
-TV Bliesen,3-Kampf,Lukas,Krause,2003,1.106,M12,28.06.2015,Saarlouis,4,False,a0685368566382329555140af422e4fadb7422a0999111271d09b07e4c915503
+TV Bliesen,3-Kampf,Lukas,Krauße,2003,1.106,M12,28.06.2015,Saarlouis,4,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 LC Rehlingen,3-Kampf,Simon,Marion,2003,1.099,M12,28.06.2015,Saarlouis,5,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LG DJK Erbach-SG St. Ingbert,3-Kampf,Marco,Alaimo,2003,1.067,M12,28.06.2015,Saarlouis,6,False,8ff12e7398d9b73f147e8dfd19a26654d4acd8c67d3042d58419f6ec916b097c
 LG Saar 70,3-Kampf,Luca,Bourquin,2004,1.042,M12,28.06.2015,Saarlouis,7,False,6452b521b450bf094be93d49157ddc10b1220746ebd50a4a80b0e02d8bee31a0
@@ -2956,7 +2956,7 @@ TV St. Wendel,4-Kampf,Nick,Holzhüter,2003,1.501,M12,02.05.2015,St.Wendel,1,Fals
 LAC Elm,4-Kampf,Niclas,Tomm,2004,1.494,M12,28.06.2015,Saarlouis,2,False,9ccdb9595b0b70a985cbb47a7918ffc5a92b8253105dde539164efc793bfbe1c
 LC Rehlingen,4-Kampf,Simon,Marion,2003,1.461,M12,28.06.2015,Saarlouis,3,False,4b55e009a0004f66e061063341adc7b003a6664ca6bef22d1fee5f4809cc1bdf
 LG Saar 70,4-Kampf,Simon,Mohr,2004,1.449,M12,28.06.2015,Saarlouis,4,False,8026f300ee59d6e267ad872d7f9d223eca1b1fad6f0b01380665a07f24319a99
-TV Bliesen,4-Kampf,Lukas,Krause,2003,1.446,M12,28.06.2015,Saarlouis,5,False,a0685368566382329555140af422e4fadb7422a0999111271d09b07e4c915503
+TV Bliesen,4-Kampf,Lukas,Krauße,2003,1.446,M12,28.06.2015,Saarlouis,5,False,305c991cafde1f6e72233136e9993636e3dc83af1615d018ccde484dc9d93818
 LG DJK Erbach-SG St. Ingbert,4-Kampf,Marco,Alaimo,2003,1.407,M12,28.06.2015,Saarlouis,6,False,8ff12e7398d9b73f147e8dfd19a26654d4acd8c67d3042d58419f6ec916b097c
 LG Saar 70,4-Kampf,Luca,Bourquin,2004,1.360,M12,28.06.2015,Saarlouis,7,False,6452b521b450bf094be93d49157ddc10b1220746ebd50a4a80b0e02d8bee31a0
 TV St. Wendel,4-Kampf,Paul Konrad,Bittmann,2003,1.307,M12,02.05.2015,St.Wendel,8,False,e9cd7705e71010ac1e909c740b372637cdbfbd38144d8a05c2f26a3153f60fc5
@@ -3232,7 +3232,7 @@ TV Germania 1910 Piesbach,Diskuswurf 750 g,Yvonne,Maas,2002,"21,45",W13,10.10.20
 LG Saar 70,Diskuswurf 750 g,Neele,Broschardt,2002,"20,07",W13,03.10.2015,Diefflen,8,False,aac874c1b4b5118dcf180558cb502aa4c888cee18554fa0af5bd9e6467583374
 TV Bliesen,Diskuswurf 750 g,Jule,Berlich,2002,"19,22",W13,03.10.2015,Diefflen,9,False,f394b108c067562f49209b2c92ec3fb3066737a556fc9112b80d223e884cc3e2
 LG Saar 70,Diskuswurf 750 g,Vanessa,Gillmann,2002,"17,98",W13,17.05.2015,St.Wendel,10,False,d50ddf405cb3cf3c762d9c382938ced8f4686d3e5d2dd18e9a384873d18c7509
-LAC Saarlouis,Hammerwurf 2 kg,Lorena-Chiara,Hessling,2002,"40,28",W13,10.10.2015,Überherrn-A.,1,False,a4517e0b0534e475d66fd49299fe3adf47f1b6cfa5a42a61bd240efdaba4a0fb
+LAC Saarlouis,Hammerwurf 2 kg,Lorena,Hessling,2002,"40,28",W13,10.10.2015,Überherrn-A.,1,False,ae84bc6284876ae3a1730ea4ae188a8a1896efd96532db5b30b63e7182dffc6b
 LC Rehlingen,Hammerwurf 2 kg,Tara Kristin,Bour,2002,"36,51",W13,05.09.2015,Merzig,2,False,634b2ea39faef8bdb7ba2dc8d5018cf1653352683d736a058911a872a062de80
 LC Rehlingen,Hammerwurf 2 kg,Alexia,Stickdorn,2002,"30,35",W13,05.09.2015,Merzig,3,False,53e41b61ec5ad789a792a26dba090d2ddd6bcc6701cfaec3c8e40d1aa4ef1c88
 TuS 1860 Neunkirchen,Hammerwurf 2 kg,Shari,Heidenmann,2002,"30,28",W13,13.10.2015,Saarbrücken,4,False,5d8bdb5fb486161d95a4baca9c461e5c11082f767d5073ac0b278a1474e005c9
@@ -3315,7 +3315,7 @@ LG DJK Erbach-SG St. Ingbert,75 m Lauf,Alina,Schmitt,2004,"10,99",W12,28.06.2015
 LG Saar 70,75 m Lauf,Paula,Grauvogel,2003,"10,99",W12,29.08.2015,Friedrichsthal,8,False,2efd1bb81392b689f79d60dba9aec35d2dbd859ad659e11f94ddffada0b26f65
 TV Homburg,75 m Lauf,Kristina,Ritter,2003,"11,00",W12,14.06.2015,Püttlingen,9,False,70081f45f4e78f5b7763f14fb26c94cbdb22f66cae8adbe5fb3b119920d404c0
 ATSV Saarbrücken,75 m Lauf,Ella,Neufang,2003,"11,02",W12,14.06.2015,Püttlingen,10,False,41be31a6d67ab3ffc24e1312a45d0280f373b9cb97eb0a1950410368665d8451
-LAZ Saarbrücken,800 m Lauf,Laura,Dick,2003,"2:41,64",W12,18.07.2015,Saarbrücken,1,False,741b0c2e847a6530ee4583eb03eab9e62a4c1dcbe2c7b39742803bd726b9c4d5
+LAZ Saarbrücken,800 m Lauf,Laura Johanna,Dick,2003,"2:41,64",W12,18.07.2015,Saarbrücken,1,False,17230737abf45e247029379e0efcef7ddbe0b332fa4274ef0eaf05a108932ebd
 TV Homburg,800 m Lauf,Kristina,Ritter,2003,"2:42,42",W12,14.06.2015,Püttlingen,2,False,70081f45f4e78f5b7763f14fb26c94cbdb22f66cae8adbe5fb3b119920d404c0
 TV Limbach,800 m Lauf,Katharina,Coen,2003,"2:46,37",W12,18.07.2015,Saarbrücken,3,False,c7b69a0f7b45cbe195343a18e520e6180ea937ed8567a33d5bf1a292d7ed8841
 LSG 98 Köllertal,800 m Lauf,Jana,van Den Driesch,2004,"2:46,94",W12,07.07.2015,Saarbrücken,4,False,d172994f11b4342fc31d49da659fa65136200984e42cf04c7d56d056c1f781fe
@@ -3337,7 +3337,7 @@ TV Limbach,5 km Str.,Katharina,Coen,2003,24:34,W12,31.12.2015,Trier,1,False,c7b6
 ATSV Saarbrücken,5 km Str.,Tosca Muriel,Neuschwander,2003,24:48,W12,04.10.2015,Saarlouis,2,False,e14da860be67b170bc0cc055b3691197490c540b2495eb653c972b27db0b6cab
 ATSV Saarbrücken,5 km Str.,Amelie,Ast,2004,25:36,W12,04.10.2015,Saarlouis,3,False,86cb7b2c9aef410b45f3cd217be93a5e762e331e7790188da1e0b80a52bff382
 ATSV Saarbrücken,5 km Str.,Ella,Neufang,2003,25:37,W12,04.10.2015,Saarlouis,4,False,41be31a6d67ab3ffc24e1312a45d0280f373b9cb97eb0a1950410368665d8451
-ATSV Saarbrücken,5 km Str.,Anna,Surges,2003,25:38,W12,04.10.2015,Saarlouis,5,False,1d7d673cc418c8ba1a29c2582b7e204268fb67a3993c03749c0cf700a269162e
+ATSV Saarbrücken,5 km Str.,Anna Franziska,Surges,2003,25:38,W12,04.10.2015,Saarlouis,5,False,cba3a147ccc4cfceda825e75b63ffac52c1a8a26fab90ed0aeb3ed819928e17d
 ATSV Saarbrücken,5 km Str.,Estelle,Seeliger,2004,26:47,W12,04.10.2015,Saarlouis,6,False,40a1851223ccc4113556cfcf9d2667dfce209e223c0ac524098b0cf721177d26
 LV Merzig,60 m Hürden 0.762m,Leandra,Latz,2003,"11,19",W12,14.06.2015,Püttlingen,1,False,d443dd28db88cbee29aeb3c55dd860416aae88c7aa04333ce8ec710cd415ff03
 ATSV Saarbrücken,60 m Hürden 0.762m,Tosca Muriel,Neuschwander,2003,"11,26",W12,14.06.2015,Püttlingen,2,False,e14da860be67b170bc0cc055b3691197490c540b2495eb653c972b27db0b6cab
