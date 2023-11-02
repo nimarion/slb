@@ -40,3 +40,9 @@ for year in years:
         print(str(year) + ":" + str(len(duplicates)) +
               " Duplikate in der Datenbank")
         print(duplicates[['athleteId', 'date', 'discipline', 'firstname', 'lastname', 'ageGroup']])
+
+    incomplete_firstnames = data[data['firstname'].str.match(r'.*\.$')]
+    if(len(incomplete_firstnames) > 0):
+      print(str(year) + ":" + str(len(incomplete_firstnames)) +
+                  " Athleten mit unvollständigem Vornamen")
+      print(incomplete_firstnames[['athleteId', 'birthyear' , 'club', 'firstname', 'lastname']])

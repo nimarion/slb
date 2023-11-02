@@ -6,10 +6,8 @@ athletes = pd.read_csv('validate/' + str(year) + '/athletes.csv')
 data = pd.read_csv('data/' + str(year) + '.csv')
 
 
-shortest = data[data['firstname'].str.len() > 2]['firstname'].str.len().min()
-
-data['firstname_2letters'] = data['firstname'].str[:shortest]
-athletes['firstname_2letters'] = athletes['firstname'].str[:shortest]
+data['firstname_2letters'] = data['firstname'].str[:1]
+athletes['firstname_2letters'] = athletes['firstname'].str[:1]
 
 merged_data = data.merge(athletes, on=['firstname_2letters', 'lastname', 'club', 'birthyear'])
 
