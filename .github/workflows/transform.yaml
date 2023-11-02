@@ -1,0 +1,35 @@
+name: Parse and transform raw data
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "raw/2023/**"
+  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install Requirements
+        run: pip install pandas bs4
+      - name: Parse and transform data
+        uses: actions/checkout@v4
+      - run: |
+          python parse.py
+          timestamp=$(date -u)
+          cp data/2023.csv data/2023_raw.csv
+          git add data/2023_raw.csv
+          git config user.name Github Action
+          git config user.email actions@github.com
+          git commit -m "parse raw data: ${timestamp}" || exit 0
+          bash transform/transform.sh
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "transform raw data: ${timestamp}" || exit 0
+          git push

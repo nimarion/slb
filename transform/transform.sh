@@ -1,5 +1,5 @@
 #!/bin/bash
-python birthyear.py
-python firstname.py
-python lastname.py
-python athleteId.py
+python transform/birthyear.py
+python transform/firstname.py
+python transform/lastname.py
+python transform/athleteId.py
