@@ -8,6 +8,7 @@ data = pd.read_csv('data/' + str(year) + '.csv')
 data = data.merge(athletes, left_on=['firstname', 'lastname', 'birthyear'], right_on=['firstname', 'lastname', 'birthyear'])
 data = data[data['club_x'] != data['club_y']]
 data = data[~data['club_x'].str.contains('StG')]
+data = data[data.apply(lambda row: row['ageGroup'][0].replace('F', 'W') == row['sex'], axis=1)]
 data.drop(columns=['athleteId', 'sex', 'country', 'result', 'ageGroup', 'date', 'location', 'teamResult'], inplace=True)
 data.rename(columns={'club_x': 'Verein in Bestenliste', 'club_y': 'Verein in Startrecht'}, inplace=True)
 

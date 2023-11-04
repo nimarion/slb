@@ -20,6 +20,7 @@ counted_firstnames = athletes.groupby(['firstname', 'club', 'birthyear', 'lastna
 counted_firstnames.rename(columns={'lastname': 'Possible_Other_LastNames_Count'}, inplace=True)
 filtered_data = filtered_data.merge(counted_firstnames, on=['firstname', 'club', 'birthyear', 'lastname_2letters'], how='left')
 filtered_data = filtered_data[filtered_data['Possible_Other_LastNames_Count'] == 1]
+filtered_data = filtered_data[filtered_data.apply(lambda row: row['ageGroup'][0].replace('F', 'W') == row['sex'], axis=1)]
 
 
 filtered_data = filtered_data.drop('lastname_2letters', axis=1)

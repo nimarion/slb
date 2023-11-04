@@ -22,6 +22,7 @@ wrong_firstname = wrong_firstname.drop('firstname_2letters', axis=1)
 data = data.drop('firstname_2letters', axis=1)
 
 for index, row in wrong_firstname.iterrows():
-    data.loc[(data['firstname'] == row['firstname_x']) & (data['lastname'] == row['lastname']) & (data['club'] == row['club']), 'firstname'] = row['firstname_y']
+    if row['ageGroup'][0].replace('F', 'W') == row['sex']:
+        data.loc[(data['firstname'] == row['firstname_x']) & (data['lastname'] == row['lastname']) & (data['club'] == row['club']), 'firstname'] = row['firstname_y']
 
 data.to_csv('data/' + str(year) + '.csv', index=False)

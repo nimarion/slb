@@ -27,6 +27,7 @@ if(len(birthyear) > 0):
 
 wrong_birthyear = data.merge(athletes, left_on=['firstname', 'lastname', 'club'], right_on=['firstname', 'lastname', 'club'])
 wrong_birthyear = wrong_birthyear[wrong_birthyear['birthyear_x'] != wrong_birthyear['birthyear_y']]
+wrong_birthyear = wrong_birthyear[wrong_birthyear.apply(lambda row: row['ageGroup'][0].replace('F', 'W') == row['sex'], axis=1)]
 wrong_birthyear.drop(columns=['birthyear_x'], inplace=True)
 wrong_birthyear.rename(columns={'birthyear_y': 'birthyear'}, inplace=True)
 
