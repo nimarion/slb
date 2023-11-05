@@ -39,7 +39,7 @@ class LadvBestenliste:
         self.analyse("raw/2023//WJU20.html", "WU20")
         self.analyse("raw/2023//MJU16.html", "M15")
         self.analyse("raw/2023//WJU16.html", "W15")
-        self.analyse("raw/2023//MJU14.html", "W13")
+        self.analyse("raw/2023//MJU14.html", "M13")
         self.analyse("raw/2023//WJU14.html", "W13")
         self.updateTeamPerformances()
         print("Found " + str(len(self.performanceEntries)) + " entries")
