@@ -747,8 +747,8 @@ LLG Wustweiler,Marathon,Maximilian,Gebhard,2000,2:34:30,M,23.04.2023,Hamburg,3,F
 SV GO! Saar 05,Marathon,Dominik,Paul,1992,2:34:51,M,24.09.2023,Berlin,4,False,503491
 LTF Marpingen,Marathon,Samuel,Schu,1993,2:37:40,M,07.05.2023,St. Wendel,5,False,420527
 LC Rehlingen,Marathon,Frederik,Jakob,1996,2:43:12,M,02.04.2023,Paris/FRA,6,False,182198
-LTF Theeltal,Marathon,Fabian,Grill,1993,2:45:52,M,24.09.2023,Berlin,7,False,417373
-LTF Theeltal,Marathon,Thomas,Detzen,1979,2:45:52,M,24.09.2023,Berlin,8,False,416754
+LTF Theeltal,Marathon,Thomas,Detzen,1979,2:45:52,M,24.09.2023,Berlin,7,False,416754
+LTF Theeltal,Marathon,Fabian,Grill,1993,2:45:52,M,24.09.2023,Berlin,8,False,417373
 LC Rehlingen,Marathon,Marc,Schumacher,2002,2:50:03,M,24.09.2023,Berlin,9,False,255215
 LC Rehlingen,Marathon,Joshua,Peter,2002,2:52:34,M,01.10.2023,Köln,10,False,221710
 LTF Marpingen,Marathon,Jörg,Hooß,1964,2:53:02,M,30.06.2023,Marburg,11,False,417869
@@ -757,8 +757,8 @@ LTF Theeltal,Marathon,Mike,Koster,1985,2:55:48,M,24.09.2023,Berlin,13,False,4185
 LSG Schmelz-Hüttersdorf,Marathon,Patrick,Leidinger,1977,2:57:59,M,29.10.2023,Frankfurt,14,False,418740
 LLG Wustweiler,Marathon,Jan,Merz,1996,3:05:36,M,03.09.2023,Münster,15,False,419102
 LTF Theeltal,Marathon,Timo,Maurer,1970,3:05:45,M,24.09.2023,Berlin,16,False,419008
-TV Saarwellingen,Marathon,Torsten,Heck,1966,3:08:45,M,29.10.2023,Frankfurt,17,False,417572
-TV Lebach,Marathon,Manfred,Komenda,1961,3:08:45,M,29.10.2023,Frankfurt,18,False,418463
+TV Lebach,Marathon,Manfred,Komenda,1961,3:08:45,M,29.10.2023,Frankfurt,17,False,418463
+TV Saarwellingen,Marathon,Torsten,Heck,1966,3:08:45,M,29.10.2023,Frankfurt,18,False,417572
 SV GO! Saar 05,Marathon,René,Hammler,1991,3:12:14,M,29.10.2023,Frankfurt,19,False,500534
 LLG Wustweiler,Marathon,Eric,Lorenz,1971,3:13:14,M,12.03.2023,Kandel,20,False,418835
 LC Rehlingen,Marathon,Michael,Henkes,1957,3:13:24,M,07.05.2023,Mainz,21,False,417641
@@ -766,13 +766,13 @@ TV Ludweiler,Marathon,Patrick,Franz,1979,3:13:36,M,05.02.2023,Bad Füssing,22,Fa
 LC Rehlingen,Marathon,Jerome,Peter,2002,3:14:09,M,01.10.2023,Köln,23,False,419579
 LTF Mauschbach,Marathon,Philipp,Sahm,1981,3:14:30,M,07.05.2023,St. Wendel,24,False,420025
 LLG Wustweiler,Marathon,Andreas,Dietz,1985,3:14:51,M,07.05.2023,St. Wendel,25,False,416784
-LC Rehlingen,Marathon,Jörg,Dietrich,1954,3:26:16,M,12.03.2023,Kandel,26,False,416782
-LTF Marpingen,Marathon,Christian,Nesselberger,1973,3:27:47,M,29.10.2023,Frankfurt,27,False,419389
-LAG Saarbrücken,Marathon,Manuel,Kattler,1989,3:29:15,M,29.10.2023,Frankfurt,28,False,418153
-TV Auersmacher,Marathon,Martin,Fischbuch,1975,3:30:20,M,24.09.2023,Berlin,29,False,417037
-LTF Theeltal,Marathon,André,Kronberg,1977,3:30:29,M,29.10.2023,Frankfurt,30,False,418582
-SV GO! Saar 05,Marathon,Michael,Becker,1986,3:30:43,M,23.04.2023,Hamburg,31,False,502005
-SV GO! Saar 05,Marathon,Nihat,Kont,1960,3:32:29,M,29.10.2023,Frankfurt,32,False,418489
+SV GO! Saar 05,Marathon,Nihat,Kont,1960,3:23:33,M,23.04.2023,Hamburg,26,False,418489
+LC Rehlingen,Marathon,Jörg,Dietrich,1954,3:26:16,M,12.03.2023,Kandel,27,False,416782
+LTF Marpingen,Marathon,Christian,Nesselberger,1973,3:27:47,M,29.10.2023,Frankfurt,28,False,419389
+LAG Saarbrücken,Marathon,Manuel,Kattler,1989,3:29:15,M,29.10.2023,Frankfurt,29,False,418153
+TV Auersmacher,Marathon,Martin,Fischbuch,1975,3:30:20,M,24.09.2023,Berlin,30,False,417037
+LTF Theeltal,Marathon,André,Kronberg,1977,3:30:29,M,29.10.2023,Frankfurt,31,False,418582
+SV GO! Saar 05,Marathon,Michael,Becker,1986,3:30:43,M,23.04.2023,Hamburg,32,False,502005
 LA Team Saar,Marathon,Stefan,Hunsicker,1959,3:35:36,M,07.05.2023,St. Wendel,33,False,417907
 LAG Saarbrücken,Marathon,Frank,Görgen,1969,3:39:15,M,29.10.2023,Frankfurt,34,False,460540
 LLG Wustweiler,Marathon,Marc,Wagner,1981,3:43:12,M,07.05.2023,St. Wendel,35,False,421235
@@ -821,18 +821,22 @@ AC Diefflen,4x100 m Staffel,Noah,Schmidt,2006,"48,99",M,14.05.2023,Saarlouis,4,T
 AC Diefflen,4x100 m Staffel,Jan,Fröhlich,2003,"48,99",M,14.05.2023,Saarlouis,4,True,417156
 AC Diefflen,4x100 m Staffel,David,Gamrekeli,2005,"48,99",M,14.05.2023,Saarlouis,4,True,417188
 AC Diefflen,4x100 m Staffel,Jonas,Fröhlich,2006,"48,99",M,14.05.2023,Saarlouis,4,True,417157
-LC Rehlingen,4x100 m Staffel,Jerome,Peter,2002,"52,84",M,11.06.2023,Rehlingen,5,True,419579
-LC Rehlingen,4x100 m Staffel,Simon,Klasen,2001,"52,84",M,11.06.2023,Rehlingen,5,True,418279
-LC Rehlingen,4x100 m Staffel,Joshua,Peter,2002,"52,84",M,11.06.2023,Rehlingen,5,True,221710
-LC Rehlingen,4x100 m Staffel,Marc,Schumacher,2002,"52,84",M,11.06.2023,Rehlingen,5,True,255215
-StG GO! Saar Express,4x100 m Staffel,Gustav,Niemczyk,1957,"57,54",M,08.07.2023,St. Wendel,6,True,419438
-StG GO! Saar Express,4x100 m Staffel,Günter,Rausch,1954,"57,54",M,08.07.2023,St. Wendel,6,True,419781
-StG GO! Saar Express,4x100 m Staffel,Bernhard,Grißmer,1955,"57,54",M,08.07.2023,St. Wendel,6,True,417377
-StG GO! Saar Express,4x100 m Staffel,Dirk,Rheinfrank,1958,"57,54",M,08.07.2023,St. Wendel,6,True,419866
-StG GO! Saar Express,4x100 m Staffel,A.,Buchholz,1939,"79,79",M,16.07.2023,Wittlich,7,True,416524
-StG GO! Saar Express,4x100 m Staffel,I.,Kroker,1941,"79,79",M,16.07.2023,Wittlich,7,True,418580
-StG GO! Saar Express,4x100 m Staffel,R.,Bindel,1942,"79,79",M,16.07.2023,Wittlich,7,True,416301
-StG GO! Saar Express,4x100 m Staffel,Horst,Backes,1939,"79,79",M,16.07.2023,Wittlich,7,True,416027
+LC Rehlingen,4x100 m Staffel,Simon,Harig,2006,"52,29",M,09.05.2023,Rehlingen,5,True,417516
+LC Rehlingen,4x100 m Staffel,Abdullah,Alshekaki,2003,"52,29",M,09.05.2023,Rehlingen,5,True,415905
+LC Rehlingen,4x100 m Staffel,Niklas,Müller,2007,"52,29",M,09.05.2023,Rehlingen,5,True,419303
+LC Rehlingen,4x100 m Staffel,David,Kraus,2002,"52,29",M,09.05.2023,Rehlingen,5,True,160782
+LC Rehlingen,4x100 m Staffel,Jerome,Peter,2002,"52,84",M,11.06.2023,Rehlingen,6,True,419579
+LC Rehlingen,4x100 m Staffel,Simon,Klasen,2001,"52,84",M,11.06.2023,Rehlingen,6,True,418279
+LC Rehlingen,4x100 m Staffel,Joshua,Peter,2002,"52,84",M,11.06.2023,Rehlingen,6,True,221710
+LC Rehlingen,4x100 m Staffel,Marc,Schumacher,2002,"52,84",M,11.06.2023,Rehlingen,6,True,255215
+StG GO! Saar Express,4x100 m Staffel,Gustav,Niemczyk,1957,"57,54",M,08.07.2023,St. Wendel,7,True,419438
+StG GO! Saar Express,4x100 m Staffel,Günter,Rausch,1954,"57,54",M,08.07.2023,St. Wendel,7,True,419781
+StG GO! Saar Express,4x100 m Staffel,Bernhard,Grißmer,1955,"57,54",M,08.07.2023,St. Wendel,7,True,417377
+StG GO! Saar Express,4x100 m Staffel,Dirk,Rheinfrank,1958,"57,54",M,08.07.2023,St. Wendel,7,True,419866
+StG GO! Saar Express,4x100 m Staffel,A.,Buchholz,1939,"79,79",M,16.07.2023,Wittlich,8,True,416524
+StG GO! Saar Express,4x100 m Staffel,I.,Kroker,1941,"79,79",M,16.07.2023,Wittlich,8,True,418580
+StG GO! Saar Express,4x100 m Staffel,R.,Bindel,1942,"79,79",M,16.07.2023,Wittlich,8,True,416301
+StG GO! Saar Express,4x100 m Staffel,Horst,Backes,1939,"79,79",M,16.07.2023,Wittlich,8,True,416027
 LC Rehlingen,4x400 m Staffel,David,Berson,2006,"3:28,41",M,25.06.2023,Ulm,1,True,416244
 LC Rehlingen,4x400 m Staffel,Simon,Marion,2003,"3:28,41",M,25.06.2023,Ulm,1,True,160778
 LC Rehlingen,4x400 m Staffel,Fabian,Schon,1999,"3:28,41",M,25.06.2023,Ulm,1,True,128427
@@ -4535,17 +4539,19 @@ ATSV Saarbrücken,200 m,Luna,Rothfuchs Galan,2007,"25,56",WU18,25.06.2023,Ulm,1,
 TV St. Wendel,200 m,Chiara,Rein,2006,"26,28",WU18,13.07.2023,Saarbrücken,2,False,391192
 LC Rehlingen,200 m,Mathilda,Klein,2008,"26,32",WU18,04.06.2023,Püttlingen,3,False,427591
 TV St. Wendel,200 m,Ann-Kathrin,Berwanger,2006,"28,04",WU18,01.07.2023,Püttlingen,4,False,416249
-TV Bliesen,200 m,Katharina,Demuth,2006,"28,87",WU18,01.07.2023,Püttlingen,5,False,391190
-LV Merzig,200 m,Eva,Pangoup Heuntang,2006,"28,95",WU18,14.05.2023,Saarlouis,6,False,419519
-LAC Saarlouis,200 m,Franka,Bastian,2007,"29,02",WU18,14.05.2023,Saarlouis,7,False,427415
-LSG Sbr.-Sulzbachtal,200 m,Hannah,Jung,2006,"29,20",WU18,13.07.2023,Saarbrücken,8,False,418053
-LSG Schmelz-Hüttersdorf,200 m,Lara-Marie,Jäger,2007,"29,27",WU18,20.07.2023,Saarbrücken,9,False,506875
-TV Bliesen,200 m,Anna,Wagner,2006,"29,69",WU18,01.07.2023,Püttlingen,10,False,391196
-LA Team Saar,200 m,Paula,Heinz,2007,"29,70",WU18,09.05.2023,Rehlingen,11,False,417610
-LV Merzig,200 m,Victoria,Müller,2007,"29,82",WU18,20.07.2023,Saarbrücken,12,False,419330
-SC Friedrichsthal,200 m,Klara,Baumert,2008,"29,89",WU18,29.04.2023,St. Wendel,13,False,416124
-ATSV Saarbrücken,200 m,Lara,Zeiger,2006,"29,92",WU18,20.07.2023,Saarbrücken,14,False,421591
-LC Rehlingen,200 m,Emely,Schneider,2007,"30,45",WU18,09.05.2023,Rehlingen,15,False,420389
+LA Team Saar,200 m,Emilia,Bento,2008,"28,81",WU18,09.05.2023,Rehlingen,5,False,455514
+TV Bliesen,200 m,Katharina,Demuth,2006,"28,87",WU18,01.07.2023,Püttlingen,6,False,391190
+LV Merzig,200 m,Eva,Pangoup Heuntang,2006,"28,95",WU18,14.05.2023,Saarlouis,7,False,419519
+LAC Saarlouis,200 m,Franka,Bastian,2007,"29,02",WU18,14.05.2023,Saarlouis,8,False,427415
+LSG Sbr.-Sulzbachtal,200 m,Hannah,Jung,2006,"29,20",WU18,13.07.2023,Saarbrücken,9,False,418053
+LSG Schmelz-Hüttersdorf,200 m,Lara-Marie,Jäger,2007,"29,27",WU18,20.07.2023,Saarbrücken,10,False,506875
+TV Bliesen,200 m,Anna,Wagner,2006,"29,69",WU18,01.07.2023,Püttlingen,11,False,391196
+LA Team Saar,200 m,Paula,Heinz,2007,"29,70",WU18,09.05.2023,Rehlingen,12,False,417610
+LV Merzig,200 m,Victoria,Müller,2007,"29,82",WU18,20.07.2023,Saarbrücken,13,False,419330
+SC Friedrichsthal,200 m,Klara,Baumert,2008,"29,89",WU18,29.04.2023,St. Wendel,14,False,416124
+ATSV Saarbrücken,200 m,Lara,Zeiger,2006,"29,92",WU18,20.07.2023,Saarbrücken,15,False,421591
+LC Rehlingen,200 m,Emely,Schneider,2007,"30,45",WU18,09.05.2023,Rehlingen,16,False,420389
+LAC Saarlouis,200 m,Helena,Muhs,2008,"32,91",WU18,07.09.2023,Saarlouis,17,False,484320
 TV St. Wendel,400 m,Chiara,Rein,2006,"61,32",WU18,03.08.2023,Friedrichsthal,1,False,391192
 LA Team Saar,400 m,Paula,Heinz,2007,"62,14",WU18,03.06.2023,Püttlingen,2,False,417610
 LC Rehlingen,400 m,Emely,Krieger,2007,"62,68",WU18,03.06.2023,Püttlingen,3,False,418576
