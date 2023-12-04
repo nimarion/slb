@@ -100,8 +100,8 @@ LC Rehlingen,800 m,Niklas,Marion,2002,"2:09,76",M,27.07.2023,Saarbrücken,4,Fals
 LSG Sbr.-Sulzbachtal,800 m,Marc,Schmitt,1972,"2:12,89",M,20.07.2023,Saarbrücken,5,False,420340
 Tri-Sport/Saar-Hochwald,800 m,Benjamin,Lukas,2003,"2:14,33",M,11.06.2023,Rehlingen,6,False,418875
 LC Rehlingen,800 m,Reiner,Zender,1965,"2:14,73",M,08.07.2023,St. Wendel,7,False,224884
-LSG Sbr.-Sulzbachtal,800 m,Hendrik,Tönjes,1986,"2:18,0",M,22.09.2023,Ottweiler,8,False,421078
-TV Ludweiler,800 m,Christoph,Bach,1982,"2:18,5",M,22.09.2023,Ottweiler,9,False,416005
+TV Ludweiler,800 m,Christoph,Bach,1982,"2:17,30",M,10.05.2023,Simmern,8,False,416005
+LSG Sbr.-Sulzbachtal,800 m,Hendrik,Tönjes,1986,"2:18,0",M,22.09.2023,Ottweiler,9,False,421078
 LSG Sbr.-Sulzbachtal,800 m,Martin,Münnich,1976,"2:19,85",M,08.07.2023,St. Wendel,10,False,419350
 LC Rehlingen,800 m,Jean-Marc,Burg,1996,"2:23,70",M,11.06.2023,Rehlingen,11,False,497009
 LSG Sbr.-Sulzbachtal,800 m,Daniel,Gottwald,1991,"2:23,98",M,08.07.2023,St. Wendel,12,False,452772
@@ -222,8 +222,8 @@ LC Rehlingen,5.000 m,Reiner,Zender,1965,"17:48,86",M,10.06.2023,Rehlingen,13,Fal
 SV GO! Saar 05,5.000 m,René,Hammler,1991,"18:13,24",M,13.07.2023,Saarbrücken,14,False,500534
 TV Ludweiler,5.000 m,Christoph,Bach,1982,"18:16,17",M,08.07.2023,St. Wendel,15,False,416005
 LSG Sbr.-Sulzbachtal,5.000 m,Hendrik,Tönjes,1986,"18:16,51",M,13.07.2023,Saarbrücken,16,False,421078
-TV Ludweiler,5.000 m,Patrick,Franz,1979,"18:41,33",M,13.07.2023,Saarbrücken,17,False,417113
-LLG Wustweiler,5.000 m,Bengt,Leibrock,1985,"19:11,70",M,13.07.2023,Saarbrücken,18,False,418736
+LLG Wustweiler,5.000 m,Bengt,Leibrock,1985,"19:11,70",M,13.07.2023,Saarbrücken,17,False,418736
+TV Ludweiler,5.000 m,Patrick,Franz,1979,"19:41,33",M,13.07.2023,Saarbrücken,18,False,417113
 LC Rehlingen,5.000 m,Antonio,Squillace,1970,"19:42,42",M,08.07.2023,St. Wendel,19,False,451894
 nextgendingmad e.V.,5.000 m,Tristan,Schmidt,1998,"19:46,41",M,13.07.2023,Saarbrücken,20,False,531150
 LSG Sbr.-Sulzbachtal,5.000 m,Dirk,Weber-Winter,1976,"19:50,03",M,10.06.2023,Rehlingen,21,False,499408
@@ -416,154 +416,154 @@ LTF Marpingen,5 km Straße Mannschaft,Dirk,Schu,1961,1:11:27,M,23.06.2023,Lebach
 LTF Marpingen,5 km Straße Mannschaft,Thomas,Alles,1967,1:11:27,M,23.06.2023,Lebach,12,True,415898
 LC Rehlingen,10 km Straße,Richard,Ringer,1989,29:23,M,10.09.2023,Bad Liebenzell,1,False,419897
 LC Rehlingen,10 km Straße,Alexander,Bock,1992,30:37,M,10.09.2023,Bad Liebenzell,2,False,416354
-LC Rehlingen,10 km Straße,Philipp,Stief,1991,32:54,M,15.04.2023,Mülheim,3,False,222479
-nextgendingmad e.V.,10 km Straße,Steffen,Justus,1982,32:55,M,16.09.2023,Ottweiler,4,False,526745
-LTF Marpingen,10 km Straße,Samuel,Schu,1993,32:55,M,11.11.2023,Langsur,5,False,420527
-LSG Sbr.-Sulzbachtal,10 km Straße,Daniel,Rhodes,1993,32:59,M,01.11.2023,Hockenheim,6,False,419867
-LC Rehlingen,10 km Straße,Fabian,Schon,1999,33:30,M,05.03.2023,Leverkusen,7,False,128427
-nextgendingmad e.V.,10 km Straße,Nico,Deckarm,2000,33:31,M,01.10.2023,Saarbrücken,8,False,526287
-LC Rehlingen,10 km Straße,Frederik,Jakob,1996,34:19,M,05.03.2023,Leverkusen,9,False,182198
-LLG Wustweiler,10 km Straße,Philippe,Weingarth,1984,34:23,M,16.09.2023,Ottweiler,10,False,421363
-LSG Sbr.-Sulzbachtal,10 km Straße,Matthias,Müller,1973,34:27,M,05.03.2023,Leverkusen,11,False,419295
-LC Rehlingen,10 km Straße,Thomas,Koch,1983,34:44,M,15.04.2023,Mülheim,12,False,418416
-SV GO! Saar 05,10 km Straße,Mohammed,Rekna,1994,34:47,M,11.11.2023,Langsur,13,False,521562
-SV GO! Saar 05,10 km Straße,Dominik,Paul,1992,35:05,M,21.05.2023,Saarbrücken,14,False,503491
-LAZ Saarbrücken,10 km Straße,Florian,Weyerhäuser,1994,35:06,M,21.05.2023,Saarbrücken,15,False,421446
-LSG Sbr.-Sulzbachtal,10 km Straße,Sacha,Anton,1980,35:11,M,05.03.2023,Leverkusen,16,False,415975
-LSG Sbr.-Sulzbachtal,10 km Straße,Thomas,Weber,1975,35:11,M,11.11.2023,Langsur,17,False,421336
-LTF Theeltal,10 km Straße,Fabian,Grill,1993,35:20,M,07.05.2023,St. Wendel,18,False,417373
-TuS Ormesheim,10 km Straße,Torsten,Jacob,1985,35:27,M,08.10.2023,Föhren,19,False,417945
-LLG Wustweiler,10 km Straße,Giuseppe,Sardo,1990,35:30,M,26.02.2023,St. Wendel,20,False,467251
-nextgendingmad e.V.,10 km Straße,Maximilian,Gebhard,2000,35:48,M,16.09.2023,Ottweiler,21,False,417207
-LSG Schmelz-Hüttersdorf,10 km Straße,Benjamin,Irsch,1983,36:07,M,16.09.2023,Ottweiler,22,False,417931
-LSG Sbr.-Sulzbachtal,10 km Straße,Hendrik,Tönjes,1986,36:42,M,26.02.2023,St. Wendel,23,False,421078
-LTF Theeltal,10 km Straße,Nico,Noss,1992,36:42,M,01.10.2023,Saarbrücken,24,False,419467
-nextgendingmad e.V.,10 km Straße,Luca,Hock,2000,36:58,M,01.10.2023,Saarbrücken,25,False,497327
-LC Rehlingen,10 km Straße,Tobias,Blum,1995,37:12,M,16.09.2023,Ottweiler,26,False,321300
-LC Rehlingen,10 km Straße,Reiner,Zender,1965,37:17,M,15.04.2023,Mülheim,27,False,224884
-TV Ludweiler,10 km Straße,Christoph,Bach,1982,37:21,M,01.11.2023,Hockenheim,28,False,416005
-Athletic Perl,10 km Straße,Markus,Krempchen,1972,37:34,M,05.03.2023,Leverkusen,29,False,418566
-LLG Wustweiler,10 km Straße,Hanno,Blaß,1982,37:51,M,16.09.2023,Ottweiler,30,False,416321
-LC Rehlingen,10 km Straße,Jean-Marc,Burg,1996,38:11,M,23.06.2023,Lebach,31,False,497009
-SV GO! Saar 05,10 km Straße,René,Hammler,1991,38:13,M,16.09.2023,Ottweiler,32,False,500534
-LLG Wustweiler,10 km Straße,Bastian,Jäcker,1985,38:19,M,16.09.2023,Ottweiler,33,False,417941
-LTF Theeltal,10 km Straße,Timo,Maurer,1970,38:25,M,15.04.2023,Mülheim,34,False,419008
-LTF Marpingen,10 km Straße,Ramon,Bernardon,1979,38:25,M,16.09.2023,Ottweiler,35,False,416230
-LTF Marpingen,10 km Straße,Jörg,Hooß,1964,38:27,M,16.09.2023,Ottweiler,36,False,417869
-LA Team Saar,10 km Straße,Timo,Schöndorf,1976,38:39,M,16.09.2023,Ottweiler,37,False,442285
-LSG Sbr.-Sulzbachtal,10 km Straße,Uwe,Trampert,1972,38:46,M,16.09.2023,Ottweiler,38,False,421084
-LLG Wustweiler,10 km Straße,Eric,Lorenz,1971,38:57,M,16.09.2023,Ottweiler,39,False,418835
-LC Rehlingen,10 km Straße,Frank,Hawner,1966,38:59,M,01.10.2023,Saarbrücken,40,False,417564
-LLG Wustweiler,10 km Straße,Markus,Groß,1978,39:18,M,21.05.2023,Saarbrücken,41,False,417395
-LC Rehlingen,10 km Straße,Michael,Wiesen,1981,39:24,M,16.09.2023,Ottweiler,42,False,421460
-Grojos LTF Elversberg,10 km Straße,Stefan,Harig,1970,39:31,M,10.09.2023,Bad Liebenzell,43,False,417517
-LLG Wustweiler,10 km Straße,Christian,Alt,1981,40:02,M,18.03.2023,Schweich,44,False,415909
-LLG Wustweiler,10 km Straße,Bengt,Leibrock,1985,40:14,M,16.09.2023,Ottweiler,45,False,418736
-LLG Wustweiler,10 km Straße,Josef,Werth,1992,40:15,M,16.09.2023,Ottweiler,46,False,534665
-TV Saarwellingen,10 km Straße,Torsten,Heck,1966,40:19,M,16.09.2023,Ottweiler,47,False,417572
-LSG Sbr.-Sulzbachtal,10 km Straße,Markus,Neumann,1987,40:24,M,16.09.2023,Ottweiler,48,False,419406
-VfR Alemannia 1921 Otzenhausen,10 km Straße,John,Colling,1986,40:35,M,16.09.2023,Ottweiler,49,False,416628
-SV GO! Saar 05,10 km Straße,Ulli,Patrick Schweig,1975,40:41,M,26.02.2023,St. Wendel,50,False,420632
-LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Weber-Winter,1976,40:42,M,21.05.2023,Saarbrücken,51,False,499408
-Athletic Perl,10 km Straße,Baraa,Mosattat,1988,41:17,M,16.09.2023,Ottweiler,52,False,484943
-Run 4 Fun Bübingen,10 km Straße,Stephan,Ritter,1965,41:19,M,21.05.2023,Saarbrücken,53,False,419908
-LAG Saarbrücken,10 km Straße,Maximilian,Müller,1986,41:21,M,21.05.2023,Saarbrücken,54,False,469374
-TV Ludweiler,10 km Straße,Patrick,Franz,1979,41:33,M,21.05.2023,Saarbrücken,55,False,417113
-Grojos LTF Elversberg,10 km Straße,Alexander,Lüdemann,1982,41:38,M,26.08.2023,Limbach,56,False,418865
-LLG Wustweiler,10 km Straße,Marc,Wagner,1981,41:39,M,01.10.2023,Saarbrücken,57,False,421235
-LC Rehlingen,10 km Straße,Michael,Henkes,1957,41:59,M,21.05.2023,Saarbrücken,58,False,417641
-LA Team Saar,10 km Straße,Matthias,Kahnert,1984,41:59,M,01.10.2023,Saarbrücken,59,False,418097
-LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Blasius,1969,42:02,M,21.05.2023,Saarbrücken,60,False,416325
-LC Rehlingen,10 km Straße,Antonio,Squillace,1970,42:02,M,01.10.2023,Saarbrücken,61,False,451894
-LAG Saarbrücken,10 km Straße,Lasse,Geerdts,2002,42:03,M,01.10.2023,Saarbrücken,62,False,417217
-HartfüßlerTrail e.V.,10 km Straße,Jan,Kuhn,1980,42:05,M,01.10.2023,Saarbrücken,63,False,418612
-LA Team Saar,10 km Straße,Daniel,Stodden,1977,42:10,M,16.09.2023,Ottweiler,64,False,474680
-Grojos LTF Elversberg,10 km Straße,Domenic,Theobald,1989,42:12,M,01.10.2023,Saarbrücken,65,False,421014
-VfA Neunkirchen,10 km Straße,Volker,Ostheimer,1968,42:30,M,16.09.2023,Ottweiler,66,False,419506
-LLG Wustweiler,10 km Straße,Jonathan,Anschütz,1994,42:41,M,14.10.2023,Illingen,67,False,415969
-LSG Schmelz-Hüttersdorf,10 km Straße,Jan,Thewes,2002,42:42,M,23.06.2023,Lebach,68,False,421022
-LLG Wustweiler,10 km Straße,Stefan,Weber,1965,42:47,M,16.09.2023,Ottweiler,69,False,421333
-SV GO! Saar 05,10 km Straße,Michael,Becker,1986,42:53,M,21.05.2023,Saarbrücken,70,False,502005
-SV GO! Saar 05,10 km Straße,Nihat,Kont,1960,42:55,M,21.05.2023,Saarbrücken,71,False,418489
-LAG Saarbrücken,10 km Straße,Manuel,Kattler,1989,42:58,M,23.06.2023,Lebach,72,False,418153
-LA Team Saar,10 km Straße,Stefan,Hunsicker,1959,43:06,M,26.08.2023,Limbach,73,False,417907
-LAG Saarbrücken,10 km Straße,Markus,Sauer,1965,43:19,M,14.10.2023,Coesfeld,74,False,420059
-Grojos LTF Elversberg,10 km Straße,Stefan,Nieweling,1965,43:30,M,14.10.2023,Illingen,75,False,419443
-LLG Wustweiler,10 km Straße,Necdet,Dolmis,1987,43:38,M,16.09.2023,Ottweiler,76,False,416811
-LSG Sbr.-Sulzbachtal,10 km Straße,Thomas,Schmidt,1960,43:47,M,10.09.2023,Bad Liebenzell,77,False,420299
-Grojos LTF Elversberg,10 km Straße,Joachim,Groß,1965,43:50,M,14.10.2023,Illingen,78,False,417389
-LC Rehlingen,10 km Straße,Jörg,Dietrich,1954,43:51,M,05.03.2023,Leverkusen,79,False,416782
-LLG Wustweiler,10 km Straße,Eric,Wappner,1992,44:02,M,16.09.2023,Ottweiler,80,False,475803
-LLG Wustweiler,10 km Straße,Christian,Entinger,1977,44:29,M,11.11.2023,Langsur,81,False,535770
-Run 4 Fun Bübingen,10 km Straße,Armin,Schwambach,1968,44:32,M,21.05.2023,Saarbrücken,82,False,420598
-LTF Rennschnecke Dudweiler,10 km Straße,Jörg,Weber,1967,44:51,M,21.05.2023,Saarbrücken,83,False,421315
-LTF Theeltal,10 km Straße,André,Kronberg,1977,45:09,M,26.08.2023,Limbach,84,False,418582
-LLG Wustweiler,10 km Straße,Stefan,Klein,1976,45:21,M,07.05.2023,St. Wendel,85,False,418352
-LC Rehlingen,10 km Straße,Norbert,Baldauf,1969,45:43,M,26.08.2023,Limbach,86,False,416042
-LSG Sbr.-Sulzbachtal,10 km Straße,Andreas,Vonerden,1976,45:49,M,21.05.2023,Saarbrücken,87,False,421203
-LAG Saarbrücken,10 km Straße,Christoph,Lunkenheimer,1961,45:52,M,21.05.2023,Saarbrücken,88,False,418879
-LAG Saarbrücken,10 km Straße,Cyrille,Faivre,1969,46:08,M,21.05.2023,Saarbrücken,89,False,502986
-TV 1886 Bexbach,10 km Straße,Franz,Huether,1952,46:08,M,01.10.2023,Saarbrücken,90,False,417904
-LTF Marpingen,10 km Straße,Dirk,Schu,1961,46:09,M,26.02.2023,St. Wendel,91,False,420524
-Tri-Sport/Saar-Hochwald,10 km Straße,Adrien,Guinemer,1983,46:10,M,21.05.2023,Saarbrücken,92,False,417435
-LSG Sbr.-Sulzbachtal,10 km Straße,Christian,Steckmann,1973,46:10,M,21.05.2023,Saarbrücken,93,False,494533
-LTF Marpingen,10 km Straße,Martin,Recktenwald,1974,46:19,M,14.10.2023,Illingen,94,False,528621
-LA Team Saar,10 km Straße,Andreas,Hauck,1965,46:23,M,01.10.2023,Saarbrücken,95,False,474679
-LLG Wustweiler,10 km Straße,Heiko,Scheidt,1983,46:32,M,14.10.2023,Illingen,96,False,420146
-LTF Theeltal,10 km Straße,Thomas,Morgott,1972,46:35,M,23.06.2023,Lebach,97,False,419204
-LTF Theeltal,10 km Straße,Sascha,Kammer,1980,46:42,M,18.03.2023,Schweich,98,False,418119
-LLG Wustweiler,10 km Straße,Armin,Schweitzer,1977,46:42,M,16.09.2023,Ottweiler,99,False,533338
-LTF Marpingen,10 km Straße,Franz-Josef,Warschburger,1970,46:43,M,26.02.2023,St. Wendel,100,False,421291
-HartfüßlerTrail e.V.,10 km Straße,Alexander,Kneip,1991,47:07,M,16.09.2023,Ottweiler,101,False,418392
-HartfüßlerTrail e.V.,10 km Straße,Heiko,Maas,1972,47:07,M,16.09.2023,Ottweiler,102,False,418887
-LLG Wustweiler,10 km Straße,Eric,Mildau,1980,47:08,M,16.09.2023,Ottweiler,103,False,533769
-TV Kirkel,10 km Straße,Andreas,Paul,1972,47:09,M,01.10.2023,Saarbrücken,104,False,419531
-TV Lebach,10 km Straße,Udo,Schwinn,1967,47:17,M,16.09.2023,Ottweiler,105,False,420660
-LG Saar 70,10 km Straße,Benjamin,Römeling,1981,47:29,M,16.09.2023,Ottweiler,106,False,534390
-LTF Marpingen,10 km Straße,Markus,Welter,1966,47:30,M,26.02.2023,St. Wendel,107,False,421405
-LTF Marpingen,10 km Straße,Christian,Nesselberger,1973,47:32,M,26.02.2023,St. Wendel,108,False,419389
-TV Auersmacher,10 km Straße,Sebastian,Thiel,1991,47:35,M,01.10.2023,Saarbrücken,109,False,182494
-LA Team Saar,10 km Straße,Thomas,Strobel,1967,47:52,M,26.08.2023,Limbach,110,False,420954
-LC Rehlingen,10 km Straße,Michael,Blank,1964,47:56,M,01.10.2023,Saarbrücken,111,False,416318
-TV Düppenweiler,10 km Straße,Peter,Baldauf,1956,47:58,M,26.08.2023,Limbach,112,False,416043
-VfR Alemannia 1921 Otzenhausen,10 km Straße,Torsten,Hübner,1980,48:00,M,16.09.2023,Ottweiler,113,False,417898
-LTF Theeltal,10 km Straße,Oliver,Ludigs,1972,48:00,M,11.11.2023,Langsur,114,False,418866
-LTF Marpingen,10 km Straße,Thomas,Groß,1965,48:07,M,26.02.2023,St. Wendel,115,False,417403
-LTF Mauschbach,10 km Straße,Franck,Vampouille,1966,48:09,M,07.05.2023,St. Wendel,116,False,421151
-LSG Sbr.-Sulzbachtal,10 km Straße,Jean-Claude,Pas Buchheit,1977,48:32,M,21.05.2023,Saarbrücken,117,False,-3339413
-LLG Wustweiler,10 km Straße,Erhard,Penzek,1957,48:51,M,18.03.2023,Schweich,118,False,419568
-LSG Sbr.-Sulzbachtal,10 km Straße,Stefan,Zubiller,1975,48:57,M,01.11.2023,Hockenheim,119,False,421683
-SV GO! Saar 05,10 km Straße,Michael,Klahm,1969,49:08,M,16.09.2023,Ottweiler,120,False,494452
-LAG Saarbrücken,10 km Straße,Tibor,Csepregi,1962,49:13,M,21.05.2023,Saarbrücken,121,False,416659
-LLG Wustweiler,10 km Straße,Jörg,Dresen,1973,49:17,M,23.06.2023,Lebach,122,False,416848
-LC Rehlingen,10 km Straße,Dietmar,Janke,1951,49:45,M,21.05.2023,Saarbrücken,123,False,504484
-HartfüßlerTrail e.V.,10 km Straße,Kevin,Pankratov,2001,49:51,M,21.05.2023,Saarbrücken,124,False,419520
-LTF Marpingen,10 km Straße,Hans,Grandke,1954,49:53,M,26.02.2023,St. Wendel,125,False,417347
-Run 4 Fun Bübingen,10 km Straße,Rudolf,Hoyler,1957,49:56,M,01.10.2023,Saarbrücken,126,False,417889
-LLG Wustweiler,10 km Straße,Thomas,Rodner,1961,49:57,M,18.03.2023,Schweich,127,False,419919
-LC Rehlingen,10 km Straße,Stefan,Leinenbach,1964,50:06,M,16.09.2023,Ottweiler,128,False,418755
-LAG Saarbrücken,10 km Straße,Andreas,Jahn,1980,50:07,M,16.09.2023,Ottweiler,129,False,417950
-LSG Schmelz-Hüttersdorf,10 km Straße,Dieter,Spurk,1954,50:27,M,16.09.2023,Ottweiler,130,False,420832
-LA Team Saar,10 km Straße,Martin,Schwarz,1966,50:51,M,01.10.2023,Saarbrücken,131,False,497472
-LLG Wustweiler,10 km Straße,Jörg,Kohler,1964,51:01,M,14.10.2023,Illingen,132,False,418441
-LLG Wustweiler,10 km Straße,Alexander,Gindorf,1970,51:04,M,16.09.2023,Ottweiler,133,False,535526
-LTF Köllertal,10 km Straße,Kurt,Dernbecher,1950,51:37,M,16.09.2023,Ottweiler,134,False,416734
-LTF Marpingen,10 km Straße,Stefan,Feller,1968,51:53,M,11.11.2023,Langsur,135,False,417009
-FC LTF Selbach,10 km Straße,Udo,Engstler,1958,52:04,M,07.05.2023,St. Wendel,136,False,416934
-LTF Rennschnecke Dudweiler,10 km Straße,Peter,Rogin,1968,52:08,M,21.05.2023,Saarbrücken,137,False,419922
-TV Rußhütte Saarbrücken,10 km Straße,Roland,Friedrichs,1960,52:10,M,01.10.2023,Saarbrücken,138,False,417138
-HartfüßlerTrail e.V.,10 km Straße,Alexander,Bernard,1994,52:11,M,16.09.2023,Ottweiler,139,False,416221
-LSG Schmelz-Hüttersdorf,10 km Straße,Michael,Neusius,1954,52:19,M,16.09.2023,Ottweiler,140,False,419415
-LAG Saarbrücken,10 km Straße,Thierry,Dupin,1967,52:24,M,21.05.2023,Saarbrücken,141,False,416864
-LTF Rennschnecke Dudweiler,10 km Straße,Olaf,Kettenhofen,1961,53:07,M,21.05.2023,Saarbrücken,142,False,418209
-LLG Wustweiler,10 km Straße,Andreas,Holweck,1977,53:46,M,21.05.2023,Saarbrücken,143,False,417844
-LLG Wustweiler,10 km Straße,Heinz,Schuh,1957,53:50,M,21.05.2023,Saarbrücken,144,False,420539
-LTF Theeltal,10 km Straße,Bernd,Poth,1968,53:58,M,23.06.2023,Lebach,145,False,419690
-LA Team Saar,10 km Straße,Christian,Degel,1970,54:01,M,21.05.2023,Saarbrücken,146,False,474643
-LAG Saarbrücken,10 km Straße,Gerd,Bögel,1958,54:27,M,21.05.2023,Saarbrücken,147,False,468732
-LC Völklingen,10 km Straße,Eckhard,Flierl,1962,54:38,M,14.09.2023,Homburg,148,False,417072
-LAG Saarbrücken,10 km Straße,Albert,Schmidt,1949,55:01,M,01.10.2023,Saarbrücken,149,False,420245
-LAG Saarbrücken,10 km Straße,Jürgen,Tubbesing,1954,55:42,M,21.05.2023,Saarbrücken,150,False,421115
+LSG Sbr.-Sulzbachtal,10 km Straße,Jan,Lukas Becker,1993,31:04,M,03.12.2023,Saarbrücken,3,False,453685
+nextgendingmad e.V.,10 km Straße,Steffen,Justus,1982,31:41,M,03.12.2023,Saarbrücken,4,False,526745
+LC Rehlingen,10 km Straße,Philipp,Stief,1991,32:54,M,15.04.2023,Mülheim,5,False,222479
+LTF Marpingen,10 km Straße,Samuel,Schu,1993,32:55,M,11.11.2023,Langsur,6,False,420527
+LSG Sbr.-Sulzbachtal,10 km Straße,Daniel,Rhodes,1993,32:59,M,01.11.2023,Hockenheim,7,False,419867
+LC Rehlingen,10 km Straße,Fabian,Schon,1999,33:30,M,05.03.2023,Leverkusen,8,False,128427
+nextgendingmad e.V.,10 km Straße,Nico,Deckarm,2000,33:31,M,01.10.2023,Saarbrücken,9,False,526287
+LAZ Saarbrücken,10 km Straße,Florian,Weyerhäuser,1994,33:43,M,03.12.2023,Saarbrücken,10,False,421446
+SV GO! Saar 05,10 km Straße,Mohammed,Rekna,1994,34:12,M,03.12.2023,Saarbrücken,11,False,521562
+LC Rehlingen,10 km Straße,Frederik,Jakob,1996,34:19,M,05.03.2023,Leverkusen,12,False,182198
+LLG Wustweiler,10 km Straße,Philippe,Weingarth,1984,34:23,M,16.09.2023,Ottweiler,13,False,421363
+LSG Sbr.-Sulzbachtal,10 km Straße,Matthias,Müller,1973,34:27,M,05.03.2023,Leverkusen,14,False,419295
+LC Rehlingen,10 km Straße,Thomas,Koch,1983,34:44,M,15.04.2023,Mülheim,15,False,418416
+nextgendingmad e.V.,10 km Straße,Paul,Weindl,1999,34:45,M,03.12.2023,Saarbrücken,16,False,421358
+SV GO! Saar 05,10 km Straße,Dominik,Paul,1992,35:05,M,21.05.2023,Saarbrücken,17,False,503491
+LSG Sbr.-Sulzbachtal,10 km Straße,Sacha,Anton,1980,35:11,M,05.03.2023,Leverkusen,18,False,415975
+LSG Sbr.-Sulzbachtal,10 km Straße,Thomas,Weber,1975,35:11,M,11.11.2023,Langsur,19,False,421336
+TuS Ormesheim,10 km Straße,Torsten,Jacob,1985,35:15,M,03.12.2023,Saarbrücken,20,False,417945
+LTF Theeltal,10 km Straße,Fabian,Grill,1993,35:20,M,07.05.2023,St. Wendel,21,False,417373
+LLG Wustweiler,10 km Straße,Giuseppe,Sardo,1990,35:30,M,26.02.2023,St. Wendel,22,False,467251
+nextgendingmad e.V.,10 km Straße,Maximilian,Gebhard,2000,35:48,M,16.09.2023,Ottweiler,23,False,417207
+LSG Schmelz-Hüttersdorf,10 km Straße,Benjamin,Irsch,1983,36:07,M,16.09.2023,Ottweiler,24,False,417931
+LSG Sbr.-Sulzbachtal,10 km Straße,Hendrik,Tönjes,1986,36:42,M,26.02.2023,St. Wendel,25,False,421078
+LTF Theeltal,10 km Straße,Nico,Noss,1992,36:42,M,01.10.2023,Saarbrücken,26,False,419467
+nextgendingmad e.V.,10 km Straße,Johannes,Ertle,1999,36:55,M,03.12.2023,Saarbrücken,27,False,528933
+nextgendingmad e.V.,10 km Straße,Luca,Hock,2000,36:58,M,01.10.2023,Saarbrücken,28,False,497327
+LC Rehlingen,10 km Straße,Tobias,Blum,1995,37:12,M,16.09.2023,Ottweiler,29,False,321300
+LC Rehlingen,10 km Straße,Reiner,Zender,1965,37:17,M,15.04.2023,Mülheim,30,False,224884
+TV Ludweiler,10 km Straße,Christoph,Bach,1982,37:21,M,01.11.2023,Hockenheim,31,False,416005
+TuS Ormesheim,10 km Straße,Carsten,Hoffmann,1980,37:26,M,03.12.2023,Saarbrücken,32,False,471913
+Athletic Perl,10 km Straße,Markus,Krempchen,1972,37:34,M,05.03.2023,Leverkusen,33,False,418566
+LLG Wustweiler,10 km Straße,Hanno,Blaß,1982,37:51,M,16.09.2023,Ottweiler,34,False,416321
+SV GO! Saar 05,10 km Straße,René,Hammler,1991,38:09,M,03.12.2023,Saarbrücken,35,False,500534
+LA Team Saar,10 km Straße,Timo,Schöndorf,1976,38:10,M,03.12.2023,Saarbrücken,36,False,442285
+LC Rehlingen,10 km Straße,Jean-Marc,Burg,1996,38:11,M,23.06.2023,Lebach,37,False,497009
+LLG Wustweiler,10 km Straße,Bastian,Jäcker,1985,38:19,M,16.09.2023,Ottweiler,38,False,417941
+LTF Theeltal,10 km Straße,Timo,Maurer,1970,38:25,M,15.04.2023,Mülheim,39,False,419008
+LTF Marpingen,10 km Straße,Ramon,Bernardon,1979,38:25,M,16.09.2023,Ottweiler,40,False,416230
+LTF Marpingen,10 km Straße,Jörg,Hooß,1964,38:27,M,16.09.2023,Ottweiler,41,False,417869
+LC Rehlingen,10 km Straße,Alexander,Zeiner,1981,38:36,M,03.12.2023,Saarbrücken,42,False,421592
+LSG Sbr.-Sulzbachtal,10 km Straße,Uwe,Trampert,1972,38:46,M,16.09.2023,Ottweiler,43,False,421084
+LLG Wustweiler,10 km Straße,Eric,Lorenz,1971,38:57,M,16.09.2023,Ottweiler,44,False,418835
+LC Rehlingen,10 km Straße,Frank,Hawner,1966,38:59,M,01.10.2023,Saarbrücken,45,False,417564
+LLG Wustweiler,10 km Straße,Bengt,Leibrock,1985,39:08,M,03.12.2023,Saarbrücken,46,False,418736
+TV Saarwellingen,10 km Straße,Torsten,Heck,1966,39:10,M,03.12.2023,Saarbrücken,47,False,417572
+LA Team Saar,10 km Straße,Tobias,Nagel,1992,39:13,M,03.12.2023,Saarbrücken,48,False,534750
+LLG Wustweiler,10 km Straße,Markus,Groß,1978,39:18,M,21.05.2023,Saarbrücken,49,False,417395
+LC Rehlingen,10 km Straße,Michael,Wiesen,1981,39:24,M,16.09.2023,Ottweiler,50,False,421460
+Grojos LTF Elversberg,10 km Straße,Stefan,Harig,1970,39:31,M,10.09.2023,Bad Liebenzell,51,False,417517
+LSG Schmelz-Hüttersdorf,10 km Straße,Dominic,Jung,1983,39:32,M,03.12.2023,Saarbrücken,52,False,-3363635
+LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Weber-Winter,1976,39:38,M,03.12.2023,Saarbrücken,53,False,499408
+LA Team Saar,10 km Straße,Daniel,Stodden,1977,39:45,M,03.12.2023,Saarbrücken,54,False,474680
+LLG Wustweiler,10 km Straße,Christian,Alt,1981,40:02,M,18.03.2023,Schweich,55,False,415909
+LLG Wustweiler,10 km Straße,Josef,Werth,1992,40:15,M,16.09.2023,Ottweiler,56,False,534665
+TV Elm,10 km Straße,Frank,Altmeier,1973,40:21,M,03.12.2023,Saarbrücken,57,False,415918
+LSG Sbr.-Sulzbachtal,10 km Straße,Markus,Neumann,1987,40:24,M,16.09.2023,Ottweiler,58,False,419406
+VfR Alemannia 1921 Otzenhausen,10 km Straße,John,Colling,1986,40:35,M,16.09.2023,Ottweiler,59,False,416628
+SV GO! Saar 05,10 km Straße,Ulli,Patrick Schweig,1975,40:41,M,26.02.2023,St. Wendel,60,False,420632
+TV Ludweiler,10 km Straße,Patrick,Franz,1979,41:00,M,03.12.2023,Saarbrücken,61,False,417113
+LAG Saarbrücken,10 km Straße,Manuel,Kattler,1989,41:04,M,03.12.2023,Saarbrücken,62,False,418153
+Athletic Perl,10 km Straße,Baraa,Mosattat,1988,41:17,M,16.09.2023,Ottweiler,63,False,484943
+Run 4 Fun Bübingen,10 km Straße,Stephan,Ritter,1965,41:19,M,21.05.2023,Saarbrücken,64,False,419908
+LAG Saarbrücken,10 km Straße,Maximilian,Müller,1986,41:21,M,21.05.2023,Saarbrücken,65,False,469374
+LC Rehlingen,10 km Straße,Antonio,Squillace,1970,41:24,M,03.12.2023,Saarbrücken,66,False,451894
+LTF Theeltal,10 km Straße,André,Kronberg,1977,41:25,M,03.12.2023,Saarbrücken,67,False,418582
+Grojos LTF Elversberg,10 km Straße,Alexander,Lüdemann,1982,41:38,M,26.08.2023,Limbach,68,False,418865
+LLG Wustweiler,10 km Straße,Marc,Wagner,1981,41:39,M,01.10.2023,Saarbrücken,69,False,421235
+LC Rehlingen,10 km Straße,Michael,Henkes,1957,41:59,M,21.05.2023,Saarbrücken,70,False,417641
+LA Team Saar,10 km Straße,Matthias,Kahnert,1984,41:59,M,01.10.2023,Saarbrücken,71,False,418097
+LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Blasius,1969,42:02,M,21.05.2023,Saarbrücken,72,False,416325
+LAG Saarbrücken,10 km Straße,Lasse,Geerdts,2002,42:03,M,01.10.2023,Saarbrücken,73,False,417217
+HartfüßlerTrail e.V.,10 km Straße,Jan,Kuhn,1980,42:05,M,01.10.2023,Saarbrücken,74,False,418612
+Grojos LTF Elversberg,10 km Straße,Domenic,Theobald,1989,42:12,M,01.10.2023,Saarbrücken,75,False,421014
+VfA Neunkirchen,10 km Straße,Volker,Ostheimer,1968,42:30,M,16.09.2023,Ottweiler,76,False,419506
+LLG Wustweiler,10 km Straße,Jonathan,Anschütz,1994,42:41,M,14.10.2023,Illingen,77,False,415969
+LSG Schmelz-Hüttersdorf,10 km Straße,Jan,Thewes,2002,42:42,M,23.06.2023,Lebach,78,False,421022
+SV GO! Saar 05,10 km Straße,Nihat,Kont,1960,42:44,M,03.12.2023,Saarbrücken,79,False,418489
+LLG Wustweiler,10 km Straße,Stefan,Weber,1965,42:47,M,16.09.2023,Ottweiler,80,False,421333
+SV GO! Saar 05,10 km Straße,Michael,Becker,1986,42:53,M,21.05.2023,Saarbrücken,81,False,502005
+LC Völklingen,10 km Straße,Robert,Walerus,1975,43:00,M,03.12.2023,Saarbrücken,82,False,421266
+LA Team Saar,10 km Straße,Stefan,Hunsicker,1959,43:06,M,26.08.2023,Limbach,83,False,417907
+LAG Saarbrücken,10 km Straße,Markus,Sauer,1965,43:19,M,14.10.2023,Coesfeld,84,False,420059
+Grojos LTF Elversberg,10 km Straße,Stefan,Nieweling,1965,43:30,M,14.10.2023,Illingen,85,False,419443
+LAG Saarbrücken,10 km Straße,Christoph,Lunkenheimer,1961,43:34,M,03.12.2023,Saarbrücken,86,False,418879
+LLG Wustweiler,10 km Straße,Necdet,Dolmis,1987,43:38,M,16.09.2023,Ottweiler,87,False,416811
+LSG Sbr.-Sulzbachtal,10 km Straße,Thomas,Schmidt,1960,43:47,M,10.09.2023,Bad Liebenzell,88,False,420299
+Grojos LTF Elversberg,10 km Straße,Joachim,Groß,1965,43:50,M,14.10.2023,Illingen,89,False,417389
+LC Rehlingen,10 km Straße,Jörg,Dietrich,1954,43:51,M,05.03.2023,Leverkusen,90,False,416782
+LLG Wustweiler,10 km Straße,Eric,Wappner,1992,44:02,M,16.09.2023,Ottweiler,91,False,475803
+LC Rehlingen,10 km Straße,Kevin,Ballon,1989,44:12,M,03.12.2023,Saarbrücken,92,False,416053
+LTF Rennschnecke Dudweiler,10 km Straße,Jörg,Weber,1967,44:23,M,03.12.2023,Saarbrücken,93,False,421315
+LLG Wustweiler,10 km Straße,Christian,Entinger,1977,44:29,M,11.11.2023,Langsur,94,False,535770
+Run 4 Fun Bübingen,10 km Straße,Armin,Schwambach,1968,44:32,M,21.05.2023,Saarbrücken,95,False,420598
+LLG Wustweiler,10 km Straße,Stefan,Klein,1976,45:21,M,07.05.2023,St. Wendel,96,False,418352
+LTF Theeltal,10 km Straße,Sascha,Kammer,1980,45:41,M,03.12.2023,Saarbrücken,97,False,418119
+LC Rehlingen,10 km Straße,Norbert,Baldauf,1969,45:43,M,26.08.2023,Limbach,98,False,416042
+LA Team Saar,10 km Straße,Thomas,Strobel,1967,45:48,M,03.12.2023,Saarbrücken,99,False,420954
+LSG Sbr.-Sulzbachtal,10 km Straße,Andreas,Vonerden,1976,45:49,M,21.05.2023,Saarbrücken,100,False,421203
+LAG Saarbrücken,10 km Straße,Cyrille,Faivre,1969,46:08,M,21.05.2023,Saarbrücken,101,False,502986
+TV 1886 Bexbach,10 km Straße,Franz,Huether,1952,46:08,M,01.10.2023,Saarbrücken,102,False,417904
+LTF Marpingen,10 km Straße,Dirk,Schu,1961,46:09,M,26.02.2023,St. Wendel,103,False,420524
+Tri-Sport/Saar-Hochwald,10 km Straße,Adrien,Guinemer,1983,46:10,M,21.05.2023,Saarbrücken,104,False,417435
+LSG Sbr.-Sulzbachtal,10 km Straße,Christian,Steckmann,1973,46:10,M,21.05.2023,Saarbrücken,105,False,494533
+LTF Marpingen,10 km Straße,Martin,Recktenwald,1974,46:19,M,14.10.2023,Illingen,106,False,528621
+LA Team Saar,10 km Straße,Andreas,Hauck,1965,46:23,M,01.10.2023,Saarbrücken,107,False,474679
+LC Rehlingen,10 km Straße,Michael,Blank,1964,46:28,M,03.12.2023,Saarbrücken,108,False,416318
+LLG Wustweiler,10 km Straße,Heiko,Scheidt,1983,46:32,M,14.10.2023,Illingen,109,False,420146
+LTF Theeltal,10 km Straße,Thomas,Morgott,1972,46:35,M,23.06.2023,Lebach,110,False,419204
+LLG Wustweiler,10 km Straße,Armin,Schweitzer,1977,46:42,M,16.09.2023,Ottweiler,111,False,533338
+LTF Marpingen,10 km Straße,Franz-Josef,Warschburger,1970,46:43,M,26.02.2023,St. Wendel,112,False,421291
+TV 1886 Bexbach,10 km Straße,Peter,Birtel,1953,47:06,M,03.12.2023,Saarbrücken,113,False,416312
+HartfüßlerTrail e.V.,10 km Straße,Alexander,Kneip,1991,47:07,M,16.09.2023,Ottweiler,114,False,418392
+HartfüßlerTrail e.V.,10 km Straße,Heiko,Maas,1972,47:07,M,16.09.2023,Ottweiler,115,False,418887
+LLG Wustweiler,10 km Straße,Eric,Mildau,1980,47:08,M,16.09.2023,Ottweiler,116,False,533769
+TV Kirkel,10 km Straße,Andreas,Paul,1972,47:09,M,01.10.2023,Saarbrücken,117,False,419531
+LSG Sbr.-Sulzbachtal,10 km Straße,Stefan,Zubiller,1975,47:12,M,03.12.2023,Saarbrücken,118,False,421683
+TV Lebach,10 km Straße,Udo,Schwinn,1967,47:17,M,16.09.2023,Ottweiler,119,False,420660
+LG Saar 70,10 km Straße,Benjamin,Römeling,1981,47:29,M,16.09.2023,Ottweiler,120,False,534390
+LTF Marpingen,10 km Straße,Markus,Welter,1966,47:30,M,26.02.2023,St. Wendel,121,False,421405
+LTF Marpingen,10 km Straße,Christian,Nesselberger,1973,47:32,M,26.02.2023,St. Wendel,122,False,419389
+TV Auersmacher,10 km Straße,Sebastian,Thiel,1991,47:35,M,01.10.2023,Saarbrücken,123,False,182494
+TV Düppenweiler,10 km Straße,Peter,Baldauf,1956,47:58,M,26.08.2023,Limbach,124,False,416043
+VfR Alemannia 1921 Otzenhausen,10 km Straße,Torsten,Hübner,1980,48:00,M,16.09.2023,Ottweiler,125,False,417898
+LTF Theeltal,10 km Straße,Oliver,Ludigs,1972,48:00,M,11.11.2023,Langsur,126,False,418866
+LTF Marpingen,10 km Straße,Thomas,Groß,1965,48:07,M,26.02.2023,St. Wendel,127,False,417403
+LTF Mauschbach,10 km Straße,Franck,Vampouille,1966,48:09,M,07.05.2023,St. Wendel,128,False,421151
+LAG Saarbrücken,10 km Straße,Tibor,Csepregi,1962,48:22,M,03.12.2023,Saarbrücken,129,False,416659
+LSG Sbr.-Sulzbachtal,10 km Straße,Jean-Claude,Pas Buchheit,1977,48:32,M,21.05.2023,Saarbrücken,130,False,-3339413
+LLG Wustweiler,10 km Straße,Erhard,Penzek,1957,48:51,M,18.03.2023,Schweich,131,False,419568
+SV GO! Saar 05,10 km Straße,Michael,Klahm,1969,49:08,M,16.09.2023,Ottweiler,132,False,494452
+LAG Saarbrücken,10 km Straße,Lorenz,Maahs,1966,49:09,M,03.12.2023,Saarbrücken,133,False,504185
+LLG Wustweiler,10 km Straße,Jörg,Dresen,1973,49:17,M,23.06.2023,Lebach,134,False,416848
+LC Rehlingen,10 km Straße,Dietmar,Janke,1951,49:45,M,21.05.2023,Saarbrücken,135,False,504484
+HartfüßlerTrail e.V.,10 km Straße,Kevin,Pankratov,2001,49:51,M,21.05.2023,Saarbrücken,136,False,419520
+LTF Marpingen,10 km Straße,Hans,Grandke,1954,49:53,M,26.02.2023,St. Wendel,137,False,417347
+Run 4 Fun Bübingen,10 km Straße,Rudolf,Hoyler,1957,49:56,M,01.10.2023,Saarbrücken,138,False,417889
+LLG Wustweiler,10 km Straße,Thomas,Rodner,1961,49:57,M,18.03.2023,Schweich,139,False,419919
+LC Rehlingen,10 km Straße,Stefan,Leinenbach,1964,50:06,M,16.09.2023,Ottweiler,140,False,418755
+LAG Saarbrücken,10 km Straße,Andreas,Jahn,1980,50:07,M,16.09.2023,Ottweiler,141,False,417950
+LSG Schmelz-Hüttersdorf,10 km Straße,Dieter,Spurk,1954,50:27,M,16.09.2023,Ottweiler,142,False,420832
+LA Team Saar,10 km Straße,Martin,Schwarz,1966,50:51,M,01.10.2023,Saarbrücken,143,False,497472
+LTF Rennschnecke Dudweiler,10 km Straße,Peter,Rogin,1968,50:57,M,03.12.2023,Saarbrücken,144,False,419922
+LLG Wustweiler,10 km Straße,Jörg,Kohler,1964,51:01,M,14.10.2023,Illingen,145,False,418441
+TV Lebach,10 km Straße,Axel,Alt,1969,51:01,M,03.12.2023,Saarbrücken,146,False,467494
+LLG Wustweiler,10 km Straße,Alexander,Gindorf,1970,51:04,M,16.09.2023,Ottweiler,147,False,535526
+LTF Köllertal,10 km Straße,Kurt,Dernbecher,1950,51:37,M,16.09.2023,Ottweiler,148,False,416734
+LSG Sbr.-Sulzbachtal,10 km Straße,Stefan,Schütz,1984,51:48,M,03.12.2023,Saarbrücken,149,False,533633
+LTF Marpingen,10 km Straße,Stefan,Feller,1968,51:53,M,11.11.2023,Langsur,150,False,417009
 LC Rehlingen,10 km Straße Mannschaft,Richard,Ringer,1989,1:32:31,M,10.09.2023,Bad Liebenzell,1,True,419897
 LC Rehlingen,10 km Straße Mannschaft,Alexander,Bock,1992,1:32:31,M,10.09.2023,Bad Liebenzell,1,True,416354
 LC Rehlingen,10 km Straße Mannschaft,Lennart,Zehfeld,2005,1:32:31,M,10.09.2023,Bad Liebenzell,1,True,421587
@@ -741,7 +741,7 @@ HartfüßlerTrail e.V.,Halbmarathon Mannschaft,Hans,Reimann,1955,5:17:43,M,03.09
 LAG Saarbrücken,Halbmarathon Mannschaft,Manuel,Kattler,1989,5:25:28,M,03.09.2023,Merzig,7,True,418153
 LAG Saarbrücken,Halbmarathon Mannschaft,Tibor,Csepregi,1962,5:25:28,M,03.09.2023,Merzig,7,True,416659
 LAG Saarbrücken,Halbmarathon Mannschaft,Andreas,Jahn,1980,5:25:28,M,03.09.2023,Merzig,7,True,417950
-LC Rehlingen,Marathon,Richard,Ringer,1989,2:08:08,M,23.04.2023,Hamburg,1,False,419897
+LC Rehlingen,Marathon,Richard,Ringer,1989,2:07:04,M,03.12.2023,Valencia/ESP,1,False,419897
 LC Rehlingen,Marathon,Alexander,Bock,1992,2:19:16,M,24.09.2023,Berlin,2,False,416354
 LLG Wustweiler,Marathon,Maximilian,Gebhard,2000,2:34:30,M,23.04.2023,Hamburg,3,False,417207
 SV GO! Saar 05,Marathon,Dominik,Paul,1992,2:34:51,M,24.09.2023,Berlin,4,False,503491
@@ -754,49 +754,50 @@ LC Rehlingen,Marathon,Joshua,Peter,2002,2:52:34,M,01.10.2023,Köln,10,False,2217
 LTF Marpingen,Marathon,Jörg,Hooß,1964,2:53:02,M,30.06.2023,Marburg,11,False,417869
 TuS Ormesheim,Marathon,Carsten,Hoffmann,1980,2:54:52,M,24.09.2023,Berlin,12,False,471913
 LTF Theeltal,Marathon,Mike,Koster,1985,2:55:48,M,24.09.2023,Berlin,13,False,418507
-LSG Schmelz-Hüttersdorf,Marathon,Patrick,Leidinger,1977,2:57:59,M,29.10.2023,Frankfurt,14,False,418740
-LLG Wustweiler,Marathon,Jan,Merz,1996,3:05:36,M,03.09.2023,Münster,15,False,419102
-LTF Theeltal,Marathon,Timo,Maurer,1970,3:05:45,M,24.09.2023,Berlin,16,False,419008
-TV Lebach,Marathon,Manfred,Komenda,1961,3:08:45,M,29.10.2023,Frankfurt,17,False,418463
-TV Saarwellingen,Marathon,Torsten,Heck,1966,3:08:45,M,29.10.2023,Frankfurt,18,False,417572
-SV GO! Saar 05,Marathon,René,Hammler,1991,3:12:14,M,29.10.2023,Frankfurt,19,False,500534
-LLG Wustweiler,Marathon,Eric,Lorenz,1971,3:13:14,M,12.03.2023,Kandel,20,False,418835
-LC Rehlingen,Marathon,Michael,Henkes,1957,3:13:24,M,07.05.2023,Mainz,21,False,417641
-TV Ludweiler,Marathon,Patrick,Franz,1979,3:13:36,M,05.02.2023,Bad Füssing,22,False,417113
-LC Rehlingen,Marathon,Jerome,Peter,2002,3:14:09,M,01.10.2023,Köln,23,False,419579
-LTF Mauschbach,Marathon,Philipp,Sahm,1981,3:14:30,M,07.05.2023,St. Wendel,24,False,420025
-LLG Wustweiler,Marathon,Andreas,Dietz,1985,3:14:51,M,07.05.2023,St. Wendel,25,False,416784
-SV GO! Saar 05,Marathon,Nihat,Kont,1960,3:23:33,M,23.04.2023,Hamburg,26,False,418489
-LC Rehlingen,Marathon,Jörg,Dietrich,1954,3:26:16,M,12.03.2023,Kandel,27,False,416782
-LTF Marpingen,Marathon,Christian,Nesselberger,1973,3:27:47,M,29.10.2023,Frankfurt,28,False,419389
-LAG Saarbrücken,Marathon,Manuel,Kattler,1989,3:29:15,M,29.10.2023,Frankfurt,29,False,418153
-TV Auersmacher,Marathon,Martin,Fischbuch,1975,3:30:20,M,24.09.2023,Berlin,30,False,417037
-LTF Theeltal,Marathon,André,Kronberg,1977,3:30:29,M,29.10.2023,Frankfurt,31,False,418582
-SV GO! Saar 05,Marathon,Michael,Becker,1986,3:30:43,M,23.04.2023,Hamburg,32,False,502005
-LA Team Saar,Marathon,Stefan,Hunsicker,1959,3:35:36,M,07.05.2023,St. Wendel,33,False,417907
-LAG Saarbrücken,Marathon,Frank,Görgen,1969,3:39:15,M,29.10.2023,Frankfurt,34,False,460540
-LLG Wustweiler,Marathon,Marc,Wagner,1981,3:43:12,M,07.05.2023,St. Wendel,35,False,421235
-LLG Wustweiler,Marathon,Heiko,Scheidt,1983,3:44:29,M,12.03.2023,Kandel,36,False,420146
-LAG Saarbrücken,Marathon,Markus,Sauer,1965,3:45:06,M,26.03.2023,Freiburg,37,False,420059
-LLG Wustweiler,Marathon,Bernd,Zimmer,1964,3:45:30,M,07.05.2023,St. Wendel,38,False,421633
-LLG Wustweiler,Marathon,Jörg,Dresen,1973,3:46:46,M,29.10.2023,Frankfurt,39,False,416848
-LTF Theeltal,Marathon,Michael,Groß,1982,3:47:30,M,01.10.2023,Köln,40,False,467304
-LTF Marpingen,Marathon,Martin,Recktenwald,1974,3:49:56,M,29.10.2023,Frankfurt,41,False,528621
-LC Rehlingen,Marathon,Frank,Stopp,1969,3:50:10,M,24.09.2023,Berlin,42,False,420935
-LLG Wustweiler,Marathon,Christian,Entinger,1977,3:50:49,M,29.10.2023,Frankfurt,43,False,535770
-LLG Wustweiler,Marathon,Heinrich,Becker,1961,3:52:06,M,24.09.2023,Berlin,44,False,416158
-TV 1886 Bexbach,Marathon,Peter,Birtel,1953,3:52:58,M,12.03.2023,Kandel,45,False,416312
-LTF Theeltal,Marathon,Thomas,Morgott,1972,3:54:08,M,29.10.2023,Frankfurt,46,False,419204
-LTF Rennschnecke Dudweiler,Marathon,Benjamin,Becker,1988,3:58:00,M,01.10.2023,Köln,47,False,416146
-LTF Theeltal,Marathon,Michael,Kron,1966,3:59:31,M,24.09.2023,Berlin,48,False,529073
-LSG Sbr.-Sulzbachtal,Marathon,Frank,Samsel,1971,4:12:26,M,01.10.2023,Köln,49,False,420038
-LLG Wustweiler,Marathon,Volker,Duckstein,1969,4:13:31,M,07.05.2023,St. Wendel,50,False,416861
-LAG Saarbrücken,Marathon,Cyrille,Faivre,1969,4:22:04,M,26.03.2023,Freiburg,51,False,502986
-LTF Köllertal,Marathon,Kurt,Dernbecher,1950,4:26:54,M,24.09.2023,Berlin,52,False,416734
-LTF Marpingen,Marathon,Stefan,Feller,1968,4:34:35,M,07.05.2023,St. Wendel,53,False,417009
-LAG Saarbrücken,Marathon,Jürgen,Tubbesing,1954,4:38:38,M,26.03.2023,Freiburg,54,False,421115
-LAG Saarbrücken,Marathon,Wolfgang,Paulus,1959,4:53:21,M,26.03.2023,Freiburg,55,False,419551
-LC Völklingen,Marathon,Eckhard,Flierl,1962,5:17:38,M,08.10.2023,München,56,False,417072
+LTF Köllertal,Marathon,Stefan,Thiel,1974,2:57:01,M,08.10.2023,Chicago/USA,14,False,421032
+LSG Schmelz-Hüttersdorf,Marathon,Patrick,Leidinger,1977,2:57:59,M,29.10.2023,Frankfurt,15,False,418740
+SV GO! Saar 05,Marathon,René,Hammler,1991,2:58:24,M,23.04.2023,Hamburg,16,False,500534
+LLG Wustweiler,Marathon,Jan,Merz,1996,3:05:36,M,03.09.2023,Münster,17,False,419102
+LTF Theeltal,Marathon,Timo,Maurer,1970,3:05:45,M,24.09.2023,Berlin,18,False,419008
+TV Lebach,Marathon,Manfred,Komenda,1961,3:08:45,M,29.10.2023,Frankfurt,19,False,418463
+TV Saarwellingen,Marathon,Torsten,Heck,1966,3:08:45,M,29.10.2023,Frankfurt,20,False,417572
+LLG Wustweiler,Marathon,Eric,Lorenz,1971,3:13:14,M,12.03.2023,Kandel,21,False,418835
+LC Rehlingen,Marathon,Michael,Henkes,1957,3:13:24,M,07.05.2023,Mainz,22,False,417641
+TV Ludweiler,Marathon,Patrick,Franz,1979,3:13:36,M,05.02.2023,Bad Füssing,23,False,417113
+LC Rehlingen,Marathon,Jerome,Peter,2002,3:14:09,M,01.10.2023,Köln,24,False,419579
+LTF Mauschbach,Marathon,Philipp,Sahm,1981,3:14:30,M,07.05.2023,St. Wendel,25,False,420025
+LLG Wustweiler,Marathon,Andreas,Dietz,1985,3:14:51,M,07.05.2023,St. Wendel,26,False,416784
+SV GO! Saar 05,Marathon,Nihat,Kont,1960,3:23:33,M,23.04.2023,Hamburg,27,False,418489
+LC Rehlingen,Marathon,Jörg,Dietrich,1954,3:26:16,M,12.03.2023,Kandel,28,False,416782
+LTF Marpingen,Marathon,Christian,Nesselberger,1973,3:27:47,M,29.10.2023,Frankfurt,29,False,419389
+LAG Saarbrücken,Marathon,Manuel,Kattler,1989,3:29:15,M,29.10.2023,Frankfurt,30,False,418153
+TV Auersmacher,Marathon,Martin,Fischbuch,1975,3:30:20,M,24.09.2023,Berlin,31,False,417037
+LTF Theeltal,Marathon,André,Kronberg,1977,3:30:29,M,29.10.2023,Frankfurt,32,False,418582
+SV GO! Saar 05,Marathon,Michael,Becker,1986,3:30:43,M,23.04.2023,Hamburg,33,False,502005
+LA Team Saar,Marathon,Stefan,Hunsicker,1959,3:35:36,M,07.05.2023,St. Wendel,34,False,417907
+LAG Saarbrücken,Marathon,Frank,Görgen,1969,3:39:15,M,29.10.2023,Frankfurt,35,False,460540
+LLG Wustweiler,Marathon,Marc,Wagner,1981,3:43:12,M,07.05.2023,St. Wendel,36,False,421235
+LLG Wustweiler,Marathon,Heiko,Scheidt,1983,3:44:29,M,12.03.2023,Kandel,37,False,420146
+LAG Saarbrücken,Marathon,Markus,Sauer,1965,3:45:06,M,26.03.2023,Freiburg,38,False,420059
+LLG Wustweiler,Marathon,Bernd,Zimmer,1964,3:45:30,M,07.05.2023,St. Wendel,39,False,421633
+LLG Wustweiler,Marathon,Jörg,Dresen,1973,3:46:46,M,29.10.2023,Frankfurt,40,False,416848
+LTF Theeltal,Marathon,Michael,Groß,1982,3:47:30,M,01.10.2023,Köln,41,False,467304
+LTF Marpingen,Marathon,Martin,Recktenwald,1974,3:49:56,M,29.10.2023,Frankfurt,42,False,528621
+LC Rehlingen,Marathon,Frank,Stopp,1969,3:50:10,M,24.09.2023,Berlin,43,False,420935
+LLG Wustweiler,Marathon,Christian,Entinger,1977,3:50:49,M,29.10.2023,Frankfurt,44,False,535770
+LLG Wustweiler,Marathon,Heinrich,Becker,1961,3:52:06,M,24.09.2023,Berlin,45,False,416158
+TV 1886 Bexbach,Marathon,Peter,Birtel,1953,3:52:58,M,12.03.2023,Kandel,46,False,416312
+LTF Theeltal,Marathon,Thomas,Morgott,1972,3:54:08,M,29.10.2023,Frankfurt,47,False,419204
+LTF Rennschnecke Dudweiler,Marathon,Benjamin,Becker,1988,3:58:00,M,01.10.2023,Köln,48,False,416146
+LTF Theeltal,Marathon,Michael,Kron,1966,3:59:31,M,24.09.2023,Berlin,49,False,529073
+LSG Sbr.-Sulzbachtal,Marathon,Frank,Samsel,1971,4:12:26,M,01.10.2023,Köln,50,False,420038
+LLG Wustweiler,Marathon,Volker,Duckstein,1969,4:13:31,M,07.05.2023,St. Wendel,51,False,416861
+LAG Saarbrücken,Marathon,Cyrille,Faivre,1969,4:22:04,M,26.03.2023,Freiburg,52,False,502986
+LTF Köllertal,Marathon,Kurt,Dernbecher,1950,4:26:54,M,24.09.2023,Berlin,53,False,416734
+LTF Marpingen,Marathon,Stefan,Feller,1968,4:34:35,M,07.05.2023,St. Wendel,54,False,417009
+LAG Saarbrücken,Marathon,Jürgen,Tubbesing,1954,4:38:38,M,26.03.2023,Freiburg,55,False,421115
+LAG Saarbrücken,Marathon,Wolfgang,Paulus,1959,4:53:21,M,26.03.2023,Freiburg,56,False,419551
+LC Völklingen,Marathon,Eckhard,Flierl,1962,5:17:38,M,08.10.2023,München,57,False,417072
 LC Rehlingen,50 km Straße,Alexander,Bock,1992,3:04:54,M,15.07.2023,Duisburg,1,False,416354
 SV GO! Saar 05,"110 m Hürden 1,067 m",Alexander,Jung,1999,"14,50",M,13.05.2023,Norman/USA,1,False,418044
 LSG Saarlouis,"110 m Hürden 1,067 m",Rouven,Näckel,1998,"17,43",M,02.07.2023,Püttlingen,2,False,419360
@@ -1221,34 +1222,34 @@ SV GO! Saar 05,10 km Straße,Joelle,Tesche,1978,39:14,F,21.05.2023,Saarbrücken,
 LV Merzig,10 km Straße,Lea,Sanwald,1996,40:12,F,25.06.2023,Trier,10,False,420047
 Grojos LTF Elversberg,10 km Straße,Maike,Müller,1991,41:14,F,26.08.2023,Limbach,11,False,419283
 SV GO! Saar 05,10 km Straße,Katharina,Rausch,1986,41:15,F,11.11.2023,Langsur,12,False,419783
-SV GO! Saar 05,10 km Straße,Ann-Cathrine,Jülch,1989,42:39,F,16.09.2023,Ottweiler,13,False,418041
-LLG Wustweiler,10 km Straße,Michelle,Sträßer,1995,42:43,F,14.10.2023,Illingen,14,False,535988
-LC Rehlingen,10 km Straße,Claudia,Seel,1972,43:09,F,05.03.2023,Leverkusen,15,False,420669
-LA Team Saar,10 km Straße,Franziska,Zimmer-Schönenberger,1973,43:09,F,16.09.2023,Ottweiler,16,False,421659
-LLG Wustweiler,10 km Straße,Stephanie,Dörr,1989,43:12,F,01.10.2023,Saarbrücken,17,False,416831
-LAG Saarbrücken,10 km Straße,Olena,Kuchai,1981,43:24,F,01.10.2023,Saarbrücken,18,False,493313
-LSG Sbr.-Sulzbachtal,10 km Straße,Lisa-Maria,Kipper,1988,43:34,F,26.02.2023,St. Wendel,19,False,418242
-LSG Sbr.-Sulzbachtal,10 km Straße,Nina,Apushkinskaya,1996,43:59,F,21.05.2023,Saarbrücken,20,False,182101
-LTF Theeltal,10 km Straße,Sarah,Kronberg,1986,44:16,F,21.05.2023,Saarbrücken,21,False,418583
-LTF Marpingen,10 km Straße,Klara,Heidenreich,2002,44:20,F,16.09.2023,Ottweiler,22,False,534143
-SV GO! Saar 05,10 km Straße,Heike,Maas,1975,44:28,F,01.10.2023,Saarbrücken,23,False,532483
+SV GO! Saar 05,10 km Straße,Ann-Cathrine,Jülch,1989,41:22,F,03.12.2023,Saarbrücken,13,False,418041
+LLG Wustweiler,10 km Straße,Stephanie,Dörr,1989,41:28,F,03.12.2023,Saarbrücken,14,False,416831
+LA Team Saar,10 km Straße,Franziska,Zimmer-Schönenberger,1973,41:59,F,03.12.2023,Saarbrücken,15,False,421659
+LTF Marpingen,10 km Straße,Klara,Heidenreich,2002,42:07,F,03.12.2023,Saarbrücken,16,False,534143
+LLG Wustweiler,10 km Straße,Michelle,Sträßer,1995,42:43,F,14.10.2023,Illingen,17,False,535988
+LTF Theeltal,10 km Straße,Sarah,Kronberg,1986,43:07,F,03.12.2023,Saarbrücken,18,False,418583
+LC Rehlingen,10 km Straße,Claudia,Seel,1972,43:09,F,05.03.2023,Leverkusen,19,False,420669
+SV GO! Saar 05,10 km Straße,Heike,Maas,1975,43:18,F,03.12.2023,Saarbrücken,20,False,532483
+LAG Saarbrücken,10 km Straße,Olena,Kuchai,1981,43:24,F,01.10.2023,Saarbrücken,21,False,493313
+LSG Sbr.-Sulzbachtal,10 km Straße,Lisa-Maria,Kipper,1988,43:34,F,26.02.2023,St. Wendel,22,False,418242
+LSG Sbr.-Sulzbachtal,10 km Straße,Nina,Apushkinskaya,1996,43:59,F,21.05.2023,Saarbrücken,23,False,182101
 Athletic Perl,10 km Straße,Jeanny,Zimmer,1977,44:35,F,11.11.2023,Langsur,24,False,534650
-SV GO! Saar 05,10 km Straße,Audrey,Vaughan,1986,45:43,F,11.11.2023,Langsur,25,False,421155
-LC Rehlingen,10 km Straße,Bettina,Bopp,1966,45:44,F,15.04.2023,Mülheim,26,False,416381
-SV GO! Saar 05,10 km Straße,Miriam,Wocke,1992,45:56,F,21.05.2023,Saarbrücken,27,False,421521
-LLG Wustweiler,10 km Straße,Katrin,Groß,1985,46:18,F,16.09.2023,Ottweiler,28,False,535769
-LSG Sbr.-Sulzbachtal,10 km Straße,Julia,Klees,1995,46:22,F,16.09.2023,Ottweiler,29,False,418296
+LC Rehlingen,10 km Straße,Bettina,Bopp,1966,44:48,F,03.12.2023,Saarbrücken,25,False,416381
+LSG Sbr.-Sulzbachtal,10 km Straße,Julia,Klees,1995,45:02,F,03.12.2023,Saarbrücken,26,False,418296
+SV GO! Saar 05,10 km Straße,Audrey,Vaughan,1986,45:43,F,11.11.2023,Langsur,27,False,421155
+SV GO! Saar 05,10 km Straße,Miriam,Wocke,1992,45:56,F,21.05.2023,Saarbrücken,28,False,421521
+LLG Wustweiler,10 km Straße,Katrin,Groß,1985,46:18,F,16.09.2023,Ottweiler,29,False,535769
 HartfüßlerTrail e.V.,10 km Straße,Simone,Grewenig-Czarny,1982,46:24,F,21.05.2023,Saarbrücken,30,False,417366
 LLG Wustweiler,10 km Straße,Jenny,Martin,1984,46:41,F,18.03.2023,Schweich,31,False,501914
-SV GO! Saar 05,10 km Straße,Evi,Klahm,1968,47:01,F,16.09.2023,Ottweiler,32,False,418270
-LLG Wustweiler,10 km Straße,Barbara,Resch,1987,47:03,F,18.03.2023,Schweich,33,False,428930
-SV GO! Saar 05,10 km Straße,Sybille,Becker-Oehm,1979,47:07,F,21.05.2023,Saarbrücken,34,False,416180
-HartfüßlerTrail e.V.,10 km Straße,Claudia,Maas,1973,47:08,F,16.09.2023,Ottweiler,35,False,418885
-"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Heidi,Hartmann,1964,48:07,F,07.05.2023,St. Wendel,36,False,417522
-SV GO! Saar 05,10 km Straße,Heike,Sausen,1969,48:28,F,16.09.2023,Ottweiler,37,False,420065
-LC Völklingen,10 km Straße,Cordula,Bai,1970,48:42,F,11.11.2023,Langsur,38,False,416034
-LTF Köllertal,10 km Straße,Melanie,Müller,1988,48:43,F,01.10.2023,Saarbrücken,39,False,464858
-HartfüßlerTrail e.V.,10 km Straße,Noelle,Schmitt,1993,49:24,F,14.10.2023,Illingen,40,False,420349
+HartfüßlerTrail e.V.,10 km Straße,Noelle,Schmitt,1993,46:45,F,03.12.2023,Saarbrücken,32,False,420349
+"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Heidi,Hartmann,1964,46:48,F,03.12.2023,Saarbrücken,33,False,417522
+SV GO! Saar 05,10 km Straße,Evi,Klahm,1968,47:01,F,16.09.2023,Ottweiler,34,False,418270
+LLG Wustweiler,10 km Straße,Barbara,Resch,1987,47:03,F,18.03.2023,Schweich,35,False,428930
+SV GO! Saar 05,10 km Straße,Sybille,Becker-Oehm,1979,47:07,F,21.05.2023,Saarbrücken,36,False,416180
+HartfüßlerTrail e.V.,10 km Straße,Claudia,Maas,1973,47:08,F,16.09.2023,Ottweiler,37,False,418885
+SV GO! Saar 05,10 km Straße,Heike,Sausen,1969,48:28,F,16.09.2023,Ottweiler,38,False,420065
+LTF Köllertal,10 km Straße,Melanie,Müller,1988,48:34,F,03.12.2023,Saarbrücken,39,False,464858
+LC Völklingen,10 km Straße,Cordula,Bai,1970,48:42,F,11.11.2023,Langsur,40,False,416034
 TV Lebach,10 km Straße,Christina,Krämer,1978,49:36,F,16.09.2023,Ottweiler,41,False,418524
 "LT ""Fribi Funrunners"" Friedr.",10 km Straße,Bärbel,Hartmann,1964,49:48,F,07.05.2023,St. Wendel,42,False,417520
 LC Rehlingen,10 km Straße,Gabriele,Celette,1956,49:55,F,16.09.2023,Ottweiler,43,False,224906
@@ -1258,48 +1259,53 @@ LSG Schmelz-Hüttersdorf,10 km Straße,Elisa,Holz,1998,50:06,F,23.06.2023,Lebach
 LTF Marpingen,10 km Straße,Daniela,Frank,1963,50:34,F,07.05.2023,St. Wendel,47,False,417100
 LTF Theeltal,10 km Straße,Charlotte,Hell,1992,50:38,F,07.05.2023,St. Wendel,48,False,502108
 SV GO! Saar 05,10 km Straße,Claudia,Lang,1969,50:40,F,26.08.2023,Limbach,49,False,498878
-LTF Theeltal,10 km Straße,Saskia,Kupsch,1990,51:00,F,23.06.2023,Lebach,50,False,418635
-LLG Wustweiler,10 km Straße,Marlene,Rothenbusch,1956,51:17,F,01.10.2023,Saarbrücken,51,False,419965
-LSG Sbr.-Sulzbachtal,10 km Straße,Gerda,Becker,1959,51:20,F,10.09.2023,Bad Liebenzell,52,False,416154
-LTF Marpingen,10 km Straße,Tanja,Hooß,1967,51:37,F,26.02.2023,St. Wendel,53,False,417870
-LLG Wustweiler,10 km Straße,Birgit,Rodner,1963,52:15,F,18.03.2023,Schweich,54,False,419917
-LSG Sbr.-Sulzbachtal,10 km Straße,Jola,Frey,2003,52:44,F,21.05.2023,Saarbrücken,55,False,417128
-HartfüßlerTrail e.V.,10 km Straße,Fanny,Loux,1993,52:46,F,16.09.2023,Ottweiler,56,False,418852
-SV GO! Saar 05,10 km Straße,Sabine,Köhler,1970,53:04,F,07.05.2023,St. Wendel,57,False,418445
-LC Völklingen,10 km Straße,Dorothee,Mathieu,1959,53:07,F,01.10.2023,Saarbrücken,58,False,443279
-LAG Saarbrücken,10 km Straße,Steffi,Meiers,1970,53:40,F,21.05.2023,Saarbrücken,59,False,419045
-LLG Wustweiler,10 km Straße,Stefanie,Fichtel,1988,53:43,F,18.03.2023,Schweich,60,False,417025
-TV Lebach,10 km Straße,Anne,Zimmer,1971,53:45,F,16.09.2023,Ottweiler,61,False,421630
-LSG Schmelz-Hüttersdorf,10 km Straße,Stephanie,Valentin,1969,53:54,F,23.06.2023,Lebach,62,False,421149
-LLG Wustweiler,10 km Straße,Anna,Noß,1985,54:40,F,16.09.2023,Ottweiler,63,False,535768
-LLG Wustweiler,10 km Straße,Michelle,Faber,1994,54:42,F,11.11.2023,Langsur,64,False,416967
-"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Ursula,Gross,1953,54:53,F,01.10.2023,Saarbrücken,65,False,417412
-LTF Rennschnecke Dudweiler,10 km Straße,Michelle,Bender,1986,54:54,F,21.05.2023,Saarbrücken,66,False,518318
-HartfüßlerTrail e.V.,10 km Straße,Jacqueline,Sohn,1986,55:09,F,01.10.2023,Saarbrücken,67,False,475356
-LTF Marpingen,10 km Straße,Martina,Spaniol,1958,55:14,F,26.02.2023,St. Wendel,68,False,420791
-LTF Winterbach,10 km Straße,Liesel,Schwarz,1957,55:36,F,07.05.2023,St. Wendel,69,False,420615
-TV Lebach,10 km Straße,Nicole,Leinenbach,1978,56:05,F,16.09.2023,Ottweiler,70,False,418751
-LTF Theeltal,10 km Straße,Birgit,Klesen,1964,56:59,F,25.06.2023,Trier,71,False,451238
-TV 1886 Bexbach,10 km Straße,Veronika,Ruffing,1963,57:00,F,01.10.2023,Saarbrücken,72,False,419989
-LSG Sbr.-Sulzbachtal,10 km Straße,Silke,Schneider,1972,57:12,F,15.04.2023,Mülheim,73,False,443292
-LLG Wustweiler,10 km Straße,Birgit,Keßler,1967,57:13,F,11.11.2023,Langsur,74,False,443566
-TuS 1860 Neunkirchen,10 km Straße,Meike,Schreiner,1998,57:24,F,14.10.2023,Illingen,75,False,153938
-SV GO! Saar 05,10 km Straße,Ayse,Kont,1967,57:33,F,16.09.2023,Ottweiler,76,False,418488
-LSG Sbr.-Sulzbachtal,10 km Straße,Agnes,Bender-Rauguth,1955,58:36,F,16.09.2023,Ottweiler,77,False,416201
-TV Lebach,10 km Straße,Monika,Neu,1969,59:08,F,14.09.2023,Homburg,78,False,419393
-LSG Sbr.-Sulzbachtal,10 km Straße,Rita,Wagner,1969,59:33,F,01.10.2023,Saarbrücken,79,False,475357
-LTF Theeltal,10 km Straße,Bärbel,Besch,1970,59:57,F,25.06.2023,Trier,80,False,503206
-TV Lebach,10 km Straße,Karin,Kapp,1954,1:00:50,F,26.02.2023,St. Wendel,81,False,418129
-TV 1886 Bexbach,10 km Straße,Lisa,Wack,1979,1:01:03,F,26.08.2023,Limbach,82,False,525664
-TV Rußhütte Saarbrücken,10 km Straße,Susanne,Groß,1967,1:03:27,F,01.10.2023,Saarbrücken,83,False,-3354016
-LAG Saarbrücken,10 km Straße,Stephanie,Thielebörger,1989,1:05:41,F,21.05.2023,Saarbrücken,84,False,421035
-LLG Wustweiler,10 km Straße,Nicole,Houy,1976,1:06:38,F,14.10.2023,Illingen,85,False,417888
-LLG Wustweiler,10 km Straße,Andrea,Maaßen,1971,1:08:11,F,16.09.2023,Ottweiler,86,False,528399
-SV GO! Saar 05,10 km Straße,Gisela,Mellmann,1949,1:08:17,F,11.11.2023,Langsur,87,False,419075
-LLG Wustweiler,10 km Straße,Margit,Müller,1954,1:08:57,F,16.09.2023,Ottweiler,88,False,419291
-LLG Wustweiler,10 km Straße,Monika,Schuh,1951,1:09:21,F,16.09.2023,Ottweiler,89,False,420540
-LC Völklingen,10 km Straße,Rosi,Weber,1965,1:13:22,F,01.10.2023,Saarbrücken,90,False,421329
-TV St. Wendel,10 km Straße,Ingrid,Posse,1953,1:18:37,F,16.09.2023,Ottweiler,91,False,419684
+TV 1886 Bexbach,10 km Straße,Nicole,Walter,1982,50:43,F,03.12.2023,Saarbrücken,50,False,468765
+LTF Theeltal,10 km Straße,Saskia,Kupsch,1990,51:00,F,23.06.2023,Lebach,51,False,418635
+LAG Saarbrücken,10 km Straße,Steffi,Meiers,1970,51:03,F,03.12.2023,Saarbrücken,52,False,419045
+Bisttal-Runners,10 km Straße,Barbara,Arweiler-Minn,1963,51:15,F,03.12.2023,Saarbrücken,53,False,415982
+LLG Wustweiler,10 km Straße,Marlene,Rothenbusch,1956,51:17,F,01.10.2023,Saarbrücken,54,False,419965
+LSG Sbr.-Sulzbachtal,10 km Straße,Gerda,Becker,1959,51:20,F,10.09.2023,Bad Liebenzell,55,False,416154
+LTF Marpingen,10 km Straße,Tanja,Hooß,1967,51:37,F,26.02.2023,St. Wendel,56,False,417870
+SV GO! Saar 05,10 km Straße,Sabine,Köhler,1970,52:09,F,03.12.2023,Saarbrücken,57,False,418445
+LLG Wustweiler,10 km Straße,Birgit,Rodner,1963,52:15,F,18.03.2023,Schweich,58,False,419917
+LSG Sbr.-Sulzbachtal,10 km Straße,Jola,Frey,2003,52:44,F,21.05.2023,Saarbrücken,59,False,417128
+HartfüßlerTrail e.V.,10 km Straße,Fanny,Loux,1993,52:46,F,16.09.2023,Ottweiler,60,False,418852
+LC Völklingen,10 km Straße,Dorothee,Mathieu,1959,53:07,F,01.10.2023,Saarbrücken,61,False,443279
+LLG Wustweiler,10 km Straße,Stefanie,Fichtel,1988,53:43,F,18.03.2023,Schweich,62,False,417025
+TV Lebach,10 km Straße,Anne,Zimmer,1971,53:45,F,16.09.2023,Ottweiler,63,False,421630
+LSG Schmelz-Hüttersdorf,10 km Straße,Stephanie,Valentin,1969,53:54,F,23.06.2023,Lebach,64,False,421149
+LAG Saarbrücken,10 km Straße,Sabine,König,1963,54:12,F,03.12.2023,Saarbrücken,65,False,418474
+LLG Wustweiler,10 km Straße,Anna,Noß,1985,54:40,F,16.09.2023,Ottweiler,66,False,535768
+LLG Wustweiler,10 km Straße,Michelle,Faber,1994,54:42,F,11.11.2023,Langsur,67,False,416967
+"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Ursula,Gross,1953,54:53,F,01.10.2023,Saarbrücken,68,False,417412
+LTF Rennschnecke Dudweiler,10 km Straße,Michelle,Bender,1986,54:54,F,21.05.2023,Saarbrücken,69,False,518318
+HartfüßlerTrail e.V.,10 km Straße,Jacqueline,Sohn,1986,55:09,F,01.10.2023,Saarbrücken,70,False,475356
+LTF Marpingen,10 km Straße,Martina,Spaniol,1958,55:14,F,26.02.2023,St. Wendel,71,False,420791
+LTF Winterbach,10 km Straße,Liesel,Schwarz,1957,55:36,F,07.05.2023,St. Wendel,72,False,420615
+LLG Wustweiler,10 km Straße,Birgit,Keßler,1967,55:54,F,03.12.2023,Saarbrücken,73,False,443566
+LLG Wustweiler,10 km Straße,Heike,Ehl,1990,55:55,F,03.12.2023,Saarbrücken,74,False,455401
+TV Lebach,10 km Straße,Nicole,Leinenbach,1978,56:05,F,16.09.2023,Ottweiler,75,False,418751
+LTF Theeltal,10 km Straße,Birgit,Klesen,1964,56:59,F,25.06.2023,Trier,76,False,451238
+TV 1886 Bexbach,10 km Straße,Veronika,Ruffing,1963,57:00,F,01.10.2023,Saarbrücken,77,False,419989
+LSG Sbr.-Sulzbachtal,10 km Straße,Silke,Schneider,1972,57:12,F,15.04.2023,Mülheim,78,False,443292
+TuS 1860 Neunkirchen,10 km Straße,Meike,Schreiner,1998,57:24,F,14.10.2023,Illingen,79,False,153938
+SV GO! Saar 05,10 km Straße,Ayse,Kont,1967,57:33,F,16.09.2023,Ottweiler,80,False,418488
+LSG Sbr.-Sulzbachtal,10 km Straße,Agnes,Bender-Rauguth,1955,58:36,F,16.09.2023,Ottweiler,81,False,416201
+TV Lebach,10 km Straße,Monika,Neu,1969,59:08,F,14.09.2023,Homburg,82,False,419393
+LSG Sbr.-Sulzbachtal,10 km Straße,Rita,Wagner,1969,59:33,F,01.10.2023,Saarbrücken,83,False,475357
+LTF Theeltal,10 km Straße,Bärbel,Besch,1970,59:57,F,25.06.2023,Trier,84,False,503206
+TV Lebach,10 km Straße,Karin,Kapp,1954,1:00:50,F,26.02.2023,St. Wendel,85,False,418129
+TV 1886 Bexbach,10 km Straße,Lisa,Wack,1979,1:01:03,F,26.08.2023,Limbach,86,False,525664
+LLG Wustweiler,10 km Straße,Margit,Müller,1954,1:02:59,F,03.12.2023,Saarbrücken,87,False,419291
+TV Rußhütte Saarbrücken,10 km Straße,Susanne,Groß,1967,1:03:27,F,01.10.2023,Saarbrücken,88,False,-3354016
+LAG Saarbrücken,10 km Straße,Gerda,Schickert,1954,1:04:50,F,03.12.2023,Saarbrücken,89,False,420185
+LAG Saarbrücken,10 km Straße,Stephanie,Thielebörger,1989,1:05:41,F,21.05.2023,Saarbrücken,90,False,421035
+LLG Wustweiler,10 km Straße,Nicole,Houy,1976,1:06:38,F,14.10.2023,Illingen,91,False,417888
+LLG Wustweiler,10 km Straße,Andrea,Maaßen,1971,1:08:11,F,16.09.2023,Ottweiler,92,False,528399
+SV GO! Saar 05,10 km Straße,Gisela,Mellmann,1949,1:08:17,F,11.11.2023,Langsur,93,False,419075
+LLG Wustweiler,10 km Straße,Monika,Schuh,1951,1:09:21,F,16.09.2023,Ottweiler,94,False,420540
+LC Völklingen,10 km Straße,Rosi,Weber,1965,1:13:22,F,01.10.2023,Saarbrücken,95,False,421329
+TV St. Wendel,10 km Straße,Ingrid,Posse,1953,1:18:37,F,16.09.2023,Ottweiler,96,False,419684
 LC Rehlingen,10 km Straße Mannschaft,Nada,Ina Pauer,1986,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,453693
 LC Rehlingen,10 km Straße Mannschaft,Katrin,Marx,2001,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,418965
 LC Rehlingen,10 km Straße Mannschaft,Hannah,Rödel,2004,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,419914
@@ -1812,19 +1818,18 @@ LA Team Saar,Kugelstoß 3 kg,Malik,Rian,2011,"7,08",M12,04.06.2023,Püttlingen,2
 LSG Sbr.-Sulzbachtal,Kugelstoß 3 kg,Cedric,Wenzelburger,2011,"6,96",M12,04.06.2023,Püttlingen,3,False,499776
 LA Team Saar,Kugelstoß 3 kg,Paul,Luan Groß,2011,"6,82",M12,16.07.2023,Püttlingen,4,False,525455
 LV Merzig,Kugelstoß 3 kg,Julius,Michel,2012,"6,73",M12,08.10.2023,Überherrn,5,False,514212
-LC Rehlingen,Kugelstoß 3 kg,Pepe,Kleinow,2011,"6,69",M12,04.06.2023,Püttlingen,6,False,522187
-LA Team Saar,Kugelstoß 3 kg,Paul,Gross,2011,"6,66",M12,04.06.2023,Püttlingen,7,False,486445
-LA Team Saar,Kugelstoß 3 kg,Theo,Schmitt,2011,"6,30",M12,16.07.2023,Püttlingen,8,False,488131
-LC Rehlingen,Kugelstoß 3 kg,Moritz,Kolz,2011,"6,21",M12,16.07.2023,Püttlingen,9,False,484645
-TV St. Wendel,Kugelstoß 3 kg,Elias,Rein,2011,"6,10",M12,04.06.2023,Püttlingen,10,False,511620
-LV Merzig,Kugelstoß 3 kg,Matty,Sehr,2011,"6,08",M12,01.04.2023,Merzig,11,False,511077
-LG Saar 70,Kugelstoß 3 kg,Henri,Nehri,2011,"5,75",M12,16.07.2023,Püttlingen,12,False,491715
-LG Berus,Kugelstoß 3 kg,David,Zeller,2011,"5,53",M12,13.05.2023,Saarlouis,13,False,510771
-TV Elm,Kugelstoß 3 kg,Till,Deutschmann,2011,"5,50",M12,08.10.2023,Überherrn,14,False,511431
-LV Merzig,Kugelstoß 3 kg,Kai,Schwindling,2011,"5,49",M12,23.04.2023,Konz,15,False,516868
-TV Elm,Kugelstoß 3 kg,Tim,Paisler,2011,"5,12",M12,13.05.2023,Saarlouis,16,False,523892
-LG Saar 70,Kugelstoß 3 kg,Ben,Louis Scheffler,2011,"5,10",M12,16.07.2023,Püttlingen,17,False,518142
-LA Team Saar,Kugelstoß 3 kg,Leo,Schneider,2011,"3,50",M12,04.06.2023,Püttlingen,18,False,512768
+LA Team Saar,Kugelstoß 3 kg,Paul,Gross,2011,"6,66",M12,04.06.2023,Püttlingen,6,False,486445
+LA Team Saar,Kugelstoß 3 kg,Theo,Schmitt,2011,"6,30",M12,16.07.2023,Püttlingen,7,False,488131
+LC Rehlingen,Kugelstoß 3 kg,Moritz,Kolz,2011,"6,21",M12,16.07.2023,Püttlingen,8,False,484645
+TV St. Wendel,Kugelstoß 3 kg,Elias,Rein,2011,"6,10",M12,04.06.2023,Püttlingen,9,False,511620
+LV Merzig,Kugelstoß 3 kg,Matty,Sehr,2011,"6,08",M12,01.04.2023,Merzig,10,False,511077
+LG Saar 70,Kugelstoß 3 kg,Henri,Nehri,2011,"5,75",M12,16.07.2023,Püttlingen,11,False,491715
+LG Berus,Kugelstoß 3 kg,David,Zeller,2011,"5,53",M12,13.05.2023,Saarlouis,12,False,510771
+TV Elm,Kugelstoß 3 kg,Till,Deutschmann,2011,"5,50",M12,08.10.2023,Überherrn,13,False,511431
+LV Merzig,Kugelstoß 3 kg,Kai,Schwindling,2011,"5,49",M12,23.04.2023,Konz,14,False,516868
+TV Elm,Kugelstoß 3 kg,Tim,Paisler,2011,"5,12",M12,13.05.2023,Saarlouis,15,False,523892
+LG Saar 70,Kugelstoß 3 kg,Ben,Louis Scheffler,2011,"5,10",M12,16.07.2023,Püttlingen,16,False,518142
+LA Team Saar,Kugelstoß 3 kg,Leo,Schneider,2011,"3,50",M12,04.06.2023,Püttlingen,17,False,512768
 LA Team Saar,"Diskuswurf 0,75 kg",Paul,Luan Groß,2011,"21,64",M12,16.07.2023,Püttlingen,1,False,525455
 LV Merzig,"Diskuswurf 0,75 kg",Matty,Sehr,2011,"21,42",M12,04.06.2023,Püttlingen,2,False,511077
 LV Merzig,"Diskuswurf 0,75 kg",Julius,Michel,2012,"20,65",M12,08.10.2023,Überherrn,3,False,514212
@@ -1920,7 +1925,7 @@ LG Saar 70,3-Kampf,Ben,Louis Scheffler,2011,936,M12,29.04.2023,St. Wendel,18,Fal
 LA Team Saar,3-Kampf,Theo,Schmitt,2011,919,M12,08.06.2023,Saarlouis,19,False,488131
 LA Team Saar,3-Kampf,Marvin,Baer,2011,919,M12,08.06.2023,Saarlouis,20,False,490800
 LG Saar 70,3-Kampf,Leonard,Keßler,2012,916,M12,08.06.2023,Saarlouis,21,False,473540
-LC Rehlingen,3-Kampf,Aaron,Nikolau Thobae,2012,903,M12,08.06.2023,Saarlouis,22,False,-3329054
+LC Rehlingen,3-Kampf,Aaron,Nikolau Thobae,2012,903,M12,08.06.2023,Saarlouis,22,False,485913
 LA Team Saar,3-Kampf,Paul,Merz,2012,847,M12,08.06.2023,Saarlouis,23,False,501262
 LG Berus,3-Kampf,David,Zeller,2011,843,M12,08.06.2023,Saarlouis,24,False,510771
 LC Rehlingen,3-Kampf,Aaron,Kraemer,2012,807,M12,08.06.2023,Saarlouis,25,False,516546
@@ -4365,7 +4370,8 @@ LSG Sbr.-Sulzbachtal,10 km Straße,Benjamin,Stumm,2006,33:54,MU18,10.09.2023,Bad
 LC Rehlingen,10 km Straße,Jan,Biehl,2006,34:21,MU18,05.03.2023,Leverkusen,3,False,443565
 LC Rehlingen,10 km Straße,Lucca,Agostini,2006,36:11,MU18,10.09.2023,Bad Liebenzell,4,False,415867
 SV GO! Saar 05,10 km Straße,Jonas,Fahrig,2008,37:23,MU18,01.10.2023,Saarbrücken,5,False,416970
-LC Rehlingen,10 km Straße,David,Baldauf,2008,45:41,MU18,26.08.2023,Limbach,6,False,426981
+LC Rehlingen,10 km Straße,Vincent,Sempruch,2007,38:05,MU18,03.12.2023,Saarbrücken,6,False,453695
+LC Rehlingen,10 km Straße,David,Baldauf,2008,45:41,MU18,26.08.2023,Limbach,7,False,426981
 TV St. Wendel,"110 m Hürden 0,914 m",Konstantin,Schmitt,2007,"15,43",MU18,11.06.2023,Rehlingen,1,False,420337
 LA Team Saar,"110 m Hürden 0,914 m",Elias,Günter,2007,"16,31",MU18,11.06.2023,Rehlingen,2,False,417441
 LC Rehlingen,"110 m Hürden 0,914 m",Felix,Becker,2006,"17,37",MU18,11.06.2023,Rehlingen,3,False,416153
@@ -4606,7 +4612,7 @@ TV Bliesen,"100 m Hürden 0,762 m",Anna,Wagner,2006,"18,37",WU18,01.07.2023,Püt
 LV Merzig,"100 m Hürden 0,762 m",Victoria,Müller,2007,"18,96",WU18,14.05.2023,Saarlouis,5,False,419330
 TV St. Wendel,"100 m Hürden 0,762 m",Ann-Kathrin,Berwanger,2006,"19,03",WU18,01.07.2023,Püttlingen,6,False,416249
 LV Merzig,"100 m Hürden 0,762 m",Eva,Pangoup Heuntang,2006,"19,96",WU18,01.07.2023,Püttlingen,7,False,419519
-LAC Saarlouis,"400 m Hürden 0,762 m",Franka,Bastian,2007,"81,87",WU18,09.05.2023,Rehlingen,1,False,427415
+LAC Saarlouis,"400 m Hürden 0,762 m",Franka,Bastian,2007,"78,00",WU18,30.06.2023,St. Mard/BEL,1,False,427415
 LC Rehlingen,"2.000 m Hindernis 0,762 m",Emely,Krieger,2007,"6:58,14",WU18,21.07.2023,Rostock,1,False,418576
 SV GO! Saar 05,4x100 m Staffel,Sara,Janes,2006,"50,46",WU18,11.06.2023,Rehlingen,1,True,417973
 SV GO! Saar 05,4x100 m Staffel,Luisa,Jose,2007,"50,46",WU18,11.06.2023,Rehlingen,1,True,418032
@@ -4776,9 +4782,10 @@ LSG Sbr.-Sulzbachtal,5 km Straße,Tom-Lennox,Schneider,2004,18:52,MU20,05.03.202
 LSG Sbr.-Sulzbachtal,5 km Straße,Jan,Zaffuto,2005,19:19,MU20,01.10.2023,Saarbrücken,6,False,421569
 LSG Sbr.-Sulzbachtal,5 km Straße,Tom,Zaffuto,2005,19:31,MU20,23.06.2023,Lebach,7,False,421570
 LC Rehlingen,10 km Straße,Lennart,Zehfeld,2005,30:50,MU20,05.03.2023,Leverkusen,1,False,421587
-LSG Sbr.-Sulzbachtal,10 km Straße,Tom,Zaffuto,2005,43:14,MU20,01.10.2023,Saarbrücken,2,False,421570
-LSG Sbr.-Sulzbachtal,10 km Straße,Jan,Zaffuto,2005,43:17,MU20,16.09.2023,Ottweiler,3,False,421569
-LG Saar 70,10 km Straße,Torben,Werning,2005,43:34,MU20,16.09.2023,Ottweiler,4,False,525941
+LC Rehlingen,10 km Straße,Jakob,Villard,2005,35:32,MU20,03.12.2023,Saarbrücken,2,False,460542
+LSG Sbr.-Sulzbachtal,10 km Straße,Tom,Zaffuto,2005,43:14,MU20,01.10.2023,Saarbrücken,3,False,421570
+LSG Sbr.-Sulzbachtal,10 km Straße,Jan,Zaffuto,2005,43:17,MU20,16.09.2023,Ottweiler,4,False,421569
+LG Saar 70,10 km Straße,Torben,Werning,2005,43:34,MU20,16.09.2023,Ottweiler,5,False,525941
 LSG Sbr.-Sulzbachtal,10 km Straße Mannschaft,Benjamin,Stumm,2006,2:04:17,MU20,16.09.2023,Ottweiler,1,True,420962
 LSG Sbr.-Sulzbachtal,10 km Straße Mannschaft,Jan,Zaffuto,2005,2:04:17,MU20,16.09.2023,Ottweiler,1,True,421569
 LSG Sbr.-Sulzbachtal,10 km Straße Mannschaft,Tom,Zaffuto,2005,2:04:17,MU20,16.09.2023,Ottweiler,1,True,421570
