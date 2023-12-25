@@ -128,18 +128,19 @@ LC Rehlingen,800 m,Dietmar,Janke,1951,"3:13,53",M,08.07.2023,St. Wendel,32,False
 LAG Saarbrücken,800 m,Tibor,Csepregi,1962,"3:17,96",M,20.07.2023,Saarbrücken,33,False,95b15aaa28006cbbaf3624b5c29c3b109cb6cd24d5d78c7829584786c906c3af
 LSG Sbr.-Sulzbachtal,800 m,Norbert,Klees,1946,"4:16,85",M,20.07.2023,Saarbrücken,34,False,1da6efcd25aaee25ca3dcd91de3f5f887d670b1b880548fc0a43b59d886b04ed
 LC Rehlingen,1.000 m,Fabian,Schon,1999,"2:28,30",M,13.07.2023,Saarbrücken,1,False,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
-LSG Sbr.-Sulzbachtal,1.000 m,Filmon,Alazar,1999,"2:44,28",M,25.04.2023,Sulzbach,2,False,67948eb6932f63a52308ee4a57d365ffbeb0667069c8b68f851c6253d70a76e5
-LC Rehlingen,1.000 m,Reiner,Zender,1965,"2:54,02",M,13.07.2023,Saarbrücken,3,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
-LSG Sbr.-Sulzbachtal,1.000 m,Hendrik,Tönjes,1986,"2:54,37",M,07.09.2023,Saarlouis,4,False,057c098e58858e55ab19f87689a636403919e0858f2d4665e17fa575a5bf438b
-LSG Sbr.-Sulzbachtal,1.000 m,Marc,Schmitt,1972,"2:55,63",M,25.04.2023,Sulzbach,5,False,ba83c782b6547d0fc7612f5bfe67eb79ba6d001b7fe5e61640fb471d8f78049c
-TV Ludweiler,1.000 m,Christoph,Bach,1982,"2:55,66",M,13.07.2023,Saarbrücken,6,False,53bf1ba9cab95fbf33ecc821250252d53b2cf4e018518cd191a5da12a1295116
-LSG Sbr.-Sulzbachtal,1.000 m,Matthias,Müller,1973,"3:01,14",M,13.07.2023,Saarbrücken,7,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
-LC Rehlingen,1.000 m,Alexander,Dandl,1982,"3:16,57",M,07.09.2023,Saarlouis,8,False,029657dd9b4b33267994365e897aa21d6d257c558032f7600da3b1f693a3cea9
-LSG Sbr.-Sulzbachtal,1.000 m,Andreas,Vonerden,1976,"3:18,23",M,07.09.2023,Saarlouis,9,False,d8b3cbf4358a2fffca66eea585a0cd9283ff9a43ea0ce1d28cf8ae3c1e2ad38a
-LSG Sbr.-Sulzbachtal,1.000 m,Assen,Saraiwanow,1967,"3:27,93",M,25.04.2023,Sulzbach,10,False,01cd158ca4d556479e6be4fad3ea0396fa252d7fb55852ac890e8161e124150f
-VfR Alemannia 1921 Otzenhausen,1.000 m,Torsten,Hübner,1980,"3:43,24",M,13.07.2023,Saarbrücken,11,False,f65dea914bef1242e426702a978c3ef2a920d3ec6cf52b3c5cbade2a1c80e7a5
-LC Rehlingen,1.000 m,Jörg,Dietrich,1954,"3:47,94",M,07.09.2023,Saarlouis,12,False,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
-LAG Saarbrücken,1.000 m,Andreas,Jahn,1980,"4:20,16",M,13.07.2023,Saarbrücken,13,False,3f45aa70130bd3c5ffdb49cd6b0bd36f08ad98798520be4069061e216e3a5214
+LC Rehlingen,1.000 m,Luc,Hensgen,1996,"2:31,46",M,02.06.2023,Lunéville/FRA,2,False,2c355bb3c972428b3d24f8d2d3c5f9b2aa40787a8af75ee52d9577c553d3a201
+LSG Sbr.-Sulzbachtal,1.000 m,Filmon,Alazar,1999,"2:44,28",M,25.04.2023,Sulzbach,3,False,67948eb6932f63a52308ee4a57d365ffbeb0667069c8b68f851c6253d70a76e5
+LC Rehlingen,1.000 m,Reiner,Zender,1965,"2:54,02",M,13.07.2023,Saarbrücken,4,False,0d27a9924d0130c7bf01d4ceaada7838eb962ab2dc75e7e7517483721f27e7da
+LSG Sbr.-Sulzbachtal,1.000 m,Hendrik,Tönjes,1986,"2:54,37",M,07.09.2023,Saarlouis,5,False,057c098e58858e55ab19f87689a636403919e0858f2d4665e17fa575a5bf438b
+LSG Sbr.-Sulzbachtal,1.000 m,Marc,Schmitt,1972,"2:55,63",M,25.04.2023,Sulzbach,6,False,ba83c782b6547d0fc7612f5bfe67eb79ba6d001b7fe5e61640fb471d8f78049c
+TV Ludweiler,1.000 m,Christoph,Bach,1982,"2:55,66",M,13.07.2023,Saarbrücken,7,False,53bf1ba9cab95fbf33ecc821250252d53b2cf4e018518cd191a5da12a1295116
+LSG Sbr.-Sulzbachtal,1.000 m,Matthias,Müller,1973,"3:01,14",M,13.07.2023,Saarbrücken,8,False,0d0d78db65ff8ec1128384c0e76e9d6e5c6f1da406c5a99e423fcb90bac2ad89
+LC Rehlingen,1.000 m,Alexander,Dandl,1982,"3:16,57",M,07.09.2023,Saarlouis,9,False,029657dd9b4b33267994365e897aa21d6d257c558032f7600da3b1f693a3cea9
+LSG Sbr.-Sulzbachtal,1.000 m,Andreas,Vonerden,1976,"3:18,23",M,07.09.2023,Saarlouis,10,False,d8b3cbf4358a2fffca66eea585a0cd9283ff9a43ea0ce1d28cf8ae3c1e2ad38a
+LSG Sbr.-Sulzbachtal,1.000 m,Assen,Saraiwanow,1967,"3:27,93",M,25.04.2023,Sulzbach,11,False,01cd158ca4d556479e6be4fad3ea0396fa252d7fb55852ac890e8161e124150f
+VfR Alemannia 1921 Otzenhausen,1.000 m,Torsten,Hübner,1980,"3:43,24",M,13.07.2023,Saarbrücken,12,False,f65dea914bef1242e426702a978c3ef2a920d3ec6cf52b3c5cbade2a1c80e7a5
+LC Rehlingen,1.000 m,Jörg,Dietrich,1954,"3:47,94",M,07.09.2023,Saarlouis,13,False,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
+LAG Saarbrücken,1.000 m,Andreas,Jahn,1980,"4:20,16",M,13.07.2023,Saarbrücken,14,False,3f45aa70130bd3c5ffdb49cd6b0bd36f08ad98798520be4069061e216e3a5214
 LC Rehlingen,1.500 m,Fabian,Schon,1999,"3:58,25",M,09.08.2023,Pfungstadt,1,False,b4d452f52c263334f5163aa0c2b30bcba2a7c68ba1ee883d382cff219ac67b3b
 LSG Sbr.-Sulzbachtal,1.500 m,Filmon,Alazar,1999,"4:07,49",M,10.06.2023,Rehlingen,2,False,67948eb6932f63a52308ee4a57d365ffbeb0667069c8b68f851c6253d70a76e5
 LC Rehlingen,1.500 m,Thomas,Koch,1983,"4:08,87",M,10.06.2023,Rehlingen,3,False,976059561fe155a8d7b3f7fca909671c576933b9fbf5fba9e4e99d76adf508f5
@@ -479,22 +480,22 @@ Grojos LTF Elversberg,10 km Straße,Stefan,Harig,1970,39:31,M,10.09.2023,Bad Lie
 LSG Schmelz-Hüttersdorf,10 km Straße,Dominic,Jung,1983,39:32,M,03.12.2023,Saarbrücken,56,False,6f1ce3e204dfe01535f5eb9e1ab47658bbf802a57f1b5b0f54747b5bed9ad846
 LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Weber-Winter,1976,39:38,M,03.12.2023,Saarbrücken,57,False,4bafd5d77cddf66ff078faa01b3a8cabf9bf0c21bc1218e69c1eff0221638a47
 LA Team Saar,10 km Straße,Daniel,Stodden,1977,39:45,M,03.12.2023,Saarbrücken,58,False,a103429c6b72520d503d5c118603a01a4b21fb87916bd09167d54a0dc31ba757
-TV Elm,10 km Straße,Frank,Altmeier,1973,40:21,M,03.12.2023,Saarbrücken,59,False,9ab1fa0f7c23a7b051c7480881ac8daa1478e57ccf6163e694a6cdba0ca88d17
-LSG Sbr.-Sulzbachtal,10 km Straße,Markus,Neumann,1987,40:24,M,16.09.2023,Ottweiler,60,False,e10532e43e8ea6db6756d2fbd98499530bf3c91368cef95361c832ef2879523f
-VfR Alemannia 1921 Otzenhausen,10 km Straße,John,Colling,1986,40:35,M,16.09.2023,Ottweiler,61,False,bec5e2bd479a10d9195271b4c80d167dd074dc5a17ac171edfe7fd57b401ff5c
-SV GO! Saar 05,10 km Straße,Ulli,Patrick Schweig,1975,40:41,M,26.02.2023,St. Wendel,62,False,102c569bd988cda09c4c35ba903c9684b1e2739dbc474c99cf16a3d9281420f4
-TV Ludweiler,10 km Straße,Patrick,Franz,1979,41:00,M,03.12.2023,Saarbrücken,63,False,75de4dcdbae38c34cd7ebb1a8d9c885b410d4f8032f222fc9e239fe31cbf72c6
-LAG Saarbrücken,10 km Straße,Manuel,Kattler,1989,41:04,M,03.12.2023,Saarbrücken,64,False,9aca99dc9ee38ac8268ccc692825959fab978f86e1cb9b93580bcb3da348a1c6
-Athletic Perl,10 km Straße,Baraa,Mosattat,1988,41:17,M,16.09.2023,Ottweiler,65,False,67656441dcf5872d2cb1b8c3c4cdb6e2990e0cfd410cf4d41970b001c42833c1
-Run 4 Fun Bübingen,10 km Straße,Stephan,Ritter,1965,41:19,M,21.05.2023,Saarbrücken,66,False,59adffc9d0a8449f8f5f8345c8fb04b7efebd159068542a5aa62c2dc58a282ae
-LAG Saarbrücken,10 km Straße,Maximilian,Müller,1986,41:21,M,21.05.2023,Saarbrücken,67,False,4e5e1f2212485e35587d0e58698ac9af1d669168213e236e2e44896c32d73130
-LC Rehlingen,10 km Straße,Antonio,Squillace,1970,41:24,M,03.12.2023,Saarbrücken,68,False,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
-LTF Theeltal,10 km Straße,André,Kronberg,1977,41:25,M,03.12.2023,Saarbrücken,69,False,6831b992c29360e5526573b0a7e2b1860a8dd15eff97e7baaaa1aadbcf1ca392
-Grojos LTF Elversberg,10 km Straße,Alexander,Lüdemann,1982,41:38,M,26.08.2023,Limbach,70,False,02a2365b6c0f46406b3bda40928b23b9ad343f95a114b0610c2ecce31a286c56
-LLG Wustweiler,10 km Straße,Marc,Wagner,1981,41:39,M,01.10.2023,Saarbrücken,71,False,323571480a1cfc352d6a05aaef4a81321321c2e105fd054c35163a49b51f1cbc
-LC Rehlingen,10 km Straße,Michael,Henkes,1957,41:59,M,21.05.2023,Saarbrücken,72,False,4de3b23429ae72343cf4bde11f089dd8ec719f27a5e2015648c359a50f71bc1e
-LA Team Saar,10 km Straße,Matthias,Kahnert,1984,41:59,M,01.10.2023,Saarbrücken,73,False,9e1b2f08cf141f8e5812df99a469ea7765f6bb3fd04133b7e3903fec45927346
-LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Blasius,1969,42:02,M,21.05.2023,Saarbrücken,74,False,b9ce9c9c413c9f618c3962534f72ac116905896b31bc90e91364b1d8ed4320af
+LSG Sbr.-Sulzbachtal,10 km Straße,Dirk,Blasius,1969,39:59,M,17.12.2023,Rheinzabern,59,False,b9ce9c9c413c9f618c3962534f72ac116905896b31bc90e91364b1d8ed4320af
+TV Elm,10 km Straße,Frank,Altmeier,1973,40:21,M,03.12.2023,Saarbrücken,60,False,9ab1fa0f7c23a7b051c7480881ac8daa1478e57ccf6163e694a6cdba0ca88d17
+LSG Sbr.-Sulzbachtal,10 km Straße,Markus,Neumann,1987,40:24,M,16.09.2023,Ottweiler,61,False,e10532e43e8ea6db6756d2fbd98499530bf3c91368cef95361c832ef2879523f
+VfR Alemannia 1921 Otzenhausen,10 km Straße,John,Colling,1986,40:35,M,16.09.2023,Ottweiler,62,False,bec5e2bd479a10d9195271b4c80d167dd074dc5a17ac171edfe7fd57b401ff5c
+SV GO! Saar 05,10 km Straße,Ulli,Patrick Schweig,1975,40:41,M,26.02.2023,St. Wendel,63,False,102c569bd988cda09c4c35ba903c9684b1e2739dbc474c99cf16a3d9281420f4
+TV Ludweiler,10 km Straße,Patrick,Franz,1979,41:00,M,03.12.2023,Saarbrücken,64,False,75de4dcdbae38c34cd7ebb1a8d9c885b410d4f8032f222fc9e239fe31cbf72c6
+LAG Saarbrücken,10 km Straße,Manuel,Kattler,1989,41:04,M,03.12.2023,Saarbrücken,65,False,9aca99dc9ee38ac8268ccc692825959fab978f86e1cb9b93580bcb3da348a1c6
+Athletic Perl,10 km Straße,Baraa,Mosattat,1988,41:17,M,16.09.2023,Ottweiler,66,False,67656441dcf5872d2cb1b8c3c4cdb6e2990e0cfd410cf4d41970b001c42833c1
+Run 4 Fun Bübingen,10 km Straße,Stephan,Ritter,1965,41:19,M,21.05.2023,Saarbrücken,67,False,59adffc9d0a8449f8f5f8345c8fb04b7efebd159068542a5aa62c2dc58a282ae
+LAG Saarbrücken,10 km Straße,Maximilian,Müller,1986,41:21,M,21.05.2023,Saarbrücken,68,False,4e5e1f2212485e35587d0e58698ac9af1d669168213e236e2e44896c32d73130
+LC Rehlingen,10 km Straße,Antonio,Squillace,1970,41:24,M,03.12.2023,Saarbrücken,69,False,15a68cd360f8f4e3de31ccd282f83e625a847be5479f9ee95b06944bdd47e561
+LTF Theeltal,10 km Straße,André,Kronberg,1977,41:25,M,03.12.2023,Saarbrücken,70,False,6831b992c29360e5526573b0a7e2b1860a8dd15eff97e7baaaa1aadbcf1ca392
+Grojos LTF Elversberg,10 km Straße,Alexander,Lüdemann,1982,41:38,M,26.08.2023,Limbach,71,False,02a2365b6c0f46406b3bda40928b23b9ad343f95a114b0610c2ecce31a286c56
+LLG Wustweiler,10 km Straße,Marc,Wagner,1981,41:39,M,01.10.2023,Saarbrücken,72,False,323571480a1cfc352d6a05aaef4a81321321c2e105fd054c35163a49b51f1cbc
+LC Rehlingen,10 km Straße,Michael,Henkes,1957,41:59,M,21.05.2023,Saarbrücken,73,False,4de3b23429ae72343cf4bde11f089dd8ec719f27a5e2015648c359a50f71bc1e
+LA Team Saar,10 km Straße,Matthias,Kahnert,1984,41:59,M,01.10.2023,Saarbrücken,74,False,9e1b2f08cf141f8e5812df99a469ea7765f6bb3fd04133b7e3903fec45927346
 LAG Saarbrücken,10 km Straße,Lasse,Geerdts,2002,42:03,M,01.10.2023,Saarbrücken,75,False,daf7fbecba7b97abc30631e776b9a5304a011727a9c6188076cf7b796ba6d67d
 HartfüßlerTrail e.V.,10 km Straße,Jan,Kuhn,1980,42:05,M,01.10.2023,Saarbrücken,76,False,7cf71c69606f711cc1fc2ebe5153454d8e3fc5ffafb5246dfe3b622b91072983
 Grojos LTF Elversberg,10 km Straße,Domenic,Theobald,1989,42:12,M,01.10.2023,Saarbrücken,77,False,f439d12e1555f11f08537639820d4c3625d063d27a1c3ebc37983659acf23ad4
@@ -526,8 +527,8 @@ LSG Sbr.-Sulzbachtal,10 km Straße,Andreas,Vonerden,1976,45:49,M,21.05.2023,Saar
 LAG Saarbrücken,10 km Straße,Cyrille,Faivre,1969,46:08,M,21.05.2023,Saarbrücken,103,False,85b36b82714c32a62eaa813b876534e134888c3a58bf2927e2ac2ca7dd2c40d5
 TV 1886 Bexbach,10 km Straße,Franz,Huether,1952,46:08,M,01.10.2023,Saarbrücken,104,False,6c8c6592c01cd842edbd81b54887c7a9e136dfef9448d548aa1be3bde2ce7bbd
 LTF Marpingen,10 km Straße,Dirk,Schu,1961,46:09,M,26.02.2023,St. Wendel,105,False,e3786e9c6d824bc2bca5d2dd4d3a87327eac045059f81608596463b20b0b72ca
-LSG Sbr.-Sulzbachtal,10 km Straße,Christian,Steckmann,1973,46:10,M,21.05.2023,Saarbrücken,106,False,5b9d2fc8da6f2a48b896e774990a1b77cf86a805fc43f8f62e256b14e23ecc5c
-Tri-Sport/Saar-Hochwald,10 km Straße,Adrien,Guinemer,1983,46:10,M,21.05.2023,Saarbrücken,107,False,7c3390926b5af6e78b9d6c337267d44b5c91aa6d0b255e5185bb6ffdc446d3b4
+Tri-Sport/Saar-Hochwald,10 km Straße,Adrien,Guinemer,1983,46:10,M,21.05.2023,Saarbrücken,106,False,7c3390926b5af6e78b9d6c337267d44b5c91aa6d0b255e5185bb6ffdc446d3b4
+LSG Sbr.-Sulzbachtal,10 km Straße,Christian,Steckmann,1973,46:10,M,21.05.2023,Saarbrücken,107,False,5b9d2fc8da6f2a48b896e774990a1b77cf86a805fc43f8f62e256b14e23ecc5c
 LTF Marpingen,10 km Straße,Martin,Recktenwald,1974,46:19,M,14.10.2023,Illingen,108,False,123b36beb49ef86d8f4aee7384d640430a9bb9a29da332575c099c59f0eada69
 LA Team Saar,10 km Straße,Andreas,Hauck,1965,46:23,M,01.10.2023,Saarbrücken,109,False,a58e3e4818044c94f2aa50348d6270ef0dda5008a8dee352d6c536b7a084fa84
 LC Rehlingen,10 km Straße,Michael,Blank,1964,46:28,M,03.12.2023,Saarbrücken,110,False,14f38672dfe16662d2d165d0da467b27dd7e394bafb35839dd9e2f0ec1610925
@@ -536,8 +537,8 @@ LTF Theeltal,10 km Straße,Thomas,Morgott,1972,46:35,M,23.06.2023,Lebach,112,Fal
 LLG Wustweiler,10 km Straße,Armin,Schweitzer,1977,46:42,M,16.09.2023,Ottweiler,113,False,b883574a6ac2d13763e5721e41b8aac70812e4b20ffce827ff2b47287d0ff4a1
 LTF Marpingen,10 km Straße,Franz-Josef,Warschburger,1970,46:43,M,26.02.2023,St. Wendel,114,False,a382a97898e4278e6856cf712bf4950410019dad24eacde262b535987c7e932e
 TV 1886 Bexbach,10 km Straße,Peter,Birtel,1953,47:06,M,03.12.2023,Saarbrücken,115,False,90fefb63b92a19207c47e0c116edc1e3d59a7ab95124ebce487ddbe40e0f54e3
-HartfüßlerTrail e.V.,10 km Straße,Heiko,Maas,1972,47:07,M,16.09.2023,Ottweiler,116,False,65efb1b7dd79288498bfa4dd2c153e539fbcfe94bf76720153ed8423d1ba32a8
-HartfüßlerTrail e.V.,10 km Straße,Alexander,Kneip,1991,47:07,M,16.09.2023,Ottweiler,117,False,7bf7e5eeef6c0c7cc2fa86e261a7a8e59cb464bd435b07e49cdab684aaf1c958
+HartfüßlerTrail e.V.,10 km Straße,Alexander,Kneip,1991,47:07,M,16.09.2023,Ottweiler,116,False,7bf7e5eeef6c0c7cc2fa86e261a7a8e59cb464bd435b07e49cdab684aaf1c958
+HartfüßlerTrail e.V.,10 km Straße,Heiko,Maas,1972,47:07,M,16.09.2023,Ottweiler,117,False,65efb1b7dd79288498bfa4dd2c153e539fbcfe94bf76720153ed8423d1ba32a8
 LLG Wustweiler,10 km Straße,Eric,Mildau,1980,47:08,M,16.09.2023,Ottweiler,118,False,130505f7f7bb155ee4b2cc1e654f8a0bcbbeda2505891f14c176ea179726033b
 TV Kirkel,10 km Straße,Andreas,Paul,1972,47:09,M,01.10.2023,Saarbrücken,119,False,9f42751800dc98c3a41ba470ad32d366a647ca171e6f8fbba9db69f714af2223
 LSG Sbr.-Sulzbachtal,10 km Straße,Stefan,Zubiller,1975,47:12,M,03.12.2023,Saarbrücken,120,False,4b687d5d5062bdd664acbda30aa6729d56686d0d08b9b79e4d971aaf00366766
@@ -623,110 +624,111 @@ LC Rehlingen,Halbmarathon,Richard,Ringer,1989,1:01:09,M,19.02.2023,Barcelona/ESP
 LC Rehlingen,Halbmarathon,Alexander,Bock,1992,1:07:21,M,26.03.2023,Freiburg,2,False,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LC Rehlingen,Halbmarathon,Philipp,Stief,1991,1:12:04,M,26.03.2023,Freiburg,3,False,3e70e1f697675c191b119fc2f192aaee25d53ff9a42cfe9c28740fd0bceb68d8
 nextgendingmad e.V.,Halbmarathon,Maximilian,Gebhard,2000,1:12:36,M,01.10.2023,Saarbrücken,4,False,9fc9c69a52e2f6219ddf6268313762614cbdcf01f6adc00176d2f5ee20c4d7a8
-nextgendingmad e.V.,Halbmarathon,Paul,Weindl,1999,1:14:39,M,01.10.2023,Saarbrücken,5,False,df4731be2fe952a6089335d4b8fd4f4c159b45d6df9eeb6d198fb4f09cd988c5
-LSG Schmelz-Hüttersdorf,Halbmarathon,Benjamin,Irsch,1983,1:15:36,M,01.10.2023,Saarbrücken,6,False,819f00b34cafdedb1d66f112276c8bb1b3d91c9754045f92c3febae9b8f6f069
-LAZ Saarbrücken,Halbmarathon,Till,Speicher,1994,1:16:06,M,01.10.2023,Saarbrücken,7,False,4304040804d441714205dac6fda9277cd3161dc77fe4f2655552f8a2f632850b
-TuS Ormesheim,Halbmarathon,Torsten,Jacob,1985,1:17:11,M,03.09.2023,Merzig,8,False,fed24213b4f65873034475465197d0e1b0d1d538b19521d839a11229240eceba
-SV GO! Saar 05,Halbmarathon,Dominik,Paul,1992,1:17:37,M,26.03.2023,Freiburg,9,False,8e023157e6b7f98e5f92a3dab555498ace303033ebe7a97dcec0c23f8b7c5f66
-LLG Wustweiler,Halbmarathon,Giuseppe,Sardo,1990,1:18:24,M,03.09.2023,Merzig,10,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
-LSG Sbr.-Sulzbachtal,Halbmarathon,Daniel,Rhodes,1993,1:20:19,M,07.05.2023,Mainz,11,False,e106eb8d7087101fb7f867246d0697885b06d345561598d2f49092fbe170f4b5
-TuS Ormesheim,Halbmarathon,Carsten,Hoffmann,1980,1:21:36,M,03.09.2023,Merzig,12,False,fbf23af4cdb97fd0e8d17230169a17cda04a2d7c0305350b87c529e128e51753
-LSG Schmelz-Hüttersdorf,Halbmarathon,Marc,Wallrich,1990,1:21:59,M,03.09.2023,Merzig,13,False,104e542f3bd8f315343789683a0476da1b39a401b3a5f41e52a1fa217d547de5
-SV GO! Saar 05,Halbmarathon,Janick,Rehberger,1991,1:23:06,M,01.10.2023,Saarbrücken,14,False,a06613ed801de9d4cae1de8c58c5eb1ad02ac69fc258e3e792ab8fa9665c9f26
-nextgendingmad e.V.,Halbmarathon,Johannes,Ertle,1999,1:23:08,M,01.10.2023,Saarbrücken,15,False,b2188fcf6510dda914924af84aeadf75dea4b5bda8b29c7fcac5f2e49dfaddad
-LTF Marpingen,Halbmarathon,Jörg,Hooß,1964,1:23:13,M,03.09.2023,Merzig,16,False,696e668e3cd8604f787403a2b115a64ea7bacc412382a798fab036120343cf77
-LA Team Saar,Halbmarathon,Tobias,Nagel,1992,1:23:35,M,03.09.2023,Merzig,17,False,300e13ce0b9723b9560191e6b7ace915d76a09c19da0c83840db4880714c1c70
-SV GO! Saar 05,Halbmarathon,René,Hammler,1991,1:23:37,M,19.03.2023,Saarbrücken,18,False,efc5f175eec163790410c57380a63c356e83e3a2fcb1c2faeb474a3a92402739
-Grojos LTF Elversberg,Halbmarathon,Stefan,Harig,1970,1:23:51,M,03.09.2023,Merzig,19,False,7c3397b4c9ea189e255514ca1f16fc1b70e94847303960c88ac7deaa913a7283
-LTF Theeltal,Halbmarathon,Nico,Noss,1992,1:24:47,M,03.09.2023,Merzig,20,False,0a56f7d698ebba3c7f18067c98f39e2ad77485fbf4e363f3715d1608eae86e92
-LLG Wustweiler,Halbmarathon,Eric,Lorenz,1971,1:25:24,M,03.09.2023,Merzig,21,False,2ac9cbab04e1d79f3df5d5a863ba9d3dceb0b3833ad30cbf25ffab4f26dc723b
-LA Team Saar,Halbmarathon,Sebastian,Arens,1991,1:25:25,M,03.10.2023,Dortmund,22,False,39a60e89c777f5e45cf2ce8f8482eeff70ef80777cba318f0ada28f7353cbc6a
-LTF Theeltal,Halbmarathon,Sven,Massing,1987,1:25:44,M,19.03.2023,Saarbrücken,23,False,10114b63f55424e7812da91fe1cc0f9358dc9b42c0339af555ef17cfe5de7fac
-LA Team Saar,Halbmarathon,Timo,Schöndorf,1976,1:25:56,M,01.10.2023,Saarbrücken,24,False,be2e4805f94f9231f6ea0d1639da8117dad145b627def0f76ee406e3f5f89f68
-LTF Theeltal,Halbmarathon,Timo,Maurer,1970,1:26:38,M,19.03.2023,Saarbrücken,25,False,365df6bcdd45c35e957253e56daff3cb5444fbe2e58cd9a4cbd975af53a80b06
-LC Rehlingen,Halbmarathon,Michael,Wiesen,1981,1:26:46,M,03.09.2023,Merzig,26,False,6ed48581429752a52533ccd30db50c66e26bc24933f452dd72fe96491102feaf
-LLG Wustweiler,Halbmarathon,Markus,Groß,1978,1:26:58,M,26.03.2023,Freiburg,27,False,4ce0bfcab029430d2e49285b9aebf060bff2ee8d6a9e34f05e2cbd687a87cba0
-LSG Schmelz-Hüttersdorf,Halbmarathon,Francesco,Lanigra,1991,1:27:16,M,19.03.2023,Saarbrücken,28,False,2ec1db7a5da2186a7ac137a1fff2b3d937f0dd604a12bf2f4fcfcd645f4bf471
-HartfüßlerTrail e.V.,Halbmarathon,Michael,Schiffer,1977,1:27:22,M,03.09.2023,Merzig,29,False,9b3feb98a71f023645dcc27a5cb1c3030a04e6a739ed22c251d76373a0a4d885
-TV Lebach,Halbmarathon,Manfred,Komenda,1961,1:27:24,M,01.10.2023,Köln,30,False,742babd4da6f5a06791243fe2ebac2893af086380c14b564989219e3ec742150
-Athletic Perl,Halbmarathon,Baraa,Mosattat,1988,1:27:40,M,03.09.2023,Merzig,31,False,67656441dcf5872d2cb1b8c3c4cdb6e2990e0cfd410cf4d41970b001c42833c1
-LTF Marpingen,Halbmarathon,Simon,Schröder,1994,1:28:29,M,03.09.2023,Merzig,32,False,3d59d77f7fea0d8397440766af44e33319e46cd7bff3cceadae3be324df101c4
-Athletic Perl,Halbmarathon,Markus,Krempchen,1972,1:28:47,M,03.09.2023,Merzig,33,False,bb8a5f8e3116f1dc4851b676588450e907ee4cdd55d99254d111795fa0286f97
-SV GO! Saar 05,Halbmarathon,Ulli,Patrick Schweig,1975,1:29:15,M,19.03.2023,Saarbrücken,34,False,102c569bd988cda09c4c35ba903c9684b1e2739dbc474c99cf16a3d9281420f4
-TV Ludweiler,Halbmarathon,Patrick,Franz,1979,1:29:46,M,19.03.2023,Saarbrücken,35,False,75de4dcdbae38c34cd7ebb1a8d9c885b410d4f8032f222fc9e239fe31cbf72c6
-Athletic Perl,Halbmarathon,Dominik,Gasthauer,1988,1:30:42,M,19.03.2023,Saarbrücken,36,False,ea9d25f18e8a60debe068bb836915ea53920428c151edf9822a0c2fc9a347ead
-TV Homburg,Halbmarathon,Salvatore,Improta,1976,1:30:50,M,19.03.2023,Frankfurt,37,False,1491963c7b9dc4f5431c249ed44b131fa4f767cf9718bb2e4261dff7a216e675
-Run 4 Fun Bübingen,Halbmarathon,Stephan,Ritter,1965,1:31:14,M,19.03.2023,Saarbrücken,38,False,59adffc9d0a8449f8f5f8345c8fb04b7efebd159068542a5aa62c2dc58a282ae
-LAG Saarbrücken,Halbmarathon,Manuel,Kattler,1989,1:31:42,M,02.04.2023,Berlin,39,False,9aca99dc9ee38ac8268ccc692825959fab978f86e1cb9b93580bcb3da348a1c6
-LC Rehlingen,Halbmarathon,Michael,Henkes,1957,1:32:21,M,19.03.2023,Saarbrücken,40,False,4de3b23429ae72343cf4bde11f089dd8ec719f27a5e2015648c359a50f71bc1e
-LA Team Saar,Halbmarathon,Daniel,Stodden,1977,1:33:13,M,01.10.2023,Saarbrücken,41,False,a103429c6b72520d503d5c118603a01a4b21fb87916bd09167d54a0dc31ba757
-LAG Saarbrücken,Halbmarathon,Jan,Rompczyk,1976,1:33:55,M,26.03.2023,Freiburg,42,False,94f422167b41b61cddc7ab37443e86c9363baba08d2a5da71e0b298de037c326
-LC Völklingen,Halbmarathon,Robert,Walerus,1975,1:33:58,M,26.08.2023,Limbach,43,False,bafc846424a7e4363fda779ccb93ab56ffa17407fe24b0ab662582e239dd2de8
-LTF Theeltal,Halbmarathon,Michael,Groß,1982,1:34:07,M,03.09.2023,Merzig,44,False,4dc4f2c75bf28a7fae73c78748b137d2e2c36fe8fbcb1f2cd152f5ba73eb0482
-LG Saar 70,Halbmarathon,Christian,Martin,1990,1:34:17,M,03.09.2023,Merzig,45,False,ce65a0915eb7df78fa1d8f262a38200b78b0c4b287ddc7d9096dd3e33fb038d4
-SV GO! Saar 05,Halbmarathon,Michael,Becker,1986,1:34:19,M,01.10.2023,Saarbrücken,46,False,2189507bdb636c66da525022c504ddfc447e06d6d5fb99936c7645e8f94dbc54
-LSG Sbr.-Sulzbachtal,Halbmarathon,Volker,Willmann,1982,1:34:52,M,07.05.2023,St. Wendel,47,False,33bd4af37681c3a4f9adc7abc1f9f2eb177952ee233a7b93d2839527e755df83
-HartfüßlerTrail e.V.,Halbmarathon,Jan,Kuhn,1980,1:35:33,M,03.09.2023,Merzig,48,False,7cf71c69606f711cc1fc2ebe5153454d8e3fc5ffafb5246dfe3b622b91072983
-Run 4 Fun Bübingen,Halbmarathon,Armin,Schwambach,1968,1:35:41,M,01.10.2023,Saarbrücken,49,False,19214f305fccf59d6e7ea515cbe8858bfdaad0fcc3db051b50882258f471d747
-TV Limbach,Halbmarathon,Hartmut,Frego,1962,1:35:47,M,19.03.2023,Saarbrücken,50,False,9c1d583fbe6a7b4043e3a8003a20afd10835cf272477334b64902956d7ecebb8
-LTF Theeltal,Halbmarathon,André,Kronberg,1977,1:36:07,M,01.10.2023,Saarbrücken,51,False,6831b992c29360e5526573b0a7e2b1860a8dd15eff97e7baaaa1aadbcf1ca392
-LA Team Saar,Halbmarathon,Sebastian,Hunsicker,1991,1:36:14,M,03.09.2023,Merzig,52,False,505481981786ea0c8df91d615ec14b01c67df02267886c49ec1fb98416364e75
-LC Rehlingen,Halbmarathon,Jörg,Dietrich,1954,1:37:26,M,01.10.2023,Saarbrücken,53,False,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
-LA Team Saar,Halbmarathon,Stefan,Hunsicker,1959,1:38:05,M,19.03.2023,Saarbrücken,54,False,458df35d1f652aa6046a59d8025210c563b1732a9df78fbb9836cccd46d402bc
-SV GO! Saar 05,Halbmarathon,Nihat,Kont,1960,1:38:08,M,01.10.2023,Saarbrücken,55,False,7fa6c021fafa5338fea6c64d57828a971d0946b49b11b5606529b2bb4543bf8a
-LAG Saarbrücken,Halbmarathon,Horst,Duttlinger,1974,1:38:29,M,07.05.2023,St. Wendel,56,False,17fb78c668ea459abe56173d06c902f5ac58fd74e52a0fae672f2c7936af42e3
-LSG Saarlouis,Halbmarathon,Harald,Volz,1963,1:38:49,M,10.09.2023,Sai Yok/THA,57,False,6a3ac4735605857efc36b12d6ca433e52c90d21e4fc792d449ef2d501f2bd3e9
-Merziger Sport u. Freizeitverein,Halbmarathon,Christian,Bierbrauer,1971,1:39:15,M,03.09.2023,Merzig,58,False,1aa619d5b0f19ad31740ed3242cb08f36e0369498061f80209b25faefc28f651
-TV 1886 Bexbach,Halbmarathon,Franz,Huether,1952,1:39:50,M,26.03.2023,Freiburg,59,False,6c8c6592c01cd842edbd81b54887c7a9e136dfef9448d548aa1be3bde2ce7bbd
-LLG Wustweiler,Halbmarathon,Jonathan,Anschütz,1994,1:40:04,M,03.09.2023,Merzig,60,False,595c0c9143f95539455c8339783f5d04474e2712d3ac7033f3f04e46ec89acd1
-LTF Rennschnecke Dudweiler,Halbmarathon,Jörg,Weber,1967,1:40:54,M,19.03.2023,Saarbrücken,61,False,d0c027b5a3350cdddbc655f18a02bcdcc2ce759a42b077f062b5d2ab3f333a82
-LTF Marpingen,Halbmarathon,Stefan,Dörrenbächer,1960,1:41:45,M,07.05.2023,St. Wendel,62,False,12f857f4cbb9f5f33acce390443fed40f6ab1ee7a8ff93e4187fdb48793892f7
-LLG Wustweiler,Halbmarathon,Peter,Persch,1970,1:42:28,M,19.03.2023,Saarbrücken,63,False,ac4c5ac9cd7ca5b19f5d10a3e9b1eb3c828e7dac8c1b62689bb084cdf5fb41b4
-LSG Schmelz-Hüttersdorf,Halbmarathon,Stefan,Schneider,1981,1:42:54,M,26.03.2023,Freiburg,64,False,fdfb8183556fd4b0628255c4edac44f97b7f057ba1ffc0fa140f90e6739753f9
-LC Rehlingen,Halbmarathon,Gerhard,Ospelt,1958,1:43:13,M,03.09.2023,Merzig,65,False,3ca45bd92e0c75fd99839d3b0c22f333de29a8da1719c9130e09805e061f09a3
-LSG Sbr.-Sulzbachtal,Halbmarathon,Christian,Steckmann,1973,1:43:49,M,19.03.2023,Saarbrücken,66,False,5b9d2fc8da6f2a48b896e774990a1b77cf86a805fc43f8f62e256b14e23ecc5c
-HartfüßlerTrail e.V.,Halbmarathon,Heiko,Maas,1972,1:44:24,M,03.09.2023,Merzig,67,False,65efb1b7dd79288498bfa4dd2c153e539fbcfe94bf76720153ed8423d1ba32a8
-LTF Marpingen,Halbmarathon,Peter,Kapitza,1969,1:44:30,M,07.05.2023,St. Wendel,68,False,906b4bf5572ee9be169f3afaa8b62f51cba8e8bdf435a3250a07bdbfffef8b86
-LTF Theeltal,Halbmarathon,Ulrich,Groß,1965,1:45:03,M,01.10.2023,Saarbrücken,69,False,4167e8b6647f57e8b87bb61cb43422a98e6b4e5241386e69fc982ee60c8d3789
-LTF Theeltal,Halbmarathon,Thomas,Morgott,1972,1:46:02,M,01.10.2023,Saarbrücken,70,False,04c150eee615b7017590d47cdbbfa9c256477f9008c7d0c0ca5856b7731838b4
-SV GO! Saar 05,Halbmarathon,Michael,Klahm,1969,1:46:11,M,26.03.2023,Freiburg,71,False,c0eb270a5e5caf37b4209a1934572bcea7a19b219dfcff2ae92b1a8a1505d7c9
-LTF Theeltal,Halbmarathon,Michael,Nagel,1975,1:46:22,M,19.03.2023,Saarbrücken,72,False,350b4ec11c4c1b705d631afffb9fee649a81164945a5b97ceb62c21effad3ba6
-LLG Wustweiler,Halbmarathon,Jörg,Dresen,1973,1:46:25,M,01.10.2023,Saarbrücken,73,False,7bb384f163de336910d8e75aa28d653a0bb6aac1910834558ef39a88d1f9024d
-LLG Wustweiler,Halbmarathon,Eric,Mildau,1980,1:48:29,M,03.09.2023,Merzig,74,False,130505f7f7bb155ee4b2cc1e654f8a0bcbbeda2505891f14c176ea179726033b
-LAG Saarbrücken,Halbmarathon,Tibor,Csepregi,1962,1:50:52,M,03.09.2023,Merzig,75,False,95b15aaa28006cbbaf3624b5c29c3b109cb6cd24d5d78c7829584786c906c3af
-Bisttal-Runners,Halbmarathon,Hans-Günter,Jakobs,1949,1:52:12,M,03.09.2023,Merzig,76,False,e662455290c92ca16b3b88f38c76c43208630dc8b3efa405457f46c2c8abe6be
-LTF Rennschnecke Dudweiler,Halbmarathon,Jörg,Uhl,1977,1:54:05,M,07.05.2023,St. Wendel,77,False,a104533fbfc574d25c227f90278fd302d0fa387178ecca84f1f120764b74e68e
-FC LTF Selbach,Halbmarathon,Udo,Engstler,1958,1:54:35,M,01.10.2023,Köln,78,False,0ae45f697bddc2c1f2768afd0d58503053c41eed227ffaeae6cc4e4d9c48f93d
-LAG Saarbrücken,Halbmarathon,Andreas,Jahn,1980,1:55:30,M,03.09.2023,Merzig,79,False,3f45aa70130bd3c5ffdb49cd6b0bd36f08ad98798520be4069061e216e3a5214
-LLG Wustweiler,Halbmarathon,Erhard,Penzek,1957,1:55:42,M,07.05.2023,St. Wendel,80,False,6112cf255f7c079ad188f645032bf14f8c10bd592a2612a6fe0cbb70acb088ed
-LTF Köllertal,Halbmarathon,Kurt,Dernbecher,1950,1:57:17,M,19.03.2023,Saarbrücken,81,False,59bcaa95a11ee65f3217f2edb40b88c572c3f3bcda74b1c58d862113e630df5b
-LA Team Saar,Halbmarathon,Christian,Degel,1970,1:57:38,M,01.10.2023,Saarbrücken,82,False,784d6c90c567de92b1de6b9de9d7155a9763ee33ab0a065bbb4dd197562076df
-HartfüßlerTrail e.V.,Halbmarathon,Hans,Reimann,1955,1:57:45,M,03.09.2023,Merzig,83,False,d9902b3f4ba59553cb9c33726c4c310e42c3018ec73d09250c4e744a4a8ca89d
-LAG Saarbrücken,Halbmarathon,Dirk,Eichler-Uebel,1963,1:57:58,M,26.03.2023,Freiburg,84,False,a0976d9c7e08d82b140c1600cebe9ad2737d4af0463712443448f26367b658db
-TV St. Wendel,Halbmarathon,Eric,Knabl,1969,2:01:39,M,07.05.2023,St. Wendel,85,False,52ac073af80da195fcf6b6bc4589a34741bebe5d4aeadd3d774a0ea2dbc0198b
-Lauftreff Ritterstraße,Halbmarathon,Max,Nowak,1995,2:03:27,M,03.09.2023,Merzig,86,False,54cff4edccaeea48c266a33f88a4a3db510daddfefa7ee73e4b4d8bbefdf366a
-LTF Rennschnecke Dudweiler,Halbmarathon,Olaf,Kettenhofen,1961,2:03:37,M,07.05.2023,St. Wendel,87,False,1be514564e97949c895ac3aafffb9d3d218a84574ffd6c070592fe844df0b623
-LG Saar 70,Halbmarathon,Manfred,Dachs,1965,2:04:06,M,07.05.2023,Mainz,88,False,e0d8f7c02121a47879b7911d8ee3454e951d7188d65a0167484eb1d6a9061a4c
-LAG Saarbrücken,Halbmarathon,Jürgen,Tubbesing,1954,2:04:08,M,03.09.2023,Merzig,89,False,1f69b2e3e3c3dd2ebe7aaa97f3e09b104c077b863a6c540d03c69c57560288b2
-LTF Marpingen,Halbmarathon,Thorsten,Mayer,1980,2:04:14,M,12.03.2023,Kandel,90,False,0c53d8eca67e832bdb6bb11f757e8c3133e3582b25ea8270223e5a689d5d275b
-LTF Mauschbach,Halbmarathon,Matthias,Marx,1955,2:04:51,M,07.05.2023,St. Wendel,91,False,6ac6c7b4baa3892402c338887887e73ce73a91cb7e569d9ae0a2df6a075056a5
-LLG Wustweiler,Halbmarathon,Reinhold,Schuh,1948,2:04:56,M,03.09.2023,Merzig,92,False,d16f2d7f1dd92bb62875909233e1d4bc249c1614761d12e9bd8c1d98ac283cf2
-LTF Rennschnecke Dudweiler,Halbmarathon,Peter,Rogin,1968,2:05:12,M,07.05.2023,St. Wendel,93,False,9059c93eab09a62abb018b7a547d23b687d45c8dd5886073c52289e1692c8aa0
-TV Rehlingen,Halbmarathon,Bernd,Johann,1961,2:06:05,M,03.09.2023,Merzig,94,False,eebce559145f7bd9a661d40af08ecd5b436659d052b8597aef2557b6e65b1480
-LLG Wustweiler,Halbmarathon,Florian,Petry,1986,2:06:28,M,01.10.2023,Saarbrücken,95,False,48b661f591d11d8b72d298a173163ed3164e8ade9472a9cb5cd1c7928e697cc9
-LC Völklingen,Halbmarathon,Eckhard,Flierl,1962,2:07:01,M,26.03.2023,Freiburg,96,False,6cc09fd25645e89d862306b58a53da88755b4d6a10054a3c09b329b8d05fa2a4
-LAG Saarbrücken,Halbmarathon,Guido,Arz,1959,2:07:50,M,25.06.2023,Trier,97,False,775ff5c90ca764d2302b97ef3773aa80a2e7f9225b34cde6f2a84fa26db339c4
-LTF Marpingen,Halbmarathon,Christian,Duderstaedt,1990,2:08:30,M,07.05.2023,St. Wendel,98,False,77c2628a13365eab9b8fe024b080e695077d9e036d7ede1ef1775c442bbcb996
-LAG Saarbrücken,Halbmarathon,Lorenz,Maahs,1966,2:09:35,M,26.03.2023,Freiburg,99,False,69ff54b62e14af871bcc768a84fe06b35b4ee1a4e49d2b379fe77c599fdf6005
-LAG Saarbrücken,Halbmarathon,Gerd,Bögel,1958,2:09:50,M,26.03.2023,Freiburg,100,False,488e4e8e13f07aaa1f9c4cbfa1cfa98cb83b050da495e0d58dfabbef36f84644
-LTF Mauschbach,Halbmarathon,Jürgen,Munkes,1962,2:09:50,M,07.05.2023,St. Wendel,101,False,8fa503977ebb11e5220aa741d85cac3ee6a10a9c544cdb62406841d9d54fc8df
-SV GO! Saar 05,Halbmarathon,Michael,Franz,1957,2:13:24,M,19.03.2023,Saarbrücken,102,False,fa2de6f12185b0cb04828a9be3584f93540b949e646b4b24af7686eb827a9cac
-LTF Köllertal,Halbmarathon,Werner,Mootz,1942,2:25:01,M,03.09.2023,Merzig,103,False,ce04371d1c006905e645cdfd3d33d55c26a02700abc62c166af724c72089fb7b
-Lauftreff Ritterstraße,Halbmarathon,Guido,Kohl,1955,2:25:49,M,03.09.2023,Merzig,104,False,9653e60e5a88b04364b1f17479e5c451ec6895148047c9876e26a5f907cb7a94
-LTF Köllertal,Halbmarathon,Günter,Pink,1953,2:34:57,M,01.10.2023,Saarbrücken,105,False,07b0acb4995fc905810a2792aaaa6e3212aabe7fe08a68d15c2352015dfb6ea2
-LSG Sbr.-Sulzbachtal,Halbmarathon,Andreas,Feid,1967,2:35:22,M,07.05.2023,St. Wendel,106,False,0cd9887bf3a0f85a1a477e9397822c6cb0abbdc3181071601b577fc11deae77f
-LC Völklingen,Halbmarathon,Franz,Weber,1960,2:40:51,M,26.03.2023,Freiburg,107,False,6be0716bf2fe3f1a820cb422175f76c71a0d10b6b4f1ea6fa2dd667b6a5b4e43
-LSG Schmelz-Hüttersdorf,Halbmarathon,Werner,Zipfler,1959,2:53:02,M,03.09.2023,Merzig,108,False,0edf56b67ee9501ff374ac2ce4f4e45534f850cc85413b16828eb1ce41c96ee2
+LLG Wustweiler,Halbmarathon,Noah,Diemann,2002,1:13:57,M,19.03.2023,Frankfurt,5,False,68398828676d9ece4fde2e787105fd6d2502fd819b11a0c68005955c159a5766
+nextgendingmad e.V.,Halbmarathon,Paul,Weindl,1999,1:14:39,M,01.10.2023,Saarbrücken,6,False,df4731be2fe952a6089335d4b8fd4f4c159b45d6df9eeb6d198fb4f09cd988c5
+LSG Schmelz-Hüttersdorf,Halbmarathon,Benjamin,Irsch,1983,1:15:36,M,01.10.2023,Saarbrücken,7,False,819f00b34cafdedb1d66f112276c8bb1b3d91c9754045f92c3febae9b8f6f069
+LAZ Saarbrücken,Halbmarathon,Till,Speicher,1994,1:16:06,M,01.10.2023,Saarbrücken,8,False,4304040804d441714205dac6fda9277cd3161dc77fe4f2655552f8a2f632850b
+TuS Ormesheim,Halbmarathon,Torsten,Jacob,1985,1:17:11,M,03.09.2023,Merzig,9,False,fed24213b4f65873034475465197d0e1b0d1d538b19521d839a11229240eceba
+SV GO! Saar 05,Halbmarathon,Dominik,Paul,1992,1:17:37,M,26.03.2023,Freiburg,10,False,8e023157e6b7f98e5f92a3dab555498ace303033ebe7a97dcec0c23f8b7c5f66
+LLG Wustweiler,Halbmarathon,Giuseppe,Sardo,1990,1:18:24,M,03.09.2023,Merzig,11,False,a9fff8aab8a2c02618dff19d79baab1d0e98e576a2da47cfcaa863ad9056c7e5
+LSG Sbr.-Sulzbachtal,Halbmarathon,Daniel,Rhodes,1993,1:20:19,M,07.05.2023,Mainz,12,False,e106eb8d7087101fb7f867246d0697885b06d345561598d2f49092fbe170f4b5
+TuS Ormesheim,Halbmarathon,Carsten,Hoffmann,1980,1:21:36,M,03.09.2023,Merzig,13,False,fbf23af4cdb97fd0e8d17230169a17cda04a2d7c0305350b87c529e128e51753
+LSG Schmelz-Hüttersdorf,Halbmarathon,Marc,Wallrich,1990,1:21:59,M,03.09.2023,Merzig,14,False,104e542f3bd8f315343789683a0476da1b39a401b3a5f41e52a1fa217d547de5
+SV GO! Saar 05,Halbmarathon,Janick,Rehberger,1991,1:23:06,M,01.10.2023,Saarbrücken,15,False,a06613ed801de9d4cae1de8c58c5eb1ad02ac69fc258e3e792ab8fa9665c9f26
+nextgendingmad e.V.,Halbmarathon,Johannes,Ertle,1999,1:23:08,M,01.10.2023,Saarbrücken,16,False,b2188fcf6510dda914924af84aeadf75dea4b5bda8b29c7fcac5f2e49dfaddad
+LTF Marpingen,Halbmarathon,Jörg,Hooß,1964,1:23:13,M,03.09.2023,Merzig,17,False,696e668e3cd8604f787403a2b115a64ea7bacc412382a798fab036120343cf77
+LA Team Saar,Halbmarathon,Tobias,Nagel,1992,1:23:35,M,03.09.2023,Merzig,18,False,300e13ce0b9723b9560191e6b7ace915d76a09c19da0c83840db4880714c1c70
+SV GO! Saar 05,Halbmarathon,René,Hammler,1991,1:23:37,M,19.03.2023,Saarbrücken,19,False,efc5f175eec163790410c57380a63c356e83e3a2fcb1c2faeb474a3a92402739
+Grojos LTF Elversberg,Halbmarathon,Stefan,Harig,1970,1:23:51,M,03.09.2023,Merzig,20,False,7c3397b4c9ea189e255514ca1f16fc1b70e94847303960c88ac7deaa913a7283
+LTF Theeltal,Halbmarathon,Nico,Noss,1992,1:24:47,M,03.09.2023,Merzig,21,False,0a56f7d698ebba3c7f18067c98f39e2ad77485fbf4e363f3715d1608eae86e92
+LLG Wustweiler,Halbmarathon,Eric,Lorenz,1971,1:25:24,M,03.09.2023,Merzig,22,False,2ac9cbab04e1d79f3df5d5a863ba9d3dceb0b3833ad30cbf25ffab4f26dc723b
+LA Team Saar,Halbmarathon,Sebastian,Arens,1991,1:25:25,M,03.10.2023,Dortmund,23,False,39a60e89c777f5e45cf2ce8f8482eeff70ef80777cba318f0ada28f7353cbc6a
+LTF Theeltal,Halbmarathon,Sven,Massing,1987,1:25:44,M,19.03.2023,Saarbrücken,24,False,10114b63f55424e7812da91fe1cc0f9358dc9b42c0339af555ef17cfe5de7fac
+LA Team Saar,Halbmarathon,Timo,Schöndorf,1976,1:25:56,M,01.10.2023,Saarbrücken,25,False,be2e4805f94f9231f6ea0d1639da8117dad145b627def0f76ee406e3f5f89f68
+LTF Theeltal,Halbmarathon,Timo,Maurer,1970,1:26:38,M,19.03.2023,Saarbrücken,26,False,365df6bcdd45c35e957253e56daff3cb5444fbe2e58cd9a4cbd975af53a80b06
+LC Rehlingen,Halbmarathon,Michael,Wiesen,1981,1:26:46,M,03.09.2023,Merzig,27,False,6ed48581429752a52533ccd30db50c66e26bc24933f452dd72fe96491102feaf
+LLG Wustweiler,Halbmarathon,Markus,Groß,1978,1:26:58,M,26.03.2023,Freiburg,28,False,4ce0bfcab029430d2e49285b9aebf060bff2ee8d6a9e34f05e2cbd687a87cba0
+LSG Schmelz-Hüttersdorf,Halbmarathon,Francesco,Lanigra,1991,1:27:16,M,19.03.2023,Saarbrücken,29,False,2ec1db7a5da2186a7ac137a1fff2b3d937f0dd604a12bf2f4fcfcd645f4bf471
+HartfüßlerTrail e.V.,Halbmarathon,Michael,Schiffer,1977,1:27:22,M,03.09.2023,Merzig,30,False,9b3feb98a71f023645dcc27a5cb1c3030a04e6a739ed22c251d76373a0a4d885
+TV Lebach,Halbmarathon,Manfred,Komenda,1961,1:27:24,M,01.10.2023,Köln,31,False,742babd4da6f5a06791243fe2ebac2893af086380c14b564989219e3ec742150
+Athletic Perl,Halbmarathon,Baraa,Mosattat,1988,1:27:40,M,03.09.2023,Merzig,32,False,67656441dcf5872d2cb1b8c3c4cdb6e2990e0cfd410cf4d41970b001c42833c1
+LTF Marpingen,Halbmarathon,Simon,Schröder,1994,1:28:29,M,03.09.2023,Merzig,33,False,3d59d77f7fea0d8397440766af44e33319e46cd7bff3cceadae3be324df101c4
+Athletic Perl,Halbmarathon,Markus,Krempchen,1972,1:28:47,M,03.09.2023,Merzig,34,False,bb8a5f8e3116f1dc4851b676588450e907ee4cdd55d99254d111795fa0286f97
+SV GO! Saar 05,Halbmarathon,Ulli,Patrick Schweig,1975,1:29:15,M,19.03.2023,Saarbrücken,35,False,102c569bd988cda09c4c35ba903c9684b1e2739dbc474c99cf16a3d9281420f4
+TV Ludweiler,Halbmarathon,Patrick,Franz,1979,1:29:46,M,19.03.2023,Saarbrücken,36,False,75de4dcdbae38c34cd7ebb1a8d9c885b410d4f8032f222fc9e239fe31cbf72c6
+Athletic Perl,Halbmarathon,Dominik,Gasthauer,1988,1:30:42,M,19.03.2023,Saarbrücken,37,False,ea9d25f18e8a60debe068bb836915ea53920428c151edf9822a0c2fc9a347ead
+TV Homburg,Halbmarathon,Salvatore,Improta,1976,1:30:50,M,19.03.2023,Frankfurt,38,False,1491963c7b9dc4f5431c249ed44b131fa4f767cf9718bb2e4261dff7a216e675
+Run 4 Fun Bübingen,Halbmarathon,Stephan,Ritter,1965,1:31:14,M,19.03.2023,Saarbrücken,39,False,59adffc9d0a8449f8f5f8345c8fb04b7efebd159068542a5aa62c2dc58a282ae
+LAG Saarbrücken,Halbmarathon,Manuel,Kattler,1989,1:31:42,M,02.04.2023,Berlin,40,False,9aca99dc9ee38ac8268ccc692825959fab978f86e1cb9b93580bcb3da348a1c6
+LC Rehlingen,Halbmarathon,Michael,Henkes,1957,1:32:21,M,19.03.2023,Saarbrücken,41,False,4de3b23429ae72343cf4bde11f089dd8ec719f27a5e2015648c359a50f71bc1e
+LA Team Saar,Halbmarathon,Daniel,Stodden,1977,1:33:13,M,01.10.2023,Saarbrücken,42,False,a103429c6b72520d503d5c118603a01a4b21fb87916bd09167d54a0dc31ba757
+LAG Saarbrücken,Halbmarathon,Jan,Rompczyk,1976,1:33:55,M,26.03.2023,Freiburg,43,False,94f422167b41b61cddc7ab37443e86c9363baba08d2a5da71e0b298de037c326
+LC Völklingen,Halbmarathon,Robert,Walerus,1975,1:33:58,M,26.08.2023,Limbach,44,False,bafc846424a7e4363fda779ccb93ab56ffa17407fe24b0ab662582e239dd2de8
+LTF Theeltal,Halbmarathon,Michael,Groß,1982,1:34:07,M,03.09.2023,Merzig,45,False,4dc4f2c75bf28a7fae73c78748b137d2e2c36fe8fbcb1f2cd152f5ba73eb0482
+LG Saar 70,Halbmarathon,Christian,Martin,1990,1:34:17,M,03.09.2023,Merzig,46,False,ce65a0915eb7df78fa1d8f262a38200b78b0c4b287ddc7d9096dd3e33fb038d4
+SV GO! Saar 05,Halbmarathon,Michael,Becker,1986,1:34:19,M,01.10.2023,Saarbrücken,47,False,2189507bdb636c66da525022c504ddfc447e06d6d5fb99936c7645e8f94dbc54
+LSG Sbr.-Sulzbachtal,Halbmarathon,Volker,Willmann,1982,1:34:52,M,07.05.2023,St. Wendel,48,False,33bd4af37681c3a4f9adc7abc1f9f2eb177952ee233a7b93d2839527e755df83
+HartfüßlerTrail e.V.,Halbmarathon,Jan,Kuhn,1980,1:35:33,M,03.09.2023,Merzig,49,False,7cf71c69606f711cc1fc2ebe5153454d8e3fc5ffafb5246dfe3b622b91072983
+Run 4 Fun Bübingen,Halbmarathon,Armin,Schwambach,1968,1:35:41,M,01.10.2023,Saarbrücken,50,False,19214f305fccf59d6e7ea515cbe8858bfdaad0fcc3db051b50882258f471d747
+TV Limbach,Halbmarathon,Hartmut,Frego,1962,1:35:47,M,19.03.2023,Saarbrücken,51,False,9c1d583fbe6a7b4043e3a8003a20afd10835cf272477334b64902956d7ecebb8
+LTF Theeltal,Halbmarathon,André,Kronberg,1977,1:36:07,M,01.10.2023,Saarbrücken,52,False,6831b992c29360e5526573b0a7e2b1860a8dd15eff97e7baaaa1aadbcf1ca392
+LA Team Saar,Halbmarathon,Sebastian,Hunsicker,1991,1:36:14,M,03.09.2023,Merzig,53,False,505481981786ea0c8df91d615ec14b01c67df02267886c49ec1fb98416364e75
+LC Rehlingen,Halbmarathon,Jörg,Dietrich,1954,1:37:26,M,01.10.2023,Saarbrücken,54,False,fd4d8f12aadc02edb3f20abed6749d90f19ea835f34832280f4de70d8c475c75
+LA Team Saar,Halbmarathon,Stefan,Hunsicker,1959,1:38:05,M,19.03.2023,Saarbrücken,55,False,458df35d1f652aa6046a59d8025210c563b1732a9df78fbb9836cccd46d402bc
+SV GO! Saar 05,Halbmarathon,Nihat,Kont,1960,1:38:08,M,01.10.2023,Saarbrücken,56,False,7fa6c021fafa5338fea6c64d57828a971d0946b49b11b5606529b2bb4543bf8a
+LAG Saarbrücken,Halbmarathon,Horst,Duttlinger,1974,1:38:29,M,07.05.2023,St. Wendel,57,False,17fb78c668ea459abe56173d06c902f5ac58fd74e52a0fae672f2c7936af42e3
+LSG Saarlouis,Halbmarathon,Harald,Volz,1963,1:38:49,M,10.09.2023,Sai Yok/THA,58,False,6a3ac4735605857efc36b12d6ca433e52c90d21e4fc792d449ef2d501f2bd3e9
+Merziger Sport u. Freizeitverein,Halbmarathon,Christian,Bierbrauer,1971,1:39:15,M,03.09.2023,Merzig,59,False,1aa619d5b0f19ad31740ed3242cb08f36e0369498061f80209b25faefc28f651
+TV 1886 Bexbach,Halbmarathon,Franz,Huether,1952,1:39:50,M,26.03.2023,Freiburg,60,False,6c8c6592c01cd842edbd81b54887c7a9e136dfef9448d548aa1be3bde2ce7bbd
+LLG Wustweiler,Halbmarathon,Jonathan,Anschütz,1994,1:40:04,M,03.09.2023,Merzig,61,False,595c0c9143f95539455c8339783f5d04474e2712d3ac7033f3f04e46ec89acd1
+LTF Rennschnecke Dudweiler,Halbmarathon,Jörg,Weber,1967,1:40:54,M,19.03.2023,Saarbrücken,62,False,d0c027b5a3350cdddbc655f18a02bcdcc2ce759a42b077f062b5d2ab3f333a82
+LTF Marpingen,Halbmarathon,Stefan,Dörrenbächer,1960,1:41:45,M,07.05.2023,St. Wendel,63,False,12f857f4cbb9f5f33acce390443fed40f6ab1ee7a8ff93e4187fdb48793892f7
+LLG Wustweiler,Halbmarathon,Peter,Persch,1970,1:42:28,M,19.03.2023,Saarbrücken,64,False,ac4c5ac9cd7ca5b19f5d10a3e9b1eb3c828e7dac8c1b62689bb084cdf5fb41b4
+LSG Schmelz-Hüttersdorf,Halbmarathon,Stefan,Schneider,1981,1:42:54,M,26.03.2023,Freiburg,65,False,fdfb8183556fd4b0628255c4edac44f97b7f057ba1ffc0fa140f90e6739753f9
+LC Rehlingen,Halbmarathon,Gerhard,Ospelt,1958,1:43:13,M,03.09.2023,Merzig,66,False,3ca45bd92e0c75fd99839d3b0c22f333de29a8da1719c9130e09805e061f09a3
+LSG Sbr.-Sulzbachtal,Halbmarathon,Christian,Steckmann,1973,1:43:49,M,19.03.2023,Saarbrücken,67,False,5b9d2fc8da6f2a48b896e774990a1b77cf86a805fc43f8f62e256b14e23ecc5c
+HartfüßlerTrail e.V.,Halbmarathon,Heiko,Maas,1972,1:44:24,M,03.09.2023,Merzig,68,False,65efb1b7dd79288498bfa4dd2c153e539fbcfe94bf76720153ed8423d1ba32a8
+LTF Marpingen,Halbmarathon,Peter,Kapitza,1969,1:44:30,M,07.05.2023,St. Wendel,69,False,906b4bf5572ee9be169f3afaa8b62f51cba8e8bdf435a3250a07bdbfffef8b86
+LTF Theeltal,Halbmarathon,Ulrich,Groß,1965,1:45:03,M,01.10.2023,Saarbrücken,70,False,4167e8b6647f57e8b87bb61cb43422a98e6b4e5241386e69fc982ee60c8d3789
+LTF Theeltal,Halbmarathon,Thomas,Morgott,1972,1:46:02,M,01.10.2023,Saarbrücken,71,False,04c150eee615b7017590d47cdbbfa9c256477f9008c7d0c0ca5856b7731838b4
+SV GO! Saar 05,Halbmarathon,Michael,Klahm,1969,1:46:11,M,26.03.2023,Freiburg,72,False,c0eb270a5e5caf37b4209a1934572bcea7a19b219dfcff2ae92b1a8a1505d7c9
+LTF Theeltal,Halbmarathon,Michael,Nagel,1975,1:46:22,M,19.03.2023,Saarbrücken,73,False,350b4ec11c4c1b705d631afffb9fee649a81164945a5b97ceb62c21effad3ba6
+LLG Wustweiler,Halbmarathon,Jörg,Dresen,1973,1:46:25,M,01.10.2023,Saarbrücken,74,False,7bb384f163de336910d8e75aa28d653a0bb6aac1910834558ef39a88d1f9024d
+LLG Wustweiler,Halbmarathon,Eric,Mildau,1980,1:48:29,M,03.09.2023,Merzig,75,False,130505f7f7bb155ee4b2cc1e654f8a0bcbbeda2505891f14c176ea179726033b
+LAG Saarbrücken,Halbmarathon,Tibor,Csepregi,1962,1:50:52,M,03.09.2023,Merzig,76,False,95b15aaa28006cbbaf3624b5c29c3b109cb6cd24d5d78c7829584786c906c3af
+Bisttal-Runners,Halbmarathon,Hans-Günter,Jakobs,1949,1:52:12,M,03.09.2023,Merzig,77,False,e662455290c92ca16b3b88f38c76c43208630dc8b3efa405457f46c2c8abe6be
+LTF Rennschnecke Dudweiler,Halbmarathon,Jörg,Uhl,1977,1:54:05,M,07.05.2023,St. Wendel,78,False,a104533fbfc574d25c227f90278fd302d0fa387178ecca84f1f120764b74e68e
+FC LTF Selbach,Halbmarathon,Udo,Engstler,1958,1:54:35,M,01.10.2023,Köln,79,False,0ae45f697bddc2c1f2768afd0d58503053c41eed227ffaeae6cc4e4d9c48f93d
+LAG Saarbrücken,Halbmarathon,Andreas,Jahn,1980,1:55:30,M,03.09.2023,Merzig,80,False,3f45aa70130bd3c5ffdb49cd6b0bd36f08ad98798520be4069061e216e3a5214
+LLG Wustweiler,Halbmarathon,Erhard,Penzek,1957,1:55:42,M,07.05.2023,St. Wendel,81,False,6112cf255f7c079ad188f645032bf14f8c10bd592a2612a6fe0cbb70acb088ed
+LTF Köllertal,Halbmarathon,Kurt,Dernbecher,1950,1:57:17,M,19.03.2023,Saarbrücken,82,False,59bcaa95a11ee65f3217f2edb40b88c572c3f3bcda74b1c58d862113e630df5b
+LA Team Saar,Halbmarathon,Christian,Degel,1970,1:57:38,M,01.10.2023,Saarbrücken,83,False,784d6c90c567de92b1de6b9de9d7155a9763ee33ab0a065bbb4dd197562076df
+HartfüßlerTrail e.V.,Halbmarathon,Hans,Reimann,1955,1:57:45,M,03.09.2023,Merzig,84,False,d9902b3f4ba59553cb9c33726c4c310e42c3018ec73d09250c4e744a4a8ca89d
+LAG Saarbrücken,Halbmarathon,Dirk,Eichler-Uebel,1963,1:57:58,M,26.03.2023,Freiburg,85,False,a0976d9c7e08d82b140c1600cebe9ad2737d4af0463712443448f26367b658db
+TV St. Wendel,Halbmarathon,Eric,Knabl,1969,2:01:39,M,07.05.2023,St. Wendel,86,False,52ac073af80da195fcf6b6bc4589a34741bebe5d4aeadd3d774a0ea2dbc0198b
+Lauftreff Ritterstraße,Halbmarathon,Max,Nowak,1995,2:03:27,M,03.09.2023,Merzig,87,False,54cff4edccaeea48c266a33f88a4a3db510daddfefa7ee73e4b4d8bbefdf366a
+LTF Rennschnecke Dudweiler,Halbmarathon,Olaf,Kettenhofen,1961,2:03:37,M,07.05.2023,St. Wendel,88,False,1be514564e97949c895ac3aafffb9d3d218a84574ffd6c070592fe844df0b623
+LG Saar 70,Halbmarathon,Manfred,Dachs,1965,2:04:06,M,07.05.2023,Mainz,89,False,e0d8f7c02121a47879b7911d8ee3454e951d7188d65a0167484eb1d6a9061a4c
+LAG Saarbrücken,Halbmarathon,Jürgen,Tubbesing,1954,2:04:08,M,03.09.2023,Merzig,90,False,1f69b2e3e3c3dd2ebe7aaa97f3e09b104c077b863a6c540d03c69c57560288b2
+LTF Marpingen,Halbmarathon,Thorsten,Mayer,1980,2:04:14,M,12.03.2023,Kandel,91,False,0c53d8eca67e832bdb6bb11f757e8c3133e3582b25ea8270223e5a689d5d275b
+LTF Mauschbach,Halbmarathon,Matthias,Marx,1955,2:04:51,M,07.05.2023,St. Wendel,92,False,6ac6c7b4baa3892402c338887887e73ce73a91cb7e569d9ae0a2df6a075056a5
+LLG Wustweiler,Halbmarathon,Reinhold,Schuh,1948,2:04:56,M,03.09.2023,Merzig,93,False,d16f2d7f1dd92bb62875909233e1d4bc249c1614761d12e9bd8c1d98ac283cf2
+LTF Rennschnecke Dudweiler,Halbmarathon,Peter,Rogin,1968,2:05:12,M,07.05.2023,St. Wendel,94,False,9059c93eab09a62abb018b7a547d23b687d45c8dd5886073c52289e1692c8aa0
+TV Rehlingen,Halbmarathon,Bernd,Johann,1961,2:06:05,M,03.09.2023,Merzig,95,False,eebce559145f7bd9a661d40af08ecd5b436659d052b8597aef2557b6e65b1480
+LLG Wustweiler,Halbmarathon,Florian,Petry,1986,2:06:28,M,01.10.2023,Saarbrücken,96,False,48b661f591d11d8b72d298a173163ed3164e8ade9472a9cb5cd1c7928e697cc9
+LC Völklingen,Halbmarathon,Eckhard,Flierl,1962,2:07:01,M,26.03.2023,Freiburg,97,False,6cc09fd25645e89d862306b58a53da88755b4d6a10054a3c09b329b8d05fa2a4
+LAG Saarbrücken,Halbmarathon,Guido,Arz,1959,2:07:50,M,25.06.2023,Trier,98,False,775ff5c90ca764d2302b97ef3773aa80a2e7f9225b34cde6f2a84fa26db339c4
+LTF Marpingen,Halbmarathon,Christian,Duderstaedt,1990,2:08:30,M,07.05.2023,St. Wendel,99,False,77c2628a13365eab9b8fe024b080e695077d9e036d7ede1ef1775c442bbcb996
+LAG Saarbrücken,Halbmarathon,Lorenz,Maahs,1966,2:09:35,M,26.03.2023,Freiburg,100,False,69ff54b62e14af871bcc768a84fe06b35b4ee1a4e49d2b379fe77c599fdf6005
+LAG Saarbrücken,Halbmarathon,Gerd,Bögel,1958,2:09:50,M,26.03.2023,Freiburg,101,False,488e4e8e13f07aaa1f9c4cbfa1cfa98cb83b050da495e0d58dfabbef36f84644
+LTF Mauschbach,Halbmarathon,Jürgen,Munkes,1962,2:09:50,M,07.05.2023,St. Wendel,102,False,8fa503977ebb11e5220aa741d85cac3ee6a10a9c544cdb62406841d9d54fc8df
+SV GO! Saar 05,Halbmarathon,Michael,Franz,1957,2:13:24,M,19.03.2023,Saarbrücken,103,False,fa2de6f12185b0cb04828a9be3584f93540b949e646b4b24af7686eb827a9cac
+LTF Köllertal,Halbmarathon,Werner,Mootz,1942,2:25:01,M,03.09.2023,Merzig,104,False,ce04371d1c006905e645cdfd3d33d55c26a02700abc62c166af724c72089fb7b
+Lauftreff Ritterstraße,Halbmarathon,Guido,Kohl,1955,2:25:49,M,03.09.2023,Merzig,105,False,9653e60e5a88b04364b1f17479e5c451ec6895148047c9876e26a5f907cb7a94
+LTF Köllertal,Halbmarathon,Günter,Pink,1953,2:34:57,M,01.10.2023,Saarbrücken,106,False,07b0acb4995fc905810a2792aaaa6e3212aabe7fe08a68d15c2352015dfb6ea2
+LSG Sbr.-Sulzbachtal,Halbmarathon,Andreas,Feid,1967,2:35:22,M,07.05.2023,St. Wendel,107,False,0cd9887bf3a0f85a1a477e9397822c6cb0abbdc3181071601b577fc11deae77f
+LC Völklingen,Halbmarathon,Franz,Weber,1960,2:40:51,M,26.03.2023,Freiburg,108,False,6be0716bf2fe3f1a820cb422175f76c71a0d10b6b4f1ea6fa2dd667b6a5b4e43
+LSG Schmelz-Hüttersdorf,Halbmarathon,Werner,Zipfler,1959,2:53:02,M,03.09.2023,Merzig,109,False,0edf56b67ee9501ff374ac2ce4f4e45534f850cc85413b16828eb1ce41c96ee2
 LC Rehlingen,Halbmarathon Mannschaft,Richard,Ringer,1989,3:21:09,M,26.03.2023,Freiburg,1,True,bf82e029327bf1a49a202ec20e1336081a1d7b9fbccb39b1c2121c7ac5e4fe0f
 LC Rehlingen,Halbmarathon Mannschaft,Alexander,Bock,1992,3:21:09,M,26.03.2023,Freiburg,1,True,c8b197212012d731713a2d9410f129935ad099eb4e09a53c355da811dae7afc0
 LC Rehlingen,Halbmarathon Mannschaft,Philipp,Stief,1991,3:21:09,M,26.03.2023,Freiburg,1,True,3e70e1f697675c191b119fc2f192aaee25d53ff9a42cfe9c28740fd0bceb68d8
@@ -1234,89 +1236,90 @@ Grojos LTF Elversberg,10 km Straße,Maike,Müller,1991,41:14,F,26.08.2023,Limbac
 SV GO! Saar 05,10 km Straße,Katharina,Rausch,1986,41:15,F,11.11.2023,Langsur,12,False,62397d333a05bfd00732bbdc9360838271a588f8545eb0cd21fe0f3ebd99dc67
 SV GO! Saar 05,10 km Straße,Ann-Cathrine,Jülch,1989,41:22,F,03.12.2023,Saarbrücken,13,False,0249a58e7a3a1df1d797df45fbb51ba30647ff9a976c6bdc233a4402b4cc8a35
 LLG Wustweiler,10 km Straße,Stephanie,Dörr,1989,41:28,F,03.12.2023,Saarbrücken,14,False,4aaf229215d9d7472f6534fa77a70bc63b8e4d0ea4c45d8f5cc4bb55588c0fd5
-LA Team Saar,10 km Straße,Franziska,Zimmer-Schönenberger,1973,41:59,F,03.12.2023,Saarbrücken,15,False,f2c7eeebc01d5a10138dff76d3343c96a2c47dff357b2c91cb733108961c3ff9
-LTF Marpingen,10 km Straße,Klara,Heidenreich,2002,42:07,F,03.12.2023,Saarbrücken,16,False,a79d5db22d51f583b15c4d294a7f9aee3e7dbb18b06a8bce6dc708e261f76692
-LLG Wustweiler,10 km Straße,Michelle,Sträßer,1995,42:43,F,14.10.2023,Illingen,17,False,ff684fa82fd608b12f9680a2a0aea04ac273f942f11b2e9cf96dcdd48e78c078
-LTF Theeltal,10 km Straße,Sarah,Kronberg,1986,43:07,F,03.12.2023,Saarbrücken,18,False,9eb22deff6aba8bba7595bcf2cb146be499c0026f5a4452ccb474c8e6c5aed01
-LC Rehlingen,10 km Straße,Claudia,Seel,1972,43:09,F,05.03.2023,Leverkusen,19,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
-SV GO! Saar 05,10 km Straße,Heike,Maas,1975,43:18,F,03.12.2023,Saarbrücken,20,False,6f85c878a0f13fdd17b0df45fdeca9f3bcd205d47752a3b335a53871a07ce530
-LAG Saarbrücken,10 km Straße,Olena,Kuchai,1981,43:24,F,01.10.2023,Saarbrücken,21,False,b08c484d1e24c07cac3105ee3b823d5ea6c81001cc0c6da7f91902c85884d75c
-LSG Sbr.-Sulzbachtal,10 km Straße,Lisa-Maria,Kipper,1988,43:34,F,26.02.2023,St. Wendel,22,False,df07c572e7c28dce9167f3a9a07d2faae3cc6f47cd101aae45ebc138c70a5f92
-LSG Sbr.-Sulzbachtal,10 km Straße,Nina,Apushkinskaya,1996,43:59,F,21.05.2023,Saarbrücken,23,False,73e75c8ab3483a2be6f78f53863f36e483ab6387b802ed68aa39d3a120065512
-Athletic Perl,10 km Straße,Jeanny,Zimmer,1977,44:35,F,11.11.2023,Langsur,24,False,001fb110be7d7ce329caf25af1f88a0f78ac25b549acf0cba9b8ce3b1156757b
-LC Rehlingen,10 km Straße,Bettina,Bopp,1966,44:48,F,03.12.2023,Saarbrücken,25,False,460fb97d96c89e57500875d064da7c903fb39ffe709aeff0eaa6eaeeca9fd2b1
-LSG Sbr.-Sulzbachtal,10 km Straße,Julia,Klees,1995,45:02,F,03.12.2023,Saarbrücken,26,False,b9e5b199d1d405636f493b4cdccff26d221447e57ad7d4370b45c0e908bb8828
-SV GO! Saar 05,10 km Straße,Audrey,Vaughan,1986,45:43,F,11.11.2023,Langsur,27,False,c1e68faaeb9fb389ef9edaf6f43367f964ae9186783519021dc680a47a324b61
-SV GO! Saar 05,10 km Straße,Miriam,Wocke,1992,45:56,F,21.05.2023,Saarbrücken,28,False,376607370ae139eeb1e48e4dcf6d5b43b773f3567094220270a692633980d4eb
-LLG Wustweiler,10 km Straße,Katrin,Groß,1985,46:18,F,16.09.2023,Ottweiler,29,False,ba23bf04673f05a9165eb0d09b886790f290d7f1772aa5252bdeb58f94d33d6c
-HartfüßlerTrail e.V.,10 km Straße,Simone,Grewenig-Czarny,1982,46:24,F,21.05.2023,Saarbrücken,30,False,6062a1c9dda591e6c3a8d44782c17769cda24f3ab386e9de3c66c60ddee15ce5
-LLG Wustweiler,10 km Straße,Jenny,Martin,1984,46:41,F,18.03.2023,Schweich,31,False,8834b28728fdb01cb036ea5337ddfa8084bc97dcee088081372c80d2c97e54a3
-HartfüßlerTrail e.V.,10 km Straße,Noelle,Schmitt,1993,46:45,F,03.12.2023,Saarbrücken,32,False,a9185308a7b1ff47795c833997966b7c641d4af230c69a97c8a62e5dcc2b55e0
-"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Heidi,Hartmann,1964,46:48,F,03.12.2023,Saarbrücken,33,False,2cc90a9745aef133203a0d10f6b0c426de3417e049e3e878d0d2f240f6b073bb
-SV GO! Saar 05,10 km Straße,Evi,Klahm,1968,47:01,F,16.09.2023,Ottweiler,34,False,d2b7a048cf322b9b1f13ab7ecaf260ce2ea88a42ae94c71743c9e68563e8839a
-LLG Wustweiler,10 km Straße,Barbara,Resch,1987,47:03,F,18.03.2023,Schweich,35,False,27d719622825376cdda1ebb2f263a1fc6ad95db2405ca531ac8fff963ded5b39
-SV GO! Saar 05,10 km Straße,Sybille,Becker-Oehm,1979,47:07,F,21.05.2023,Saarbrücken,36,False,3d6af5baaa4c00e4b5adda3e686da6586a76c51c8ef40469b320a61c1d51ce58
-HartfüßlerTrail e.V.,10 km Straße,Claudia,Maas,1973,47:08,F,16.09.2023,Ottweiler,37,False,a3887b83f089398774a8add1b2f54ff5de9b00121a0afd65082f6d9f931bac13
-SV GO! Saar 05,10 km Straße,Heike,Sausen,1969,48:28,F,16.09.2023,Ottweiler,38,False,a9a96d708fb1ac2d3036101049bbf8af7d514fbcae4ff80021046105926b4e39
-LTF Köllertal,10 km Straße,Melanie,Müller,1988,48:34,F,03.12.2023,Saarbrücken,39,False,54420231c3aa807276ec363ca281a2584d56652b2f3b62a42f38b0a494caa92c
-LC Völklingen,10 km Straße,Cordula,Bai,1970,48:42,F,11.11.2023,Langsur,40,False,eaf32f02e314797181f804d7ff3577d9071d8ca7f7cba251d84298507d7b2004
-TV Lebach,10 km Straße,Christina,Krämer,1978,49:36,F,16.09.2023,Ottweiler,41,False,f1bce3151fafaa81ea02fd8b5ae272e10534021821ba8a1077bb642ec445766c
-LLG Wustweiler,10 km Straße,Anna,Noß,1985,49:39,F,09.12.2023,Ottweiler,42,False,2a8ff3435a1a2e25e6f9648669eb786dc341d07ed6d0670430607388a54d9c3f
-"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Bärbel,Hartmann,1964,49:48,F,07.05.2023,St. Wendel,43,False,51cab75b5b45eaee12f2796ed24233a33dc27413024294b65b1be44ade98052c
-LC Rehlingen,10 km Straße,Gabriele,Celette,1956,49:55,F,16.09.2023,Ottweiler,44,False,7dc557c1141823357b051b6079d1fb7224657fdeb020ae75fe27cd65a42e9faa
-LTF Marpingen,10 km Straße,Marion,Nesselberger,1976,49:56,F,26.02.2023,St. Wendel,45,False,497934f627b9c3fdb71a03ef467d3b590e61bf50a555fea5367e9388ebd23f8e
-LC Rehlingen,10 km Straße,Anna,Schaab,1983,50:05,F,16.09.2023,Ottweiler,46,False,8ee5779c03a5c1a008c3d9bdc0906b3bf78c881fbc63e246dac16b039d3c5d01
-LSG Schmelz-Hüttersdorf,10 km Straße,Elisa,Holz,1998,50:06,F,23.06.2023,Lebach,47,False,cad7469adbf4707d1cf4246beb5990f13d8afb247ff731354208a358c6e0c3a3
-LTF Marpingen,10 km Straße,Daniela,Frank,1963,50:34,F,07.05.2023,St. Wendel,48,False,0f5ace487de2655935ba8b08e7312e02fdca5a30f6348ea856d4f9c20101806a
-LTF Theeltal,10 km Straße,Charlotte,Hell,1992,50:38,F,07.05.2023,St. Wendel,49,False,3d7b877c51fad3189e01fc7cf0b1fceaabe302cc8b3e3c87a4f5ff93b28a1407
-SV GO! Saar 05,10 km Straße,Claudia,Lang,1969,50:40,F,26.08.2023,Limbach,50,False,36122286e88ee215f003b499ea61977d9824d22682a345a01096737ad7ebe69d
-TV 1886 Bexbach,10 km Straße,Nicole,Walter,1982,50:43,F,03.12.2023,Saarbrücken,51,False,9272927a7a5609867db46ea3af4131e4e37bde861e9d512f3d6ef8bfcb0ca724
-LTF Theeltal,10 km Straße,Saskia,Kupsch,1990,51:00,F,23.06.2023,Lebach,52,False,eccafb393378764b2908b68dc1c61bdd07591accf93540675bbda0f3ab897518
-LAG Saarbrücken,10 km Straße,Steffi,Meiers,1970,51:03,F,03.12.2023,Saarbrücken,53,False,de1c1df0ea90faa0218cc15ad3eaeccb7563565e608a77228d14b1aa29160070
-Bisttal-Runners,10 km Straße,Barbara,Arweiler-Minn,1963,51:15,F,03.12.2023,Saarbrücken,54,False,16bf01dab801398ca11c5ed7e15a0ea0fb9728bc265dfedc6e1b83269f2c5f3b
-LLG Wustweiler,10 km Straße,Marlene,Rothenbusch,1956,51:17,F,01.10.2023,Saarbrücken,55,False,8ea514333a768e128f8a49658a9462ec7cee856cb6c1be629215c5a0cdec08f5
-LSG Sbr.-Sulzbachtal,10 km Straße,Gerda,Becker,1959,51:20,F,10.09.2023,Bad Liebenzell,56,False,885e2d009decd1f1677215074454497f992d8314785248df8ab517ef27f7cfa9
-LLG Wustweiler,10 km Straße,Heike,Ehl,1990,51:25,F,09.12.2023,Ottweiler,57,False,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
-LTF Marpingen,10 km Straße,Tanja,Hooß,1967,51:37,F,26.02.2023,St. Wendel,58,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
-SV GO! Saar 05,10 km Straße,Sabine,Köhler,1970,52:09,F,03.12.2023,Saarbrücken,59,False,9ee59f6b9c6bf21df982e94607d50fddc25441ea849d9705a4223e19bfbfd3e2
-LLG Wustweiler,10 km Straße,Birgit,Rodner,1963,52:15,F,18.03.2023,Schweich,60,False,1bd43adc2ce916e4579b7ac4b10c26ab63a826a7e04b1f1e06c916c05b4278b6
-LSG Sbr.-Sulzbachtal,10 km Straße,Jola,Frey,2003,52:44,F,21.05.2023,Saarbrücken,61,False,fd507f9b9a7f638e7f7a865b0af7d23d9b09bb61309e610c67af8254e28dc5c4
-HartfüßlerTrail e.V.,10 km Straße,Fanny,Loux,1993,52:46,F,16.09.2023,Ottweiler,62,False,a3b66b8ba7fc7df5774d483380cd9910b6f8df5af212780949eb817b5ae58f7e
-LC Völklingen,10 km Straße,Dorothee,Mathieu,1959,53:07,F,01.10.2023,Saarbrücken,63,False,2d16cd3267f87cdeba722d00186acc12e930fff69d907de8928c33d91444f92c
-LLG Wustweiler,10 km Straße,Stefanie,Fichtel,1988,53:43,F,18.03.2023,Schweich,64,False,d1a7768808bc7313cbc547efce1f4bd7e04db3a33af83de4594294d9e62d990e
-TV Lebach,10 km Straße,Anne,Zimmer,1971,53:45,F,16.09.2023,Ottweiler,65,False,a87ac185a7f08ceb6d20081530d012a554b3fed486cd56b56506e1c41baa2ea8
-LSG Schmelz-Hüttersdorf,10 km Straße,Stephanie,Valentin,1969,53:54,F,23.06.2023,Lebach,66,False,055a0f048eb1f603ef613c759f9933a85ccc0702cf5960c53b6f3c0366f05c6f
-LAG Saarbrücken,10 km Straße,Sabine,König,1963,54:12,F,03.12.2023,Saarbrücken,67,False,e33f4ed17ac7ef154d9e589ec79efb778a8f0b8736295f215bf732b8dabc1486
-LLG Wustweiler,10 km Straße,Michelle,Faber,1994,54:42,F,11.11.2023,Langsur,68,False,88ef790dd016323c6fd82ac528e5a515f028ffb5915cadd736bd620248344e64
-"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Ursula,Gross,1953,54:53,F,01.10.2023,Saarbrücken,69,False,71b35f7c8531b9c16889205af9a8825a24345404de84f7ca5ad0c03bf243f320
-LTF Rennschnecke Dudweiler,10 km Straße,Michelle,Bender,1986,54:54,F,21.05.2023,Saarbrücken,70,False,2d9d0801a3cac39952962cd2a74c569ac62f5992a566c6b33567cc24b2ae5694
-HartfüßlerTrail e.V.,10 km Straße,Jacqueline,Sohn,1986,55:09,F,01.10.2023,Saarbrücken,71,False,8e4f47bf261aed455fd36f4d24900f0ad6add5e1d42b4cf5978aeb26e7b08b65
-LTF Marpingen,10 km Straße,Martina,Spaniol,1958,55:14,F,26.02.2023,St. Wendel,72,False,a5044ac802b4a2b2be5866b36327357aef72960b32b1a234ec3992e118244d96
-LTF Winterbach,10 km Straße,Liesel,Schwarz,1957,55:36,F,07.05.2023,St. Wendel,73,False,2e299e9a30cf48d8ac7f16cf67cb60f7bd5ff9180e03d8f752431d89c7750ecf
-LLG Wustweiler,10 km Straße,Birgit,Keßler,1967,55:54,F,03.12.2023,Saarbrücken,74,False,a29637168f36fb987daa440338f82ba22d562276ad8a09a733efade10313ef63
-TV Lebach,10 km Straße,Nicole,Leinenbach,1978,56:05,F,16.09.2023,Ottweiler,75,False,b019ee3eb881392ff2add6882adc60f77e02570c8337cb3907ce745561a1a93a
-LLG Wustweiler,10 km Straße,Dorothea,Zimmer,1963,56:37,F,09.12.2023,Ottweiler,76,False,982708841f972ddc3a8b82e6b98eaa7154de96462b732437122c94e023d10d6b
-LTF Theeltal,10 km Straße,Birgit,Klesen,1964,56:59,F,25.06.2023,Trier,77,False,1291b87fcd4b6fc1881224ec1dd6e6d216a0f1d7c48279af76e64876396a3f70
-TV 1886 Bexbach,10 km Straße,Veronika,Ruffing,1963,57:00,F,01.10.2023,Saarbrücken,78,False,9dc362cc9b0a40260823649a15d0283a3c6b64adcfa96affcf179f46a5eeb59a
-LSG Sbr.-Sulzbachtal,10 km Straße,Silke,Schneider,1972,57:12,F,15.04.2023,Mülheim,79,False,d5c09a55ec93aed1822b10ea8ee257d5c1a2d97e0cd7d8aaa4cd71b9584a3f38
-TuS 1860 Neunkirchen,10 km Straße,Meike,Schreiner,1998,57:24,F,14.10.2023,Illingen,80,False,42c42afdfd34fb3fe79f0f0a9f358b5ee0851401fff1548cfde3f5791cc25f3e
-SV GO! Saar 05,10 km Straße,Ayse,Kont,1967,57:33,F,16.09.2023,Ottweiler,81,False,bb6fa37940061453c47ebe4bfa072454e69ee4aff25d4c180d20b757285e1375
-LSG Sbr.-Sulzbachtal,10 km Straße,Agnes,Bender-Rauguth,1955,58:36,F,16.09.2023,Ottweiler,82,False,5f1a68ab6e3fcd249ecc2c36c8be1b3231520dc59ae64370f51555d4b2264ffa
-TV Lebach,10 km Straße,Monika,Neu,1969,59:08,F,14.09.2023,Homburg,83,False,066927837c39db5393fb8a86e9e60f7183af84df71563cea24d34111d78f26cb
-LSG Sbr.-Sulzbachtal,10 km Straße,Rita,Wagner,1969,59:33,F,01.10.2023,Saarbrücken,84,False,4aac9c260f52d5ac1501ac6ac817c3328e4ac41d284c2fcd6f1b568f1d152deb
-LTF Theeltal,10 km Straße,Bärbel,Besch,1970,59:57,F,25.06.2023,Trier,85,False,06b64ab51c344ab88bee8266f357f33ffcc1821d0b434a362dc367afd8488d8a
-TV Lebach,10 km Straße,Karin,Kapp,1954,1:00:50,F,26.02.2023,St. Wendel,86,False,c5a773ec60ff0842b872618bbe7ab7f436efff42de5d6209cc56c0c08eb0609a
-TV 1886 Bexbach,10 km Straße,Lisa,Wack,1979,1:01:03,F,26.08.2023,Limbach,87,False,92a6068199bccaf349ccc800b9747e2d05971191b5dc17a045ac8eec58200bbd
-LLG Wustweiler,10 km Straße,Margit,Müller,1954,1:02:59,F,03.12.2023,Saarbrücken,88,False,87c73252d3070939b81a9bbf918b2720f375eeb34f8b9c98552a1ac52210950c
-TV Rußhütte Saarbrücken,10 km Straße,Susanne,Groß,1967,1:03:27,F,01.10.2023,Saarbrücken,89,False,ed2d3e092d2190d8e1fde557a5c7107955586f782e3ad17a04d4b56e7b1b7934
-LAG Saarbrücken,10 km Straße,Gerda,Schickert,1954,1:04:50,F,03.12.2023,Saarbrücken,90,False,631bc65cd882d8b43d290c00ff257a41ba8ec7b07daa9656c64b39d303756902
-LAG Saarbrücken,10 km Straße,Stephanie,Thielebörger,1989,1:05:41,F,21.05.2023,Saarbrücken,91,False,4a1338d047c5e6c08bf22b05c136f5dbaddb08490e06c118e897f90b0e527c4b
-LLG Wustweiler,10 km Straße,Nicole,Houy,1976,1:06:38,F,14.10.2023,Illingen,92,False,2f8b250cea5489f17c5f6dfcae05443c85bae479266140bd3a84b2cdc7b9b5ee
-LLG Wustweiler,10 km Straße,Andrea,Maaßen,1971,1:08:11,F,16.09.2023,Ottweiler,93,False,f9d28586a46059d3c16c598afe1e968fde47233814c20bd93a375c11eebd8f91
-SV GO! Saar 05,10 km Straße,Gisela,Mellmann,1949,1:08:17,F,11.11.2023,Langsur,94,False,666e162a96c2c4e82476886d712ed2312d099691ce9df4ef54d03b8cea1ccd0f
-LLG Wustweiler,10 km Straße,Monika,Schuh,1951,1:09:21,F,16.09.2023,Ottweiler,95,False,68835cd2cbdc9ea3b2f78506ebe1f40495581067247603e2f390925999eefa63
-LC Völklingen,10 km Straße,Rosi,Weber,1965,1:13:22,F,01.10.2023,Saarbrücken,96,False,e6b935af270c76f7edf09488a9eee3d84cd99cbaa640c2c3fd94cc559060c643
-TV St. Wendel,10 km Straße,Ingrid,Posse,1953,1:18:37,F,16.09.2023,Ottweiler,97,False,10a428e8a359b0291e5907ab831f389d92c6368268aafbe9acb62f086b4fa03e
+LSG Sbr.-Sulzbachtal,10 km Straße,Louisa,Becker,1996,41:56,F,17.12.2023,Rheinzabern,15,False,b72e9f04bdbf3c520fe19d48c248d57102d6eeb82611dc7c95fd0b1bc92c76b4
+LA Team Saar,10 km Straße,Franziska,Zimmer-Schönenberger,1973,41:59,F,03.12.2023,Saarbrücken,16,False,f2c7eeebc01d5a10138dff76d3343c96a2c47dff357b2c91cb733108961c3ff9
+LTF Marpingen,10 km Straße,Klara,Heidenreich,2002,42:07,F,03.12.2023,Saarbrücken,17,False,a79d5db22d51f583b15c4d294a7f9aee3e7dbb18b06a8bce6dc708e261f76692
+LLG Wustweiler,10 km Straße,Michelle,Sträßer,1995,42:43,F,14.10.2023,Illingen,18,False,ff684fa82fd608b12f9680a2a0aea04ac273f942f11b2e9cf96dcdd48e78c078
+LTF Theeltal,10 km Straße,Sarah,Kronberg,1986,43:07,F,03.12.2023,Saarbrücken,19,False,9eb22deff6aba8bba7595bcf2cb146be499c0026f5a4452ccb474c8e6c5aed01
+LC Rehlingen,10 km Straße,Claudia,Seel,1972,43:09,F,05.03.2023,Leverkusen,20,False,e84dbdf551dedcbb6ef47ef99e123e233f89ac30e4ee18b2e426b45d5192232d
+SV GO! Saar 05,10 km Straße,Heike,Maas,1975,43:18,F,03.12.2023,Saarbrücken,21,False,6f85c878a0f13fdd17b0df45fdeca9f3bcd205d47752a3b335a53871a07ce530
+LAG Saarbrücken,10 km Straße,Olena,Kuchai,1981,43:24,F,01.10.2023,Saarbrücken,22,False,b08c484d1e24c07cac3105ee3b823d5ea6c81001cc0c6da7f91902c85884d75c
+LSG Sbr.-Sulzbachtal,10 km Straße,Lisa-Maria,Kipper,1988,43:34,F,26.02.2023,St. Wendel,23,False,df07c572e7c28dce9167f3a9a07d2faae3cc6f47cd101aae45ebc138c70a5f92
+LSG Sbr.-Sulzbachtal,10 km Straße,Nina,Apushkinskaya,1996,43:59,F,21.05.2023,Saarbrücken,24,False,73e75c8ab3483a2be6f78f53863f36e483ab6387b802ed68aa39d3a120065512
+Athletic Perl,10 km Straße,Jeanny,Zimmer,1977,44:35,F,11.11.2023,Langsur,25,False,001fb110be7d7ce329caf25af1f88a0f78ac25b549acf0cba9b8ce3b1156757b
+LC Rehlingen,10 km Straße,Bettina,Bopp,1966,44:48,F,03.12.2023,Saarbrücken,26,False,460fb97d96c89e57500875d064da7c903fb39ffe709aeff0eaa6eaeeca9fd2b1
+LSG Sbr.-Sulzbachtal,10 km Straße,Julia,Klees,1995,45:02,F,03.12.2023,Saarbrücken,27,False,b9e5b199d1d405636f493b4cdccff26d221447e57ad7d4370b45c0e908bb8828
+SV GO! Saar 05,10 km Straße,Audrey,Vaughan,1986,45:43,F,11.11.2023,Langsur,28,False,c1e68faaeb9fb389ef9edaf6f43367f964ae9186783519021dc680a47a324b61
+SV GO! Saar 05,10 km Straße,Miriam,Wocke,1992,45:56,F,21.05.2023,Saarbrücken,29,False,376607370ae139eeb1e48e4dcf6d5b43b773f3567094220270a692633980d4eb
+LLG Wustweiler,10 km Straße,Katrin,Groß,1985,46:18,F,16.09.2023,Ottweiler,30,False,ba23bf04673f05a9165eb0d09b886790f290d7f1772aa5252bdeb58f94d33d6c
+HartfüßlerTrail e.V.,10 km Straße,Simone,Grewenig-Czarny,1982,46:24,F,21.05.2023,Saarbrücken,31,False,6062a1c9dda591e6c3a8d44782c17769cda24f3ab386e9de3c66c60ddee15ce5
+LLG Wustweiler,10 km Straße,Jenny,Martin,1984,46:41,F,18.03.2023,Schweich,32,False,8834b28728fdb01cb036ea5337ddfa8084bc97dcee088081372c80d2c97e54a3
+HartfüßlerTrail e.V.,10 km Straße,Noelle,Schmitt,1993,46:45,F,03.12.2023,Saarbrücken,33,False,a9185308a7b1ff47795c833997966b7c641d4af230c69a97c8a62e5dcc2b55e0
+"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Heidi,Hartmann,1964,46:48,F,03.12.2023,Saarbrücken,34,False,2cc90a9745aef133203a0d10f6b0c426de3417e049e3e878d0d2f240f6b073bb
+SV GO! Saar 05,10 km Straße,Evi,Klahm,1968,47:01,F,16.09.2023,Ottweiler,35,False,d2b7a048cf322b9b1f13ab7ecaf260ce2ea88a42ae94c71743c9e68563e8839a
+LLG Wustweiler,10 km Straße,Barbara,Resch,1987,47:03,F,18.03.2023,Schweich,36,False,27d719622825376cdda1ebb2f263a1fc6ad95db2405ca531ac8fff963ded5b39
+SV GO! Saar 05,10 km Straße,Sybille,Becker-Oehm,1979,47:07,F,21.05.2023,Saarbrücken,37,False,3d6af5baaa4c00e4b5adda3e686da6586a76c51c8ef40469b320a61c1d51ce58
+HartfüßlerTrail e.V.,10 km Straße,Claudia,Maas,1973,47:08,F,16.09.2023,Ottweiler,38,False,a3887b83f089398774a8add1b2f54ff5de9b00121a0afd65082f6d9f931bac13
+SV GO! Saar 05,10 km Straße,Heike,Sausen,1969,48:28,F,16.09.2023,Ottweiler,39,False,a9a96d708fb1ac2d3036101049bbf8af7d514fbcae4ff80021046105926b4e39
+LTF Köllertal,10 km Straße,Melanie,Müller,1988,48:34,F,03.12.2023,Saarbrücken,40,False,54420231c3aa807276ec363ca281a2584d56652b2f3b62a42f38b0a494caa92c
+LC Völklingen,10 km Straße,Cordula,Bai,1970,48:42,F,11.11.2023,Langsur,41,False,eaf32f02e314797181f804d7ff3577d9071d8ca7f7cba251d84298507d7b2004
+TV Lebach,10 km Straße,Christina,Krämer,1978,49:36,F,16.09.2023,Ottweiler,42,False,f1bce3151fafaa81ea02fd8b5ae272e10534021821ba8a1077bb642ec445766c
+LLG Wustweiler,10 km Straße,Anna,Noß,1985,49:39,F,09.12.2023,Ottweiler,43,False,2a8ff3435a1a2e25e6f9648669eb786dc341d07ed6d0670430607388a54d9c3f
+"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Bärbel,Hartmann,1964,49:48,F,07.05.2023,St. Wendel,44,False,51cab75b5b45eaee12f2796ed24233a33dc27413024294b65b1be44ade98052c
+LC Rehlingen,10 km Straße,Gabriele,Celette,1956,49:55,F,16.09.2023,Ottweiler,45,False,7dc557c1141823357b051b6079d1fb7224657fdeb020ae75fe27cd65a42e9faa
+LTF Marpingen,10 km Straße,Marion,Nesselberger,1976,49:56,F,26.02.2023,St. Wendel,46,False,497934f627b9c3fdb71a03ef467d3b590e61bf50a555fea5367e9388ebd23f8e
+LC Rehlingen,10 km Straße,Anna,Schaab,1983,50:05,F,16.09.2023,Ottweiler,47,False,8ee5779c03a5c1a008c3d9bdc0906b3bf78c881fbc63e246dac16b039d3c5d01
+LSG Schmelz-Hüttersdorf,10 km Straße,Elisa,Holz,1998,50:06,F,23.06.2023,Lebach,48,False,cad7469adbf4707d1cf4246beb5990f13d8afb247ff731354208a358c6e0c3a3
+LTF Marpingen,10 km Straße,Daniela,Frank,1963,50:34,F,07.05.2023,St. Wendel,49,False,0f5ace487de2655935ba8b08e7312e02fdca5a30f6348ea856d4f9c20101806a
+LTF Theeltal,10 km Straße,Charlotte,Hell,1992,50:38,F,07.05.2023,St. Wendel,50,False,3d7b877c51fad3189e01fc7cf0b1fceaabe302cc8b3e3c87a4f5ff93b28a1407
+SV GO! Saar 05,10 km Straße,Claudia,Lang,1969,50:40,F,26.08.2023,Limbach,51,False,36122286e88ee215f003b499ea61977d9824d22682a345a01096737ad7ebe69d
+TV 1886 Bexbach,10 km Straße,Nicole,Walter,1982,50:43,F,03.12.2023,Saarbrücken,52,False,9272927a7a5609867db46ea3af4131e4e37bde861e9d512f3d6ef8bfcb0ca724
+LTF Theeltal,10 km Straße,Saskia,Kupsch,1990,51:00,F,23.06.2023,Lebach,53,False,eccafb393378764b2908b68dc1c61bdd07591accf93540675bbda0f3ab897518
+LAG Saarbrücken,10 km Straße,Steffi,Meiers,1970,51:03,F,03.12.2023,Saarbrücken,54,False,de1c1df0ea90faa0218cc15ad3eaeccb7563565e608a77228d14b1aa29160070
+Bisttal-Runners,10 km Straße,Barbara,Arweiler-Minn,1963,51:15,F,03.12.2023,Saarbrücken,55,False,16bf01dab801398ca11c5ed7e15a0ea0fb9728bc265dfedc6e1b83269f2c5f3b
+LLG Wustweiler,10 km Straße,Marlene,Rothenbusch,1956,51:17,F,01.10.2023,Saarbrücken,56,False,8ea514333a768e128f8a49658a9462ec7cee856cb6c1be629215c5a0cdec08f5
+LSG Sbr.-Sulzbachtal,10 km Straße,Gerda,Becker,1959,51:20,F,10.09.2023,Bad Liebenzell,57,False,885e2d009decd1f1677215074454497f992d8314785248df8ab517ef27f7cfa9
+LLG Wustweiler,10 km Straße,Heike,Ehl,1990,51:25,F,09.12.2023,Ottweiler,58,False,a062509c38cb43d0fefbe0fb79a4f4db088f5eb04db55692e667d293a6f6e998
+LTF Marpingen,10 km Straße,Tanja,Hooß,1967,51:37,F,26.02.2023,St. Wendel,59,False,aca315074158f83c13d93dd37ea2c6db45bf072cf7bcc631cc20697ab939cca1
+SV GO! Saar 05,10 km Straße,Sabine,Köhler,1970,52:09,F,03.12.2023,Saarbrücken,60,False,9ee59f6b9c6bf21df982e94607d50fddc25441ea849d9705a4223e19bfbfd3e2
+LLG Wustweiler,10 km Straße,Birgit,Rodner,1963,52:15,F,18.03.2023,Schweich,61,False,1bd43adc2ce916e4579b7ac4b10c26ab63a826a7e04b1f1e06c916c05b4278b6
+LSG Sbr.-Sulzbachtal,10 km Straße,Jola,Frey,2003,52:44,F,21.05.2023,Saarbrücken,62,False,fd507f9b9a7f638e7f7a865b0af7d23d9b09bb61309e610c67af8254e28dc5c4
+HartfüßlerTrail e.V.,10 km Straße,Fanny,Loux,1993,52:46,F,16.09.2023,Ottweiler,63,False,a3b66b8ba7fc7df5774d483380cd9910b6f8df5af212780949eb817b5ae58f7e
+LC Völklingen,10 km Straße,Dorothee,Mathieu,1959,53:07,F,01.10.2023,Saarbrücken,64,False,2d16cd3267f87cdeba722d00186acc12e930fff69d907de8928c33d91444f92c
+LLG Wustweiler,10 km Straße,Stefanie,Fichtel,1988,53:43,F,18.03.2023,Schweich,65,False,d1a7768808bc7313cbc547efce1f4bd7e04db3a33af83de4594294d9e62d990e
+TV Lebach,10 km Straße,Anne,Zimmer,1971,53:45,F,16.09.2023,Ottweiler,66,False,a87ac185a7f08ceb6d20081530d012a554b3fed486cd56b56506e1c41baa2ea8
+LSG Schmelz-Hüttersdorf,10 km Straße,Stephanie,Valentin,1969,53:54,F,23.06.2023,Lebach,67,False,055a0f048eb1f603ef613c759f9933a85ccc0702cf5960c53b6f3c0366f05c6f
+LAG Saarbrücken,10 km Straße,Sabine,König,1963,54:12,F,03.12.2023,Saarbrücken,68,False,e33f4ed17ac7ef154d9e589ec79efb778a8f0b8736295f215bf732b8dabc1486
+LLG Wustweiler,10 km Straße,Michelle,Faber,1994,54:42,F,11.11.2023,Langsur,69,False,88ef790dd016323c6fd82ac528e5a515f028ffb5915cadd736bd620248344e64
+"LT ""Fribi Funrunners"" Friedr.",10 km Straße,Ursula,Gross,1953,54:53,F,01.10.2023,Saarbrücken,70,False,71b35f7c8531b9c16889205af9a8825a24345404de84f7ca5ad0c03bf243f320
+LTF Rennschnecke Dudweiler,10 km Straße,Michelle,Bender,1986,54:54,F,21.05.2023,Saarbrücken,71,False,2d9d0801a3cac39952962cd2a74c569ac62f5992a566c6b33567cc24b2ae5694
+HartfüßlerTrail e.V.,10 km Straße,Jacqueline,Sohn,1986,55:09,F,01.10.2023,Saarbrücken,72,False,8e4f47bf261aed455fd36f4d24900f0ad6add5e1d42b4cf5978aeb26e7b08b65
+LTF Marpingen,10 km Straße,Martina,Spaniol,1958,55:14,F,26.02.2023,St. Wendel,73,False,a5044ac802b4a2b2be5866b36327357aef72960b32b1a234ec3992e118244d96
+LTF Winterbach,10 km Straße,Liesel,Schwarz,1957,55:36,F,07.05.2023,St. Wendel,74,False,2e299e9a30cf48d8ac7f16cf67cb60f7bd5ff9180e03d8f752431d89c7750ecf
+LLG Wustweiler,10 km Straße,Birgit,Keßler,1967,55:54,F,03.12.2023,Saarbrücken,75,False,a29637168f36fb987daa440338f82ba22d562276ad8a09a733efade10313ef63
+TV Lebach,10 km Straße,Nicole,Leinenbach,1978,56:05,F,16.09.2023,Ottweiler,76,False,b019ee3eb881392ff2add6882adc60f77e02570c8337cb3907ce745561a1a93a
+LLG Wustweiler,10 km Straße,Dorothea,Zimmer,1963,56:37,F,09.12.2023,Ottweiler,77,False,982708841f972ddc3a8b82e6b98eaa7154de96462b732437122c94e023d10d6b
+LTF Theeltal,10 km Straße,Birgit,Klesen,1964,56:59,F,25.06.2023,Trier,78,False,1291b87fcd4b6fc1881224ec1dd6e6d216a0f1d7c48279af76e64876396a3f70
+TV 1886 Bexbach,10 km Straße,Veronika,Ruffing,1963,57:00,F,01.10.2023,Saarbrücken,79,False,9dc362cc9b0a40260823649a15d0283a3c6b64adcfa96affcf179f46a5eeb59a
+LSG Sbr.-Sulzbachtal,10 km Straße,Silke,Schneider,1972,57:12,F,15.04.2023,Mülheim,80,False,d5c09a55ec93aed1822b10ea8ee257d5c1a2d97e0cd7d8aaa4cd71b9584a3f38
+TuS 1860 Neunkirchen,10 km Straße,Meike,Schreiner,1998,57:24,F,14.10.2023,Illingen,81,False,42c42afdfd34fb3fe79f0f0a9f358b5ee0851401fff1548cfde3f5791cc25f3e
+SV GO! Saar 05,10 km Straße,Ayse,Kont,1967,57:26,F,17.12.2023,Rheinzabern,82,False,bb6fa37940061453c47ebe4bfa072454e69ee4aff25d4c180d20b757285e1375
+LSG Sbr.-Sulzbachtal,10 km Straße,Agnes,Bender-Rauguth,1955,58:36,F,16.09.2023,Ottweiler,83,False,5f1a68ab6e3fcd249ecc2c36c8be1b3231520dc59ae64370f51555d4b2264ffa
+TV Lebach,10 km Straße,Monika,Neu,1969,59:08,F,14.09.2023,Homburg,84,False,066927837c39db5393fb8a86e9e60f7183af84df71563cea24d34111d78f26cb
+LSG Sbr.-Sulzbachtal,10 km Straße,Rita,Wagner,1969,59:33,F,01.10.2023,Saarbrücken,85,False,4aac9c260f52d5ac1501ac6ac817c3328e4ac41d284c2fcd6f1b568f1d152deb
+LTF Theeltal,10 km Straße,Bärbel,Besch,1970,59:57,F,25.06.2023,Trier,86,False,06b64ab51c344ab88bee8266f357f33ffcc1821d0b434a362dc367afd8488d8a
+TV Lebach,10 km Straße,Karin,Kapp,1954,1:00:50,F,26.02.2023,St. Wendel,87,False,c5a773ec60ff0842b872618bbe7ab7f436efff42de5d6209cc56c0c08eb0609a
+TV 1886 Bexbach,10 km Straße,Lisa,Wack,1979,1:01:03,F,26.08.2023,Limbach,88,False,92a6068199bccaf349ccc800b9747e2d05971191b5dc17a045ac8eec58200bbd
+LLG Wustweiler,10 km Straße,Margit,Müller,1954,1:02:59,F,03.12.2023,Saarbrücken,89,False,87c73252d3070939b81a9bbf918b2720f375eeb34f8b9c98552a1ac52210950c
+TV Rußhütte Saarbrücken,10 km Straße,Susanne,Groß,1967,1:03:27,F,01.10.2023,Saarbrücken,90,False,ed2d3e092d2190d8e1fde557a5c7107955586f782e3ad17a04d4b56e7b1b7934
+LAG Saarbrücken,10 km Straße,Gerda,Schickert,1954,1:04:50,F,03.12.2023,Saarbrücken,91,False,631bc65cd882d8b43d290c00ff257a41ba8ec7b07daa9656c64b39d303756902
+LAG Saarbrücken,10 km Straße,Stephanie,Thielebörger,1989,1:05:41,F,21.05.2023,Saarbrücken,92,False,4a1338d047c5e6c08bf22b05c136f5dbaddb08490e06c118e897f90b0e527c4b
+LLG Wustweiler,10 km Straße,Nicole,Houy,1976,1:06:38,F,14.10.2023,Illingen,93,False,2f8b250cea5489f17c5f6dfcae05443c85bae479266140bd3a84b2cdc7b9b5ee
+LLG Wustweiler,10 km Straße,Andrea,Maaßen,1971,1:08:11,F,16.09.2023,Ottweiler,94,False,f9d28586a46059d3c16c598afe1e968fde47233814c20bd93a375c11eebd8f91
+SV GO! Saar 05,10 km Straße,Gisela,Mellmann,1949,1:08:17,F,11.11.2023,Langsur,95,False,666e162a96c2c4e82476886d712ed2312d099691ce9df4ef54d03b8cea1ccd0f
+LLG Wustweiler,10 km Straße,Monika,Schuh,1951,1:09:21,F,16.09.2023,Ottweiler,96,False,68835cd2cbdc9ea3b2f78506ebe1f40495581067247603e2f390925999eefa63
+LC Völklingen,10 km Straße,Rosi,Weber,1965,1:13:22,F,01.10.2023,Saarbrücken,97,False,e6b935af270c76f7edf09488a9eee3d84cd99cbaa640c2c3fd94cc559060c643
+TV St. Wendel,10 km Straße,Ingrid,Posse,1953,1:18:37,F,16.09.2023,Ottweiler,98,False,10a428e8a359b0291e5907ab831f389d92c6368268aafbe9acb62f086b4fa03e
 LC Rehlingen,10 km Straße Mannschaft,Nada,Ina Pauer,1986,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,8130c9d238717d45ec3c67df83714242a65a8ee3bad84634e200f4ff952bde0c
 LC Rehlingen,10 km Straße Mannschaft,Katrin,Marx,2001,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,e9c84fe2f0c5077c5c3142a865745b63956c098455f9c02a4204e32d37bc2427
 LC Rehlingen,10 km Straße Mannschaft,Hannah,Rödel,2004,1:49:00,F,10.09.2023,Bad Liebenzell,1,True,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
@@ -1457,38 +1460,34 @@ LG Berus,4x100 m Staffel,Viviana,Criscenzo,2004,"49,81",F,11.06.2023,Rehlingen,2
 LG Berus,4x100 m Staffel,Marie,Simon,2003,"49,81",F,11.06.2023,Rehlingen,2,True,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
 LG Berus,4x100 m Staffel,Sina,Vervin,1997,"49,81",F,11.06.2023,Rehlingen,2,True,da8ce99ccb5841632ce2349d00cef1b23989964bfbbb5dc94457f6e6e6542a3e
 LG Berus,4x100 m Staffel,Isabel,Weber,2003,"49,81",F,11.06.2023,Rehlingen,2,True,dbee16335f486cc95946696c6efa44eab7d4d13082517544dafb68f962e1fb73
-TV St. Wendel,4x100 m Staffel,Chiara,Rein,2006,"52,13",F,11.06.2023,Rehlingen,3,True,1d0df51b910fd55f8c78ca43ba6f3b12783c89f307d63add7384ec9b42939a93
-TV St. Wendel,4x100 m Staffel,Pauline,Rörsch,2008,"52,13",F,11.06.2023,Rehlingen,3,True,261930de4496091cb17adea7467c88e1cc0a3219be548296febb0abdb67dda15
-TV St. Wendel,4x100 m Staffel,Ellen,Holzhüter,2005,"52,13",F,11.06.2023,Rehlingen,3,True,d69ab023ce4cba66f7a5a5beb1dfa4d50a3bd52aad28d2710e79a24284c05750
-TV St. Wendel,4x100 m Staffel,Ann-Kathrin,Berwanger,2006,"52,13",F,11.06.2023,Rehlingen,3,True,ebf2c1e8f569ba223bbf710d4a4cf14a23a07609d65bb299a9be2eb0d547394d
-LC Rehlingen,4x100 m Staffel,Mathilda,Klein,2008,"52,85",F,14.05.2023,Saarlouis,4,True,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
-LC Rehlingen,4x100 m Staffel,Silvana,Tinnes,1999,"52,85",F,14.05.2023,Saarlouis,4,True,b2b2db9216df01e2ce9771a2b063357ae26186729fee545a12113e927d9d22d1
-LC Rehlingen,4x100 m Staffel,Franka,Wilhelm,2005,"52,85",F,14.05.2023,Saarlouis,4,True,17cd7c520430429128466ce39a050bf985e8282b782e32e1092360df82288124
-LC Rehlingen,4x100 m Staffel,Celina,Rolgeiser,2000,"52,85",F,14.05.2023,Saarlouis,4,True,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
-LAC Saarlouis,4x100 m Staffel,Julie,Thieser,2001,"55,59",F,11.06.2023,Rehlingen,5,True,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
-LAC Saarlouis,4x100 m Staffel,Mia,Schmitt,2007,"55,59",F,11.06.2023,Rehlingen,5,True,241a2dfffcb8c17f45b269bd7f114825ad3cf962bb77fb20707d7ef52116ddfb
-LAC Saarlouis,4x100 m Staffel,Franka,Bastian,2007,"55,59",F,11.06.2023,Rehlingen,5,True,227492216b6125c7480bf189a5c300b6b268977376b2b434ef9e3f52d71d05a4
-LAC Saarlouis,4x100 m Staffel,Zoe,Staudter,2005,"55,59",F,11.06.2023,Rehlingen,5,True,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
-StG Equipe Saar,4x100 m Staffel,Fiona,Poppe von Bachhaus,1981,"57,25",F,26.08.2023,Troisdorf,6,True,58dd79d6a2ed1c099860ac2b2709f84254dd99f76252ce624de46473b64f4225
-StG Equipe Saar,4x100 m Staffel,Bele,Bastian,1973,"57,25",F,26.08.2023,Troisdorf,6,True,2c2d0b2640d1da2bcc9673426630bddd74a0f260722a2ac6a38083c52d857310
-StG Equipe Saar,4x100 m Staffel,Judith,Krauß,1980,"57,25",F,26.08.2023,Troisdorf,6,True,a2758bb7f37aae4a755d6bfc101220ec7e5cf20e80e5b1edaaa4449113a977f3
-StG Equipe Saar,4x100 m Staffel,Kirstin,Hochstrate,1970,"57,25",F,26.08.2023,Troisdorf,6,True,8e74dce5cb2690dce2065862c71f956aa776f2c6e05eddc65d3428fa53645539
-LG Saar 70,4x100 m Staffel,Ines,Mohr,1996,"61,00",F,22.09.2023,Ottweiler,7,True,147335388ccc55c4913939930fa00245a3ce361403a5672f88bf39fc0ef43b46
-LG Saar 70,4x100 m Staffel,Sarah,Herth,2006,"61,00",F,22.09.2023,Ottweiler,7,True,3bf7e08661b74f49c7baae4eaafe778b76032dcc71c4ca7aee82a887a8e31aa3
-LG Saar 70,4x100 m Staffel,Nike,Biehler,2006,"61,00",F,22.09.2023,Ottweiler,7,True,0cc52c0f6df4ed9f998bafa75e080dbf2d8bc2dc65986147c078d4731e261917
-LG Saar 70,4x100 m Staffel,Lenya,Baltes,2009,"61,00",F,22.09.2023,Ottweiler,7,True,635850b205466f628d5fbfa5eabc72efa1de9f2f7d6820070d4c4ebb4cb0fd27
-StG Equipe Saar,4x100 m Staffel,Christel,Ney,1957,"67,23",F,26.08.2023,Troisdorf,8,True,8d090575286968d68e3d6cf798908fe991f4f71a1c2ada3c7c067d45b57e6f93
-StG Equipe Saar,4x100 m Staffel,Beatrix,Flesch,1971,"67,23",F,26.08.2023,Troisdorf,8,True,f01986c096672fa177cec6e3ced4378670f4186eebec9d959c6c1bcd45235d02
-StG Equipe Saar,4x100 m Staffel,Galina,Marx,1972,"67,23",F,26.08.2023,Troisdorf,8,True,d83c2e7cbaa8ac0dd99d64b5663de76df836eb93482636b139ebfb63c4738c6b
-StG Equipe Saar,4x100 m Staffel,Silke,Heidenmann,1969,"67,23",F,26.08.2023,Troisdorf,8,True,76f7efda3cadfb863abe55a2f31199ad2e23cb53ffa1f26c0b66d8e2e63a528c
-LC 72 Altenkessel,4x100 m Staffel,Christine,Schmidt,1965,"73,70",F,08.07.2023,St. Wendel,9,True,16b72c93acc24a1fbed7c8d8012507e9b30dafa3376077f81bdf57c79cd15f0d
-LC 72 Altenkessel,4x100 m Staffel,Rita,Wilhelm,1958,"73,70",F,08.07.2023,St. Wendel,9,True,198fbe7c156659b2b85da07ce68b52a22ab8fa24f91d6611abdd8a8315f7e8b0
-LC 72 Altenkessel,4x100 m Staffel,Tanja,Koch,1972,"73,70",F,08.07.2023,St. Wendel,9,True,fed62d928750179822a0dadc7532c574cc4ef3d82d59d78cbc58fca119e0f052
-LC 72 Altenkessel,4x100 m Staffel,Monika,Kopp,1964,"73,70",F,08.07.2023,St. Wendel,9,True,88256b8bc45279617c35dd37178113861eead4437e403f6f043ebcb980154ab7
-SC Friedrichsthal,4x100 m Staffel,Esther,Bost,1955,"82,44",F,08.07.2023,St. Wendel,10,True,57c305535a496c91b287b119d2b14afb846ee6f7116e230ed33b4b022e53c628
-SC Friedrichsthal,4x100 m Staffel,Inge,Weisenstein,1949,"82,44",F,08.07.2023,St. Wendel,10,True,cad132731371a8bfec0f75c93bcaaeb712125db55e1dc24c3c1fbdda85862156
-SC Friedrichsthal,4x100 m Staffel,Renate,Franz,1960,"82,44",F,08.07.2023,St. Wendel,10,True,dd0ac5077009720f975d4ef974fce3b16d6bc82b11c5abe199d775d5c3b6202c
-SC Friedrichsthal,4x100 m Staffel,Margot,Junk,1948,"82,44",F,08.07.2023,St. Wendel,10,True,8c3af6aeffedc46580505a010e3b6d1d6b9b6b062c53c4c1e956f6fc69b73741
+LC Rehlingen,4x100 m Staffel,Mathilda,Klein,2008,"52,85",F,14.05.2023,Saarlouis,3,True,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
+LC Rehlingen,4x100 m Staffel,Silvana,Tinnes,1999,"52,85",F,14.05.2023,Saarlouis,3,True,b2b2db9216df01e2ce9771a2b063357ae26186729fee545a12113e927d9d22d1
+LC Rehlingen,4x100 m Staffel,Franka,Wilhelm,2005,"52,85",F,14.05.2023,Saarlouis,3,True,17cd7c520430429128466ce39a050bf985e8282b782e32e1092360df82288124
+LC Rehlingen,4x100 m Staffel,Celina,Rolgeiser,2000,"52,85",F,14.05.2023,Saarlouis,3,True,79772fc5c23ee0890311b7e7d0db789ed081819cb9e781014504a85347e94dd0
+LAC Saarlouis,4x100 m Staffel,Julie,Thieser,2001,"55,59",F,11.06.2023,Rehlingen,4,True,b3737f8150215320bf079af33d1ea8d91184daab7672860ee20d423f0ab8cbbb
+LAC Saarlouis,4x100 m Staffel,Mia,Schmitt,2007,"55,59",F,11.06.2023,Rehlingen,4,True,241a2dfffcb8c17f45b269bd7f114825ad3cf962bb77fb20707d7ef52116ddfb
+LAC Saarlouis,4x100 m Staffel,Franka,Bastian,2007,"55,59",F,11.06.2023,Rehlingen,4,True,227492216b6125c7480bf189a5c300b6b268977376b2b434ef9e3f52d71d05a4
+LAC Saarlouis,4x100 m Staffel,Zoe,Staudter,2005,"55,59",F,11.06.2023,Rehlingen,4,True,994f2bd233460c7645effe6b34b927303de8b06e7359c7f8b154e3e0c642aff1
+StG Equipe Saar,4x100 m Staffel,Fiona,Poppe von Bachhaus,1981,"57,25",F,26.08.2023,Troisdorf,5,True,58dd79d6a2ed1c099860ac2b2709f84254dd99f76252ce624de46473b64f4225
+StG Equipe Saar,4x100 m Staffel,Bele,Bastian,1973,"57,25",F,26.08.2023,Troisdorf,5,True,2c2d0b2640d1da2bcc9673426630bddd74a0f260722a2ac6a38083c52d857310
+StG Equipe Saar,4x100 m Staffel,Judith,Krauß,1980,"57,25",F,26.08.2023,Troisdorf,5,True,a2758bb7f37aae4a755d6bfc101220ec7e5cf20e80e5b1edaaa4449113a977f3
+StG Equipe Saar,4x100 m Staffel,Kirstin,Hochstrate,1970,"57,25",F,26.08.2023,Troisdorf,5,True,8e74dce5cb2690dce2065862c71f956aa776f2c6e05eddc65d3428fa53645539
+LG Saar 70,4x100 m Staffel,Ines,Mohr,1996,"61,00",F,22.09.2023,Ottweiler,6,True,147335388ccc55c4913939930fa00245a3ce361403a5672f88bf39fc0ef43b46
+LG Saar 70,4x100 m Staffel,Sarah,Herth,2006,"61,00",F,22.09.2023,Ottweiler,6,True,3bf7e08661b74f49c7baae4eaafe778b76032dcc71c4ca7aee82a887a8e31aa3
+LG Saar 70,4x100 m Staffel,Nike,Biehler,2006,"61,00",F,22.09.2023,Ottweiler,6,True,0cc52c0f6df4ed9f998bafa75e080dbf2d8bc2dc65986147c078d4731e261917
+LG Saar 70,4x100 m Staffel,Lenya,Baltes,2009,"61,00",F,22.09.2023,Ottweiler,6,True,635850b205466f628d5fbfa5eabc72efa1de9f2f7d6820070d4c4ebb4cb0fd27
+StG Equipe Saar,4x100 m Staffel,Christel,Ney,1957,"67,23",F,26.08.2023,Troisdorf,7,True,8d090575286968d68e3d6cf798908fe991f4f71a1c2ada3c7c067d45b57e6f93
+StG Equipe Saar,4x100 m Staffel,Beatrix,Flesch,1971,"67,23",F,26.08.2023,Troisdorf,7,True,f01986c096672fa177cec6e3ced4378670f4186eebec9d959c6c1bcd45235d02
+StG Equipe Saar,4x100 m Staffel,Galina,Marx,1972,"67,23",F,26.08.2023,Troisdorf,7,True,d83c2e7cbaa8ac0dd99d64b5663de76df836eb93482636b139ebfb63c4738c6b
+StG Equipe Saar,4x100 m Staffel,Silke,Heidenmann,1969,"67,23",F,26.08.2023,Troisdorf,7,True,76f7efda3cadfb863abe55a2f31199ad2e23cb53ffa1f26c0b66d8e2e63a528c
+LC 72 Altenkessel,4x100 m Staffel,Christine,Schmidt,1965,"73,70",F,08.07.2023,St. Wendel,8,True,16b72c93acc24a1fbed7c8d8012507e9b30dafa3376077f81bdf57c79cd15f0d
+LC 72 Altenkessel,4x100 m Staffel,Rita,Wilhelm,1958,"73,70",F,08.07.2023,St. Wendel,8,True,198fbe7c156659b2b85da07ce68b52a22ab8fa24f91d6611abdd8a8315f7e8b0
+LC 72 Altenkessel,4x100 m Staffel,Tanja,Koch,1972,"73,70",F,08.07.2023,St. Wendel,8,True,fed62d928750179822a0dadc7532c574cc4ef3d82d59d78cbc58fca119e0f052
+LC 72 Altenkessel,4x100 m Staffel,Monika,Kopp,1964,"73,70",F,08.07.2023,St. Wendel,8,True,88256b8bc45279617c35dd37178113861eead4437e403f6f043ebcb980154ab7
+SC Friedrichsthal,4x100 m Staffel,Esther,Bost,1955,"82,44",F,08.07.2023,St. Wendel,9,True,57c305535a496c91b287b119d2b14afb846ee6f7116e230ed33b4b022e53c628
+SC Friedrichsthal,4x100 m Staffel,Inge,Weisenstein,1949,"82,44",F,08.07.2023,St. Wendel,9,True,cad132731371a8bfec0f75c93bcaaeb712125db55e1dc24c3c1fbdda85862156
+SC Friedrichsthal,4x100 m Staffel,Renate,Franz,1960,"82,44",F,08.07.2023,St. Wendel,9,True,dd0ac5077009720f975d4ef974fce3b16d6bc82b11c5abe199d775d5c3b6202c
+SC Friedrichsthal,4x100 m Staffel,Margot,Junk,1948,"82,44",F,08.07.2023,St. Wendel,9,True,8c3af6aeffedc46580505a010e3b6d1d6b9b6b062c53c4c1e956f6fc69b73741
 LG Berus,4x400 m Staffel,Isabel,Weber,2003,"4:11,86",F,08.07.2023,St. Wendel,1,True,dbee16335f486cc95946696c6efa44eab7d4d13082517544dafb68f962e1fb73
 LG Berus,4x400 m Staffel,Laura,Fritzmann,2000,"4:11,86",F,08.07.2023,St. Wendel,1,True,f7b2dfb7703e34f2c357406f56812190471007126c8cb974b6bd16d28f226785
 LG Berus,4x400 m Staffel,Marie,Simon,2003,"4:11,86",F,08.07.2023,St. Wendel,1,True,f7e7cd8de6e3bdff6a456bba0eaff54677249ee1a2b7e0969098e773f6201d1b
@@ -2980,46 +2979,47 @@ TV Homburg,Weitsprungzone,Etienne-Monique,Biehl,2010,"4,50",W13,08.06.2023,Saarl
 LA Team Saar,Weitsprungzone,Mathilda,Braun,2010,"4,46",W13,16.07.2023,Püttlingen,7,False,6963d7fd266129b08703a6e701a15c23f82248bcd7e5a016e5c7582719b16e4a
 LG Saar 70,Weitsprungzone,Smilla,Spaniol,2010,"4,41",W13,16.07.2023,Püttlingen,8,False,a0b26693d4dd78f8ff0c99864b1f0169001db0dd5d777c293c2aa4f118164d8d
 TV Homburg,Weitsprungzone,Klara,Lisson,2010,"4,37",W13,04.06.2023,Püttlingen,9,False,67684df4fce2610b19f2857f359d4630af08d4a1a77b1ab8ce4ec41a48b4b5bb
-LC Rehlingen,Weitsprungzone,Jeanne,Dilzer,2010,"4,35",W13,08.06.2023,Saarlouis,10,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
-LA Team Saar,Weitsprungzone,Annalena,Serf,2010,"4,34",W13,21.05.2023,Homburg,11,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
-LG Saar 70,Weitsprungzone,Lilly,Machulla,2010,"4,30",W13,29.04.2023,St. Wendel,12,False,6f8dc7b9066ddf39d2b83f67339eb413eac56795965ef2b7763c961a0734411a
-LA Team Saar,Weitsprungzone,Elisa,Grün,2010,"4,28",W13,16.09.2023,Dillingen,13,False,bbfb3c4d9be6afd9174c573c7e83d9ac0387557c2fb07420d8920dbc136abe1d
-LA Team Saar,Weitsprungzone,Paula,Ludwig,2010,"4,21",W13,16.07.2023,Püttlingen,14,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
-LA Team Saar,Weitsprungzone,Linn,Wagner,2010,"4,21",W13,16.07.2023,Püttlingen,15,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
-LA Team Saar,Weitsprungzone,Giovanna,Cerasari,2010,"4,20",W13,22.06.2023,Saarbrücken,16,False,eaee261239f0640916906d87959c201d68d18d3c6cdc22718bcd44d89cfab7b5
-LAC Saarlouis,Weitsprungzone,Alyssa,Blug,2010,"4,16",W13,13.05.2023,Saarlouis,17,False,0ac0e49d9acdc0dde94fb81fdc4d7adb0383b6d7cb77e8d13c76c54fa639e475
-LA Team Saar,Weitsprungzone,Svea,Bennoit,2010,"4,16",W13,04.06.2023,Püttlingen,18,False,95fd55741b1e92eba2d2a674bdeefe9bba6c3b6b944feee6048f875111868614
-TV Bliesen,Weitsprungzone,Mia,Munzinger,2010,"4,15",W13,22.06.2023,Saarbrücken,19,False,bd411b039916001dfcc14610f205e8bfbd166a2b4b6c8f80853a4392b30b7831
-LC Rehlingen,Weitsprungzone,Anna,Schmieder,2010,"4,13",W13,22.06.2023,Saarbrücken,20,False,aab701f6151cc5ea52fad1808e5ba2af6fb19ea2b844e9d84240f8ae269c02c4
-LA Team Saar,Weitsprungzone,Alina,Rokay,2010,"4,11",W13,16.07.2023,Püttlingen,21,False,415297018d170b7c27cf627c984bff1ebf7960814739399105d594ec71fcebd4
-LA Team Saar,Weitsprungzone,Felia,Schackmar,2010,"4,05",W13,21.05.2023,Homburg,22,False,6448d8ee117ba2120d2dfd45791d807d404d3a0d44c2c777a6fdbd7ea8a05a5c
-TV Elm,Weitsprungzone,Frida,Rheinheimer,2010,"4,04",W13,13.05.2023,Saarlouis,23,False,9c91eec3da2cfa281552e09489b843effe4a4270515de9409e7a05d1490b8e11
-LAC Saarlouis,Weitsprungzone,Charlotte,Marquordt,2010,"4,04",W13,16.07.2023,Püttlingen,24,False,1766679c16958a5851104712c97e8040001194851acd719d7acad667f0106eca
-SC Friedrichsthal,Weitsprungzone,Johanna,Moser,2010,"4,02",W13,08.06.2023,Saarlouis,25,False,d6ae57d66e4a566be980281bda20574a21a3d9e37fbe901864be3f7398111356
-LC Rehlingen,Weitsprungzone,Malin,Schaefer,2010,"4,02",W13,16.09.2023,Dillingen,26,False,50e4e914797ebea6f8fb96b6583a799ac6f1bd3c1a5134043b4618e5c515af26
-LG Saar 70,Weitsprungzone,Sophia,Panus,2010,"4,01",W13,16.07.2023,Püttlingen,27,False,9c3ffdcd0a6b560e93feaa069951009992be4ef632652930c7802aba605c5b58
-TV Homburg,Weitsprungzone,Lotta,Eckstein,2010,"4,00",W13,16.09.2023,Dillingen,28,False,f33da470171598f770f3195e8bb39c5b0d62ba0b89ffe4ba4707ce963d1116e8
-LC Rehlingen,Weitsprungzone,Julia,Schmidt,2010,"3,93",W13,16.09.2023,Dillingen,29,False,084fcae6dab907e8a9d7757174533e3cfbbadd71534b75c0067b2cb6c8198f45
-ATSV Saarbrücken,Weitsprungzone,Mila,Lück,2010,"3,91",W13,16.07.2023,Püttlingen,30,False,d48c914222af363eeb8e8b586742702f0a410a7e220e578ef3f0d01b47825b2a
-LC Rehlingen,Weitsprungzone,Ines,Nseke,2010,"3,85",W13,08.06.2023,Saarlouis,31,False,902d477eff32594d79e0a023a7e51a2a3ec8fa5837e40720642c46fd57646967
-ATSV Saarbrücken,Weitsprungzone,Sophie,Trubert,2010,"3,85",W13,16.07.2023,Püttlingen,32,False,34315eb38f381636babe52c2189ca4e7fde091a399e4b56f290f3cd0bbb72d1c
-LC Rehlingen,Weitsprungzone,Jenny,Kraemer,2010,"3,84",W13,16.07.2023,Püttlingen,33,False,4cd9eb7daeee9cfa213f6a6b9664c696c06a4eba6dd361cdf358174c5f0ca5cd
-AC Diefflen,Weitsprungzone,Johanna,Müller,2010,"3,82",W13,16.07.2023,Püttlingen,34,False,1ad994cdd40b878f131d4fb7503ff62599f3d2eb0769a562b059f1d272b40ae5
-LC Rehlingen,Weitsprungzone,Emma,Bettinger,2010,"3,76",W13,04.06.2023,Püttlingen,35,False,d67520ff67c845346954f84c07031032c0f342f7cef12f7308e30c4702fbee4b
-LG Saar 70,Weitsprungzone,Marie-Sophie,Calmano,2010,"3,73",W13,29.04.2023,St. Wendel,36,False,a5cf28694f2e8386010ecd2c1d25cc8ffae6b52d3064e3c3676962c3807071d0
-LG Saar 70,Weitsprungzone,Simona,Hoffmann,2010,"3,67",W13,29.04.2023,St. Wendel,37,False,dec44f4c90767b6a9e6c7c7807dca366aa6e6d3195e1f8b78a5e3b1ee76998ab
-TV Germania 1910 Piesbach,Weitsprungzone,Sabrina,Hoffmann,2010,"3,64",W13,13.05.2023,Saarlouis,38,False,a102950f51f814053b568681bfa6929931ffbd2fc033b62b5b7ecc0372494f76
-LA Team Saar,Weitsprungzone,Paula,Himbert,2010,"3,62",W13,16.09.2023,Dillingen,39,False,8478cd45fecd8c086935baef4093e5e2305a31cce3a78c231d337409b3cff52e
-SC Friedrichsthal,Weitsprungzone,Marie,Lehnert,2010,"3,57",W13,04.06.2023,Püttlingen,40,False,3d7ac28d6e772b4b580d9a813ee7f4ff00ac793240169195d3fa667151a3bdcb
-SC Friedrichsthal,Weitsprungzone,Amelie,Honig,2010,"3,52",W13,08.06.2023,Saarlouis,41,False,f6c376478244e870558aec4c74a02ce7e95724e562f828d84a1162c9b4c87548
-TV Germania 1910 Piesbach,Weitsprungzone,Alma,Alzoubi,2010,"3,47",W13,08.06.2023,Saarlouis,42,False,c04c058f3e348a9cb674ec214209b131aaa66e6e90fb5f4df08587709a259647
-LSG Sbr.-Sulzbachtal,Weitsprungzone,Laura,Zukowski,2010,"3,46",W13,16.07.2023,Püttlingen,43,False,14b9cf61e4ea537b378045bcff29258e8a6528eaa33debd1fd6988d4adc7f1bc
-LA Team Saar,Weitsprungzone,Jana,Leovic,2010,"3,45",W13,16.07.2023,Püttlingen,44,False,380b45b1c45becfa5a0d2852da4ad855d93de84efbbfce1b48a85ae15bd37d39
-LA Team Saar,Weitsprungzone,Elisa,Rohnert,2010,"3,44",W13,04.06.2023,Püttlingen,45,False,fbfd0a24a21da8e7e1f32f4864776785d41700283688cdfea8ceed63389b9094
-LG Saar 70,Weitsprungzone,Luise,Flormann,2010,"3,41",W13,29.04.2023,St. Wendel,46,False,8028575e7a2fcbfbcafab6a08afd6c412f51a4a6de42c236005876cf7dca39bc
-LA Team Saar,Weitsprungzone,Pauline,Graf,2010,"3,32",W13,04.06.2023,Püttlingen,47,False,7ca15638c151b3bd116be09948655aa2566cd1078a1c58c3a2ef9b5af54ef5a2
-LG Saar 70,Weitsprungzone,Saskia,Kraiser,2010,"3,29",W13,29.04.2023,St. Wendel,48,False,b20099a0b1e9dc4e3260e1088da240a5b919b2b49df95c950f64c2780ce5499b
-LAC Saarlouis,Weitsprungzone,Neela,Heinrich,2010,"3,07",W13,08.06.2023,Saarlouis,49,False,c3f86b8884a89ea968bcd44d117ac6131da378d89c1611f71bf870fa89632ac5
+LSG Sbr.-Sulzbachtal,Weitsprungzone,Mara,Steinbach,2010,"4,36",W13,24.09.2023,Friedrichsthal,10,False,06a1fc1305b0d537a557ccd36d6c1bfa81211e9767120feec32a0b4e20d10219
+LC Rehlingen,Weitsprungzone,Jeanne,Dilzer,2010,"4,35",W13,08.06.2023,Saarlouis,11,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
+LA Team Saar,Weitsprungzone,Annalena,Serf,2010,"4,34",W13,21.05.2023,Homburg,12,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
+LG Saar 70,Weitsprungzone,Lilly,Machulla,2010,"4,30",W13,29.04.2023,St. Wendel,13,False,6f8dc7b9066ddf39d2b83f67339eb413eac56795965ef2b7763c961a0734411a
+LA Team Saar,Weitsprungzone,Elisa,Grün,2010,"4,28",W13,16.09.2023,Dillingen,14,False,bbfb3c4d9be6afd9174c573c7e83d9ac0387557c2fb07420d8920dbc136abe1d
+LA Team Saar,Weitsprungzone,Paula,Ludwig,2010,"4,21",W13,16.07.2023,Püttlingen,15,False,f3181bcc6b892efd3dec55cb8f75efa64f23987af1722ad6de93784c57be5999
+LA Team Saar,Weitsprungzone,Linn,Wagner,2010,"4,21",W13,16.07.2023,Püttlingen,16,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
+LA Team Saar,Weitsprungzone,Giovanna,Cerasari,2010,"4,20",W13,22.06.2023,Saarbrücken,17,False,eaee261239f0640916906d87959c201d68d18d3c6cdc22718bcd44d89cfab7b5
+LAC Saarlouis,Weitsprungzone,Alyssa,Blug,2010,"4,16",W13,13.05.2023,Saarlouis,18,False,0ac0e49d9acdc0dde94fb81fdc4d7adb0383b6d7cb77e8d13c76c54fa639e475
+LA Team Saar,Weitsprungzone,Svea,Bennoit,2010,"4,16",W13,04.06.2023,Püttlingen,19,False,95fd55741b1e92eba2d2a674bdeefe9bba6c3b6b944feee6048f875111868614
+TV Bliesen,Weitsprungzone,Mia,Munzinger,2010,"4,15",W13,22.06.2023,Saarbrücken,20,False,bd411b039916001dfcc14610f205e8bfbd166a2b4b6c8f80853a4392b30b7831
+LC Rehlingen,Weitsprungzone,Anna,Schmieder,2010,"4,13",W13,22.06.2023,Saarbrücken,21,False,aab701f6151cc5ea52fad1808e5ba2af6fb19ea2b844e9d84240f8ae269c02c4
+LA Team Saar,Weitsprungzone,Alina,Rokay,2010,"4,11",W13,16.07.2023,Püttlingen,22,False,415297018d170b7c27cf627c984bff1ebf7960814739399105d594ec71fcebd4
+LA Team Saar,Weitsprungzone,Felia,Schackmar,2010,"4,05",W13,21.05.2023,Homburg,23,False,6448d8ee117ba2120d2dfd45791d807d404d3a0d44c2c777a6fdbd7ea8a05a5c
+TV Elm,Weitsprungzone,Frida,Rheinheimer,2010,"4,04",W13,13.05.2023,Saarlouis,24,False,9c91eec3da2cfa281552e09489b843effe4a4270515de9409e7a05d1490b8e11
+LAC Saarlouis,Weitsprungzone,Charlotte,Marquordt,2010,"4,04",W13,16.07.2023,Püttlingen,25,False,1766679c16958a5851104712c97e8040001194851acd719d7acad667f0106eca
+SC Friedrichsthal,Weitsprungzone,Johanna,Moser,2010,"4,02",W13,08.06.2023,Saarlouis,26,False,d6ae57d66e4a566be980281bda20574a21a3d9e37fbe901864be3f7398111356
+LC Rehlingen,Weitsprungzone,Malin,Schaefer,2010,"4,02",W13,16.09.2023,Dillingen,27,False,50e4e914797ebea6f8fb96b6583a799ac6f1bd3c1a5134043b4618e5c515af26
+LG Saar 70,Weitsprungzone,Sophia,Panus,2010,"4,01",W13,16.07.2023,Püttlingen,28,False,9c3ffdcd0a6b560e93feaa069951009992be4ef632652930c7802aba605c5b58
+TV Homburg,Weitsprungzone,Lotta,Eckstein,2010,"4,00",W13,16.09.2023,Dillingen,29,False,f33da470171598f770f3195e8bb39c5b0d62ba0b89ffe4ba4707ce963d1116e8
+LC Rehlingen,Weitsprungzone,Julia,Schmidt,2010,"3,93",W13,16.09.2023,Dillingen,30,False,084fcae6dab907e8a9d7757174533e3cfbbadd71534b75c0067b2cb6c8198f45
+ATSV Saarbrücken,Weitsprungzone,Mila,Lück,2010,"3,91",W13,16.07.2023,Püttlingen,31,False,d48c914222af363eeb8e8b586742702f0a410a7e220e578ef3f0d01b47825b2a
+LC Rehlingen,Weitsprungzone,Ines,Nseke,2010,"3,85",W13,08.06.2023,Saarlouis,32,False,902d477eff32594d79e0a023a7e51a2a3ec8fa5837e40720642c46fd57646967
+ATSV Saarbrücken,Weitsprungzone,Sophie,Trubert,2010,"3,85",W13,16.07.2023,Püttlingen,33,False,34315eb38f381636babe52c2189ca4e7fde091a399e4b56f290f3cd0bbb72d1c
+LC Rehlingen,Weitsprungzone,Jenny,Kraemer,2010,"3,84",W13,16.07.2023,Püttlingen,34,False,4cd9eb7daeee9cfa213f6a6b9664c696c06a4eba6dd361cdf358174c5f0ca5cd
+AC Diefflen,Weitsprungzone,Johanna,Müller,2010,"3,82",W13,16.07.2023,Püttlingen,35,False,1ad994cdd40b878f131d4fb7503ff62599f3d2eb0769a562b059f1d272b40ae5
+LC Rehlingen,Weitsprungzone,Emma,Bettinger,2010,"3,76",W13,04.06.2023,Püttlingen,36,False,d67520ff67c845346954f84c07031032c0f342f7cef12f7308e30c4702fbee4b
+LG Saar 70,Weitsprungzone,Marie-Sophie,Calmano,2010,"3,73",W13,29.04.2023,St. Wendel,37,False,a5cf28694f2e8386010ecd2c1d25cc8ffae6b52d3064e3c3676962c3807071d0
+LG Saar 70,Weitsprungzone,Simona,Hoffmann,2010,"3,67",W13,29.04.2023,St. Wendel,38,False,dec44f4c90767b6a9e6c7c7807dca366aa6e6d3195e1f8b78a5e3b1ee76998ab
+TV Germania 1910 Piesbach,Weitsprungzone,Sabrina,Hoffmann,2010,"3,64",W13,13.05.2023,Saarlouis,39,False,a102950f51f814053b568681bfa6929931ffbd2fc033b62b5b7ecc0372494f76
+LA Team Saar,Weitsprungzone,Paula,Himbert,2010,"3,62",W13,16.09.2023,Dillingen,40,False,8478cd45fecd8c086935baef4093e5e2305a31cce3a78c231d337409b3cff52e
+SC Friedrichsthal,Weitsprungzone,Marie,Lehnert,2010,"3,57",W13,04.06.2023,Püttlingen,41,False,3d7ac28d6e772b4b580d9a813ee7f4ff00ac793240169195d3fa667151a3bdcb
+SC Friedrichsthal,Weitsprungzone,Amelie,Honig,2010,"3,52",W13,08.06.2023,Saarlouis,42,False,f6c376478244e870558aec4c74a02ce7e95724e562f828d84a1162c9b4c87548
+TV Germania 1910 Piesbach,Weitsprungzone,Alma,Alzoubi,2010,"3,47",W13,08.06.2023,Saarlouis,43,False,c04c058f3e348a9cb674ec214209b131aaa66e6e90fb5f4df08587709a259647
+LSG Sbr.-Sulzbachtal,Weitsprungzone,Laura,Zukowski,2010,"3,46",W13,16.07.2023,Püttlingen,44,False,14b9cf61e4ea537b378045bcff29258e8a6528eaa33debd1fd6988d4adc7f1bc
+LA Team Saar,Weitsprungzone,Jana,Leovic,2010,"3,45",W13,16.07.2023,Püttlingen,45,False,380b45b1c45becfa5a0d2852da4ad855d93de84efbbfce1b48a85ae15bd37d39
+LA Team Saar,Weitsprungzone,Elisa,Rohnert,2010,"3,44",W13,04.06.2023,Püttlingen,46,False,fbfd0a24a21da8e7e1f32f4864776785d41700283688cdfea8ceed63389b9094
+LG Saar 70,Weitsprungzone,Luise,Flormann,2010,"3,41",W13,29.04.2023,St. Wendel,47,False,8028575e7a2fcbfbcafab6a08afd6c412f51a4a6de42c236005876cf7dca39bc
+LA Team Saar,Weitsprungzone,Pauline,Graf,2010,"3,32",W13,04.06.2023,Püttlingen,48,False,7ca15638c151b3bd116be09948655aa2566cd1078a1c58c3a2ef9b5af54ef5a2
+LG Saar 70,Weitsprungzone,Saskia,Kraiser,2010,"3,29",W13,29.04.2023,St. Wendel,49,False,b20099a0b1e9dc4e3260e1088da240a5b919b2b49df95c950f64c2780ce5499b
+LAC Saarlouis,Weitsprungzone,Neela,Heinrich,2010,"3,07",W13,08.06.2023,Saarlouis,50,False,c3f86b8884a89ea968bcd44d117ac6131da378d89c1611f71bf870fa89632ac5
 LA Team Saar,Kugelstoß 3 kg,Linn,Wagner,2010,"8,69",W13,16.07.2023,Püttlingen,1,False,bb32295335c834b1041ca3cc1b574f75ea6b701a21c59f96d0fac505a754f24a
 LC Rehlingen,Kugelstoß 3 kg,Jeanne,Dilzer,2010,"8,29",W13,08.10.2023,Überherrn,2,False,ad366bd77ac16b42c6b0b340abaafbbfee22f4eb64b74b5ecd6263f4ca4892b0
 LA Team Saar,Kugelstoß 3 kg,Annalena,Serf,2010,"7,78",W13,04.06.2023,Püttlingen,3,False,f1d8e8c46e071b6dff77875bb23f6bdf6d55f6541a4d064b1dde0fe8c906deb2
@@ -3901,13 +3901,14 @@ LG Saar 70,Weitsprung,Leo,Henri Niklas,2008,"4,09",M15,16.07.2023,Püttlingen,22
 LSG Sbr.-Sulzbachtal,Weitsprung,Max,Gräber,2008,"4,04",M15,02.10.2023,Saarbrücken,23,False,bb538c57d6af227296fe4e43b61220b9f8ade52faf55625c27ce422403814e5f
 SV GO! Saar 05,Dreisprung,Tim,Jungmann,2008,"11,60",M15,12.09.2023,Rehlingen,1,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
 LG Saar 70,Dreisprung,Leander,Loginoff,2008,"11,02",M15,22.09.2023,Ottweiler,2,False,66958717f9ec527038339c67f5c2ca7e210bc06a65e33382ece5de348b2d8e50
-LA Team Saar,Dreisprung,Timo,Leifheit,2008,"9,55",M15,24.09.2023,Püttlingen,3,False,ccaeb8fa738773af9213bb96d4e7ab75d8acb1ff7897a5f45e0524ef16314489
-LG Saar 70,Dreisprung,Jérémie,Behr,2008,"9,54",M15,03.06.2023,Püttlingen,4,False,b3a681b247c0410dee051425c91f5c78732a37e2e3657ac0965b56bb776dae28
-LG Saar 70,Dreisprung,Noah,Alexander Paul,2008,"9,52",M15,22.09.2023,Ottweiler,5,False,e581635f0386482f5f60c98865e4530e0213bf32a129d3424a356ee55e11c81c
-LG Saar 70,Dreisprung,Oliver,Mai,2008,"9,36",M15,03.06.2023,Püttlingen,6,False,02a17561622406e47d241c9ebfa4410ea5619db36084f03a306be7c79f734095
-LG Berus,Dreisprung,Konrad,Princi,2008,"8,94",M15,12.09.2023,Rehlingen,7,False,d9d4737c737673dc87c5205726c2c934a2afeff616b7c8ed898269be13eb9869
-LA Team Saar,Dreisprung,Mattia,Falgiatore,2008,"8,79",M15,24.09.2023,Püttlingen,8,False,8a93b216ce3fdc249d80930c7e68ceed531c74a6fa79e19fe70fd0d186d31e80
-LA Team Saar,Dreisprung,Finn,Gräber,2009,"7,94",M15,24.09.2023,Püttlingen,9,False,5798e66cce74571b0712428e22d455b9213ef8e1293596fc002e20d2ae9931ff
+LSG Sbr.-Sulzbachtal,Dreisprung,Niels,Jung,2009,"10,27",M15,22.09.2023,Ottweiler,3,False,8b94962487ed30b3b7eebb088c3502113c2b4bb3fcaef7f023e24cd3d75c0255
+LA Team Saar,Dreisprung,Timo,Leifheit,2008,"9,55",M15,24.09.2023,Püttlingen,4,False,ccaeb8fa738773af9213bb96d4e7ab75d8acb1ff7897a5f45e0524ef16314489
+LG Saar 70,Dreisprung,Jérémie,Behr,2008,"9,54",M15,03.06.2023,Püttlingen,5,False,b3a681b247c0410dee051425c91f5c78732a37e2e3657ac0965b56bb776dae28
+LG Saar 70,Dreisprung,Noah,Alexander Paul,2008,"9,52",M15,22.09.2023,Ottweiler,6,False,e581635f0386482f5f60c98865e4530e0213bf32a129d3424a356ee55e11c81c
+LG Saar 70,Dreisprung,Oliver,Mai,2008,"9,36",M15,03.06.2023,Püttlingen,7,False,02a17561622406e47d241c9ebfa4410ea5619db36084f03a306be7c79f734095
+LG Berus,Dreisprung,Konrad,Princi,2008,"8,94",M15,12.09.2023,Rehlingen,8,False,d9d4737c737673dc87c5205726c2c934a2afeff616b7c8ed898269be13eb9869
+LA Team Saar,Dreisprung,Mattia,Falgiatore,2008,"8,79",M15,24.09.2023,Püttlingen,9,False,8a93b216ce3fdc249d80930c7e68ceed531c74a6fa79e19fe70fd0d186d31e80
+LA Team Saar,Dreisprung,Finn,Gräber,2009,"7,94",M15,24.09.2023,Püttlingen,10,False,5798e66cce74571b0712428e22d455b9213ef8e1293596fc002e20d2ae9931ff
 SV GO! Saar 05,Kugelstoß 4 kg,Manuel,Bernabeu Walz,2008,"11,50",M15,16.07.2023,Püttlingen,1,False,b287302286811ca25d02f8e63ed64be7a459254aa7be2067baaa33416ff0438d
 LV Merzig,Kugelstoß 4 kg,Johannes,Michel,2008,"11,06",M15,08.10.2023,Überherrn,2,False,eea7f803e7aebd391d4319fded62402cff6a39f55c57c4320d8df829b90cf7af
 SV GO! Saar 05,Kugelstoß 4 kg,Tim,Jungmann,2008,"10,99",M15,24.09.2023,Friedrichsthal,3,False,7827b7dd0d829fe76226bdb9ecb53da75514ba4942f4e1f4699754d4a3dccd22
@@ -4937,7 +4938,7 @@ LSG Sbr.-Sulzbachtal,5 km Straße,Paula,John,2004,23:25,WU20,26.02.2023,St. Wend
 LC Rehlingen,5 km Straße,Maya,Beyer,2004,24:05,WU20,09.12.2023,Ottweiler,4,False,dcddeb8731d4d10dd279ac4c60c1039b68a3193bc72f2eec4fe47f5f791579b3
 LC Rehlingen,5 km Straße,Anna,Mehle,2004,24:05,WU20,09.12.2023,Ottweiler,5,False,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
 LSG Sbr.-Sulzbachtal,5 km Straße,Anna,Woll,2005,31:08,WU20,01.10.2023,Saarbrücken,6,False,3cdd0cfbb716bd0e111911331ea96a0dac49a4f0cb7aaa3a092b681b93101d54
-LC Rehlingen,10 km Straße,Hannah,Rödel,2004,37:45,WU20,10.09.2023,Bad Liebenzell,1,False,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
+LC Rehlingen,10 km Straße,Hannah,Rödel,2004,37:25,WU20,10.09.2023,Bad Liebenzell,1,False,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
 LC Rehlingen,10 km Straße Mannschaft,Hannah,Rödel,2004,2:07:42,WU20,10.09.2023,Bad Liebenzell,1,True,a3982178c54e48568e8dc1442a4decfe5efc0d99c1707459f5b5b9c50777de5a
 LC Rehlingen,10 km Straße Mannschaft,Emely,Krieger,2007,2:07:42,WU20,10.09.2023,Bad Liebenzell,1,True,58853390db74e5ebd465d1b801af8589e19d43fc295f0f21a4390c17e5f203de
 LC Rehlingen,10 km Straße Mannschaft,Emma,Nickels,2005,2:07:42,WU20,10.09.2023,Bad Liebenzell,1,True,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
@@ -4953,22 +4954,18 @@ SV GO! Saar 05,4x100 m Staffel,Jule,Hanni Korter,2007,"48,86",WU20,04.06.2023,P�
 SV GO! Saar 05,4x100 m Staffel,Luisa,Jose,2007,"48,86",WU20,04.06.2023,Püttlingen,1,True,ff1098eb6f11a081a298bbbddbe0f55aa2159796a59f8ebb356ac2ebc638982f
 SV GO! Saar 05,4x100 m Staffel,Friederike,Albersdörfer,2008,"48,86",WU20,04.06.2023,Püttlingen,1,True,2afb51be5ae7f8f93ba0ea64f0518f56f42c7105477b068bab845d26081f8a45
 SV GO! Saar 05,4x100 m Staffel,Alina,Schmitt,2004,"48,86",WU20,04.06.2023,Püttlingen,1,True,d8fc6fda2e495b45231d73a0b22d2692a58a7db244db8e93f7408d2019d86fc7
-TV St. Wendel,4x100 m Staffel,Chiara,Rein,2006,"52,90",WU20,22.09.2023,Ottweiler,2,True,1d0df51b910fd55f8c78ca43ba6f3b12783c89f307d63add7384ec9b42939a93
-TV St. Wendel,4x100 m Staffel,Pauline,Rörsch,2008,"52,90",WU20,22.09.2023,Ottweiler,2,True,261930de4496091cb17adea7467c88e1cc0a3219be548296febb0abdb67dda15
-TV St. Wendel,4x100 m Staffel,Katrin,Knabl,2005,"52,90",WU20,22.09.2023,Ottweiler,2,True,a1785d957c7a401868af005f56a09df901ea173ed7d4455d95788375c5ac7d82
-TV St. Wendel,4x100 m Staffel,Ann-Kathrin,Berwanger,2006,"52,90",WU20,22.09.2023,Ottweiler,2,True,ebf2c1e8f569ba223bbf710d4a4cf14a23a07609d65bb299a9be2eb0d547394d
+TV St. Wendel,4x100 m Staffel,Chiara,Rein,2006,"52,13",WU20,11.06.2023,Rehlingen,2,True,1d0df51b910fd55f8c78ca43ba6f3b12783c89f307d63add7384ec9b42939a93
+TV St. Wendel,4x100 m Staffel,Pauline,Rörsch,2008,"52,13",WU20,11.06.2023,Rehlingen,2,True,261930de4496091cb17adea7467c88e1cc0a3219be548296febb0abdb67dda15
+TV St. Wendel,4x100 m Staffel,Ellen,Holzhüter,2005,"52,13",WU20,11.06.2023,Rehlingen,2,True,d69ab023ce4cba66f7a5a5beb1dfa4d50a3bd52aad28d2710e79a24284c05750
+TV St. Wendel,4x100 m Staffel,Ann-Kathrin,Berwanger,2006,"52,13",WU20,11.06.2023,Rehlingen,2,True,ebf2c1e8f569ba223bbf710d4a4cf14a23a07609d65bb299a9be2eb0d547394d
 LC Rehlingen,4x100 m Staffel,Katharina,Mehle,2004,"54,13",WU20,12.09.2023,Rehlingen,3,True,e955ad29a810969a21408aea776123513e3e846cfe6d8b4119bec0aab51d07ba
 LC Rehlingen,4x100 m Staffel,Frieda,Schulz,2006,"54,13",WU20,12.09.2023,Rehlingen,3,True,c6d8a59f9e788e0e2102fe839ef5949394ec0684569c614e43c54e361341e2a2
 LC Rehlingen,4x100 m Staffel,Anna,Mehle,2004,"54,13",WU20,12.09.2023,Rehlingen,3,True,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
 LC Rehlingen,4x100 m Staffel,Michelle,Schumacher,2007,"54,13",WU20,12.09.2023,Rehlingen,3,True,5b6cb22867ee8e60b2886fa219bb0ac8f7203db01bd3280d331b3c8f10d0f8e2
-LC Rehlingen,4x100 m Staffel,Johanna,Kolz,2009,"56,04",WU20,12.09.2023,Rehlingen,4,True,2ae8f5d6c099f71baabfe61658082e46ba6fdc8bb1e3e5e28323c59ee339725d
-LC Rehlingen,4x100 m Staffel,Liara,Schulze,2009,"56,04",WU20,12.09.2023,Rehlingen,4,True,61e2a21059155c1d7a01c2fc197ed38b90ef7ec381cd5d4ecc9eda8ba44f3d29
-LC Rehlingen,4x100 m Staffel,Helena,Broßette,2009,"56,04",WU20,12.09.2023,Rehlingen,4,True,061bb34513ae2dfdb580b7d5f56722a1381e39b3fd995e978aafc932a47e86b7
-LC Rehlingen,4x100 m Staffel,Mathilda,Klein,2008,"56,04",WU20,12.09.2023,Rehlingen,4,True,b267e1e2c019c8c665a2ad48ff963455590b37a81f2efba9f814238e036c338f
-LG Berus,4x100 m Staffel,Viviana,Criscenzo,2004,"59,25",WU20,12.09.2023,Rehlingen,5,True,d968f64a3602d7152adac33eda6fbcb7df0cbd92cd6846536afef82ecd1045e6
-LG Berus,4x100 m Staffel,Jade,Hoarau,2008,"59,25",WU20,12.09.2023,Rehlingen,5,True,98a42453c75c20b4534b5c8c03c6d085e64ecfbbe6aadddbf9d007e63bdebab7
-LG Berus,4x100 m Staffel,Anna,Gräber,2008,"59,25",WU20,12.09.2023,Rehlingen,5,True,053b324ecc9764dfd3eaedb1f41b5a2183cf81a1adfeb8d43eeb930155737f55
-LG Berus,4x100 m Staffel,Lara,Sophie Kipp,2008,"59,25",WU20,12.09.2023,Rehlingen,5,True,4a43405fb37edf7ad90fe9e7978ed6b1b5ea8e6824c101e92294cf14cc898ea7
+LG Berus,4x100 m Staffel,Viviana,Criscenzo,2004,"59,25",WU20,12.09.2023,Rehlingen,4,True,d968f64a3602d7152adac33eda6fbcb7df0cbd92cd6846536afef82ecd1045e6
+LG Berus,4x100 m Staffel,Jade,Hoarau,2008,"59,25",WU20,12.09.2023,Rehlingen,4,True,98a42453c75c20b4534b5c8c03c6d085e64ecfbbe6aadddbf9d007e63bdebab7
+LG Berus,4x100 m Staffel,Anna,Gräber,2008,"59,25",WU20,12.09.2023,Rehlingen,4,True,053b324ecc9764dfd3eaedb1f41b5a2183cf81a1adfeb8d43eeb930155737f55
+LG Berus,4x100 m Staffel,Lara,Sophie Kipp,2008,"59,25",WU20,12.09.2023,Rehlingen,4,True,4a43405fb37edf7ad90fe9e7978ed6b1b5ea8e6824c101e92294cf14cc898ea7
 LC Rehlingen,3x800 m Staffel,Emma,Nickels,2005,"8:09,29",WU20,08.06.2023,Saarlouis,1,True,4bb31fc5df0745337e319fa5acb3f8e699f9e8390563ce78854f3149ae556c62
 LC Rehlingen,3x800 m Staffel,Maya,Beyer,2004,"8:09,29",WU20,08.06.2023,Saarlouis,1,True,dcddeb8731d4d10dd279ac4c60c1039b68a3193bc72f2eec4fe47f5f791579b3
 LC Rehlingen,3x800 m Staffel,Anna,Mehle,2004,"8:09,29",WU20,08.06.2023,Saarlouis,1,True,3c1cd21edfd2912b2753b0376dc583064dc3cf06c732d347b1f557c3781f330a
@@ -5200,7 +5197,7 @@ LC Rehlingen,3x800 m Staffel,Jonas,Hoffmann,2010,"8:22,15",M13,01.07.2023,Püttl
 LG Berus,3x800 m Staffel,David,Zeller,2011,"8:24,01",M13,01.07.2023,Püttlingen,2,True,9066e6435c126e339a9acbf47849cf913e97ae907dc664ea884c836fa9b61fdb
 LG Berus,3x800 m Staffel,Paul,Gozemba,2010,"8:24,01",M13,01.07.2023,Püttlingen,2,True,97633a06f7680f76cff8b647812f04f39b324b70a26f413d7917f8b3cf9867d6
 LG Berus,3x800 m Staffel,Clement,Berton,2011,"8:24,01",M13,01.07.2023,Püttlingen,2,True,b2ef6295a1cdb2307c9a0ffdd0a3dd7b2601e4780b61aee1b5013ab16651d7ec
-LSG Sbr.-Sulzbachtal,3x800 m Staffel,R.,John,2012,"8:32,40",M13,14.09.2023,Sulzbach,3,True,6a32d31e874bbc181a42b6ebe83eee7098a12ec15975d92f3d94605e82ca6712
+LSG Sbr.-Sulzbachtal,3x800 m Staffel,Juri,Grundhöfer,2012,"8:32,40",M13,14.09.2023,Sulzbach,3,True,60705780331a196b5deacbb83725d5c7cf1c9efe47fb3d0d0e31cac9aca12cbf
 LSG Sbr.-Sulzbachtal,3x800 m Staffel,Paul,Rupp,2012,"8:32,40",M13,14.09.2023,Sulzbach,3,True,e8a2a6f43892c6dcb1df57f3964b8c05bb95c0ea8085dde8f48aacee58ff2948
 LSG Sbr.-Sulzbachtal,3x800 m Staffel,Cedric,Wenzelburger,2011,"8:32,40",M13,14.09.2023,Sulzbach,3,True,fd8ef77137c04c7e5e3ad7bc57ebabf3947e322fb2cc8aced43707db9936f969
 LA Team Saar,3x800 m Staffel,Paul,Hübschen,2010,"8:59,51",M13,14.09.2023,Sulzbach,4,True,16ce70c97d712ebedbbe0717c6a159c0ee335de741b5c9e6ef5d246ecd4e18f7
